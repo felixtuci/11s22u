@@ -2729,6 +2729,10 @@ http://93.157.62.180/Supersport4/index.m3u8
 http://93.157.62.180/Supersport5/index.m3u8
 #EXTINF:-1,SuperSport 6 HD illy
 http://93.157.62.180/Supersport6/index.m3u8
+#EXTINF:-1,Tring Sport 1 HD illy
+http://93.157.62.180/TringSport1HD/index.m3u8
+#EXTINF:-1,Tring Sport 2 HD illy
+http://93.157.62.180/TringSport2HD/index.m3u8
 #EXTINF:-1,SUPERSPORT 1 HD 
 https://rebrand.ly/Shqipss1
 #EXTINF:-1,SUPERSPORT 2 HD 
