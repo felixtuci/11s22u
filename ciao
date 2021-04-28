@@ -2718,21 +2718,30 @@ http://portal.geniptv.com:8080/gTex2021_new/feew3erw3ref3AZA/1161
 
 #EXTINF:-1   group-title="-IPTV SPORT 2-",
 #EXTINF:-1,SuperSport 1 HD illy
-http://93.157.62.180/Supersport1/index.m3u8
+http://93.157.62.180/Supersport1/mpegts
 #EXTINF:-1,SuperSport 2 HD illy
-http://93.157.62.180/Supersport2/index.m3u8
+http://93.157.62.180/Supersport2/mpegts
 #EXTINF:-1,SuperSport 3 HD illy
-http://93.157.62.180/Supersport3/index.m3u8
+http://93.157.62.180/Supersport3/mpegts
 #EXTINF:-1,SuperSport 4 HD illy
-http://93.157.62.180/Supersport4/index.m3u8
+http://93.157.62.180/Supersport4/mpegts
 #EXTINF:-1,SuperSport 5 HD illy
-http://93.157.62.180/Supersport5/index.m3u8
+http://93.157.62.180/Supersport5/mpegts
 #EXTINF:-1,SuperSport 6 HD illy
-http://93.157.62.180/Supersport6/index.m3u8
+http://93.157.62.180/Supersport6/mpegts
 #EXTINF:-1,Tring Sport 1 HD illy
-http://93.157.62.180/TringSport1HD/index.m3u8
+http://93.157.62.180/TringSport1HD/mpegts
 #EXTINF:-1,Tring Sport 2 HD illy
-http://93.157.62.180/TringSport2HD/index.m3u8
+http://93.157.62.180/TringSport2HD/mpegts
+#EXTINF:-1,Kujtesa Sport 1 illy
+http://93.157.62.180/KSport1/mpegts
+#EXTINF:-1,Kujtesa Sport 2 illy
+http://93.157.62.180/KSport2/mpegts
+#EXTINF:-1,Kujtesa Sport 3 illy
+http://93.157.62.180/KSport3/mpegts
+#EXTINF:-1,Kujtesa Sport 4 illy
+http://93.157.62.180/KSport4/mpegts
+
 #EXTINF:-1,SUPERSPORT 1 HD 
 https://rebrand.ly/Shqipss1
 #EXTINF:-1,SUPERSPORT 2 HD 
