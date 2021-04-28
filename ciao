@@ -10,7 +10,8 @@ http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1299
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1853
 #EXTINF:-1,AL: Klan HD MOB
 http://51.195.88.12:4050/live/klanhdott/playlist.m3u8
-
+#EXTINF:-1,Klan TV iLLY
+http://93.157.62.180/TVKlanHD/index.m3u8
 
 #EXTINF:-1,AL: Klan Plus FHD
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/2562
@@ -2716,6 +2717,18 @@ http://portal.geniptv.com:8080/gTex2021_new/feew3erw3ref3AZA/1364
 http://portal.geniptv.com:8080/gTex2021_new/feew3erw3ref3AZA/1161
 
 #EXTINF:-1   group-title="-IPTV SPORT 2-",
+#EXTINF:-1,SuperSport 1 HD illy
+http://93.157.62.180/Supersport1/index.m3u8
+#EXTINF:-1,SuperSport 2 HD illy
+http://93.157.62.180/Supersport2/index.m3u8
+#EXTINF:-1,SuperSport 3 HD illy
+http://93.157.62.180/Supersport3/index.m3u8
+#EXTINF:-1,SuperSport 4 HD illy
+http://93.157.62.180/Supersport4/index.m3u8
+#EXTINF:-1,SuperSport 5 HD illy
+http://93.157.62.180/Supersport5/index.m3u8
+#EXTINF:-1,SuperSport 6 HD illy
+http://93.157.62.180/Supersport6/index.m3u8
 #EXTINF:-1,SUPERSPORT 1 HD 
 https://rebrand.ly/Shqipss1
 #EXTINF:-1,SUPERSPORT 2 HD 
