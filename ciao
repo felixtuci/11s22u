@@ -4,6 +4,8 @@ http://93.157.62.180/TopChannel/index.m3u8
 
 #EXTINF:-1,AL: TOP Channel FHD
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1311
+#EXTINF:-1,Vizion Plus ILLY
+http://93.157.62.180/VizionPlus/index.m3u8
 #EXTINF:-1,AL: VIZION PLUS FHD
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1299
 #EXTINF:-1,AL: Klan FHD
@@ -78,7 +80,8 @@ http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/2551
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/45002
 #EXTINF:-1,Syri TV MOB
 http://51.195.88.12:4050/live/syritvott/playlist.m3u8
-
+#EXTINF:-1,Ora TV ILLY
+http://93.157.62.180/RTVOra/index.m3u8
 #EXTINF:-1,AL: RTV Ora HD
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/193723
 #EXTINF:-1,AL: TV1 Shkodër
