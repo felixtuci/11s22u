@@ -17,8 +17,8 @@ http://93.157.62.180/TVKlanHD/index.m3u8
 
 #EXTINF:-1,AL: Klan Plus FHD
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/2562
-#EXTINF:-1,AL: MCN TV MOB
-http://51.195.88.12:4050/live/mcnpp1/playlist.m3u8
+#EXTINF:-1,AL: MCN TV WEB
+http://edge01eu.ekranet.com/tematv_234p/index.m3u8
 
 #EXTINF:-1,AL: RTSH 1 FHD
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/4123
