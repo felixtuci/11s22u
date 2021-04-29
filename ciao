@@ -66,7 +66,8 @@ http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/198841
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/198840
 #EXTINF:-1,AL: TV Presheva
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/166474
-
+#EXTINF:-1,AL: Prizreni TV
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/264835
 #EXTINF:-1,News 24 MOB
 http://51.195.88.12:4050/live/news24ott/playlist.m3u8
 #EXTINF:-1,AL: News 24 FHD
@@ -78,13 +79,12 @@ http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/45002
 #EXTINF:-1,Syri TV MOB
 http://51.195.88.12:4050/live/syritvott/playlist.m3u8
 
-
-
 #EXTINF:-1,AL: RTV Ora HD
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/193723
 #EXTINF:-1,AL: TV1 Shkodër
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/188076
-
+#EXTINF:-1,AL: Star+ Shkodra
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/23703
 #EXTINF:-1,AL: Super Sport 1 FHD
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1316
 #EXTINF:-1,AL: Super Sport 2 FHD
@@ -187,6 +187,8 @@ http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/264854
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/247865
 #EXTINF:-1,AL: TELE one Fantazi HD
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/247863
+#EXTINF:-1,AL: TELE one Film Thriller HD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278589
 #EXTINF:-1,AL: TELE one GOLD Collection HD
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/247862
 #EXTINF:-1,AL: TELE one Thriller HD
@@ -201,6 +203,8 @@ http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/247858
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/247859
 #EXTINF:-1,AL: MAX premier 4 HD
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/247860
+#EXTINF:-1,AL: Kinema 1
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/267699
 #EXTINF:-1,AL: Kinema 17 N HD
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/266387
 #EXTINF:-1,AL: Kinema Agimi HD
@@ -229,21 +233,50 @@ http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/247870
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/247871
 #EXTINF:-1,AL: Kinema24 6 HD
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/247872
+#EXTINF:-1,AL: Kinema24 Action HD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278579
+#EXTINF:-1,AL: Kinema24 Comedy HD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278580
+#EXTINF:-1,AL: Kinema24 drama HD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278578
+#EXTINF:-1,AL: Kinema24 thriller HD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278581
 #EXTINF:-1,AL: KINO PREMIERE 2 HD
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278199
 #EXTINF:-1,AL: Kino Premiere 3 HD
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278200
-#EXTINF:-1,AL: KS THRILLER HD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/198667
 #EXTINF:-1,AL: KS COMEDY
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/23793
 #EXTINF:-1,AL: KS Drama HD
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/173471
-#EXTINF:-1,AL: KS Filma24 Family
+#EXTINF:-1,AL: KS THRILLER HD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/198667
+#EXTINF:-1,AL: KS Filma24 Famiy
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278247
 #EXTINF:-1,AL: KS Filma24 Premiere
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278255
-
+#EXTINF:-1,AL: KS Kids HD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/151740
+#EXTINF:-1,AL: KS POPULLORE HD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/30180
+#EXTINF:-1,AL: KS SHQIP
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/173477
+#EXTINF:-1,AL: B Gold 1 HD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/188234
+#EXTINF:-1,AL: B GOLD 2 HD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/12458
+#EXTINF:-1,AL: B Gold 3 4K
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/188236
+#EXTINF:-1,AL: B Aksion HD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/188231
+#EXTINF:-1,AL: B Film Shqip
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278577
+#EXTINF:-1,AL: B Filma Turke HD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/188233
+#EXTINF:-1,AL: B Hindi
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/188238
+#EXTINF:-1,AL: B Gold 4 HD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/188237
 #EXTINF:-1,AL: LionTV Gold 1 HD
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/267048
 #EXTINF:-1,AL: LionTV Gold 2 HD
@@ -254,22 +287,14 @@ http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/267050
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/231424
 #EXTINF:-1,AL: Plisi Fantazi HD
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/231429
-
-#EXTINF:-1,AL: Falcon Cinema Adventure HD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/225130
-#EXTINF:-1,AL: Falcon Cinema Aktion FHD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/225127
-#EXTINF:-1,AL: Falcon Cinema Comedy FHD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/225125
-#EXTINF:-1,AL: Falcon Cinema Gold HD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/225122
-#EXTINF:-1,AL: Falcon Cinema Romance HD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/225128
-#EXTINF:-1,AL: Falcon Cinema sci-fi FHD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/225123
-
-#EXTINF:-1,AL: EB Collection Rambo FHD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/276675
+#EXTINF:-1,AL: 8ova Drame HD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/263766
+#EXTINF:-1,AL: 8ova Komedi HD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/263767
+#EXTINF:-1,AL: 8ova Action HD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/263764
+#EXTINF:-1,AL: 8ova Thriller HD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/263765
 #EXTINF:-1,AL: X Romance HD
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157409
 #EXTINF:-1,AL: X scyfy HD
@@ -300,7 +325,18 @@ http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/5132
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/273958
 #EXTINF:-1,AL: FOX Movies FHD
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/4056
-
+#EXTINF:-1,AL: Sky Star HD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/120818
+#EXTINF:-1,AL: SKY AKSION FHD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278151
+#EXTINF:-1,AL: SKY COMEDI
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/26126
+#EXTINF:-1,AL: Sky Drame FHD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/58347
+#EXTINF:-1,AL: Sky Max FHD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/26127
+#EXTINF:-1,AL: Sky Novela
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/16496
 #EXTINF:-1,I Love Tropoja HD
 https://bit.ly/ilovetropojaaa
 #EXTINF:-1,I Love Tropoja HD opsion 
@@ -374,6 +410,8 @@ http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1309
 #EXTINF:-1,AL TRING LIFE
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/273548
 
+#EXTINF:-1,AL: Prince Kids HD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/44949
 #EXTINF:-1,AL: Tring Tring 
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1302
 #EXTINF:-1,AL: Tip TV 
@@ -395,6 +433,10 @@ http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/5146
 #EXTINF:-1,AL: Tom & Jerry FHD
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/15543
 
+#EXTINF:-1,AL: TV SHARRI HD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/12416
+#EXTINF:-1,AL: E Mirë Shqiptare HD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/166506
 #EXTINF:-1,AL: RTV 21 Plus FHD
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/2549
 #EXTINF:-1,AL: RTV 21 Popullore FHD
