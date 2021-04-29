@@ -459,6 +459,18 @@ http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/188251
 http://supertv.xyz:8080/101/101/8727
 #EXTINF:-1,TOP Channel FHD
 http://supertv.xyz:8080/101/101/8728
+#EXTINF:-1,Klan TV
+http://supertv.xyz:8080/101/101/8745
+#EXTINF:-1,Klan TV HD
+http://supertv.xyz:8080/101/101/8746
+#EXTINF:-1,KLan Plus
+http://supertv.xyz:8080/101/101/8747
+#EXTINF:-1,Klan Plus HD
+http://supertv.xyz:8080/101/101/8748
+#EXTINF:-1,Vizion Plus HD
+http://supertv.xyz:8080/101/101/8749
+#EXTINF:-1,Vizion Plus 
+http://supertv.xyz:8080/101/101/8750
 #EXTINF:-1,RTK 1 HD
 http://supertv.xyz:8080/101/101/8714
 #EXTINF:-1,RTK 1 FHD
@@ -513,18 +525,7 @@ http://supertv.xyz:8080/101/101/8742
 http://supertv.xyz:8080/101/101/8743
 #EXTINF:-1,Klan Macedonia HD
 http://supertv.xyz:8080/101/101/8744
-#EXTINF:-1,Klan TV
-http://supertv.xyz:8080/101/101/8745
-#EXTINF:-1,Klan TV HD
-http://supertv.xyz:8080/101/101/8746
-#EXTINF:-1,KLan Plus
-http://supertv.xyz:8080/101/101/8747
-#EXTINF:-1,Klan Plus HD
-http://supertv.xyz:8080/101/101/8748
-#EXTINF:-1,Vizion Plus HD
-http://supertv.xyz:8080/101/101/8749
-#EXTINF:-1,Vizion Plus 
-http://supertv.xyz:8080/101/101/8750
+
 #EXTINF:-1,TDC Serial FHD
 http://supertv.xyz:8080/101/101/8751
 #EXTINF:-1,T7 HD
