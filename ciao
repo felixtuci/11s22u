@@ -2809,7 +2809,14 @@ https://rebrand.ly/Shqipks3
 #EXTINF:-1,KUJTESA SPORT 4 HD
 https://rebrand.ly/Shqipks4
 
-
+#EXTINF:-1,SKY SPORT F1 HD epic
+http://superior44.cz/SkySportsF1/video.m3u8?token=test
+#EXTINF:-1,SKY SPORT UNO HD epic
+http://superior44.cz/SkySports1/video.m3u8?token=test
+#EXTINF:-1,SKY SPORT FOOTBALL HD epic
+http://superior44.cz/SkySports3/video.m3u8?token=test
+#EXTINF:-1,SKY SPORT SERIE A HD epic
+http://superior44.cz/SkySportSerieAHD/video.m3u8?token=test
 
 #EXTINF:-1,CANAL SPORT 1
 http://173.193.195.138:8152/s/cplussphd/index.m3u8
