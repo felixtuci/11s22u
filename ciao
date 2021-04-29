@@ -2808,7 +2808,8 @@ https://rebrand.ly/Shqipks2
 https://rebrand.ly/Shqipks3
 #EXTINF:-1,KUJTESA SPORT 4 HD
 https://rebrand.ly/Shqipks4
-
+#EXTINF:-1,DAZN SPORT F1 HD epic
+http://v4.epiciptv.com:2000/Canal.Formula1/video.m3u8?token=test
 #EXTINF:-1,SKY SPORT F1 HD epic
 http://superior44.cz/SkySportsF1/video.m3u8?token=test
 #EXTINF:-1,SKY SPORT UNO HD epic
@@ -2817,11 +2818,42 @@ http://superior44.cz/SkySports1/video.m3u8?token=test
 http://superior44.cz/SkySports3/video.m3u8?token=test
 #EXTINF:-1,SKY SPORT SERIE A HD epic
 http://superior44.cz/SkySportSerieAHD/video.m3u8?token=test
-
+#EXTINF:-1,BEIN SPORT 1 HD epic
+http://superior44.cz/BeinSport1A/video.m3u8?token=test
+#EXTINF:-1,BEIN SPORT 2 HD epic
+http://superior44.cz/BeinSport2A/video.m3u8?token=test
+#EXTINF:-1,BEIN SPORT 3 HD epic
+http://superior44.cz/BeinSport3A/video.m3u8?token=test
+#EXTINF:-1,BEIN SPORT 4 HD epic
+http://superior44.cz/BeinSport4A/video.m3u8?token=test
+#EXTINF:-1,BEIN SPORT 5 HD epic
+http://superior44.cz/BeinSport5A/video.m3u8?token=test
+#EXTINF:-1,BEIN SPORT 6 HD epic
+http://superior44.cz/BeinSport6A/video.m3u8?token=test
+#EXTINF:-1,BEIN SPORT 7 HD epic
+http://superior44.cz/BeinSport7A/video.m3u8?token=test
+#EXTINF:-1,BEIN SPORT 8 HD epic
+http://superior44.cz/BeinSport8A/video.m3u8?token=test
+#EXTINF:-1,Eleven Sports 1 HD epic
+http://vs7.epiciptv.com:2000/ElevenSports1/video.m3u8?token=test
+#EXTINF:-1,Eleven Sports 2 HD epic
+http://vs7.epiciptv.com:2000/ElevenSports2/video.m3u8?token=test
+#EXTINF:-1,Eleven Sports 3 HD epic
+http://vs7.epiciptv.com:2000/ElevenSports3/video.m3u8?token=test
+#EXTINF:-1,Eleven Sports 4 HD epic
+http://vs7.epiciptv.com:2000/ElevenSports4/video.m3u8?token=test
+#EXTINF:-1,Eleven Sports 5 HD epic
+http://vs7.epiciptv.com:2000/ElevenSports5/video.m3u8?token=test
+#EXTINF:-1,Eleven Sports 6 HD epic
+http://vs7.epiciptv.com:2000/ElevenSports6/video.m3u8?token=test
 #EXTINF:-1,CANAL SPORT 1
 http://173.193.195.138:8152/s/cplussphd/index.m3u8
 #EXTINF:-1,CANAL SPORT 2
 http://173.193.195.138:8152/cplussp2hd/index.m3u8
+
+
+
+
 
 #EXTINF:-1,ALB: Super Sport 1 HD
 http://ip.xtremetv.eu:8000/tomasarana/cHPqCGKQga/41710
