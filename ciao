@@ -6326,12 +6326,52 @@ http://supremo-discovery.xyz:8000/UNIeeSUXcq/DRDCCBCE/9671
 #EXTINF:-1,Rai 1 HD epic
 http://it.epiciptv.com:2000/Rai1HD/video.m3u8?token=test
 #EXTINF:-1,RAI 2 HD epic
-http://it.epiciptv.com:2000/Rai2HD/video.m3u8?token=
+http://it.epiciptv.com:2000/Rai2HD/video.m3u8?token=test
+#EXTINF:-1,RAI 4 HD epic
+http://it.epiciptv.com:2000/Rai4HD/video.m3u8?token=test
 #EXTINF:-1,Italia 1 HD epic
 http://it.epiciptv.com:2000/Italia1HDMediaset/video.m3u8?token=test
 #EXTINF:-1,Canale 5 HD epic
 http://it.epiciptv.com:2000/Canale5HD/video.m3u8?token=test
+#EXTINF:-1,Rete 4 HD epic
+http://it.epiciptv.com:2000/Rete4/video.m3u8?token=test
+#EXTINF:-1,Mediaset 20 HD epic
+http://it.epiciptv.com:2000/MediasetIrisHD/video.m3u8?token=test
+#EXTINF:-1,La 7 HD epic
+http://it.epiciptv.com:2000/La_7/video.m3u8?token=test
+#EXTINF:-1,TV 8 HD epic
+http://it.epiciptv.com:2000/Tv_8_FHD/video.m3u8?token=test
+#EXTINF:-1,Rsi La 1 HD epic
+http://it.epiciptv.com:2000/RSILA1/video.m3u8?token=test
+#EXTINF:-1,Rsi La 2 HD epic
+http://it.epiciptv.com:2000/RSILA2/video.m3u8?token=test
+#EXTINF:-1,Sky Cinema Uno 24 HD epic
+http://superior44.cz/TSN(TeleSondrioNews)/video.m3u8?token=test
+#EXTINF:-1,Sky Cinema Due HD epic
+http://superior44.cz/SKYCinemaDueHD/video.m3u8?token=test
+#EXTINF:-1,Sky Cinema Comedy HD epic
+http://superior44.cz/SkyCinemaComedyHD/video.m3u8?token=test
 
+#EXTINF:-1,Primafila 1 HD epic
+http://superior44.cz/SKY_PRIMAFILA_IT_1/video.m3u8?token=test
+#EXTINF:-1,Primafila 2 HD epic
+http://superior44.cz/SKY_PRIMAFILA_IT_2/video.m3u8?token=test
+#EXTINF:-1,Primafila 3 HD epic
+http://superior44.cz/SKY_PRIMAFILA_IT_3/video.m3u8?token=test
+#EXTINF:-1,Primafila 4 HD epic
+http://superior44.cz/SKY_PRIMAFILA_IT_4/video.m3u8?token=test
+#EXTINF:-1,Primafila 5 HD epic
+http://superior44.cz/SKY_PRIMAFILA_IT_5/video.m3u8?token=test
+#EXTINF:-1,Primafila 6 HD epic
+http://superior44.cz/SKY_PRIMAFILA_IT_6/video.m3u8?token=test
+#EXTINF:-1,Primafila 7 HD epic
+http://superior44.cz/SKY_PRIMAFILA_IT_7/video.m3u8?token=test
+#EXTINF:-1,Primafila 8 HD epic
+http://superior44.cz/SKY_PRIMAFILA_IT_8/video.m3u8?token=test
+#EXTINF:-1,Primafila 9 HD epic
+http://superior44.cz/SKY_PRIMAFILA_IT_9/video.m3u8?token=test
+#EXTINF:-1,Primafila 10 HD epic
+http://superior44.cz/SKY_PRIMAFILA_IT_10/video.m3u8?token=test
 
 #EXTINF:-1,Rai 1 FHD
 http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8626
