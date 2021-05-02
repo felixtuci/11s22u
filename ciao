@@ -6323,406 +6323,1173 @@ http://supremo-discovery.xyz:8000/UNIeeSUXcq/DRDCCBCE/9671
 
 
 #EXTINF:-1   group-title="-IPTV ITALIA 4- ",
-#EXTINF:-1,Rai1 HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/2
-#EXTINF:-1,Rai2 HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/3
-#EXTINF:-1,Rai3 HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/4
-#EXTINF:-1,Rete 4 HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/5
-#EXTINF:-1,Canale 5 HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/6
-#EXTINF:-1,Italia 1 HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/7
-#EXTINF:-1,La7
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/8
-#EXTINF:-1,La7d
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/9
-#EXTINF:-1,TV8
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/10
-#EXTINF:-1,Comedy Central HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/11
-#EXTINF:-1,Blaze HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/13
-#EXTINF:-1,Focus
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/15
-#EXTINF:-1,Giallo
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/20
-#EXTINF:-1,Nove HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/16
-#EXTINF:-1,La5
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/18
-#EXTINF:-1,Iris
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/19
-#EXTINF:-1,TV2000
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/404
-#EXTINF:-1,Rai 4
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/17
-#EXTINF:-1,Rai 5
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/21
-#EXTINF:-1,Rai Movie
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/22
-#EXTINF:-1,Rai Scuola
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/24
-#EXTINF:-1,Rai Premium
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/23
-#EXTINF:-1,Rai Storia
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/29
-#EXTINF:-1,Rai Sport 1 HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/28
-#EXTINF:-1,RSI LA 1 HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/27
-#EXTINF:-1,RSI LA 2 HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/30
+#EXTINF:-1,Rai 1 HD epic
+http://it.epiciptv.com:2000/Rai1HD/video.m3u8?token=test
+#EXTINF:-1,RAI 2 HD epic
+http://it.epiciptv.com:2000/Rai2HD/video.m3u8?token=
+#EXTINF:-1,Italia 1 HD epic
+http://it.epiciptv.com:2000/Italia1HDMediaset/video.m3u8?token=test
+#EXTINF:-1,Canale 5 HD epic
+http://it.epiciptv.com:2000/Canale5HD/video.m3u8?token=test
 
-#EXTINF:-1,Grande Fratello Diretta 1
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/378
-#EXTINF:-1,Grande Fratello Diretta 2
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/379
-#EXTINF:-1,Sky Uno Full HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/26
-#EXTINF:-1,Sky Uno HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/25
-#EXTINF:-1,Sky Atlantic SUPER HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/31
-#EXTINF:-1,Sky Atlantic HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/39
-#EXTINF:-1,Fox HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/33
-#EXTINF:-1,Fox Crime HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/34
-#EXTINF:-1,Crime Inv HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/35
-#EXTINF:-1,Laeffe
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/36
-#EXTINF:-1,Cielo HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/37
-#EXTINF:-1,Realtime HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/38
+
+#EXTINF:-1,Rai 1 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8626
+#EXTINF:-1,RAI 2 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8627
+#EXTINF:-1,RAI 3 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8628
+#EXTINF:-1,RETE 4 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8629
+#EXTINF:-1,Canale 5 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8630
+#EXTINF:-1,Italia 1 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8631
+#EXTINF:-1,La 7 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8632
+#EXTINF:-1,LA 7d FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8633
+#EXTINF:-1,TV8 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8634
+#EXTINF:-1,Nove FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8635
+#EXTINF:-1,Cielo FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8636
+#EXTINF:-1,20 Mediaset FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8637
+#EXTINF:-1,Giallo FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8638
+#EXTINF:-1,RAI 4 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8639
+#EXTINF:-1,RAI 5 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8640
+#EXTINF:-1,RAI Movie FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8641
+#EXTINF:-1,RAI Premium FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8642
+#EXTINF:-1,RAI Scuola FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8643
+#EXTINF:-1,RAI Storia FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8644
+#EXTINF:-1,Real Time FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8645
+#EXTINF:-1,DMAX FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8646
+#EXTINF:-1,Food Network FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8647
+#EXTINF:-1,RSI LA 1 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8648
+#EXTINF:-1,RSI LA 2 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8649
+#EXTINF:-1,Motor Trend FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8650
+
+#EXTINF:-1,RAI 1 H265
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8652
+#EXTINF:-1,RAI 1 HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8653
+#EXTINF:-1,RAI 1 SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8654
+#EXTINF:-1,RAI 2 H265
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8655
+#EXTINF:-1,RAI 2 HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8656
+#EXTINF:-1,RAI 2 SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8657
+#EXTINF:-1,RAI 3 H265
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8658
+#EXTINF:-1,RAI 3 HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8659
+#EXTINF:-1,RAI 3 SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8660
+#EXTINF:-1,RETE 4 H265
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8661
+#EXTINF:-1,RETE 4 HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8662
+#EXTINF:-1,RETE 4 SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8663
+#EXTINF:-1,CANALE 5 H265
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8664
+#EXTINF:-1,CANALE 5 HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8665
+#EXTINF:-1,CANALE 5 SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8666
+#EXTINF:-1,ITALIA 1 H265
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8667
+#EXTINF:-1,ITALIA 1 HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8668
+#EXTINF:-1,ITALIA 1 SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8669
+#EXTINF:-1,LA 7 HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8670
+#EXTINF:-1,LA 7 SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8671
+#EXTINF:-1,LA 7d HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8672
+#EXTINF:-1,TV 8 HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8673
+#EXTINF:-1,TV 8 SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8674
+#EXTINF:-1,NOVE HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8675
+#EXTINF:-1,NOVE SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8676
 #EXTINF:-1,DMAX HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/41
-#EXTINF:-1,20 Mediaset
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/162
-#EXTINF:-1,Premium Extra
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/163
-#EXTINF:-1,Premium Italiadue
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/164
-#EXTINF:-1,Classica HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/49
-#EXTINF:-1,RedBull TV
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/355
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8677
+#EXTINF:-1,DMAX SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8678
+#EXTINF:-1,CIELO HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8679
+#EXTINF:-1,CIELO SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8680
+#EXTINF:-1,CANALE 20 HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8681
+#EXTINF:-1,CANALE 20 SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8682
+#EXTINF:-1,RAI 4 HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8683
+#EXTINF:-1,RAI 4 SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8684
+#EXTINF:-1,RAI 5 HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8685
+#EXTINF:-1,RAI 5 SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8686
+#EXTINF:-1,RAI MOVIE HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8687
+#EXTINF:-1,RAI MOVIE SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8688
+#EXTINF:-1,RAI PREMIUM HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8689
+#EXTINF:-1,RAI PREMIUM SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8690
+#EXTINF:-1,RAI SCUOLA HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8691
+#EXTINF:-1,RAI SCUOLA SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8692
+#EXTINF:-1,RAI STORIA HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8693
+#EXTINF:-1,RAI STORIA SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8694
+#EXTINF:-1,REAL TIME HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8695
+#EXTINF:-1,REALTIME SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8696
+#EXTINF:-1,FOOD NETWORK SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8697
+#EXTINF:-1,MOTOR TREND HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8698
+#EXTINF:-1,MEDIASET EXTRA HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8700
+#EXTINF:-1,RSI LA 1 HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8702
+#EXTINF:-1,RSI LA 1 SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8703
+#EXTINF:-1,RSI LA 2 HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8704
+#EXTINF:-1,RSI LA 2 SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8705
+#EXTINF:-1,IRIS HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8706
+#EXTINF:-1,SPIKE HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8707
+#EXTINF:-1,ALICE HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8708
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8709
+#EXTINF:-1,CINE 34 HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8710
+#EXTINF:-1,LA 5 HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8711
+#EXTINF:-1,HGTV HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8712
+#EXTINF:-1,QVC HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8713
+#EXTINF:-1,TV2000 HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8714
+#EXTINF:-1,ITALIA 2 HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8715
+#EXTINF:-1,FOCUS HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8716
+#EXTINF:-1,WINE TV HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8717
+#EXTINF:-1,TV LUNA
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8718
+#EXTINF:-1,PADREPIO HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8719
+#EXTINF:-1,CANALE 21
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8721
+#EXTINF:-1,VideolinaTV
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8722
+
+#EXTINF:-1,SKY UNO H265
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8728
+#EXTINF:-1,SKY UNO FULL HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8729
+#EXTINF:-1,SKY UNO HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8730
+#EXTINF:-1,SKY UNO SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8731
+#EXTINF:-1,SKY UNO +1 HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/49234
+#EXTINF:-1,SKY ATLANTIC H265
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8732
+#EXTINF:-1,SKY ATLANTIC FULL HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8733
+#EXTINF:-1,SKY ATLANTIC HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8734
+#EXTINF:-1,SKY ATLANTIC SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8735
+#EXTINF:-1,SKY ATLANTIC +1 HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/49233
+#EXTINF:-1,FOX H265
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8736
+#EXTINF:-1,SKY FOX FULL HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8737
+#EXTINF:-1,SKY FOX HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8738
+#EXTINF:-1,FOX SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8739
+#EXTINF:-1,FOX CRIME H265
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8740
+#EXTINF:-1,FOX CRIME FULL HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8741
+#EXTINF:-1,FOX CRIME HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8742
+#EXTINF:-1,FOX CRIME SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8743
+#EXTINF:-1,SKY BLAZE FULL HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8745
+#EXTINF:-1,SKY BLAZE HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8746
+#EXTINF:-1,BLAZE SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8747
+#EXTINF:-1,COMEDY CENTRAL FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8749
+#EXTINF:-1,COMEDY CENTRAL SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8750
+#EXTINF:-1,LAEFFE FULL HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8751
+#EXTINF:-1,LAEFFE HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8752
+#EXTINF:-1,LAEFFE SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8753
+#EXTINF:-1,MTV FULL HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8754
 #EXTINF:-1,MTV HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/42
-
-#EXTINF:-1,Sky Cinema Uno SUPER HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/51
-#EXTINF:-1,Sky Cinema Uno HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/43
-#EXTINF:-1,Sky Cinema Uno +24 Full HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/44
-#EXTINF:-1,Sky Cinema Uno +24 HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/50
-#EXTINF:-1,Sky Cinema Due Full HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/45
-#EXTINF:-1,Sky Cinema Due HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/46
-#EXTINF:-1,Sky Cinema Due +24 HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/308
-#EXTINF:-1,Sky Cinema Collection SUPER HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/47
-#EXTINF:-1,Sky Cinema Collection HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/48
-#EXTINF:-1,Sky Cinema Family SUPER HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/93
-#EXTINF:-1,Sky Cinema Family HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/92
-#EXTINF:-1,Sky Cinema Romance SUPER HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/94
-#EXTINF:-1,Sky Cinema Romance HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/91
-#EXTINF:-1,Sky Cinema Comedy SUPER HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/90
-#EXTINF:-1,Sky Cinema Comedy HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/89
-#EXTINF:-1,Sky Cinema Action SUPER HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/88
-#EXTINF:-1,Sky Cinema Action HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/87
-#EXTINF:-1,Sky Cinema Suspense Full HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/86
-#EXTINF:-1,Sky Cinema Suspense HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/85
-#EXTINF:-1,Sky Cinema Drama Full HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/95
-#EXTINF:-1,Sky Cinema Drama HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/84
-#EXTINF:-1,Paramount Channel
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/165
-#EXTINF:-1,Premium Cinema 1
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/166
-#EXTINF:-1,Premium Cinema 2
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/167
-#EXTINF:-1,Premium Action
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/168
-#EXTINF:-1,Premium Stories
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/172
-#EXTINF:-1,Premium Cinema 3
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/170
-#EXTINF:-1,Premium Crime
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/171
-#EXTINF:-1,Premium TopCrime
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/173
-#EXTINF:-1,Spike
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/276
-#EXTINF:-1,Cine34
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/389
-
-#EXTINF:-1,Primafila 1
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/426
-#EXTINF:-1,Primafila 2
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/427
-#EXTINF:-1,Primafila 3
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/428
-#EXTINF:-1,Primafila 4
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/429
-#EXTINF:-1,Primafila 5
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/430
-#EXTINF:-1,Primafila 6
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/431
-#EXTINF:-1,Primafila 7
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/432
-#EXTINF:-1,Primafila 8
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/433
-#EXTINF:-1,Primafila 9
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/434
-#EXTINF:-1,Primafila 10
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/435
-#EXTINF:-1,Primafila 11
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/436
-#EXTINF:-1,Primafila 12
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/437
-#EXTINF:-1,Primafila 13
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/438
-#EXTINF:-1,Primafila 14
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/439
-#EXTINF:-1,Primafila 15
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/440
-#EXTINF:-1,Primafila 16
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/441
-#EXTINF:-1,Primafila 17
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/442
-#EXTINF:-1,Primafila 18
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/443
-
-#EXTINF:-1,Sky Arte Full HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/83
-#EXTINF:-1,Sky Arte HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/82
-#EXTINF:-1,Discovery Channel HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/96
-#EXTINF:-1,National Geo HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/81
-#EXTINF:-1,Discovery Sci Full HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/80
-#EXTINF:-1,Discovery Sci HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/79
-#EXTINF:-1,History HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/78
-#EXTINF:-1,National Wild Full HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/77
-#EXTINF:-1,National Wild HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/97
-#EXTINF:-1,Gambero Rosso HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/76
-#EXTINF:-1,Food Network HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/98
-#EXTINF:-1,Motor Trend
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/279
-
-#EXTINF:-1,Sky Sport 24 Full HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/62
-#EXTINF:-1,Sky Sport 24 HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/61
-#EXTINF:-1,Sky Sport Uno SUPER HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/60
-#EXTINF:-1,Sky Sport Uno HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/174
-#EXTINF:-1,Sky Sport Arena Full HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/58
-#EXTINF:-1,Sky Sport Arena HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/57
-#EXTINF:-1,Sky Sport Football Full HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/56
-#EXTINF:-1,Sky Sport Football HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/55
-#EXTINF:-1,Sky Sport NBA HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/54
-#EXTINF:-1,Sky Sport Collection HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/59
-#EXTINF:-1,Sky Sport F1 SUPER HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/53
-#EXTINF:-1,Sky Sport F1 HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/52
-#EXTINF:-1,Sky Sport Moto GP SUPER HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/102
-#EXTINF:-1,Sky Sport Moto GP
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/103
-#EXTINF:-1,Eurosport HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/105
-#EXTINF:-1,Eurosport 2 HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/106
-#EXTINF:-1,Sky Sport Serie A SUPER HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/108
-#EXTINF:-1,Sky Sport Serie A HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/109
-#EXTINF:-1,Sky Sport 251 SUPER HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/123
-#EXTINF:-1,Sky Sport 252 SUPER HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/124
-#EXTINF:-1,Sky Sport 253 SUPER HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/125
-#EXTINF:-1,Sky Sport 254 SUPER HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/126
-#EXTINF:-1,Sky Sport 255 SUPER HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/127
-#EXTINF:-1,Sky Sport 256 Full HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/128
-#EXTINF:-1,Sky Sport 251 HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/110
-#EXTINF:-1,Sky Sport 252 HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/111
-#EXTINF:-1,Sky Sport 253 HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/112
-#EXTINF:-1,Sky Sport 254 HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/113
-#EXTINF:-1,Sky Sport 255 HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/114
-#EXTINF:-1,Sky Sport 256 HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/115
-#EXTINF:-1,Sky Sport 257 HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/116
-#EXTINF:-1,Sky Sport 258 HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/117
-#EXTINF:-1,Sky Sport 259 HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/118
-#EXTINF:-1,Sky Sport 260 HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/119
-#EXTINF:-1,Sky Sport 261 HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/120
-#EXTINF:-1,Sky Sport 262 HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/121
-#EXTINF:-1,Sky Sport 263 HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/122
-#EXTINF:-1,Milan Channel
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/129
-#EXTINF:-1,Inter Channel
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/130
-#EXTINF:-1,Lazio Style Channel
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/132
-#EXTINF:-1,Torino Channel HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/133
-#EXTINF:-1,Roma TV
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/131
-#EXTINF:-1,Caccia e Pesca
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/134
-#EXTINF:-1,Pesca e Caccia
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/135
-#EXTINF:-1,SuperTennis HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/137
-#EXTINF:-1,Top Calcio 24
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/139
-#EXTINF:-1,UnireSat HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/138
-
-#EXTINF:-1,DAZN 1 SAT
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/75
-#EXTINF:-1,DAZN 1
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/74
-#EXTINF:-1,DAZN 2
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/73
-#EXTINF:-1,DAZN 3
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/72
-#EXTINF:-1,DAZN 4
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/71
-#EXTINF:-1,DAZN 5
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/100
-#EXTINF:-1,DAZN 6
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/70
-#EXTINF:-1,DAZN 7
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/69
-#EXTINF:-1,DAZN 8
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/68
-#EXTINF:-1,DAZN 9
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/67
-#EXTINF:-1,DAZN 10
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/66
-#EXTINF:-1,DAZN 11
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/65
-#EXTINF:-1,DAZN 12
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/64
-#EXTINF:-1,DAZN 13
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/63
-#EXTINF:-1,DAZN 14
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/101
-
-#EXTINF:-1,Tgcom24
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/142
-#EXTINF:-1,Rai News 24
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/141
-#EXTINF:-1,Sky Tg 24 HD
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/140
-
-#EXTINF:-1,Radio Italia TV
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/266
-#EXTINF:-1,Radio Freccia
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/352
-#EXTINF:-1,Radio Zeta
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/353
-#EXTINF:-1,Radio Deejay
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/354
-#EXTINF:-1,Radio105 TV
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/356
-#EXTINF:-1,Radio Capital
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/357
-#EXTINF:-1,RTL 102.5
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/265
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8755
+#EXTINF:-1,MTV SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8756
 #EXTINF:-1,VH1
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/281
-#EXTINF:-1,RDS TV
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/285
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8757
 
-#EXTINF:-1,Cartoon Network
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/143
-#EXTINF:-1,Cartoonito
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/151
-#EXTINF:-1,Nickelodeon
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/144
-#EXTINF:-1,DeAKids
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/154
-#EXTINF:-1,DeAJunior
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/420
-#EXTINF:-1,Nick Jr
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/157
-#EXTINF:-1,Baby TV
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/147
-#EXTINF:-1,Boing
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/150
-#EXTINF:-1,Boomerang
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/145
-#EXTINF:-1,Super!
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/160
+#EXTINF:-1,SKY CINEMA UNO H265
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8758
+#EXTINF:-1,SKY CINEMA UNO FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8759
+#EXTINF:-1,SKY CINEMA UNO HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8760
+#EXTINF:-1,SKY CINEMA UNO SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8761
+#EXTINF:-1,SKY CINEMA UNO 24 H265
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8762
+#EXTINF:-1,SKY CINEMA UNO  24 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8763
+#EXTINF:-1,SKY CINEMA UNO  +24 HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8764
+#EXTINF:-1,SKY CINEMA UNO 24 SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8765
+#EXTINF:-1,SKY CINEMA DUE H265
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8766
+#EXTINF:-1,SKY CINEMA DUE FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8767
+#EXTINF:-1,SKY CINEMA DUE HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8768
+#EXTINF:-1,SKY CINEMA DUE SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8769
+#EXTINF:-1,SKY CINEMA DUE 24 H265
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8770
+#EXTINF:-1,SKY CINEMA DUE  24 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8771
+#EXTINF:-1,SKY CINEMA DUE  +24 HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8772
+#EXTINF:-1,SKY CINEMA DUE  24 SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8773
+#EXTINF:-1,SKY CINEMA ACTION H265
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8774
+#EXTINF:-1,SKY CINEMA ACTION FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8775
+#EXTINF:-1,SKY CINEMA ACTION HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8776
+#EXTINF:-1,SKY CINEMA ACTION SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8777
+#EXTINF:-1,SKY CINEMA COLLECTION H265
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8778
+#EXTINF:-1,SKY CINEMA COLLECTION FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8779
+#EXTINF:-1,SKY CINEMA COLLECTION HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8780
+#EXTINF:-1,SKY CINEMA COLLECTION SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8781
+#EXTINF:-1,SKY CINEMA COMEDY H265
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8782
+#EXTINF:-1,SKY CINEMA COMEDY FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8783
+#EXTINF:-1,SKY CINEMA COMEDY HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8784
+#EXTINF:-1,SKY CINEMA COMEDY SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8785
+#EXTINF:-1,SKY CINEMA DRAMA H265
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8786
+#EXTINF:-1,SKY CINEMA DRAMA FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8787
+#EXTINF:-1,SKY CINEMA DRAMA HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8788
+#EXTINF:-1,SKY CINEMA DRAMA SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8789
+#EXTINF:-1,SKY CINEMA FAMILY H265
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8790
+#EXTINF:-1,SKY CINEMA FAMILY FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8791
+#EXTINF:-1,SKY CINEMA FAMILY HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8792
+#EXTINF:-1,SKY CINEMA FAMILY SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8793
+#EXTINF:-1,SKY CINEMA ROMANCE H265
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8794
+#EXTINF:-1,SKY CINEMA ROMANCE FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8795
+#EXTINF:-1,SKY CINEMA ROMANCE HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8796
+#EXTINF:-1,SKY CINEMA ROMANCE SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8797
+#EXTINF:-1,SKY CINEMA SUSPENSE H265
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8798
+#EXTINF:-1,SKY CINEMA SUSPENSE FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8799
+#EXTINF:-1,SKY CINEMA SUSPENSE HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8800
+#EXTINF:-1,SKY CINEMA SUSPENSE SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8801
+
+#EXTINF:-1,PREMIUM CINEMA 1 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8805
+#EXTINF:-1,PREMIUM CINEMA 1 HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8806
+#EXTINF:-1,PREMIUM CINEMA 1 SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8804
+#EXTINF:-1,PREMIUM CINEMA 2 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8808
+#EXTINF:-1,PREMIUM CINEMA 2 HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8809
+#EXTINF:-1,PREMIUM CINEMA 2 SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8807
+#EXTINF:-1,PREMIUM CINEMA 3 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8811
+#EXTINF:-1,PREMIUM CINEMA 3 HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8812
+#EXTINF:-1,PREMIUM CINEMA 3 SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8810
+#EXTINF:-1,PREMIUM CINEMA 1 +24 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8814
+#EXTINF:-1,PREMIUM CINEMA 1 +24 HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8815
+#EXTINF:-1,SKY PREMIUM CINEMA 1 +24 SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8813
+
+#EXTINF:-1,PREMIUM ACTION FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8818
+#EXTINF:-1,PREMIUM ACTION HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8819
+#EXTINF:-1,PREMIUM ACTION SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8817
+#EXTINF:-1,PREMIUM CRIME FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8821
+#EXTINF:-1,PREMIUM CRIME HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8822
+#EXTINF:-1,PREMIUM CRIME SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8820
+#EXTINF:-1,PREMIUM STORIES FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8824
+#EXTINF:-1,PREMIUM STORIES HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8825
+#EXTINF:-1,PREMIUM STORIES SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8823
+#EXTINF:-1,TOP CRIME
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8826
+
+#EXTINF:-1,Sky Sport 24 H265
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8828
+#EXTINF:-1,Sky Sport 24 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8829
+#EXTINF:-1,Sky Sport 24 HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8830
+#EXTINF:-1,Sky Sport 24 SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8831
+#EXTINF:-1,Sky Sport UNO H265
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8832
+#EXTINF:-1,Sky Sport UNO FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8833
+#EXTINF:-1,Sky Sport UNO HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8834
+#EXTINF:-1,Sky Sport UNO SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8835
+#EXTINF:-1,Sky Sport FOOTBALL H265
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8836
+#EXTINF:-1,Sky Sport FOOTBALL FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8837
+#EXTINF:-1,Sky Sport FOOTBALL HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8838
+#EXTINF:-1,Sky Sport FOOTBALL SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8839
+#EXTINF:-1,Sky Sport ARENA H265
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8840
+#EXTINF:-1,Sky Sport ARENA FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8841
+#EXTINF:-1,Sky Sport ARENA HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8842
+#EXTINF:-1,Sky Sport ARENA SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8843
+#EXTINF:-1,Sky Sport COLLECTION H265
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8844
+#EXTINF:-1,Sky Sport COLLECTION FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8845
+#EXTINF:-1,Sky Sport COLLECTION HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8846
+#EXTINF:-1,Sky Sport COLLECTION SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8847
+#EXTINF:-1,Sky Sport NBA H265
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8848
+#EXTINF:-1,Sky Sport NBA FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8849
+#EXTINF:-1,Sky Sport NBA HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8850
+#EXTINF:-1,Sky Sport NBA SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8851
+#EXTINF:-1,Sky Sport MOTO GP H265
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8852
+#EXTINF:-1,Sky Sport MOTOGP FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8853
+#EXTINF:-1,Sky Sport MOTOGP HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8854
+#EXTINF:-1,Sky Sport MOTOGP SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8855
+#EXTINF:-1,Sky Sport F1 H265
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8856
+#EXTINF:-1,Sky Sport F1 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8857
+#EXTINF:-1,Sky Sport F1 HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8858
+#EXTINF:-1,Sky Sport F1 SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8859
+#EXTINF:-1,EUROSPORT 1 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8861
+#EXTINF:-1,EUROSPORT 1 HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8862
+#EXTINF:-1,EUROSPORT 2 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8864
+#EXTINF:-1,EUROSPORT 2 HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8865
+#EXTINF:-1,HORSE TV FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8866
+#EXTINF:-1,HORSE TV HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8867
+#EXTINF:-1,BIKE SMART MOBILITY
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8868
+#EXTINF:-1,WWE Wrestling HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8869
+#EXTINF:-1,REDBULL TV
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/54984
+#EXTINF:-1,Fight NetWork
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8870
+#EXTINF:-1,RAI SPORT FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8871
+#EXTINF:-1,RAI SPORT HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8872
+#EXTINF:-1,SPORT ITALIA HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8873
+#EXTINF:-1,SPORT ITALIA FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8874
+#EXTINF:-1,SPORT ITALIA LIVE 24
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8875
+#EXTINF:-1,SPORT ITALIA SOLO CALCIO
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8876
+#EXTINF:-1,SPORT ITALIA SOLO MOTORI
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8877
+#EXTINF:-1,SUPER TENNIS FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8878
+#EXTINF:-1,SUPER TENNIS HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8879
+#EXTINF:-1,UNIRESAT HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8880
+#EXTINF:-1,TOP CALCIO 24
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8881
+#EXTINF:-1,MS MotorTV
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8882
+
+#EXTINF:-1,SKY SPORT SERIE A H265
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8884
+#EXTINF:-1,SKY SPORT SERIE A FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8885
+#EXTINF:-1,SKY SPORT SERIE A HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8886
+#EXTINF:-1,SKY SPORT SERIE A SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8887
+#EXTINF:-1,SKY CALCIO 1 H265
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8888
+#EXTINF:-1,SKY CALCIO 1 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8889
+#EXTINF:-1,SKY CALCIO 1 HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8890
+#EXTINF:-1,SKY CALCIO 1 SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8891
+#EXTINF:-1,SKY CALCIO 2 H265
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8892
+#EXTINF:-1,SKY CALCIO 2 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8893
+#EXTINF:-1,SKY CALCIO 2 HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8894
+#EXTINF:-1,SKY CALCIO 2 SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8895
+#EXTINF:-1,SKY CALCIO 3 H265
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8896
+#EXTINF:-1,SKY CALCIO 3 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8897
+#EXTINF:-1,SKY CALCIO 3 HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8898
+#EXTINF:-1,SKY CALCIO 3 SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8899
+#EXTINF:-1,SKY CALCIO 4 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8901
+#EXTINF:-1,SKY CALCIO 4 HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8902
+#EXTINF:-1,SKY CALCIO 4 SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8903
+#EXTINF:-1,SKY CALCIO 5 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8905
+#EXTINF:-1,SKY CALCIO 5 HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8906
+#EXTINF:-1,SKY CALCIO 6 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8908
+#EXTINF:-1,SKY CALCIO 6 HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8910
+#EXTINF:-1,SKY CALCIO 7 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8911
+#EXTINF:-1,SKY CALCIO 7 HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8912
+#EXTINF:-1,INTER TV
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8913
+#EXTINF:-1,LAZIO STYLE
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8914
+#EXTINF:-1,MILAN TV
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8915
+#EXTINF:-1,ROMA CHANNEL
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8916
+#EXTINF:-1,TORINO CHANNEL
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8917
+
+#EXTINF:-1,Sky Sport Serie A FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8919
+#EXTINF:-1,Sky Sport Serie A HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8920
+#EXTINF:-1,Sky Sport Serie A SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8921
+#EXTINF:-1,Sky Sport 251 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8922
+#EXTINF:-1,Sky Sport 251 HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8923
+#EXTINF:-1,Sky Sport 251 SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8924
+#EXTINF:-1,Sky Sport 252 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8925
+#EXTINF:-1,Sky Sport 252 HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8926
+#EXTINF:-1,Sky Sport 252 SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8927
+#EXTINF:-1,Sky Sport 253 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8928
+#EXTINF:-1,Sky Sport 253 HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8929
+#EXTINF:-1,Sky Sport 253 SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8930
+#EXTINF:-1,Sky Sport 254 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8931
+#EXTINF:-1,Sky Sport 254 HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8932
+#EXTINF:-1,Sky Sport 254 SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8933
+#EXTINF:-1,Sky Sport 255 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8934
+#EXTINF:-1,Sky Sport 255 HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8935
+#EXTINF:-1,Sky Sport 255 SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8936
+#EXTINF:-1,Sky Sport 256 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8937
+#EXTINF:-1,Sky Sport 256 HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8938
+#EXTINF:-1,Sky Sport 256 SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8939
+#EXTINF:-1,Sky Sport 257 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8940
+#EXTINF:-1,Sky Sport 257 HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8941
+#EXTINF:-1,Sky Sport 257 SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8942
+#EXTINF:-1,Torino Channel
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8943
+#EXTINF:-1,Milan Channel
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8944
+#EXTINF:-1,Inter Channel
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8945
+#EXTINF:-1,Lazio Channel
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8946
+#EXTINF:-1,Roma Channel
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8947
+
+#EXTINF:-1,SKY DAZN BAR H265
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8950
+#EXTINF:-1,SKY DAZN BAR FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8951
+#EXTINF:-1,SKY DAZN BAR HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8953
+#EXTINF:-1,SKY DAZN BAR SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8955
+#EXTINF:-1,SKY DAZN BAR FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8952
+#EXTINF:-1,SKY DAZN BAR HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8954
+#EXTINF:-1,SKY DAZN BAR SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8956
+#EXTINF:-1,VETRINA DAZN
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8949
+#EXTINF:-1,Dazn 1
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8958
+#EXTINF:-1,Dazn 2
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8959
+#EXTINF:-1,Dazn 3
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8960
+#EXTINF:-1,Dazn 4
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8961
+#EXTINF:-1,Dazn 5
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8962
+#EXTINF:-1,Dazn 6
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8963
+#EXTINF:-1,Dazn 7
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8964
+#EXTINF:-1,Dazn 8
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8965
+#EXTINF:-1,Dazn 9
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8966
+#EXTINF:-1,Dazn 10
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8967
+#EXTINF:-1,Dazn 11
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8968
+#EXTINF:-1,Dazn 12
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8969
+#EXTINF:-1,Dazn 13
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8970
+#EXTINF:-1,Dazn 14
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8971
+#EXTINF:-1,Dazn 15
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8972
+#EXTINF:-1,Dazn 16
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8973
+
+#EXTINF:-1,DAZN WEB 1
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8975
+#EXTINF:-1,DAZN WEB 2
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8976
+#EXTINF:-1,DAZN WEB 3
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8977
+#EXTINF:-1,DAZN WEB 4
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8978
+#EXTINF:-1,DAZN WEB 5
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8979
+#EXTINF:-1,DAZN WEB 6
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8980
+#EXTINF:-1,DAZN WEB 7
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8981
+#EXTINF:-1,DAZN WEB 8
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8982
+#EXTINF:-1,DAZN WEB 9
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8983
+#EXTINF:-1,DAZN WEB 10
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8984
+#EXTINF:-1,DAZN WEB 11
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8985
+
+#EXTINF:-1,Eleven Sport 1 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9081
+#EXTINF:-1,Eleven Sport 2 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9082
+#EXTINF:-1,Eleven Sport 3 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9083
+#EXTINF:-1,Eleven Sport 4 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9084
+
+#EXTINF:-1,My Sports 1 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9086
+#EXTINF:-1,My Sports 2 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9087
+#EXTINF:-1,My Sports 3 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9088
+#EXTINF:-1,My Sports 4 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9089
+#EXTINF:-1,My Sports 5 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9090
+#EXTINF:-1,My Sports 6 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9091
+#EXTINF:-1,My Sports 7 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9092
+#EXTINF:-1,My Sports 8 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9093
+#EXTINF:-1,My Sports 9 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9094
+
+
+
+
+
+
+#EXTINF:-1,Discovery H265
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9454
+#EXTINF:-1,Discovery FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9455
+#EXTINF:-1,Discovery HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9456
+#EXTINF:-1,Discovery SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9457
+#EXTINF:-1,Discovery Sci H265
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9458
+#EXTINF:-1,Discovery Sci FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9459
+#EXTINF:-1,Discovery Sci HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9460
+#EXTINF:-1,Discovery Sci SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9461
+#EXTINF:-1,Nat Geo H265
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9462
+#EXTINF:-1,Nat Geo FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9463
+#EXTINF:-1,Nat Geo HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9464
+#EXTINF:-1,Nat Geo SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9465
+#EXTINF:-1,Nat Geo Wild H265
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9466
+#EXTINF:-1,Nat Geo Wild FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9467
+#EXTINF:-1,Nat Geo Wild HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9468
+#EXTINF:-1,Nat Geo Wild SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9469
+#EXTINF:-1,History Channel H265
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9470
+#EXTINF:-1,History Channel FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9471
+#EXTINF:-1,History Channel HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9472
+#EXTINF:-1,History Channel SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9473
+#EXTINF:-1,Crime Investigation H265
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9474
+#EXTINF:-1,Crime Investigation FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9475
+#EXTINF:-1,Crime Investigation HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9476
+#EXTINF:-1,Crime Investigation SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9477
+#EXTINF:-1,Sky Arte FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9478
+#EXTINF:-1,Sky Arte HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9479
+#EXTINF:-1,Sky Arte SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9480
+#EXTINF:-1,Classica FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9481
+#EXTINF:-1,Classica HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9482
+#EXTINF:-1,Classica SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9483
+#EXTINF:-1,Gambero Rosso FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9484
+#EXTINF:-1,Gambero Rosso HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9485
+#EXTINF:-1,Gambero Rosso SD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9486
+#EXTINF:-1,Caccia e Pesca FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9487
+#EXTINF:-1,Caccia e Pesca HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9488
+#EXTINF:-1,Pesca e Caccia FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9489
+#EXTINF:-1,Pesca e Caccia HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9490
+#EXTINF:-1,Italian Fishing TV FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9491
+#EXTINF:-1,Italian Fishing TV HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9492
+
+#EXTINF:-1,Disney Plus HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9494
+#EXTINF:-1,Disney Plus2 HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9495
+#EXTINF:-1,Disney Plus Film HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9496
+#EXTINF:-1,Disney Plus Film 2 HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9497
+#EXTINF:-1,Disney Plus Animation HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9498
+#EXTINF:-1,Disney Plus Nature HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9499
+#EXTINF:-1,RAI YOYO HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9501
+#EXTINF:-1,RAI GULP HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9503
+#EXTINF:-1,BOOMERANG HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9505
+#EXTINF:-1,CARTOON NETWORK HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9507
+#EXTINF:-1,DEA JUNIOR HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9509
+#EXTINF:-1,DEA KIDS HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9511
+#EXTINF:-1,NICK JR HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9513
+#EXTINF:-1,NICKELODEON HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9515
+#EXTINF:-1,BABY TV
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9516
+#EXTINF:-1,BOING
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9517
+#EXTINF:-1,BOING PLUS
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9518
+#EXTINF:-1,CARTOONITO
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9519
 #EXTINF:-1,K2
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/156
-#EXTINF:-1,Frisbee
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/155
-#EXTINF:-1,Rai Gulp
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/153
-#EXTINF:-1,Rai YoYo
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/152
-#EXTINF:-1,Boing Plus
-http://hdmi.digital:80/2Qbc9pTRZ5/4trpTc1SVw/306
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9520
+#EXTINF:-1,POP TV HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9521
+#EXTINF:-1,FRISBEE MINI
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9522
+#EXTINF:-1,SUPER!
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9523
 
+#EXTINF:-1,I Griffin
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9525
+#EXTINF:-1,I Simpson
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9526
+#EXTINF:-1,American Dad
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9527
+#EXTINF:-1,I Simpson 2
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9528
+#EXTINF:-1,Ecco Pippo
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9529
+#EXTINF:-1,Peppa Pig
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9530
+#EXTINF:-1,Dragon Ball
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9531
+#EXTINF:-1,Esplorando Il CorpoUmano
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9532
+#EXTINF:-1,I Gormiti
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9533
+#EXTINF:-1,Lacasa di Topolino
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9534
+#EXTINF:-1,PawPatrol
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9535
+#EXTINF:-1,I Puffi
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9536
+#EXTINF:-1,Tartarughe Ninja
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9537
+#EXTINF:-1,PJ Masks
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9538
+#EXTINF:-1,Gigi LaTrottola
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9539
+#EXTINF:-1,Masha E Orso
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9540
+#EXTINF:-1,Super Wings
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9541
+#EXTINF:-1,Dottoressa Peluche
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9542
+#EXTINF:-1,Sam Il Pompiere
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9543
+#EXTINF:-1,Blaze e le Mega Macchine
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9544
+#EXTINF:-1,Topolino Paperino e Pippo
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9545
+#EXTINF:-1,Tom & Gerry Channel
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/47620
+#EXTINF:-1,Pigiamini
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9546
+#EXTINF:-1,Eagle Looney Toons
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9547
+#EXTINF:-1,Scooby-Doo
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9548
+#EXTINF:-1,Lupin III
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9549
+#EXTINF:-1,Scuola di Polizia
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9550
+#EXTINF:-1,Bing
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9551
+
+#EXTINF:-1,EURONEWS ITALIAN HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9553
+#EXTINF:-1,SKY TG 24 HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9554
+#EXTINF:-1,RAI NEWS 24 HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9555
+#EXTINF:-1,TG NORBA 24
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9556
+#EXTINF:-1,TGCOM24
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9557
+
+#EXTINF:-1,M2o Tv
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9559
+#EXTINF:-1,51 Radio TV
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9560
+#EXTINF:-1,RADIO FRECCIA
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9561
+#EXTINF:-1,Radio Birikina TV
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9562
+#EXTINF:-1,Radio Capital TV
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9563
+#EXTINF:-1,Radio Number One
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9564
+#EXTINF:-1,Radio Taormina TV
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9565
+#EXTINF:-1,Radionorba TV
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9566
+#EXTINF:-1,M20
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9567
+#EXTINF:-1,DEEJAY TV HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9568
+#EXTINF:-1,Sky MTV music FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9570
+#EXTINF:-1,Radio Azzurra TV
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9571
+#EXTINF:-1,Radio Italia Trend TV  HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9572
+#EXTINF:-1,Radio Italia Tv HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9573
+#EXTINF:-1,RTL 102,5 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9575
+#EXTINF:-1,RADIO ITALIA RAP TV HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9576
+#EXTINF:-1,RADIO ITALIA TV HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9577
+#EXTINF:-1,RADIO NORBA TV
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9578
+#EXTINF:-1,RADIO NUMBER ONE TV DIRETTO
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9579
+#EXTINF:-1,RADIO R101
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9580
+#EXTINF:-1,RADIO ZETA TV HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9582
+#EXTINF:-1,RTL 102.5 NAPULE
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9583
+#EXTINF:-1,VIRGIN RADIO
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9592
+
+#EXTINF:-1,Adriano Celentano Channel
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/45333
+#EXTINF:-1,Alberto Sordi Channel
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/45334
+#EXTINF:-1,Aldo Giovanni e Giacomo Channel
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/45335
+#EXTINF:-1,Alessandro Siani Channel
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/45336
+#EXTINF:-1,Alvaro Vitali Channel
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/45337
+#EXTINF:-1,Angelina Jolie Channel
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/45338
+#EXTINF:-1,Biaggio Izzo Channel
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/45339
+#EXTINF:-1,Boldi E Desica Channel
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/45340
+#EXTINF:-1,Bud Spencer Channel
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/45341
+#EXTINF:-1,Carlo Verdone Channel
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/45342
+#EXTINF:-1,Checco Zalone Channel
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/45343
+#EXTINF:-1,Chuck Norris Channel
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/45344
+#EXTINF:-1,Clint Eastwood Channel
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/45345
+#EXTINF:-1,Dario Argento Channel
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/45346
+#EXTINF:-1,Diego Abatantuono Channel
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/45347
+#EXTINF:-1,Ficarra E Picone Channel
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/45348
+#EXTINF:-1,Franco e Ciccio Channel
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/45349
+#EXTINF:-1,Jason Statham Channel
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/45350
+#EXTINF:-1,Leonardo Pieraccioni Channel
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/45351
+#EXTINF:-1,Nicolas Cage Channel
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/45352
+#EXTINF:-1,Paolo Villaggio Channel
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/45353
+#EXTINF:-1,Roberto Benigni Channel
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/45354
+#EXTINF:-1,Steven Seagal Channel
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/45355
+#EXTINF:-1,Totò Channel
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/49607
+
+#EXTINF:-1,Cinema Azione
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9596
+#EXTINF:-1,Cinema Animazione
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9597
+#EXTINF:-1,Cinema Christmas
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9598
+#EXTINF:-1,Cinema Horror
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9599
+#EXTINF:-1,Cinema Fantascienza
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9600
+#EXTINF:-1,Cinema Commedia
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9601
+#EXTINF:-1,Cinema Supereroi
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9602
+#EXTINF:-1,Cinema Fantasy
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9603
+#EXTINF:-1,Cinema Walt Disney
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9604
+#EXTINF:-1,Cinema Romantico
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9605
+#EXTINF:-1,Cinema Thriller
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9606
+#EXTINF:-1,Cinema 4K
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9607
+#EXTINF:-1,Discovery 4k
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9608
+#EXTINF:-1,Cinema Drammatico
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9609
+#EXTINF:-1,Cinema Anime
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9610
+#EXTINF:-1,Cinema Western
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9611
+#EXTINF:-1,Cinema Avventura
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9612
+#EXTINF:-1,Cinema Spaghetti Western
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9613
+#EXTINF:-1,Cinepanettone
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9614
+#EXTINF:-1,Cinema Biografico
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9615
+#EXTINF:-1,Cinema Famiglia
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9616
+#EXTINF:-1,Cinema 20thCenturyFox FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9617
+#EXTINF:-1,Cinema Drammatico FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9618
+#EXTINF:-1,Cinema Passione FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9619
+#EXTINF:-1,Cinema Storico FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9620
+#EXTINF:-1,Cinema Comico Cult FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9621
+#EXTINF:-1,Cinema Sorriso FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9622
+#EXTINF:-1,Cinema Mitologia HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9623
+#EXTINF:-1,Cinema Religion HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9624
+
+#EXTINF:-1,Cinema MARVEL FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9626
+#EXTINF:-1,007 Channel HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9627
+#EXTINF:-1,DC's Legends of Tomorrow 1  FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9628
+#EXTINF:-1,DC's Legends of Tomorrow 2  FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9629
+#EXTINF:-1,DC's Legends of Tomorrow 3  FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9630
+#EXTINF:-1,DC's Legends of Tomorrow 4  FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9631
+#EXTINF:-1,Kung Fu Panda Series Channel HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9632
+#EXTINF:-1,Lo Hobbit Channel FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9633
+#EXTINF:-1,Gomorra Stagione 1 FHD HEVC
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9634
+#EXTINF:-1,Gomorra Stagione 2 FHD HEVC
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9635
+#EXTINF:-1,Gomorra Stagione 3 FHD HEVC
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9636
+#EXTINF:-1,Gomorra Stagione 4 FHD HEVC (FINALE)
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9637
+#EXTINF:-1,Il Trono di Spade stagione 8 FHD (FINALE)
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9638
+#EXTINF:-1,Il Trono di Spade stagione 1 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9639
+#EXTINF:-1,Il Trono di Spade stagione 2 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9640
+#EXTINF:-1,Il Trono di Spade stagione 3 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9641
+#EXTINF:-1,Il Trono di Spade stagione 4 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9642
+#EXTINF:-1,Il Trono di Spade stagione 5 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9643
+#EXTINF:-1,Il Trono di Spade stagione 6 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9644
+#EXTINF:-1,Il Trono di Spade stagione 7 FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9645
+#EXTINF:-1,The Big Bang Theory FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9646
+#EXTINF:-1,Me-contro-Te Channel HD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9647
+#EXTINF:-1,Ghost Adventures-Cacciatori di fantasmi Channel
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9648
+#EXTINF:-1,Fast and Furious Channel FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9649
+#EXTINF:-1,I Mercenari-The Expendables Channel FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9650
+#EXTINF:-1,Underworld  Channel FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9651
+#EXTINF:-1,Star Wars Channel FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9652
+#EXTINF:-1,Men in Black Channel FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9653
+#EXTINF:-1,Mission impossible Channel FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9654
+#EXTINF:-1,Pirati dei Caraibi Channel FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9655
+#EXTINF:-1,Pirati dei Caraibi Channel 4K
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9656
+#EXTINF:-1,Rambo Channel FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9657
+#EXTINF:-1,Rocky Channel FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9658
+#EXTINF:-1,Terminator Channel FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9659
+#EXTINF:-1,The Bourne Channel FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9660
+#EXTINF:-1,Transformers Channel FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9661
+#EXTINF:-1,Twilight Channel FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9662
+#EXTINF:-1,Avengers Grimm Channel FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9663
+#EXTINF:-1,G.I.JOE Channel FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9664
+#EXTINF:-1,Harry Potter Channel FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9665
+#EXTINF:-1,Hunger Games Channel FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9666
+#EXTINF:-1,Il Re Scorpione Channel FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9667
+#EXTINF:-1,IL Signore Degli Anelli Channel FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9668
+#EXTINF:-1,Indiana Jones Channel FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9669
+#EXTINF:-1,IP MAN Channel FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9670
+#EXTINF:-1,Karate Kid Channel FHD
+http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/9671
 
 
 #EXTINF:-1  group-title="-IPTV EXYUGO-",
