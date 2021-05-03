@@ -6337,6 +6337,9 @@ http://it.epiciptv.com:2000/Canale5HD/video.m3u8?token=test
 http://it.epiciptv.com:2000/Rete4/video.m3u8?token=test
 #EXTINF:-1,Mediaset 20 HD epic
 http://it.epiciptv.com:2000/MediasetIrisHD/video.m3u8?token=test
+#EXTINF:-1,La 5 HD fun6
+http://flusonic-5.platinum-tv.com:88/LA5_IT/index.m3u8?token=test
+
 #EXTINF:-1,La 7 HD epic
 http://it.epiciptv.com:2000/La_7/video.m3u8?token=test
 #EXTINF:-1,TV 8 HD epic
@@ -6345,6 +6348,13 @@ http://it.epiciptv.com:2000/Tv_8_FHD/video.m3u8?token=test
 http://it.epiciptv.com:2000/RSILA1/video.m3u8?token=test
 #EXTINF:-1,Rsi La 2 HD epic
 http://it.epiciptv.com:2000/RSILA2/video.m3u8?token=test
+
+#EXTINF:-1,Premium Cinema 1 HD fun6
+http://flusonic-2.platinum-tv.com:80/premium_cinema_hd/index.m3u8?token=test
+#EXTINF:-1,Premium Action HD fun6
+http://flusonic-2.platinum-tv.com:80/premium_action_HD/index.m3u8?token=test
+
+
 #EXTINF:-1,Sky Cinema Uno 24 HD epic
 http://superior44.cz/TSN(TeleSondrioNews)/video.m3u8?token=test
 #EXTINF:-1,Sky Cinema Due HD epic
@@ -6377,6 +6387,8 @@ http://superior44.cz/SKY_PRIMAFILA_IT_8/video.m3u8?token=test
 http://superior44.cz/SKY_PRIMAFILA_IT_9/video.m3u8?token=test
 #EXTINF:-1,Primafila 10 HD epic
 http://superior44.cz/SKY_PRIMAFILA_IT_10/video.m3u8?token=test
+
+
 #EXTINF:-1,Sky Moto GP HD fun6
 http://fun6.xyz:8080/ITALIAN_Sky_Sport_Moto_GP_HD/index.m3u8?token=test
 #EXTINF:-1,Sky Sport F1 HD fun6
