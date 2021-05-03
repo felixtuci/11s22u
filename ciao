@@ -6351,7 +6351,12 @@ http://superior44.cz/TSN(TeleSondrioNews)/video.m3u8?token=test
 http://superior44.cz/SKYCinemaDueHD/video.m3u8?token=test
 #EXTINF:-1,Sky Cinema Comedy HD epic
 http://superior44.cz/SkyCinemaComedyHD/video.m3u8?token=test
-
+#EXTINF:-1,Sky Atlantic HD fun6
+http://fun6.xyz:8080/ITALIAN_SKY_ATLANTIC_HD/index.m3u8?token=test
+#EXTINF:-1,Sky Cinema Action HD fun6
+http://fun6.xyz:8080/ITALIAN_SKY_CINEMA_ACTION_HD/index.m3u8
+#EXTINF:-1,Sky Cinema Collection HD fun6
+http://fun6.xyz:8080/ITALIAN_SKY_CINEMA_COLLECTION_HD/index.m3u8?token=test
 #EXTINF:-1,Primafila 1 HD epic
 http://superior44.cz/SKY_PRIMAFILA_IT_1/video.m3u8?token=test
 #EXTINF:-1,Primafila 2 HD epic
@@ -6372,6 +6377,12 @@ http://superior44.cz/SKY_PRIMAFILA_IT_8/video.m3u8?token=test
 http://superior44.cz/SKY_PRIMAFILA_IT_9/video.m3u8?token=test
 #EXTINF:-1,Primafila 10 HD epic
 http://superior44.cz/SKY_PRIMAFILA_IT_10/video.m3u8?token=test
+#EXTINF:-1,Sky Moto GP HD fun6
+http://fun6.xyz:8080/ITALIAN_Sky_Sport_Moto_GP_HD/index.m3u8?token=test
+#EXTINF:-1,Sky Sport F1 HD fun6
+http://fun6.xyz:8080/ITALIAN_Sky_Sport_F1_HD/index.m3u8?token=test
+#EXTINF:-1,Sky Sport Football HD fun6
+http://fun6.xyz:8080/ITALIAN_Sky_Sport_Football_HD/index.m3u8?token=test
 
 #EXTINF:-1,Rai 1 FHD
 http://supremo-discovery.xyz:8000/zT5H136R/V17OERBY/8626
