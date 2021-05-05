@@ -6323,104 +6323,104 @@ http://supremo-discovery.xyz:8000/UNIeeSUXcq/DRDCCBCE/9671
 
 
 #EXTINF:-1   group-title="-IPTV ITALIA 4- ",
-#EXTINF:-1,Rai 1 HD 
-http://.xyz:2052/ITALIAN_RAI_1_FHD/index.m3u8?token=test
-#EXTINF:-1,RAI 2 HD 
-http://.xyz:2052/ITALIAN_RAI_2_FHD/index.m3u8?token=test
-#EXTINF:-1,RAI 3 HD 
-http://.xyz:8080/ITALIAN_RAI_3_FHD/index.m3u8?token=test
-#EXTINF:-1,RAI 4 HD 
-http://.xyz:8080/ITALIAN_RAI_4_HD/index.m3u8?token=test
-#EXTINF:-1,Italia 1 HD 
-http://.xyz:2052/ITALIAN_MEDIASET_1/index.m3u8?token=test
-#EXTINF:-1,Canale 5 HD 
-http://.xyz:2052/ITALIAN_CANAL_5/index.m3u8?token=test
-#EXTINF:-1,Rete 4 HD 
-http://.xyz:2052/ITALIAN_RETE_4/index.m3u8?token=test
-#EXTINF:-1,Mediaset 20 HD 
-http://.xyz:8080/ITALIAN_MEDIASET_20/index.m3u8?token=test
-#EXTINF:-1,La 5 HD 
+#EXTINF:-1,Rai 1 HD epic
+http://fun6.xyz:2052/ITALIAN_RAI_1_FHD/index.m3u8?token=test
+#EXTINF:-1,RAI 2 HD epic
+http://fun6.xyz:2052/ITALIAN_RAI_2_FHD/index.m3u8?token=test
+#EXTINF:-1,RAI 3 HD epic
+http://fun6.xyz:8080/ITALIAN_RAI_3_FHD/index.m3u8?token=test
+#EXTINF:-1,RAI 4 HD epic
+http://fun6.xyz:8080/ITALIAN_RAI_4_HD/index.m3u8?token=test
+#EXTINF:-1,Italia 1 HD epic
+http://fun6.xyz:2052/ITALIAN_MEDIASET_1/index.m3u8?token=test
+#EXTINF:-1,Canale 5 HD epic
+http://fun6.xyz:2052/ITALIAN_CANAL_5/index.m3u8?token=test
+#EXTINF:-1,Rete 4 HD epic
+http://fun6.xyz:2052/ITALIAN_RETE_4/index.m3u8?token=test
+#EXTINF:-1,Mediaset 20 HD epic
+http://fun6.xyz:8080/ITALIAN_MEDIASET_20/index.m3u8?token=test
+#EXTINF:-1,La 5 HD fun6
 http://flusonic-5.platinum-tv.com:88/LA5_IT/index.m3u8?token=test
 #EXTINF:-1,Iris Mideaset
-http://.xyz:8080/ITALIAN_IRIS/index.m3u8?token=test
-#EXTINF:-1,La 7 HD 
+http://fun6.xyz:8080/ITALIAN_IRIS/index.m3u8?token=test
+#EXTINF:-1,La 7 HD epic
 http://flusonic-5.platinum-tv.com:80/la7_it/index.m3u8?token=test
-#EXTINF:-1,TV 8 HD 
+#EXTINF:-1,TV 8 HD epic
 http://flusonic-5.platinum-tv.com:88/TV8_IT/index.m3u8?token=test
-#EXTINF:-1,Rsi La 1 HD 
-http://.xyz:2052/ITALIAN_RSI_LA_1/index.m3u8?token=test
-#EXTINF:-1,Rsi La 2 HD 
-http://.xyz:2052/ITALIAN_RSI_LA_2/index.m3u8?token=test
+#EXTINF:-1,Rsi La 1 HD epic
+http://fun6.xyz:2052/ITALIAN_RSI_LA_1/index.m3u8?token=test
+#EXTINF:-1,Rsi La 2 HD epic
+http://fun6.xyz:2052/ITALIAN_RSI_LA_2/index.m3u8?token=test
 
-#EXTINF:-1,Premium Cinema 1 HD 
+#EXTINF:-1,Premium Cinema 1 HD fun6
 http://flusonic-2.platinum-tv.com:80/premium_cinema_hd/index.m3u8?token=test
-#EXTINF:-1,Premium Action HD 
+#EXTINF:-1,Premium Action HD fun6
 http://flusonic-2.platinum-tv.com:80/premium_action_HD/index.m3u8?token=test
 
 
-#EXTINF:-1,Sky Cinema Uno HD 
-http://.xyz:8080/ITALIAN_SKY_CINEMA_UNO_HD/index.m3u8?token=test
-#EXTINF:-1,Sky Cinema Uno 24 HD 
-http://.xyz:8080/ITALIAN_SKY_CINEMA_UNO_+24_HD/index.m3u8?token=test
-#EXTINF:-1,Sky Cinema Due HD 
-http://.xyz:8080/ITALIAN_SKY_CINEMA_DUE_HD/index.m3u8?token=test
-#EXTINF:-1,Sky Cinema Comedy HD 
-http://.xyz:8080/ITALIAN_SKY_CINEMA_COMEDY_HD/index.m3u8?token=test
-#EXTINF:-1,Sky Atlantic HD 
-http://.xyz:8080/ITALIAN_SKY_ATLANTIC_HD/index.m3u8?token=test
-#EXTINF:-1,Sky Cinema Action HD 
-http://.xyz:8080/ITALIAN_SKY_CINEMA_ACTION_HD/index.m3u8?token=test
-#EXTINF:-1,Sky Cinema Drama HD 
-http://.xyz:8080/ITALIAN_SKY_CINEMA_DRAMA_HD/index.m3u8?token=test
-#EXTINF:-1,Sky Cinema Collection HD 
-http://.xyz:8080/ITALIAN_SKY_CINEMA_COLLECTION_HD/index.m3u8?token=test
-#EXTINF:-1,Sky Cinema Comedy HD 
+#EXTINF:-1,Sky Cinema Uno HD epic
+http://fun6.xyz:8080/ITALIAN_SKY_CINEMA_UNO_HD/index.m3u8?token=test
+#EXTINF:-1,Sky Cinema Uno 24 HD epic
+http://fun6.xyz:8080/ITALIAN_SKY_CINEMA_UNO_+24_HD/index.m3u8?token=test
+#EXTINF:-1,Sky Cinema Due HD epic
+http://fun6.xyz:8080/ITALIAN_SKY_CINEMA_DUE_HD/index.m3u8?token=test
+#EXTINF:-1,Sky Cinema Comedy HD epic
+http://fun6.xyz:8080/ITALIAN_SKY_CINEMA_COMEDY_HD/index.m3u8?token=test
+#EXTINF:-1,Sky Atlantic HD fun6
+http://fun6.xyz:8080/ITALIAN_SKY_ATLANTIC_HD/index.m3u8?token=test
+#EXTINF:-1,Sky Cinema Action HD fun6
+http://fun6.xyz:8080/ITALIAN_SKY_CINEMA_ACTION_HD/index.m3u8?token=test
+#EXTINF:-1,Sky Cinema Drama HD fun6
+http://fun6.xyz:8080/ITALIAN_SKY_CINEMA_DRAMA_HD/index.m3u8?token=test
+#EXTINF:-1,Sky Cinema Collection HD fun6
+http://fun6.xyz:8080/ITALIAN_SKY_CINEMA_COLLECTION_HD/index.m3u8?token=test
+#EXTINF:-1,Sky Cinema Comedy HD fun6
 http://flusonic-5.platinum-tv.com:80/sky_cinema_comedy_it/index.m3u8?token=test
 
 
-#EXTINF:-1,Sky Moto GP HD 
-http://.xyz:8080/ITALIAN_Sky_Sport_Moto_GP_HD/index.m3u8?token=test
-#EXTINF:-1,Sky Sport F1 HD 
-http://.xyz:8080/ITALIAN_Sky_Sport_F1_HD/index.m3u8?token=test
-#EXTINF:-1,Sky Sport Football HD 
-http://.xyz:8080/ITALIAN_Sky_Sport_Football_HD/index.m3u8?token=test
+#EXTINF:-1,Sky Moto GP HD fun6
+http://fun6.xyz:8080/ITALIAN_Sky_Sport_Moto_GP_HD/index.m3u8?token=test
+#EXTINF:-1,Sky Sport F1 HD fun6
+http://fun6.xyz:8080/ITALIAN_Sky_Sport_F1_HD/index.m3u8?token=test
+#EXTINF:-1,Sky Sport Football HD fun6
+http://fun6.xyz:8080/ITALIAN_Sky_Sport_Football_HD/index.m3u8?token=test
 #EXTINF:-1,Sky Sport Uno HD
 http://flusonic-5.platinum-tv.com:80/skysport1_it/index.m3u8?token=test
 
 #EXTINF:-1,Dazn Serie A HD
-http://.xyz:8080/ITALIAN_Dazn_Serie_A_HD/index.m3u8?token=test
+http://fun6.xyz:8080/ITALIAN_Dazn_Serie_A_HD/index.m3u8?token=test
 #EXTINF:-1,Dazn Sport 1 HD
-http://.xyz:8080/ITALIAN_Dazn_Sport_1_HD/index.m3u8?token=test
+http://fun6.xyz:8080/ITALIAN_Dazn_Sport_1_HD/index.m3u8?token=test
 #EXTINF:-1,Dazn Sport 10 HD
-http://.xyz:8080/ITALIAN_Dazn_Sport_10_HD/index.m3u8?token=test
+http://fun6.xyz:8080/ITALIAN_Dazn_Sport_10_HD/index.m3u8?token=test
 #EXTINF:-1,Dazn Sport 11 HD
-http://.xyz:8080/ITALIAN_Dazn_Sport_11_HD/index.m3u8?token=test
+http://fun6.xyz:8080/ITALIAN_Dazn_Sport_11_HD/index.m3u8?token=test
 #EXTINF:-1,Dazn Sport 12 HD
-http://.xyz:8080/ITALIAN_Dazn_Sport_12_HD/index.m3u8?token=test
+http://fun6.xyz:8080/ITALIAN_Dazn_Sport_12_HD/index.m3u8?token=test
 #EXTINF:-1,Dazn Sport 13 HD
-http://.xyz:8080/ITALIAN_Dazn_Sport_13_HD/index.m3u8?token=test
+http://fun6.xyz:8080/ITALIAN_Dazn_Sport_13_HD/index.m3u8?token=test
 #EXTINF:-1,Dazn Sport 14 HD
-http://.xyz:8080/ITALIAN_Dazn_Sport_14_HD/index.m3u8?token=test
+http://fun6.xyz:8080/ITALIAN_Dazn_Sport_14_HD/index.m3u8?token=test
 #EXTINF:-1,Dazn Sport 15 HD
-http://.xyz:8080/ITALIAN_Dazn_Sport_15_HD/index.m3u8?token=test
+http://fun6.xyz:8080/ITALIAN_Dazn_Sport_15_HD/index.m3u8?token=test
 #EXTINF:-1,Dazn Sport 16 HD
-http://.xyz:8080/ITALIAN_Dazn_Sport_16_HD/index.m3u8?token=test
+http://fun6.xyz:8080/ITALIAN_Dazn_Sport_16_HD/index.m3u8?token=test
 #EXTINF:-1,Dazn Sport 2 HD
-http://.xyz:8080/ITALIAN_Dazn_Sport_2_HD/index.m3u8?token=test
+http://fun6.xyz:8080/ITALIAN_Dazn_Sport_2_HD/index.m3u8?token=test
 #EXTINF:-1,Dazn Sport 3 HD
-http://.xyz:8080/ITALIAN_Dazn_Sport_3_HD/index.m3u8?token=test
+http://fun6.xyz:8080/ITALIAN_Dazn_Sport_3_HD/index.m3u8?token=test
 #EXTINF:-1,Dazn Sport 4 HD
-http://.xyz:8080/ITALIAN_Dazn_Sport_4_HD/index.m3u8?token=test
+http://fun6.xyz:8080/ITALIAN_Dazn_Sport_4_HD/index.m3u8?token=test
 #EXTINF:-1,Dazn Sport 5 HD
-http://.xyz:8080/ITALIAN_Dazn_Sport_5_HD/index.m3u8?token=test
+http://fun6.xyz:8080/ITALIAN_Dazn_Sport_5_HD/index.m3u8?token=test
 #EXTINF:-1,Dazn Sport 6 HD
-http://.xyz:8080/ITALIAN_Dazn_Sport_6_HD/index.m3u8?token=test
+http://fun6.xyz:8080/ITALIAN_Dazn_Sport_6_HD/index.m3u8?token=test
 #EXTINF:-1,Dazn Sport 7 HD
-http://.xyz:8080/ITALIAN_Dazn_Sport_7_HD/index.m3u8?token=test
+http://fun6.xyz:8080/ITALIAN_Dazn_Sport_7_HD/index.m3u8?token=test
 #EXTINF:-1,Dazn Sport 8 HD
-http://.xyz:8080/ITALIAN_Dazn_Sport_8_HD/index.m3u8?token=test
+http://fun6.xyz:8080/ITALIAN_Dazn_Sport_8_HD/index.m3u8?token=test
 #EXTINF:-1,Dazn Sport 9 HD
-http://.xyz:8080/ITALIAN_Dazn_Sport_9_HD/index.m3u8?token=test
+http://fun6.xyz:8080/ITALIAN_Dazn_Sport_9_HD/index.m3u8?token=test
 
 
 
