@@ -6471,6 +6471,9 @@ http://flusonic-5.platinum-tv.com:88/TV8_IT/index.m3u8?token=test
 http://fun6.xyz:2052/ITALIAN_RSI_LA_1/index.m3u8?token=test
 #EXTINF:-1,Rsi La 2 HD epic
 http://fun6.xyz:2052/ITALIAN_RSI_LA_2/index.m3u8?token=test
+#EXTINF:-1,SKY_UNO_FHD
+http://fun6.xyz:8080/ITALIAN_SKY_UNO_FHD/index.m3u8?token=test
+
 
 #EXTINF:-1,Premium Cinema 1 HD fun6
 http://flusonic-2.platinum-tv.com:80/premium_cinema_hd/index.m3u8?token=test
@@ -6478,12 +6481,10 @@ http://flusonic-2.platinum-tv.com:80/premium_cinema_hd/index.m3u8?token=test
 http://89.187.181.27:9180/ITALIAN_Premium_Cinema__+24_HD/index.m3u8?token=test
 #EXTINF:-1,Premium Cinema 2 HD
 http://89.187.181.27:9180/ITALIAN_PREMIUM_COMEDY/index.m3u8?token=test
-
-
 #EXTINF:-1,Premium Action HD fun6
 http://flusonic-2.platinum-tv.com:80/premium_action_HD/index.m3u8?token=test
-
-
+#EXTINF:-1,PREMIUM_CRIME
+http://fun6.xyz:8880/ITALIAN_PREMIUM_CRIME/index.m3u8?token=test
 #EXTINF:-1,Sky Cinema Uno HD epic
 http://fun6.xyz:8080/ITALIAN_SKY_CINEMA_UNO_HD/index.m3u8?token=test
 #EXTINF:-1,Sky Cinema Uno 24 HD epic
@@ -6538,8 +6539,8 @@ http://89.187.181.27:9180/ITALIAN_NATGEO_HD/index.m3u8?token=test
 http://fun6.xyz:2052/ITALIAN_DISCOVERY_SCIENCE/index.m3u8?token=test
 #EXTINF:-1,ITALIAN_FOCUS
 http://89.187.181.27:9180/ITALIAN_FOCUS/index.m3u8?token=test
-
-
+#EXTINF:-1,MotorTrend
+http://89.187.181.27:9180/ITALIAN_MotorTrend/index.m3u8?token=test
 
 #EXTINF:-1,Sky Moto GP HD fun6
 http://fun6.xyz:8080/ITALIAN_Sky_Sport_Moto_GP_HD/index.m3u8?token=test
