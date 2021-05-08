@@ -2808,44 +2808,95 @@ https://rebrand.ly/Shqipks2
 https://rebrand.ly/Shqipks3
 #EXTINF:-1,KUJTESA SPORT 4 HD
 https://rebrand.ly/Shqipks4
-#EXTINF:-1,DAZN SPORT F1 HD epic
-http://v4.epiciptv.com:2000/Canal.Formula1/video.m3u8?token=test
-#EXTINF:-1,SKY SPORT F1 HD epic
-http://superior44.cz/SkySportsF1/video.m3u8?token=test
-#EXTINF:-1,SKY SPORT UNO HD epic
-http://superior44.cz/SkySports1/video.m3u8?token=test
-#EXTINF:-1,SKY SPORT FOOTBALL HD epic
-http://superior44.cz/SkySports3/video.m3u8?token=test
-#EXTINF:-1,SKY SPORT SERIE A HD epic
-http://superior44.cz/SkySportSerieAHD/video.m3u8?token=test
-#EXTINF:-1,BEIN SPORT 1 HD epic
-http://superior44.cz/BeinSport1A/video.m3u8?token=test
-#EXTINF:-1,BEIN SPORT 2 HD epic
-http://superior44.cz/BeinSport2A/video.m3u8?token=test
-#EXTINF:-1,BEIN SPORT 3 HD epic
-http://superior44.cz/BeinSport3A/video.m3u8?token=test
-#EXTINF:-1,BEIN SPORT 4 HD epic
-http://superior44.cz/BeinSport4A/video.m3u8?token=test
-#EXTINF:-1,BEIN SPORT 5 HD epic
-http://superior44.cz/BeinSport5A/video.m3u8?token=test
-#EXTINF:-1,BEIN SPORT 6 HD epic
-http://superior44.cz/BeinSport6A/video.m3u8?token=test
-#EXTINF:-1,BEIN SPORT 7 HD epic
-http://superior44.cz/BeinSport7A/video.m3u8?token=test
-#EXTINF:-1,BEIN SPORT 8 HD epic
-http://superior44.cz/BeinSport8A/video.m3u8?token=test
-#EXTINF:-1,Eleven Sports 1 HD epic
-http://vs7.epiciptv.com:2000/ElevenSports1/video.m3u8?token=test
-#EXTINF:-1,Eleven Sports 2 HD epic
-http://vs7.epiciptv.com:2000/ElevenSports2/video.m3u8?token=test
-#EXTINF:-1,Eleven Sports 3 HD epic
-http://vs7.epiciptv.com:2000/ElevenSports3/video.m3u8?token=test
-#EXTINF:-1,Eleven Sports 4 HD epic
-http://vs7.epiciptv.com:2000/ElevenSports4/video.m3u8?token=test
-#EXTINF:-1,Eleven Sports 5 HD epic
-http://vs7.epiciptv.com:2000/ElevenSports5/video.m3u8?token=test
-#EXTINF:-1,Eleven Sports 6 HD epic
-http://vs7.epiciptv.com:2000/ElevenSports6/video.m3u8?token=test
+
+#EXTINF:-1,SUPER_SPORT_1
+http://fun6.xyz:2052/ALBANIA_SUPER_SPORT_1/index.m3u8?token=test
+#EXTINF:-1,SUPER_SPORT_2
+http://fun6.xyz:2052/ALBANIA_SUPER_SPORT_1/index.m3u8?token=test
+#EXTINF:-1,SUPER_SPORT_3
+http://fun6.xyz:2052/ALBANIA_SUPER_SPORT_3/index.m3u8?token=test
+#EXTINF:-1,SUPER_SPORT_4
+http://fun6.xyz:2052/ALBANIA_SUPER_SPORT_4/index.m3u8?token=test
+#EXTINF:-1,SUPER_SPORT_5
+http://fun6.xyz:2052/ALBANIA_SUPER_SPORT_5/index.m3u8?token=test
+#EXTINF:-1,ASTRO_SUPERSPORT_1
+http://185.246.209.209:80/ASTRO_SUPERSPORT_1/index.m3u8?token=test
+#EXTINF:-1,ASTRO_SUPERSPORT_2
+http://185.246.209.209:80/ASTRO_SUPERSPORT_2/index.m3u8?token=test
+#EXTINF:-1,ASTRO_SUPERSPORT_3
+http://185.246.209.209:80/ASTRO_SUPERSPORT_3/index.m3u8?token=test
+#EXTINF:-1,ASTRO_SUPERSPORT_4
+http://185.246.209.209:80/ASTRO_SUPERSPORT_4/index.m3u8?token=test
+
+#EXTINF:-1,ARENA_1_CROATIA
+http://185.246.209.209:80/SPORT_ARENA_1_CROATIA/index.m3u8?token=test
+#EXTINF:-1,ARENA_2_CROATIA
+http://185.246.209.209:80/SPORT_ARENA_2_CROATIA/index.m3u8?token=test
+#EXTINF:-1,ARENA_3_CROATIA
+http://185.246.209.209:80/SPORT_ARENA_3_CROATIA/index.m3u8?token=test
+#EXTINF:-1,ARENA_4_CROATIA
+http://185.246.209.209:80/SPORT_ARENA_4_CROATIA/index.m3u8?token=test
+#EXTINF:-1,ARENA_5_CROATIA
+http://185.246.209.209:80/SPORT_ARENA_5_CROATIA/index.m3u8?token=test
+#EXTINF:-1,ARENA_6_CROATIA
+http://185.246.209.209:80/SPORT_ARENA_6_CROATIA/index.m3u8?token=test
+#EXTINF:-1,SPORTKLUB_1_HD
+http://fun6.xyz:8080/SLOVENIA_SPORTKLUB_1_HD/index.m3u8?token=test
+#EXTINF:-1,SPORTKLUB_2_HD
+http://fun6.xyz:8080/SLOVENIA_SPORTKLUB_2_HD/index.m3u8?token=test
+#EXTINF:-1,SPORTKLUB_3_HD
+http://fun6.xyz:8080/SLOVENIA_SPORTKLUB_3_HD/index.m3u8?token=test
+#EXTINF:-1,Sky_Sport_Serie_A_Full_HD
+http://89.187.181.27:9180/ITALIAN_Sky_Sport_Serie_A_Full_HD/index.m3u8?token=test
+#EXTINF:-1,Sky_Sport_Uno_Full_HD
+http://fun6.xyz:8080/ITALIAN_Sky_Sport_Uno_Full_HD/index.m3u8?token=test
+#EXTINF:-1,Sky_Sport_Football_Full_HD
+http://fun6.xyz:8080/ITALIAN_Sky_Sport_Football_Full_HD/index.m3u8?token=test
+#EXTINF:-1,Sky_Sport_F1_Full_HD
+http://fun6.xyz:8080/ITALIAN_Sky_Sport_F1_Full_HD/index.m3u8?token=test
+#EXTINF:-1,Sky_Sport_Moto_GP_Full_HD
+http://fun6.xyz:8080/ITALIAN_Sky_Sport_Moto_GP_Full_HD/index.m3u8?token=test
+#EXTINF:-1,Sky_Sport_NBA_Full_HD
+http://fun6.xyz:8080/ITALIAN_Sky_Sport_NBA_Full_HD/index.m3u8?token=test
+#EXTINF:-1,Sky_Sport_Arena_Full_HD
+http://89.187.181.27:9180/ITALIAN_Sky_Sport_Arena_Full_HD/index.m3u8?token=test
+#EXTINF:-1,Dazn_Sport_1_HD
+http://fun6.xyz:8080/ITALIAN_Dazn_Sport_1_HD/index.m3u8?token=test
+#EXTINF:-1,Dazn_Sport_2_HD
+http://fun6.xyz:8080/ITALIAN_Dazn_Sport_2_HD/index.m3u8?token=test
+#EXTINF:-1,Dazn_Sport_3_HD
+http://89.187.181.27:9180/ITALIAN_Dazn_Sport_3_HD/index.m3u8?token=test
+
+#EXTINF:-1,Sky_Calcio_1_HD
+http://fun6.xyz:8080/ITALIAN_Sky_Calcio_1_HD/index.m3u8?token=test
+#EXTINF:-1,Sky_Calcio_2_HD
+http://fun6.xyz:8080/ITALIAN_Sky_Calcio_2_HD/index.m3u8?token=test
+#EXTINF:-1,Sky_Calcio_3_HD
+http://fun6.xyz:8080/ITALIAN_Sky_Calcio_3_HD/index.m3u8?token=test
+#EXTINF:-1,Sky_Calcio_4_HD
+http://fun6.xyz:8080/ITALIAN_Sky_Calcio_4_HD/index.m3u8?token=test
+#EXTINF:-1,Sky_Calcio_5_HD
+http://fun6.xyz:8080/ITALIAN_Sky_Calcio_5_HD/index.m3u8?token=test
+#EXTINF:-1,Sky_Calcio_6_HD
+http://fun6.xyz:8080/ITALIAN_Sky_Calcio_6_HD/index.m3u8?token=test
+#EXTINF:-1,COSMOTE_SPORT_1
+http://fun6.xyz:2052/GREEK_COSMOTE_SPORT_1/index.m3u8?token=test
+#EXTINF:-1,COSMOTE_SPORT_2
+http://fun6.xyz:2052/GREEK_COSMOTE_SPORT_2/index.m3u8?token=test
+#EXTINF:-1,COSMOTE_SPORT_3
+http://fun6.xyz:2052/GREEK_COSMOTE_SPORT_3/index.m3u8?token=test
+#EXTINF:-1,COSMOTE_SPORT_4
+http://fun6.xyz:2052/GREEK_COSMOTE_SPORT_4/index.m3u8?token=test
+#EXTINF:-1,COSMOTE_SPORT_5
+http://fun6.xyz:2052/GREEK_COSMOTE_SPORT_5/index.m3u8?token=test
+#EXTINF:-1,COSMOTE_SPORT_6
+http://fun6.xyz:2052/GREEK_COSMOTE_SPORT_6/index.m3u8?token=test
+#EXTINF:-1,COSMOTE_SPORT_7
+http://fun6.xyz:2052/GREEK_COSMOTE_SPORT_7/index.m3u8?token=test
+#EXTINF:-1,COSMOTE_SPORT_8
+http://fun6.xyz:2052/GREEK_COSMOTE_SPORT_8/index.m3u8?token=test
+#EXTINF:-1,COSMOTE_SPORT_9
+http://fun6.xyz:2052/GREEK_COSMOTE_SPORT_9/index.m3u8?token=test
 #EXTINF:-1,CANAL SPORT 1
 http://173.193.195.138:8152/s/cplussphd/index.m3u8
 #EXTINF:-1,CANAL SPORT 2
