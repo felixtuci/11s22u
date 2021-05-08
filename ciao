@@ -6474,6 +6474,12 @@ http://fun6.xyz:2052/ITALIAN_RSI_LA_2/index.m3u8?token=test
 
 #EXTINF:-1,Premium Cinema 1 HD fun6
 http://flusonic-2.platinum-tv.com:80/premium_cinema_hd/index.m3u8?token=test
+#EXTINF:-1,Premium_Cinema__+24_HD
+http://89.187.181.27:9180/ITALIAN_Premium_Cinema__+24_HD/index.m3u8?token=test
+#EXTINF:-1,Premium Cinema 2 HD
+http://89.187.181.27:9180/ITALIAN_PREMIUM_COMEDY/index.m3u8?token=test
+
+
 #EXTINF:-1,Premium Action HD fun6
 http://flusonic-2.platinum-tv.com:80/premium_action_HD/index.m3u8?token=test
 
@@ -6496,6 +6502,43 @@ http://fun6.xyz:8080/ITALIAN_SKY_CINEMA_DRAMA_HD/index.m3u8?token=test
 http://fun6.xyz:8080/ITALIAN_SKY_CINEMA_COLLECTION_HD/index.m3u8?token=test
 #EXTINF:-1,Sky Cinema Comedy HD fun6
 http://flusonic-5.platinum-tv.com:80/sky_cinema_comedy_it/index.m3u8?token=test
+#EXTINF:-1,Fox HD
+http://89.187.181.27:9180/ITALIAN_FOX_HD/index.m3u8?token=test
+#EXTINF:-1,Cine34
+http://89.187.181.27:9180/ITALIAN_Cine34/index.m3u8?token=test
+#EXTINF:-1,FilmAlCinema_1
+http://fun6.xyz:8080/ITALIAN_FilmAlCinema_1/index.m3u8?token=test
+#EXTINF:-1,FilmAlCinema_2
+http://fun6.xyz:8080/ITALIAN_FilmAlCinema_2/index.m3u8?token=test
+#EXTINF:-1,FilmAlCinema_3
+http://fun6.xyz:8080/ITALIAN_FilmAlCinema_3/index.m3u8?token=test
+#EXTINF:-1,FilmAlCinema_4
+http://fun6.xyz:8080/ITALIAN_FilmAlCinema_4/index.m3u8?token=test
+#EXTINF:-1,FilmAlCinema_5
+http://fun6.xyz:8080/ITALIAN_FilmAlCinema_5/index.m3u8?token=test
+#EXTINF:-1,FilmAlCinema_6
+http://fun6.xyz:8080/ITALIAN_FilmAlCinema_6/index.m3u8?token=test
+#EXTINF:-1,FilmAlCinema_7
+http://fun6.xyz:8080/ITALIAN_FilmAlCinema_7/index.m3u8?token=test
+#EXTINF:-1,FilmAlCinema_8
+http://fun6.xyz:8080/ITALIAN_FilmAlCinema_1/index.m3u8?token=test
+#EXTINF:-1,FilmAlCinema_9
+http://fun6.xyz:8080/ITALIAN_FilmAlCinema_9/index.m3u8?token=test
+#EXTINF:-1,FilmAlCinema_10
+http://fun6.xyz:8080/ITALIAN_FilmAlCinema_10/index.m3u8?token=test
+#EXTINF:-1,ITALIAN_HISTORY
+http://89.187.181.27:9180/ITALIAN_HISTORY/index.m3u8?token=test
+#EXTINF:-1,ITALIAN_DISCOVERY_HD
+http://fun6.xyz:8080/ITALIAN_DISCOVERY_HD/index.m3u8?token=test
+#EXTINF:-1,ITALIAN_NATGEO_WILD_FHD
+http://89.187.181.27:9180/ITALIAN_NATGEO_WILD_FHD/index.m3u8?token=test
+#EXTINF:-1,ITALIAN_NATGEO_HD
+http://89.187.181.27:9180/ITALIAN_NATGEO_HD/index.m3u8?token=test
+#EXTINF:-1,ITALIAN_DISCOVERY_SCIENCE
+http://fun6.xyz:2052/ITALIAN_DISCOVERY_SCIENCE/index.m3u8?token=test
+#EXTINF:-1,ITALIAN_FOCUS
+http://89.187.181.27:9180/ITALIAN_FOCUS/index.m3u8?token=test
+
 
 
 #EXTINF:-1,Sky Moto GP HD fun6
