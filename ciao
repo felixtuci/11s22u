@@ -2893,7 +2893,26 @@ http://fun6.xyz:2052/SPORTS_BEIN_1_FRANCE/index.m3u8?token=test
 http://fun6.xyz:2052/SPORTS_BEIN_2_FRANCE/index.m3u8?token=test
 #EXTINF:-1,BEIN_3_FRANCE
 http://fun6.xyz:2052/SPORTS_BEIN_3_FRANCE/index.m3u8?token=test
-
+#EXTINF:-1,SUPERSPORT 1 AF
+http://host2.worldtvip.co:9090/ss1/index.m3u8?token=test
+#EXTINF:-1,SUPERSPORT 2 AF
+http://host2.worldtvip.co:9090/ss2/index.m3u8?token=test
+#EXTINF:-1,SUPERSPORT 3 AF
+http://host2.worldtvip.co:9090/ss3/index.m3u8?token=test
+#EXTINF:-1,SUPERSPORT 4 AF
+http://host2.worldtvip.co:9090/ss4/index.m3u8?token=test
+#EXTINF:-1,SUPERSPORT 5 AF
+http://host2.worldtvip.co:9090/ss5/index.m3u8?token=test
+#EXTINF:-1,SUPERSPORT 6 AF
+http://host2.worldtvip.co:9090/ss6/index.m3u8?token=test
+#EXTINF:-1,SUPERSPORT 7 AF
+http://host2.worldtvip.co:9090/ss7/index.m3u8?token=test
+#EXTINF:-1,SUPERSPORT 8 AF
+http://host2.worldtvip.co:9090/ss8/index.m3u8?token=test
+#EXTINF:-1,SUPERSPORT 9 AF
+http://host2.worldtvip.co:9090/ss9/index.m3u8?token=test
+#EXTINF:-1,SUPERSPORT 10 AF
+http://host2.worldtvip.co:9090/ss10/index.m3u8?token=test
 
 #EXTINF:-1,ARENA_1_CROATIA
 http://185.246.209.209:80/SPORT_ARENA_1_CROATIA/index.m3u8?token=test
