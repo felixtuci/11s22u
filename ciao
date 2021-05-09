@@ -2877,6 +2877,24 @@ http://212.102.58.238:80/BEIN_SPORTS_2_ENGLISH/index.m3u8?token=test
 http://212.102.58.238:80/BEIN_SPORTS_3_ENGLISH/index.m3u8?token=test
 #EXTINF:-1,BEIN_SPORTS_SPANISH
 http://fun6.xyz:8080/SPORTS_BEIN_SPORTS_SPANISH/index.m3u8?token=test
+#EXTINF:-1,USA_beIN_La_Liga
+http://fun6.xyz:2052/USA_beIN_La_Liga/index.m3u8?token=test
+#EXTINF:-1,BEIN_SPORTS_CA
+http://fun6.xyz:2052/ENG_BEIN_SPORTS_CA/index.m3u8?token=test
+#EXTINF:-1,BEIN_SPORTS_1_AUS
+http://fun6.xyz:8080/SPORTS_BEIN_SPORTS_1_AUS/index.m3u8?token=test
+#EXTINF:-1,BEIN_SPORTS_2_AUS
+http://fun6.xyz:8080/SPORTS_BEIN_SPORTS_2_AUS/index.m3u8?token=test
+#EXTINF:-1,BEIN_SPORTS_3_AUS
+http://fun6.xyz:8080/SPORTS_BEIN_SPORTS_3_AUS/index.m3u8?token=test
+#EXTINF:-1,BEIN_1_FRANCE
+http://fun6.xyz:2052/SPORTS_BEIN_1_FRANCE/index.m3u8?token=test
+#EXTINF:-1,BEIN_2_FRANCE
+http://fun6.xyz:2052/SPORTS_BEIN_2_FRANCE/index.m3u8?token=test
+#EXTINF:-1,BEIN_3_FRANCE
+http://fun6.xyz:2052/SPORTS_BEIN_3_FRANCE/index.m3u8?token=test
+
+
 #EXTINF:-1,ARENA_1_CROATIA
 http://185.246.209.209:80/SPORT_ARENA_1_CROATIA/index.m3u8?token=test
 #EXTINF:-1,ARENA_2_CROATIA
@@ -2897,6 +2915,23 @@ http://fun6.xyz:8080/SLOVENIA_SPORTKLUB_2_HD/index.m3u8?token=test
 http://fun6.xyz:8080/SLOVENIA_SPORTKLUB_3_HD/index.m3u8?token=test
 #EXTINF:-1,SPORTS_KLUB_4_CRO
 http://185.246.209.209:80/SPORTS_KLUB_4_CRO/index.m3u8?token=test
+#EXTINF:-1,SPORT_TV_1_HD
+http://fun6.xyz:8080/SLOVENIA_SPORT_TV_1_HD/index.m3u8?token=test
+#EXTINF:-1,SPORT_TV_2_HD
+http://fun6.xyz:8080/SLOVENIA_SPORT_TV_2_HD/index.m3u8?token=test
+#EXTINF:-1,CANAL_PLUS_SPORT_FR
+http://fun6.xyz:8080/FRANCE_CANAL_PLUS_SPORT/index.m3u8?token=test
+#EXTINF:-1,DAZN_1_HD_EVENTOS
+http://fun6.xyz:8080/SPAIN_DAZN_1_HD_EVENTOS/index.m3u8?token=test
+#EXTINF:-1,DAZN_2_HD_EVENTOS
+http://fun6.xyz:8080/SPAIN_DAZN_2_HD_EVENTOS/index.m3u8?token=test
+#EXTINF:-1,M_LaLiga_1_FHD
+http://fun6.xyz:8080/SPAIN_M_LaLiga_1_FHD/index.m3u8?token=test
+#EXTINF:-1,Movistar_Deportes
+http://fun6.xyz:8080/SPAIN_Movistar_Deportes/index.m3u8?token=test
+#EXTINF:-1,Movistar_Liga_de_Campeones_FHD
+http://fun6.xyz:8080/SPAIN_Movistar_Liga_de_Campeones_FHD/index.m3u8?token=test
+
 
 
 #EXTINF:-1,Sky_Sport_Serie_A_Full_HD
@@ -2967,6 +3002,20 @@ http://212.102.58.209:80/PORT_ELEVEN_SPORTS_6_HD/index.m3u8?token=test
 http://173.193.195.138:8152/s/cplussphd/index.m3u8
 #EXTINF:-1,CANAL SPORT 2
 http://173.193.195.138:8152/cplussp2hd/index.m3u8
+#EXTINF:-1,Nova Sport CZ
+http://bgiptv.com:8888/NovaSport/index.m3u8?token=test
+#EXTINF:-1,DiemaSport 1
+http://bgiptv.com:8888/DiemaSport1/index.m3u8?token=test
+#EXTINF:-1,DiemaSport 2
+http://bgiptv.com:8888/DiemaSport2/index.m3u8?token=test
+#EXTINF:-1,MaxSport 1
+http://bgiptv.com:8888/MaxSport1/index.m3u8?token=test
+#EXTINF:-1,MaxSport 2
+http://bgiptv.com:8888/MaxSport2/index.m3u8?token=test
+#EXTINF:-1,MaxSport 3
+http://bgiptv.com:8888/MaxSport3/index.m3u8?token=test
+#EXTINF:-1,MaxSport 4
+http://bgiptv.com:8888/MaxSport4/index.m3u8?token=test
 
 #EXTINF:-1,AR: Bein Sport 1 HD fiber
 http://fiberpanel.fibertv.nl:8000/live/TomastreereTd5/Gdte537Ycv398fVmmfST/2098.ts
