@@ -2913,6 +2913,32 @@ http://host2.worldtvip.co:9090/ss8/index.m3u8?token=test
 http://host2.worldtvip.co:9090/ss9/index.m3u8?token=test
 #EXTINF:-1,SUPERSPORT 10 AF
 http://host2.worldtvip.co:9090/ss10/index.m3u8?token=test
+#EXTINF:-1,SUPERSPORT 11 AF
+http://host2.worldtvip.co:9090/ss11/index.m3u8?token=test
+#EXTINF:-1,SUPERSPORT 12 AF
+http://host2.worldtvip.co:9090/ss12/index.m3u8?token=test
+
+
+#EXTINF:-1,SUPERSPORT Premier League
+http://51.38.42.180:9090/supersports_premier_league/mpegts?token=test
+#EXTINF:-1,SUPERSPORT La Liga
+http://51.38.42.180:9090/supersports_laliga/mpegts?token=test
+#EXTINF:-1,SUPERSPORT Football
+http://51.38.42.180:9090/supersports_football/mpegts?token=test
+
+#EXTINF:-1,FOX SPORTS 1 HD 
+http://51.38.42.180:9090/nl_fox_sports_1_hd_eredivisie/mpegts?token=test
+#EXTINF:-1,FOX SPORTS 2 HD 
+http://51.38.42.180:9090/nl_fox_sports_2_hd_eredivisie/mpegts?token=test
+#EXTINF:-1,FOX SPORTS 3 HD
+http://51.38.42.180:9090/nl_fox_sports_3_hd_eredivisie/mpegts?token=test
+#EXTINF:-1,FOX SPORTS 4 HD
+http://51.38.42.180:9090/nl_fox_sports_4_hd_eredivisie/mpegts?token=test
+#EXTINF:-1,FOX SPORTS 5 HD
+http://51.38.42.180:9090/nl_fox_sports_5_hd_eredivisie/mpegts?token=test
+#EXTINF:-1,FOX SPORTS 6 HD
+http://51.38.42.180:9090/nl_fox_sports_6_hd_eredivisie/mpegts?token=test
+
 
 #EXTINF:-1,ARENA_1_CROATIA
 http://185.246.209.209:80/SPORT_ARENA_1_CROATIA/index.m3u8?token=test
@@ -2986,6 +3012,48 @@ http://fun6.xyz:8080/ITALIAN_Sky_Calcio_4_HD/index.m3u8?token=test
 http://fun6.xyz:8080/ITALIAN_Sky_Calcio_5_HD/index.m3u8?token=test
 #EXTINF:-1,Sky_Calcio_6_HD
 http://fun6.xyz:8080/ITALIAN_Sky_Calcio_6_HD/index.m3u8?token=test
+
+#EXTINF:-1,de_dazn_sport_1
+http://de.worldtvip.co:8080/local_dazn1/index.m3u8?token=test
+#EXTINF:-1,de_dazn_sport_2
+http://de.worldtvip.co:8080/local_dazn2/index.m3u8?token=test
+
+
+
+#EXTINF:-1,de_sports_sky_bundesliga_1_hd
+http://de.worldtvip.co:8080/de_sports_sky_bundesliga_1_hd/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,de_sports_sky_bundesliga_2_hd
+http://de.worldtvip.co:8080/de_sports_sky_bundesliga_2_hd/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,de_sports_sky_bundesliga_3_hd
+http://de.worldtvip.co:8080/de_sports_sky_bundesliga_3_hd/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,de_sports_sky_bundesliga_4_hd
+http://de.worldtvip.co:8080/de_sports_sky_bundesliga_4_hd/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,de_sports_sky_bundesliga_5_hd
+http://de.worldtvip.co:8080/de_sports_sky_bundesliga_5_hd/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,de_sports_sky_bundesliga_6_hd
+http://de.worldtvip.co:8080/de_sports_sky_bundesliga_6_hd/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,de_sports_sky_bundesliga_7_hd
+http://de.worldtvip.co:8080/de_sports_sky_bundesliga_7_hd/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,de_sports_sky_bundesliga_8_hd
+http://de.worldtvip.co:8080/de_sports_sky_bundesliga_8_hd/tracks-v1a1/mono.m3u8?token=test
+
+
+
+#EXTINF:-1,de_sports_sky_sport_1_hd
+http://de.worldtvip.co:8080/de_sports_sky_sport_1_hd/index.m3u8?token=test
+#EXTINF:-1,de_sports_sky_sport_2_hd
+http://de.worldtvip.co:8080/de_sports_sky_sport_2_hd/index.m3u8?token=test
+#EXTINF:-1,de_sports_sky_sport_3_hd
+http://de.worldtvip.co:8080/de_sports_sky_sport_3_hd/index.m3u8?token=test
+#EXTINF:-1,de_sports_sky_sport_4_hd
+http://de.worldtvip.co:8080/de_sports_sky_sport_4_hd/index.m3u8?token=test
+#EXTINF:-1,de_sports_sky_sport_5_hd
+http://de.worldtvip.co:8080/de_sports_sky_sport_5_hd/index.m3u8?token=test
+#EXTINF:-1,de_sports_sky_sport_6_hd
+http://de.worldtvip.co:8080/de_sports_sky_sport_6_hd/index.m3u8?token=test
+#EXTINF:-1,de_sports_sky_sport_7_hd
+http://de.worldtvip.co:8080/de_sports_sky_sport_7_hd/index.m3u8?token=test
+
 #EXTINF:-1,COSMOTE_SPORT_1
 http://fun6.xyz:2052/GREEK_COSMOTE_SPORT_1/index.m3u8?token=test
 #EXTINF:-1,COSMOTE_SPORT_2
