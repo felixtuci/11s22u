@@ -3085,6 +3085,15 @@ http://212.102.58.209:80/PORT_ELEVEN_SPORTS_5_HD/index.m3u8?token=test
 #EXTINF:-1,ELEVEN_SPORTS_6_HD
 http://212.102.58.209:80/PORT_ELEVEN_SPORTS_6_HD/index.m3u8?token=test
 
+
+#EXTINF:-1,P PPREMIUM 1 HD
+http://206.217.220.22:8152/pspone-n9Qzz3Wj889x5zar/mono.m3u8
+#EXTINF:-1,P PPREMIUM 2 HD
+http://206.217.220.22:8152/psptwo-n9Qzz3Wj889x5zar/mono.m3u8
+
+#EXTINF:-1,ELEVEn SPORTS 2
+http://158.85.43.78:8152/11sphd/tracks-v1a1/index.m3u8?token=test
+
 #EXTINF:-1,CANAL SPORT 1
 http://173.193.195.138:8152/s/cplussphd/index.m3u8
 #EXTINF:-1,CANAL SPORT 2
