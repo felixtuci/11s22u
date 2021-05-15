@@ -1,7 +1,6 @@
 #EXTINF:-1   group-title="-IPTV SHQIP 1-",
 #EXTINF:-1,AL: TOP Channel FHD ILLY
 http://93.157.62.180/TopChannel/index.m3u8
-
 #EXTINF:-1,AL: TOP Channel FHD
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1311
 #EXTINF:-1,Vizion Plus ILLY
@@ -10,8 +9,6 @@ http://93.157.62.180/VizionPlus/index.m3u8
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1299
 #EXTINF:-1,AL: Klan FHD
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1853
-#EXTINF:-1,AL: Klan HD MOB
-http://51.195.88.12:4050/live/klanhdott/playlist.m3u8
 #EXTINF:-1,Klan TV iLLY
 http://93.157.62.180/TVKlanHD/index.m3u8
 
@@ -340,14 +337,8 @@ http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/58347
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/26127
 #EXTINF:-1,AL: Sky Novela
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/16496
-#EXTINF:-1,I Love Tropoja HD
-https://bit.ly/ilovetropojaaa
-#EXTINF:-1,I Love Tropoja HD opsion 
-http://bit.ly/ilovetropojanos
-#EXTINF:-1,Dy Gisht Mjalt HD
-https://bit.ly/2gishtmjalttt
-#EXTINF:-1,Dy Gisht Mjalt HD opsion
-http://bit.ly/dygishtmjaltnos
+#EXTINF:-1,Film Premiere HD
+https://rebrand.ly/iptvshqipPremiere-1
 
 #EXTINF:-1,AL: FILM AKSION FHD
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/278218
