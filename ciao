@@ -10550,6 +10550,26 @@ http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/8513
 #EXTINF:-1,IL: Yes Knesest Tv
 http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/8491
 
+
+#EXTINF:-1,GR: Cosmote Sport 1 low HD
+https://a3.lp1ty.com/L2muf6tv9kpJeQ3B/0sport1HDlow/index.m3u8?token=test
+#EXTINF:-1,GR: Cosmote Sport 1 HD
+https://a3.lp1ty.com/L2muf6tv9kpJeQ3B/0sport1HD/index.m3u8?token=test
+#EXTINF:-1,GR: Cosmote Sport 2 HD
+https://a3.lp1ty.com/L2muf6tv9kpJeQ3B/0sport2HD/index.m3u8?token=test
+#EXTINF:-1,GR: Cosmote Sport 3 HD
+https://a3.lp1ty.com/L2muf6tv9kpJeQ3B/0sport3HD/index.m3u8?token=test
+#EXTINF:-1,GR: Cosmote Sport 4 HD
+https://a3.lp1ty.com/L2muf6tv9kpJeQ3B/0sport4HD/index.m3u8?token=test
+#EXTINF:-1,GR: Cosmote Sport 5 HD
+https://a3.lp1ty.com/L2muf6tv9kpJeQ3B/0sport5HD/index.m3u8?token=test
+#EXTINF:-1,GR: Cosmote Sport 6 HD
+https://a3.lp1ty.com/L2muf6tv9kpJeQ3B/0sport6HD/index.m3u8?token=test
+#EXTINF:-1,GR: Cosmote Sport 7 HD
+https://a3.lp1ty.com/L2muf6tv9kpJeQ3B/0sport7HD/index.m3u8?token=test
+#EXTINF:-1,GR: Cosmote Sport 8 HD
+https://a3.lp1ty.com/L2muf6tv9kpJeQ3B/0sport8HD/index.m3u8?token=test
+
 #EXTINF:-1,GR: James Bond Channel
 http://176.9.46.51:8080/jamesbond-channel/index.m3u8?token=test
 #EXTINF:-1,GR: Movies Action 1
