@@ -2839,6 +2839,21 @@ http://fun6.xyz:8080/HEBREW_IL_YES_SPORT2_HD/index.m3u8?token=test
 http://fun6.xyz:8080/HEBREW_IL_YES_SPORT3_HD/index.m3u8?token=test
 #EXTINF:-1,IL_YES_SPORT4_HD
 http://fun6.xyz:8080/HEBREW_IL_YES_SPORT4_HD/index.m3u8?token=test
+
+#EXTINF:-1,BEIN SPORTS 1 HD k2
+http://k2.no-ips.org:8080/AR_BEIN_SPORTS_1/index.m3u8?token=test
+#EXTINF:-1,BEIN SPORTS 2 HD k2
+http://k2.no-ips.org:8080/AR_BEIN_SPORTS_2/index.m3u8?token=test
+#EXTINF:-1,BEIN SPORTS 3 HD k2
+http://k2.no-ips.org:8080/AR_BEIN_SPORTS_3/index.m3u8?token=test
+#EXTINF:-1,BEIN SPORTS 4 HD k2
+http://k2.no-ips.org:8080/AR_BEIN_SPORTS_4/index.m3u8?token=test
+#EXTINF:-1,BEIN SPORTS 5 HD k2
+http://k2.no-ips.org:8080/AR_BEIN_SPORTS_5/index.m3u8?token=test
+#EXTINF:-1,BEIN SPORTS 6 HD k2
+http://k2.no-ips.org:8080/AR_BEIN_SPORTS_6/index.m3u8?token=test
+
+
 #EXTINF:-1,BEIN_SPORTS_1
 http://212.102.58.238:80/BEIN_SPORTS_1/index.m3u8?token=test
 #EXTINF:-1,BEIN_SPORTS_2
