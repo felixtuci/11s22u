@@ -2809,6 +2809,46 @@ http://fun6.xyz:2052/ALBANIA_SUPER_SPORT_3/index.m3u8?token=test
 http://fun6.xyz:2052/ALBANIA_SUPER_SPORT_4/index.m3u8?token=test
 #EXTINF:-1,SUPER_SPORT_5
 http://fun6.xyz:2052/ALBANIA_SUPER_SPORT_5/index.m3u8?token=test
+
+
+#EXTINF:-1,SUPER SPORT 1 HD
+http://ran.no-ips.net:8888/StS/276568/index.m3u8?token=test
+#EXTINF:-1,SUPER SPORT 2 HD
+http://ran.no-ips.net:8888/StS/3128/index.m3u8?token=test
+#EXTINF:-1,SUPER SPORT 3 HD
+http://ran.no-ips.net:8888/StS/3129/index.m3u8?token=test
+#EXTINF:-1,SUPER SPORT 4 HD
+http://ran.no-ips.net:8888/StS/209433/index.m3u8?token=test
+#EXTINF:-1,DE_SKY_SPORTS_1 HD
+http://athlit1.no-ips.org:8080/DE_SKY_SPORTS_1/index.m3u8?token=test
+#EXTINF:-1,DE_SKY_SPORTS_2 HD
+http://athlit1.no-ips.org:8080/DE_SKY_SPORTS_2/index.m3u8?token=test
+#EXTINF:-1,DE_SKY_SPORTS_3 HD
+http://ath1.no-ips.org:8080/SportStreamS/123018/index.m3u8?token=test
+#EXTINF:-1,DE_SKY_SPORTS_4 HD
+http://ath1.no-ips.org:8080/SportStreamS/123019/index.m3u8?token=test
+#EXTINF:-1,DE_SKY_SPORTS_5 HD
+http://ath1.no-ips.org:8080/SportStreamS/123020/index.m3u8?token=test
+
+
+
+#EXTINF:-1,DE_Sky_BUNDESLIGA_1_HD
+http://athlit1.no-ips.org:8080/DE_Sky_BUNDESLIGA_1_HD/index.m3u8?token=test
+#EXTINF:-1,DE_Sky_BUNDESLIGA_2_HD
+http://ath1.no-ips.org:8080/SportStreamS/3413/index.m3u8?token=test
+#EXTINF:-1,DE_Sky_BUNDESLIGA_3_HD
+http://ath1.no-ips.org:8080/SportStreamS/3412/index.m3u8?token=test
+#EXTINF:-1,DE_Sky_BUNDESLIGA_4_HD
+http://ath1.no-ips.org:8080/SportStreamS/123115/index.m3u8?token=test
+#EXTINF:-1,DE_Sky_BUNDESLIGA_5_HD
+http://ath1.no-ips.org:8080/SportStreamS/3410/index.m3u8?token=test
+
+
+
+
+
+
+
 #EXTINF:-1,ASTRO_SUPERSPORT_1
 http://185.246.209.209:80/ASTRO_SUPERSPORT_1/index.m3u8?token=test
 #EXTINF:-1,ASTRO_SUPERSPORT_2
@@ -10405,6 +10445,16 @@ http://fun6.xyz:8080/HEBREW_IL_YES_ACTION_HD/index.m3u8?token=test
 #EXTINF:-1,IL_YES_DOCU_HD
 http://fun6.xyz:8080/HEBREW_IL_YES_DOCU_HD/index.m3u8?token=test
 
+#EXTINF:-1,IL: Sport 1
+http://k2.no-ips.org:8080/issport1/mpegts?tokentest
+#EXTINF:-1,IL: Sport 2
+http://k2.no-ips.org:8080/issport2/mpegts?tokentest
+#EXTINF:-1,IL: Sport 3
+http://k2.no-ips.org:8080/issport3/mpegts?tokentest
+#EXTINF:-1,IL: Sport 4
+http://k2.no-ips.org:8080/issport4/mpegts?tokentest
+#EXTINF:-1,IL: Sport 5
+http://k2.no-ips.org:8080/issport5/mpegts?tokentest
 
 
 #EXTINF:-1,IL: YES SPORT 1 HD
@@ -10497,3 +10547,89 @@ http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/8516
 http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/8513
 #EXTINF:-1,IL: Yes Knesest Tv
 http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/8491
+
+#EXTINF:-1,GR: James Bond Channel
+http://176.9.46.51:8080/jamesbond-channel/index.m3u8?token=test
+#EXTINF:-1,GR: Movies Action 1
+http://176.9.46.51:8080/action1-channel/index.m3u8?token=test
+#EXTINF:-1,GR: Movies Action 2
+http://176.9.46.51:8080/action2-channel/index.m3u8?token=test
+#EXTINF:-1,GR: Movies Comedy 1
+http://176.9.46.227:8080/comedy1-channel/index.m3u8?token=test
+#EXTINF:-1,GR: Movies Comedy 2
+http://176.9.46.227:8080/comedy2-channel/index.m3u8?token=test
+#EXTINF:-1,GR: Movies Adventure
+http://176.9.46.51:8080/adventure-channel/index.m3u8?token=test
+#EXTINF:-1,GR: Movies SciFi
+http://88.198.105.14:8080/scifi1-channel/index.m3u8?token=test
+#EXTINF:-1,GR: Movies SciFi 2
+http://88.198.105.14:8080/scifi2-channel/index.m3u8?token=test
+
+#EXTINF:-1,GR: Movies Horror
+http://176.9.46.51:8080/horror1-channel/index.m3u8?token=test
+#EXTINF:-1,GR: Movies Horror 2
+http://176.9.46.51:8080/horror2-channel/index.m3u8?token=test
+#EXTINF:-1,GR: Movies Heroes
+http://88.198.105.14:8080/super1-channel/index.m3u8?token=test
+#EXTINF:-1,GR: Movies Heroes 2
+http://88.198.105.14:8080/super1-channel/index.m3u8?token=test
+#EXTINF:-1,GR: Movies Marvel
+http://176.9.46.51:8080/marvel-23-movies/index.m3u8?token=
+#EXTINF:-1,GR: Movies Marvel 2
+http://176.9.46.227:8080/marvel-23-release/index.m3u8?token=test
+#EXTINF:-1,GR: Movies Family
+http://88.198.105.14:8080/family1-channel/index.m3u8?token=test
+#EXTINF:-1,GR: Movies Drama
+http://176.9.46.51:8080/drama1-channel/index.m3u8?token=test
+#EXTINF:-1,GR: Movies Thriller
+http://176.9.46.227:8080/thriller1-channel/index.m3u8?token=test
+#EXTINF:-1,GR: Movies War
+http://88.198.105.14:8080/war-channel/index.m3u8?token=test
+#EXTINF:-1,GR: Movies Max
+http://176.9.46.227:8080/cinema1-channel/index.m3u8?token=test
+#EXTINF:-1,GR: Movies Max 8
+http://176.9.46.227:8080/cinema8-channel/index.m3u8?token=test
+
+#EXTINF:-1,GR: Movies OnDemand 1
+http://88.198.105.14:8080/7pZvJuKX/Cinema1/index.m3u8?token=test
+
+#EXTINF:-1,GR: Movies OnDemand 10
+http://176.9.46.227:8080/7pZvJuKX/Cinema10/index.m3u8?token=test
+
+#EXTINF:-1,UK: Sky MoviesAction HD
+http://ws.gvw81.com:8888/SkyMoviesActionHD/index.m3u8?token=test
+#EXTINF:-1,UK: Sky MoviesComedy HD
+http://ws.gvw81.com:8888/SkyMoviesComedyHD/index.m3u8?token=test
+#EXTINF:-1,UK: Sky MoviesFamily HD
+http://ws.gvw81.com:8888/SkyMoviesFamilyHD/index.m3u8?token=test
+#EXTINF:-1,UK: Sky MovieScifi&Horror HD
+http://ws.gvw81.com:8888/SkyMovieScifi&HorrorHD/index.m3u8?token=test
+
+#EXTINF:-1,UK: Sky MoviesCrime&Thriller HD
+http://ws.gvw81.com:8888/SkyMoviesCrime&ThrillerHD/index.m3u8?token=test
+
+http://ws.gvw81.com:8888/SkyMoviesGreatsHD/index.m3u8?token=0000da42c2dea7148a09460c4cb6fe09
+http://ws.gvw81.com:8888/SkyMoviesPremiereHD/index.m3u8?token=5ae78fd7a5cd44be994abb607acde833
+http://ws.gvw81.com:8888/SkyMoviesDrama&RomanceHD/index.m3u8?token=fb445fd64951456d93e9edd70f68b7d5
+http://ws.gvw81.com:8888/SkyMoviesSelectHD/index.m3u8?token=db29152b92c0b450a0b4c6ea9beb9a11
+http://ws.gvw81.com:8888/SkyMoviesShowcaseHD/index.m3u8?token=71261c524c4e481b836068ddc4a44824
+http://ws.gvw81.com:8888/SonyMovies/index.m3u8?token=16ff23a71ff994924bdb59d7414bd1b4
+
+#EXTINF:-1,FI: Viasat Premiere
+http://ath1.no-ips.org:8080/SportStreamS/134712/mpegts?token=ff67607b9f12cf2e807d9003f85f9eda
+#EXTINF:-1,DK: Viasat Action
+http://ath1.no-ips.org:8080/SportStreamS/134477/mpegts?token=d1f4d4d2696f5cfb7d9d5a2d67e62629
+#EXTINF:-1,DK: Viasat Hitst
+http://ath1.no-ips.org:8080/SportStreamS/134475/mpegts?token=a5be39314b70f09b00069404d29ff074
+#EXTINF:-1,DK: Viasat Premiere
+http://ath1.no-ips.org:8080/SportStreamS/134474/mpegts?token=8b3eb8d0122b68676388b240a6319b00
+
+
+
+
+http://servde.noips.info:8888/dCfbtH/Sky_Action_HD_DE/mpegts?token=4482db9ed2434947bc2c2807c32da57c
+http://servde.noips.info:8888/dCfbtH/Sky_Cinema_HD_DE/mpegts?token=5f0580dd3664af4c7a52d39214cc1a79
+http://servde.noips.info:8888/dCfbtH/Sky_Hits_HD_DE/mpegts?token=32d803341d2986fb88dd88c31cbabe60
+
+
+
