@@ -10568,12 +10568,24 @@ https://ws.gvw81.com/ant1HD/mpegts?token=test
 #EXTINF:-1,GR: OPEN Beyond
 https://ws.gvw81.com/etvHD/mpegts?token=test
 #EXTINF:-1,GR: Makedonia TV
-https://ws.gvw81.com/macedoniaHD/mpegts?token=
+https://ws.gvw81.com/macedoniaHD/mpegts?token=test
 
 #EXTINF:-1,GR: Cosmote History
 https://a3.lp1ty.com:443/L2muf6tv9kpJeQ3B/otehistory/index.m3u8?token=test
 #EXTINF:-1,GR: History HD
 https://a3.lp1ty.com:443/L2muf6tv9kpJeQ3B/history/index.m3u8?token=test
+#EXTINF:-1,GR: NAT_GEO Wild
+https://a3.lp1ty.com:443/L2muf6tv9kpJeQ3B/natgeowild/index.m3u8?token=test
+#EXTINF:-1,GR: NAT_GEO Channel
+https://a3.lp1ty.com:443/L2muf6tv9kpJeQ3B/nationalHD/index.m3u8?token=test
+#EXTINF:-1,GR: Discovery Channel
+https://a3.lp1ty.com:443/L2muf6tv9kpJeQ3B/discovery/index.m3u8?token=test
+#EXTINF:-1,GR: Discovery Science
+https://a3.lp1ty.com:443/L2muf6tv9kpJeQ3B/discoveryscience/index.m3u8?token=test
+#EXTINF:-1,GR: BBC Earth
+https://a3.lp1ty.com:443/L2muf6tv9kpJeQ3B/BBCEarth/index.m3u8?token=test
+#EXTINF:-1,GR: Fishing Channel
+http://176.9.46.51:8080/fishing-channel/index.m3u8?token=test
 
 
 #EXTINF:-1,GR: BarazaTV Greek Hits
