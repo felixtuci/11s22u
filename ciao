@@ -3064,8 +3064,8 @@ http://fun6.xyz:8080/ITALIAN_Sky_Calcio_6_HD/index.m3u8?token=test
 http://de.worldtvip.co:8080/local_dazn1/index.m3u8?token=test
 #EXTINF:-1,de_dazn_sport_2
 http://de.worldtvip.co:8080/local_dazn2/index.m3u8?token=test
-
-
+#EXTINF:-1,de_sky_sport_f1
+http://ys.no-ips.net:8888/SportStreamS/7800/mpegts?token=test
 
 #EXTINF:-1,de_sports_sky_bundesliga_1_hd
 http://de.worldtvip.co:8080/de_sports_sky_bundesliga_1_hd/tracks-v1a1/mono.m3u8?token=test
@@ -10551,6 +10551,36 @@ http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/8513
 http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/8491
 
 
+#EXTINF:-1,GR: ERT 1 HD
+https://ws.gvw81.com/ert1HD/mpegts?token=test
+#EXTINF:-1,GR: ERT 2 HD
+https://ws.gvw81.com/ert2HD/mpegts?token=test
+#EXTINF:-1,GR: ERT 3 HD
+https://ws.gvw81.com/ert3HD/mpegts?token=test
+#EXTINF:-1,GR: MEGA HD
+https://a3.lp1ty.com:443/L2muf6tv9kpJeQ3B/MEGAs/index.m3u8?token=test
+#EXTINF:-1,GR: SKAI HD
+https://ws.gvw81.com/skaiHD/mpegts?token=test
+#EXTINF:-1,GR: STAR HD
+https://ws.gvw81.com/starHD/mpegts?token=test
+#EXTINF:-1,GR: ANT 1 HD
+https://ws.gvw81.com/ant1HD/mpegts?token=test
+#EXTINF:-1,GR: OPEN Beyond
+https://ws.gvw81.com/etvHD/mpegts?token=test
+#EXTINF:-1,GR: Makedonia TV
+https://ws.gvw81.com/macedoniaHD/mpegts?token=
+
+#EXTINF:-1,GR: Cosmote History
+https://a3.lp1ty.com:443/L2muf6tv9kpJeQ3B/otehistory/index.m3u8?token=test
+#EXTINF:-1,GR: History HD
+https://a3.lp1ty.com:443/L2muf6tv9kpJeQ3B/history/index.m3u8?token=test
+
+
+#EXTINF:-1,GR: BarazaTV Greek Hits
+https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
+#EXTINF:-1,GR: Cannali
+http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
+
 #EXTINF:-1,GR: Cosmote Sport 1 low HD
 https://a3.lp1ty.com/L2muf6tv9kpJeQ3B/0sport1HDlow/index.m3u8?token=test
 #EXTINF:-1,GR: Cosmote Sport 1 HD
@@ -10569,6 +10599,52 @@ https://a3.lp1ty.com/L2muf6tv9kpJeQ3B/0sport6HD/index.m3u8?token=test
 https://a3.lp1ty.com/L2muf6tv9kpJeQ3B/0sport7HD/index.m3u8?token=test
 #EXTINF:-1,GR: Cosmote Sport 8 HD
 https://a3.lp1ty.com/L2muf6tv9kpJeQ3B/0sport8HD/index.m3u8?token=test
+#EXTINF:-1,GR: Cosmote Sport 9 HD
+https://a3.lp1ty.com/L2muf6tv9kpJeQ3B/0sport9HD/index.m3u8?token=test
+#EXTINF:-1,GR: Nova Sports 1 HD
+https://a3.lp1ty.com:443/FcbwB/Sport1/index.m3u8?token=test
+#EXTINF:-1,GR: Nova Sports 2 HD
+https://a3.lp1ty.com:443/FcbwB/Sport2/index.m3u8?token=test
+#EXTINF:-1,GR: Nova Sports 3 HD
+https://a3.lp1ty.com:443/FcbwB/Sport3/index.m3u8?token=test
+#EXTINF:-1,GR: Nova Sports 4 HD
+https://a3.lp1ty.com:443/FcbwB/Sport4/index.m3u8?token=test
+#EXTINF:-1,GR: Nova Sports 5 HD
+https://a3.lp1ty.com:443/FcbwB/Sport5/index.m3u8?token=test
+
+
+#EXTINF:-1,: Main Events Sport 1
+https://streamer1.dyndns.vip:443/bgcf/Sport1/mpegts?token=test
+#EXTINF:-1,: Main Events Sport 2
+https://streamer1.dyndns.vip:443/bgcf/Sport2/mpegts?token=test
+#EXTINF:-1,: Main Events Sport 3
+https://streamer1.dyndns.vip:443/bgcf/Sport3/mpegts?token=test
+
+
+
+#EXTINF:-1,GR: Cosmote Cinema 1 HD
+https://a3.lp1ty.com:443/L2muf6tv9kpJeQ3B/0tecin1/index.m3u8?token=test
+#EXTINF:-1,GR: Cosmote Cinema 2 HD
+https://a3.lp1ty.com:443/L2muf6tv9kpJeQ3B/0tecin2/index.m3u8?token=test
+#EXTINF:-1,GR: Cosmote Cinema 3 HD
+https://a3.lp1ty.com:443/L2muf6tv9kpJeQ3B/0tecin3/index.m3u8?token=test
+#EXTINF:-1,GR: Cosmote Series HD
+https://a3.lp1ty.com:443/L2muf6tv9kpJeQ3B/0tecin4/index.m3u8?token=test
+#EXTINF:-1,GR: Cosmote Village HD
+https://a3.lp1ty.com:443/L2muf6tv9kpJeQ3B/0villagecin/index.m3u8?token=test
+#EXTINF:-1,GR: Cosmote Fox HD
+https://a3.lp1ty.com:443/L2muf6tv9kpJeQ3B/0fox/index.m3u8?token=test
+
+#EXTINF:-1,GR: Nova Cinema 1 HD
+https://a3.lp1ty.com:443/GH6L7x4tE2uJ/ncin1/index.m3u8?token=test
+#EXTINF:-1,GR: Nova Cinema 2 HD
+https://a3.lp1ty.com:443/GH6L7x4tE2uJ/ncin2/index.m3u8?token=test
+#EXTINF:-1,GR: Nova Cinema 3 HD
+https://a3.lp1ty.com:443/GH6L7x4tE2uJ/ncin3/index.m3u8?token=test
+#EXTINF:-1,GR: Nova Cinema 4 HD
+https://a3.lp1ty.com:443/GH6L7x4tE2uJ/ncin4/index.m3u8?token=test
+
+
 
 #EXTINF:-1,GR: James Bond Channel
 http://176.9.46.51:8080/jamesbond-channel/index.m3u8?token=test
@@ -10617,6 +10693,11 @@ http://88.198.105.14:8080/7pZvJuKX/Cinema1/index.m3u8?token=test
 
 #EXTINF:-1,GR: Movies OnDemand 10
 http://176.9.46.227:8080/7pZvJuKX/Cinema10/index.m3u8?token=test
+
+#EXTINF:-1,GR: Cartoons Cinema 2
+http://176.9.46.227:8080/7pZvJuKX/Ccartoons2/index.m3u8?token=test
+
+
 
 #EXTINF:-1,UK: Sky MoviesAction HD
 http://ws.gvw81.com:8888/SkyMoviesActionHD/index.m3u8?token=test
