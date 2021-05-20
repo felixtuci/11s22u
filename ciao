@@ -1,21 +1,21 @@
 #EXTINF:-1   group-title="-IPTV SHQIP 1-",
-#EXTINF:-1,AL: TOP Channel FHD ILLY
+#EXTINF:-1,AL: Top Channel FHD illy
 http://93.157.62.180/TopChannel/index.m3u8
-#EXTINF:-1,AL: TOP Channel FHD
+#EXTINF:-1,AL: Top Channel FHD
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1311
-#EXTINF:-1,Vizion Plus ILLY
+#EXTINF:-1,Vizion Plus FHD illy
 http://93.157.62.180/VizionPlus/index.m3u8
-#EXTINF:-1,AL: VIZION PLUS FHD
+#EXTINF:-1,AL: VIZION PLUS HD
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1299
 #EXTINF:-1,AL: Klan FHD
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1853
-#EXTINF:-1,Klan TV iLLY
+#EXTINF:-1,AL: Klan TV illy
 http://93.157.62.180/TVKlanHD/index.m3u8
 
 #EXTINF:-1,AL: Klan Plus FHD
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/2562
 #EXTINF:-1,AL: MCN TV WEB
-http://edge01eu.ekranet.com/tematv_234p/index.m3u8
+http://edge01eu.ekranet.com/mcntv_234p/index.m3u8
 
 #EXTINF:-1,AL: RTSH 1 FHD
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/4123
@@ -10625,11 +10625,11 @@ https://a3.lp1ty.com:443/FcbwB/Sport4/index.m3u8?token=test
 https://a3.lp1ty.com:443/FcbwB/Sport5/index.m3u8?token=test
 
 
-#EXTINF:-1,: Main Events Sport 1
+#EXTINF:-1,SP: Main Events Sport 1
 https://streamer1.dyndns.vip:443/bgcf/Sport1/mpegts?token=test
-#EXTINF:-1,: Main Events Sport 2
+#EXTINF:-1,SP: Main Events Sport 2
 https://streamer1.dyndns.vip:443/bgcf/Sport2/mpegts?token=test
-#EXTINF:-1,: Main Events Sport 3
+#EXTINF:-1,SP: Main Events Sport 3
 https://streamer1.dyndns.vip:443/bgcf/Sport3/mpegts?token=test
 
 
@@ -10709,42 +10709,21 @@ http://176.9.46.227:8080/7pZvJuKX/Cinema10/index.m3u8?token=test
 #EXTINF:-1,GR: Cartoons Cinema 2
 http://176.9.46.227:8080/7pZvJuKX/Ccartoons2/index.m3u8?token=test
 
-
-
-#EXTINF:-1,UK: Sky MoviesAction HD
-http://ws.gvw81.com:8888/SkyMoviesActionHD/index.m3u8?token=test
-#EXTINF:-1,UK: Sky MoviesComedy HD
-http://ws.gvw81.com:8888/SkyMoviesComedyHD/index.m3u8?token=test
-#EXTINF:-1,UK: Sky MoviesFamily HD
-http://ws.gvw81.com:8888/SkyMoviesFamilyHD/index.m3u8?token=test
-#EXTINF:-1,UK: Sky MovieScifi&Horror HD
-http://ws.gvw81.com:8888/SkyMovieScifi&HorrorHD/index.m3u8?token=test
-
-#EXTINF:-1,UK: Sky MoviesCrime&Thriller HD
-http://ws.gvw81.com:8888/SkyMoviesCrime&ThrillerHD/index.m3u8?token=test
-
-http://ws.gvw81.com:8888/SkyMoviesGreatsHD/index.m3u8?token=0000da42c2dea7148a09460c4cb6fe09
-http://ws.gvw81.com:8888/SkyMoviesPremiereHD/index.m3u8?token=5ae78fd7a5cd44be994abb607acde833
-http://ws.gvw81.com:8888/SkyMoviesDrama&RomanceHD/index.m3u8?token=fb445fd64951456d93e9edd70f68b7d5
-http://ws.gvw81.com:8888/SkyMoviesSelectHD/index.m3u8?token=db29152b92c0b450a0b4c6ea9beb9a11
-http://ws.gvw81.com:8888/SkyMoviesShowcaseHD/index.m3u8?token=71261c524c4e481b836068ddc4a44824
-http://ws.gvw81.com:8888/SonyMovies/index.m3u8?token=16ff23a71ff994924bdb59d7414bd1b4
-
 #EXTINF:-1,FI: Viasat Premiere
-http://ath1.no-ips.org:8080/SportStreamS/134712/mpegts?token=ff67607b9f12cf2e807d9003f85f9eda
+http://ath1.no-ips.org:8080/SportStreamS/134712/mpegts?token=test
 #EXTINF:-1,DK: Viasat Action
-http://ath1.no-ips.org:8080/SportStreamS/134477/mpegts?token=d1f4d4d2696f5cfb7d9d5a2d67e62629
+http://ath1.no-ips.org:8080/SportStreamS/134477/mpegts?token=test
 #EXTINF:-1,DK: Viasat Hitst
-http://ath1.no-ips.org:8080/SportStreamS/134475/mpegts?token=a5be39314b70f09b00069404d29ff074
+http://ath1.no-ips.org:8080/SportStreamS/134475/mpegts?token=test
 #EXTINF:-1,DK: Viasat Premiere
-http://ath1.no-ips.org:8080/SportStreamS/134474/mpegts?token=8b3eb8d0122b68676388b240a6319b00
+http://ath1.no-ips.org:8080/SportStreamS/134474/mpegts?token=test
 
-
-
-
-http://servde.noips.info:8888/dCfbtH/Sky_Action_HD_DE/mpegts?token=4482db9ed2434947bc2c2807c32da57c
-http://servde.noips.info:8888/dCfbtH/Sky_Cinema_HD_DE/mpegts?token=5f0580dd3664af4c7a52d39214cc1a79
-http://servde.noips.info:8888/dCfbtH/Sky_Hits_HD_DE/mpegts?token=32d803341d2986fb88dd88c31cbabe60
+#EXTINF:-1,DE: Sky Cinema Action HD
+http://servde.noips.info:8888/dCfbtH/Sky_Action_HD_DE/mpegts?token=test
+#EXTINF:-1,DE: Sky Cinema HD
+http://servde.noips.info:8888/dCfbtH/Sky_Cinema_HD_DE/mpegts?token=test
+#EXTINF:-1,DE: Sky Cinema Hits HD
+http://servde.noips.info:8888/dCfbtH/Sky_Hits_HD_DE/mpegts?token=test
 
 
 
