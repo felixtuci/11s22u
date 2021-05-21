@@ -2755,6 +2755,20 @@ http://portal.geniptv.com:8080/tomas202021/gvgtxz178hbhHb/1364
 http://portal.geniptv.com:8080/tomas202021/gvgtxz178hbhHb/1161
 
 #EXTINF:-1   group-title="-IPTV SPORT 2-",
+#EXTINF:-1,SuperSport 1 FHD gold
+http://212.224.98.206:2200/ALB-EX/Super_Sport_1_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=null
+#EXTINF:-1,SuperSport 2 FHD gold
+http://212.224.98.206:2200/ALB-EX/Super_Sport_2_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=null
+#EXTINF:-1,SuperSport 3 FHD gold
+http://212.224.98.206:2200/ALB-EX/Super_Sport_3_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=null
+#EXTINF:-1,SuperSport 4 FHD gold
+http://212.224.98.206:2200/ALB-EX/Super_Sport_4_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=null
+#EXTINF:-1,SuperSport 5 FHD gold
+http://212.224.98.206:2200/ALB-EX/Super_Sport_5_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=null
+#EXTINF:-1,SuperSport 6 FHD gold
+http://212.224.98.206:2200/ALB-EX/Super_Sport_6_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=null
+
+
 #EXTINF:-1,SuperSport 1 HD illy
 http://93.157.62.180/Supersport1/mpegts
 #EXTINF:-1,SuperSport 2 HD illy
