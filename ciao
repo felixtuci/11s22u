@@ -132,8 +132,6 @@ http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/23146
 #EXTINF:-1,AL: ART Sport 3 FHD
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/40061
 
-
-
 #EXTINF:-1,AL: Explore Natyra
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/26154
 #EXTINF:-1,AL: Explorer Natyra HD
@@ -142,8 +140,6 @@ http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/4048
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/5961
 #EXTINF:-1,AL: Explorer History HD
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1336
-
-
 
 #EXTINF:-1,AL: Tring World
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1301
@@ -2826,7 +2822,6 @@ http://fun6.xyz:2052/ALBANIA_SUPER_SPORT_4/index.m3u8?token=test
 #EXTINF:-1,SUPER_SPORT_5
 http://fun6.xyz:2052/ALBANIA_SUPER_SPORT_5/index.m3u8?token=test
 
-
 #EXTINF:-1,SUPER SPORT 1 HD
 http://ran.no-ips.net:8888/StS/276568/index.m3u8?token=test
 #EXTINF:-1,SUPER SPORT 2 HD
@@ -2846,8 +2841,6 @@ http://ath1.no-ips.org:8080/SportStreamS/123019/index.m3u8?token=test
 #EXTINF:-1,DE_SKY_SPORTS_5 HD
 http://ath1.no-ips.org:8080/SportStreamS/123020/index.m3u8?token=test
 
-
-
 #EXTINF:-1,DE_Sky_BUNDESLIGA_1_HD
 http://athlit1.no-ips.org:8080/DE_Sky_BUNDESLIGA_1_HD/index.m3u8?token=test
 #EXTINF:-1,DE_Sky_BUNDESLIGA_2_HD
@@ -2858,12 +2851,6 @@ http://ath1.no-ips.org:8080/SportStreamS/3412/index.m3u8?token=test
 http://ath1.no-ips.org:8080/SportStreamS/123115/index.m3u8?token=test
 #EXTINF:-1,DE_Sky_BUNDESLIGA_5_HD
 http://ath1.no-ips.org:8080/SportStreamS/3410/index.m3u8?token=test
-
-
-
-
-
-
 
 #EXTINF:-1,ASTRO_SUPERSPORT_1
 http://185.246.209.209:80/ASTRO_SUPERSPORT_1/index.m3u8?token=test
@@ -2908,7 +2895,6 @@ http://k2.no-ips.org:8080/AR_BEIN_SPORTS_4/index.m3u8?token=test
 http://k2.no-ips.org:8080/AR_BEIN_SPORTS_5/index.m3u8?token=test
 #EXTINF:-1,BEIN SPORTS 6 HD k2
 http://k2.no-ips.org:8080/AR_BEIN_SPORTS_6/index.m3u8?token=test
-
 
 #EXTINF:-1,BEIN_SPORTS_1
 http://212.102.58.238:80/BEIN_SPORTS_1/index.m3u8?token=test
@@ -2979,7 +2965,6 @@ http://host2.worldtvip.co:9090/ss11/index.m3u8?token=test
 #EXTINF:-1,SUPERSPORT 12 AF
 http://host2.worldtvip.co:9090/ss12/index.m3u8?token=test
 
-
 #EXTINF:-1,SUPERSPORT Premier League
 http://51.38.42.180:9090/supersports_premier_league/mpegts?token=test
 #EXTINF:-1,SUPERSPORT La Liga
@@ -2999,7 +2984,6 @@ http://51.38.42.180:9090/nl_fox_sports_4_hd_eredivisie/mpegts?token=test
 http://51.38.42.180:9090/nl_fox_sports_5_hd_eredivisie/mpegts?token=test
 #EXTINF:-1,FOX SPORTS 6 HD
 http://51.38.42.180:9090/nl_fox_sports_6_hd_eredivisie/mpegts?token=test
-
 
 #EXTINF:-1,ARENA_1_CROATIA
 http://185.246.209.209:80/SPORT_ARENA_1_CROATIA/index.m3u8?token=test
@@ -3037,8 +3021,6 @@ http://fun6.xyz:8080/SPAIN_M_LaLiga_1_FHD/index.m3u8?token=test
 http://fun6.xyz:8080/SPAIN_Movistar_Deportes/index.m3u8?token=test
 #EXTINF:-1,Movistar_Liga_de_Campeones_FHD
 http://fun6.xyz:8080/SPAIN_Movistar_Liga_de_Campeones_FHD/index.m3u8?token=test
-
-
 
 #EXTINF:-1,Sky_Sport_Serie_A_Full_HD
 http://89.187.181.27:9180/ITALIAN_Sky_Sport_Serie_A_Full_HD/index.m3u8?token=test
@@ -3098,8 +3080,6 @@ http://de.worldtvip.co:8080/de_sports_sky_bundesliga_7_hd/tracks-v1a1/mono.m3u8?
 #EXTINF:-1,de_sports_sky_bundesliga_8_hd
 http://de.worldtvip.co:8080/de_sports_sky_bundesliga_8_hd/tracks-v1a1/mono.m3u8?token=test
 
-
-
 #EXTINF:-1,de_sports_sky_sport_1_hd
 http://de.worldtvip.co:8080/de_sports_sky_sport_1_hd/index.m3u8?token=test
 #EXTINF:-1,de_sports_sky_sport_2_hd
@@ -3146,12 +3126,10 @@ http://212.102.58.209:80/PORT_ELEVEN_SPORTS_5_HD/index.m3u8?token=test
 #EXTINF:-1,ELEVEN_SPORTS_6_HD
 http://212.102.58.209:80/PORT_ELEVEN_SPORTS_6_HD/index.m3u8?token=test
 
-
 #EXTINF:-1,P PPREMIUM 1 HD
 http://206.217.220.22:8152/pspone-n9Qzz3Wj889x5zar/mono.m3u8
 #EXTINF:-1,P PPREMIUM 2 HD
 http://206.217.220.22:8152/psptwo-n9Qzz3Wj889x5zar/mono.m3u8
-
 #EXTINF:-1,ELEVEn SPORTS 2
 http://158.85.43.78:8152/11sphd/tracks-v1a1/index.m3u8?token=test
 
