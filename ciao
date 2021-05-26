@@ -2751,6 +2751,73 @@ http://portal.geniptv.com:8080/tomas202021/gvgtxz178hbhHb/1364
 http://portal.geniptv.com:8080/tomas202021/gvgtxz178hbhHb/1161
 
 #EXTINF:-1   group-title="-IPTV SPORT 2-",
+#EXTINF:-1,AL: SUPER SPORT 1 HD
+http://185.226.65.165/sltv/play.php?chID=276568
+#EXTINF:-1,AL: SUPER SPORT 1 FHD
+http://185.226.65.165/sltv/play.php?chID=276567
+#EXTINF:-1,AL: SUPER SPORT 1 FHD (SPECIAL)
+http://185.226.65.165/sltv/play.php?chID=277923
+#EXTINF:-1,AL: SUPER SPORT 2 HD
+http://185.226.65.165/sltv/play.php?chID=3128
+#EXTINF:-1,AL: SUPER SPORT 2 FHD 
+http://185.226.65.165/sltv/play.php?chID=277925
+#EXTINF:-1,AL:  Super Sport 2 FHD (SPECIAL)
+http://185.226.65.165/sltv/play.php?chID=227593
+#EXTINF:-1,AL: SUPER SPORT 3 HD
+http://185.226.65.165/sltv/play.php?chID=3129
+#EXTINF:-1,AL: SUPER SPORT 3 FHD
+http://185.226.65.165/sltv/play.php?chID=227594
+#EXTINF:-1,AL: SUPER SPORT 4 HD
+http://185.226.65.165/sltv/play.php?chID=209433
+#EXTINF:-1,AL: SUPER SPORT 4 FHD
+http://185.226.65.165/sltv/play.php?chID=3130
+#EXTINF:-1,AL: SUPER SPORT 5 HD
+http://185.226.65.165/sltv/play.php?chID=209434
+#EXTINF:-1,AL: SUPER SPORT 5 FHD
+http://185.226.65.165/sltv/play.php?chID=277926
+#EXTINF:-1,AL: SUPER SPORT 6 FHD
+http://185.226.65.165/sltv/play.php?chID=211449
+#EXTINF:-1,AL: SUPER SPORT 7 FHD
+http://185.226.65.165/sltv/play.php?chID=211450
+#EXTINF:-1,AL: Tring Sport 1 HD
+http://185.226.65.165/sltv/play.php?chID=3133
+#EXTINF:-1,AL: TRING SPORT 1 FHD
+http://185.226.65.165/sltv/play.php?chID=277931
+#EXTINF:-1,AL: Tring Sport 2 HD
+http://185.226.65.165/sltv/play.php?chID=3134
+#EXTINF:-1,AL: TRING SPORT 2 FHD
+http://185.226.65.165/sltv/play.php?chID=277930
+#EXTINF:-1,AL: Tring Sport 3 HD
+http://185.226.65.165/sltv/play.php?chID=211451
+#EXTINF:-1,AL: TRING SPORT 3 FHD
+http://185.226.65.165/sltv/play.php?chID=277929
+#EXTINF:-1,AL: Tring Sport 4 HD
+http://185.226.65.165/sltv/play.php?chID=211452
+#EXTINF:-1,AL: TRING SPORT 4 FHD
+http://185.226.65.165/sltv/play.php?chID=277928
+#EXTINF:-1,AL: Kujtesa Sport 1
+http://185.226.65.165/sltv/play.php?chID=225129
+#EXTINF:-1,AL: Kujtesa Sport 2
+http://185.226.65.165/sltv/play.php?chID=225130
+#EXTINF:-1,AL: Kujtesa Sport 3
+http://185.226.65.165/sltv/play.php?chID=225131
+#EXTINF:-1,AL: Kujtesa Sport 4
+http://185.226.65.165/sltv/play.php?chID=225132
+#EXTINF:-1,AL: K SPORT 1 HD
+http://185.226.65.165/sltv/play.php?chID=211389
+#EXTINF:-1,AL: K SPORT 2 HD
+http://185.226.65.165/sltv/play.php?chID=211390
+#EXTINF:-1,AL: K SPORT 3 HD
+http://185.226.65.165/sltv/play.php?chID=211391
+#EXTINF:-1,AL: K SPORT 4 HD
+http://185.226.65.165/sltv/play.php?chID=211392
+#EXTINF:-1,AL: ART SPORT 1 HD
+http://185.226.65.165/sltv/play.php?chID=211394
+#EXTINF:-1,AL: Eurosport 1
+http://185.226.65.165/sltv/play.php?chID=211453
+#EXTINF:-1,AL: Eurosport 2
+http://185.226.65.165/sltv/play.php?chID=211454
+
 #EXTINF:-1,SuperSport 1 FHD gold
 http://212.224.98.206:2200/ALB-EX/Super_Sport_1_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=null
 #EXTINF:-1,SuperSport 2 FHD gold
@@ -3152,30 +3219,7 @@ http://bgiptv.com:8888/MaxSport3/index.m3u8?token=test
 #EXTINF:-1,MaxSport 4
 http://bgiptv.com:8888/MaxSport4/index.m3u8?token=test
 
-#EXTINF:-1,AR: Bein Sport 1 HD fiber
-http://fiberpanel.fibertv.nl:8000/live/TomastreereTd5/Gdte537Ycv398fVmmfST/2098.ts
-#EXTINF:-1,AR: Bein Sport 2 HD
-http://fiberpanel.fibertv.nl:8000/live/TomastreereTd5/Gdte537Ycv398fVmmfST/2099.ts
-#EXTINF:-1,AR: Bein Sport 3 HD
-http://fiberpanel.fibertv.nl:8000/live/TomastreereTd5/Gdte537Ycv398fVmmfST/2100.ts
-#EXTINF:-1,AR: Bein Sport 4 HD
-http://fiberpanel.fibertv.nl:8000/live/TomastreereTd5/Gdte537Ycv398fVmmfST/2101.ts
-#EXTINF:-1,AR: Bein Sport 5 HD
-http://fiberpanel.fibertv.nl:8000/live/TomastreereTd5/Gdte537Ycv398fVmmfST/2102.ts
-#EXTINF:-1,AR: Bein Sport 6 HD
-http://fiberpanel.fibertv.nl:8000/live/TomastreereTd5/Gdte537Ycv398fVmmfST/2103.ts
-#EXTINF:-1,AR: Bein Sport 7 HD
-http://fiberpanel.fibertv.nl:8000/live/TomastreereTd5/Gdte537Ycv398fVmmfST/2104.ts
-#EXTINF:-1,AR: Bein Sport 8 HD
-http://fiberpanel.fibertv.nl:8000/live/TomastreereTd5/Gdte537Ycv398fVmmfST/2105.ts
-#EXTINF:-1,AR: Bein Sport 9 HD
-http://fiberpanel.fibertv.nl:8000/live/TomastreereTd5/Gdte537Ycv398fVmmfST/2106.ts
-#EXTINF:-1,AR: Bein Sport 10 HD
-http://fiberpanel.fibertv.nl:8000/live/TomastreereTd5/Gdte537Ycv398fVmmfST/2107.ts
-#EXTINF:-1,AR: Bein Sport 11 HD
-http://fiberpanel.fibertv.nl:8000/live/TomastreereTd5/Gdte537Ycv398fVmmfST/3728.ts
-#EXTINF:-1,AR: Bein Sport 12 HD
-http://fiberpanel.fibertv.nl:8000/live/TomastreereTd5/Gdte537Ycv398fVmmfST/3729.ts
+
 
 
 
