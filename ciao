@@ -11,7 +11,8 @@ http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1299
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1853
 #EXTINF:-1,AL: Klan TV illy
 http://93.157.62.180/TVKlanHD/index.m3u8
-
+#EXTINF:-1,AL: Klan TV zone
+http://tring.mediazonehd.com:8880/klansRQbXDJb9wacRvXLe2cz/video.m3u8
 #EXTINF:-1,AL: Klan Plus FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/2562
 #EXTINF:-1,AL: MCN TV WEB
@@ -302,41 +303,42 @@ http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1880
 
 
 
-#EXTINF:-1,AL: FILM AKSION FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/278218
-#EXTINF:-1,AL: FILM HITS FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/278223
-#EXTINF:-1,AL: FILM NJE FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/278188
-#EXTINF:-1,AL: FILM DY FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/278221
-#EXTINF:-1,AL: Film Thriller 
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/278190
-#EXTINF:-1,AL: EuroFilm 
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/5952
-#EXTINF:-1,AL: Film Autor 
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/278219
-#EXTINF:-1,AL: FILM DRAME
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/278220
-#EXTINF:-1,AL: FILM KOMEDI 
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/278187
-#EXTINF:-1,AL: Film Stinet
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/278006
-#EXTINF:-1,AL: Family Digitalb HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/278216
-#EXTINF:-1,AL: Family HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/278243
-
-#EXTINF:-1,AL: T FHD
+#EXTINF:-1,AL: T  FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/4101
-#EXTINF:-1,AL: KANAL D DRAMA FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/26182
-#EXTINF:-1,AL: TIMELESS DRAMA Channel FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/41309
-#EXTINF:-1,AL: TDC FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/198057
-#EXTINF:-1,AL: Episode HD
+#EXTINF:-1,AL: Family FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/171889
+#EXTINF:-1,AL: Film Nje FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/2559
+#EXTINF:-1,AL: Film DY FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1331
+#EXTINF:-1,AL: Film Hits FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1330
+#EXTINF:-1,AL: Film Aksion FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/2558
+#EXTINF:-1,AL: Eurofilm 
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/5952
+#EXTINF:-1,AL: Film Autor
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1333
+#EXTINF:-1,AL: Film Drame 
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1332
+#EXTINF:-1,AL: Film Thriller
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1328
+#EXTINF:-1,AL: Film Komedi 
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1329
+#EXTINF:-1,AL: Film Stinet
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/4096
+#EXTINF:-1,AL: Episode FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/169877
+#EXTINF:-1,AL: Kanal D Drama FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/26182
+#EXTINF:-1,AL: FOX HD 
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/5133
+#EXTINF:-1,AL: FOX Crime
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/4055
+#EXTINF:-1,AL: FOX Life
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/5132
+#EXTINF:-1,AL: EB Collection Rambo FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/276675
 #EXTINF:-1,AL: TRING Internacional
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/15535
 #EXTINF:-1,AL: Tring Shqip 
