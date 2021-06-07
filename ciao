@@ -921,152 +921,1994 @@ http://supertv.xyz:8080/101/101/60389
 
 
 #EXTINF:-1   group-title="-IPTV SHQIP 3-",
-#EXTINF:-1,AL: Klan TV
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3093.ts
-#EXTINF:-1,AL: Klan Plus
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3096.ts
-#EXTINF:-1,AL: Top Channel
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3094.ts
-#EXTINF:-1,AL: Vizion Plus
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3095.ts
-#EXTINF:-1,AL: RTSH 1
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3087.ts
-#EXTINF:-1,AL: RTSH 2
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3088.ts
-#EXTINF:-1,AL: RTSH 3
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3089.ts
-#EXTINF:-1,AL: RTSH Film
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3090.ts
-#EXTINF:-1,AL: RTSH Muzike
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3091.ts
-#EXTINF:-1,AL: RTSH Shqip
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3092.ts
-#EXTINF:-1,AL: RTV 21
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3741.ts
-#EXTINF:-1,AL: RTV 21 M
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3742.ts
-#EXTINF:-1,AL: RTV 21 JUNIOR
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3743.ts
-#EXTINF:-1,AL: RTV 21 PLUS HD
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3744.ts
-#EXTINF:-1,AL: RTV 21 POPULLORE
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3745.ts
+#EXTINF:-1,AL: Top Channel HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/21
+#EXTINF:-1,AL: Top Channel FHD/ UHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/22
+#EXTINF:-1,AL: Klan HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/32
+#EXTINF:-1,AL: Klan FHD/UHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/33
+#EXTINF:-1,AL: Klan Plus HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/34
+#EXTINF:-1,AL: Klan Plus 4K+
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/35
 
-#EXTINF:-1,AL: RTK 1
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3101.ts
-#EXTINF:-1,AL: RTK 2
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3140.ts
-#EXTINF:-1,AL: RTK 3
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3102.ts
-#EXTINF:-1,AL: RTK 4
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3103.ts
-#EXTINF:-1,AL: Klan Kosova
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3104.ts
-#EXTINF:-1,AL: TRING KIDS
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3100.ts
-#EXTINF:-1,AL: Bang Bang
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3188.ts
-#EXTINF:-1,AL: RTSH Femije
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3109.ts
-#EXTINF:-1,AL: Tring Tring
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/1421.ts
-#EXTINF:-1,AL: Tring Smile
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3099.ts
-#EXTINF:-1,AL: Art Kino 1 HD
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3749.ts
-#EXTINF:-1,AL: Art Kino 2 HD
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3750.ts
-#EXTINF:-1,AL: Art Kino 3 HD
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3751.ts
-#EXTINF:-1,AL: Film Aksion HD
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/1430.ts
-#EXTINF:-1,AL: Film Hits HD
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3098.ts
-#EXTINF:-1,AL: Film Stine
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3097.ts
-#EXTINF:-1,AL: Film Autor
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/1432.ts
-#EXTINF:-1,AL: Film Gold
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/1433.ts
-#EXTINF:-1,AL: Film Thriller
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/1434.ts
-#EXTINF:-1,AL: Film Drame
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/1435.ts
-#EXTINF:-1,AL: Film Nje HD
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/1436.ts
-#EXTINF:-1,AL: Film Dy HD
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/1437.ts
-#EXTINF:-1,AL: Film Komedi
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/1438.ts
+#EXTINF:-1,AL: RTK Sat HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63721
+#EXTINF:-1,AL: RTK HD (Tokësor)
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/2
+#EXTINF:-1,AL: RTK 1 4K
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/3
+#EXTINF:-1,AL: RTK 2 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/4
+#EXTINF:-1,AL: RTK 3 UHD 4K+
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/5
+#EXTINF:-1,AL: RTK 4 FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/6
+#EXTINF:-1,AL: Alsat M FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/24
+#EXTINF:-1,AL: Alsat M UHD 4K+
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/23
+#EXTINF:-1,AL: T7 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/25
+#EXTINF:-1,AL: T7 FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/26
+#EXTINF:-1,AL: T7 4K UHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/31498
+#EXTINF:-1,AL: TV Dukagjini HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/19
+#EXTINF:-1,AL: TV Dukagjini FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/20
+#EXTINF:-1,AL: Kanal D HD 
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/77313
+#EXTINF:-1,AL: Kanal D HD +
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73258
+#EXTINF:-1,AL: Kanali 10 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/45
+#EXTINF:-1,AL: A-TV HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73944
+#EXTINF:-1,AL: TDC Serial Turke HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/47
+
+#EXTINF:-1,AL: Klan Kosova 4K
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/17
+#EXTINF:-1,AL: Klan Kosova FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/18
+
+#EXTINF:-1,AL: Klan MK
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/37
+#EXTINF:-1,AL: KTV HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/7
+#EXTINF:-1,AL: KTV UHD 4K+
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/8
+#EXTINF:-1,AL: RTV 21 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/9
+#EXTINF:-1,AL: RTV 21 UHD 4K+
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/10
+#EXTINF:-1,AL: RTV 21 NewsBiz FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/11
+#EXTINF:-1,AL: RTV 21 NewsBiz HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/12
+#EXTINF:-1,AL: RTV 21 MK FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/13
+#EXTINF:-1,AL: RTV 21 MK
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/14
+#EXTINF:-1,AL: RTV 21 Mix FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/15
+#EXTINF:-1,AL: RTV 21 Mix
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/16
+#EXTINF:-1,AL: First Channel HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/30
+#EXTINF:-1,AL: First Chanel FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/31
+
+#EXTINF:-1,AL: B Aksion HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/33798
+#EXTINF:-1,AL: B  Muzikë HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/25588
+#EXTINF:-1,AL: B  Ilahi HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/25589
+#EXTINF:-1,AL: B  Qifteli HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/33799
+#EXTINF:-1,AL: B Popullore HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/47674
+#EXTINF:-1,AL: B  Humor HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/36139
+#EXTINF:-1,AL: B Hindi HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/61560
+#EXTINF:-1,AL: B Hindi Muzikë HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/62103
+#EXTINF:-1,AL: B Stupcat 24/7 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/61556
+#EXTINF:-1,AL: B Jackie Chan HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/49248
+#EXTINF:-1,AL: B  Islam HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/33797
+#EXTINF:-1,AL: B  Shqipë HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/30969
+#EXTINF:-1,AL: B Fëmijë HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/33796
+#EXTINF:-1,AL: B  TV Dramë HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/61555
+#EXTINF:-1,AL: B  Filma Turke HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/36909
+#EXTINF:-1,AL: B  Muzikë Turke HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/36906
+#EXTINF:-1,AL: B  Kemal Sunal TV HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/36907
+#EXTINF:-1,AL: B  Ibrahim Tatlises HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/36908
+#EXTINF:-1,AL: Knight Rider HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/30972
+#EXTINF:-1,AL: B Sh- & Shqiptarët
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/47672
+#EXTINF:-1,AL: B Tregim Popullor
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/47675
+#EXTINF:-1,AL: B Gold 1 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/36919
+#EXTINF:-1,AL: B Gold 2 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/36922
+#EXTINF:-1,AL: B  Gold 3 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/36924
+#EXTINF:-1,AL: B  Gold 4 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/36925
+#EXTINF:-1,AL: Boin TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/125
+#EXTINF:-1,AL: ALB Swiss TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/190
+#EXTINF:-1,AL: Spin Tv
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/161
+#EXTINF:-1,AL: Shota TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/162
 #EXTINF:-1,AL: Tring Jolly HD
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/1411.ts
-#EXTINF:-1,AL: Tring Actopn HD
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/1414.ts
-#EXTINF:-1,AL: Tring Action
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3108.ts
-#EXTINF:-1,AL: Tring Super HD
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/1412.ts
-#EXTINF:-1,AL: Tring Shqip
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/1413.ts
-
-#EXTINF:-1,AL: Tring Life
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/1415.ts
-#EXTINF:-1,AL: Tring Fantasy
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/1416.ts
-#EXTINF:-1,AL: Tring Comedy
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/1417.ts
-#EXTINF:-1,AL: Tring World
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/1418.ts
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/28
+#EXTINF:-1,AL: Jolly FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/29
+#EXTINF:-1,AL: Koha Tv Mk
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/38
+#EXTINF:-1,AL: Istogu Channel FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/39
+#EXTINF:-1,AL: RTV Fontana FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/40
+#EXTINF:-1,AL: Channel 7
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/41
+#EXTINF:-1,AL: Channel One
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/42
+#EXTINF:-1,AL: Rrokum HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/44
+#EXTINF:-1,AL: T HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/46
+#EXTINF:-1,AL: T FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/27
+#EXTINF:-1,AL: Vizion Plus
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/49
+#EXTINF:-1,AL: Vizion Plus FHD/UHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/50
+#EXTINF:-1,AL: Top News
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/51
+#EXTINF:-1,AL: Abc News FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/52
+#EXTINF:-1,AL: News 24
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/55
+#EXTINF:-1,AL: News 24 FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/56
+#EXTINF:-1,AL: Arta News
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/57
+#EXTINF:-1,AL: Arta News FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/58
+#EXTINF:-1,AL: Ora News HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/59
+#EXTINF:-1,AL: Ora News FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/60
+#EXTINF:-1,AL: Apollon News FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/61
+#EXTINF:-1,AL: Apollon TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/62
+#EXTINF:-1,AL: Antena Shkoder
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63
+#EXTINF:-1,AL: Fax News
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/64
+#EXTINF:-1,AL: Fax News HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/65
+#EXTINF:-1,AL: AD TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/66
+#EXTINF:-1,AL: Tv Tetova HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/67
+#EXTINF:-1,AL: Netflix Aksion HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73260
+#EXTINF:-1,AL: Netflix Komedi HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73261
+#EXTINF:-1,AL: Netflix Romance HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73262
+#EXTINF:-1,AL: Netflix Dwayne Johnson HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73263
+#EXTINF:-1,AL: Netflix Jackie Chan HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73264
+#EXTINF:-1,AL: Netflix Sylvester Stallone HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73265
+#EXTINF:-1,AL: Kinema24 1 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73266
+#EXTINF:-1,AL: Kinema24 2 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73267
+#EXTINF:-1,AL: Kinema24 3 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73268
+#EXTINF:-1,AL: Kinema24 4 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73269
+#EXTINF:-1,AL: Kinema24 5 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73270
+#EXTINF:-1,AL: Kinema24 6 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73271
+#EXTINF:-1,AL: Divergent 1 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73272
+#EXTINF:-1,AL: Divergent 2 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73273
+#EXTINF:-1,AL: Divergent 3 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73274
+#EXTINF:-1,AL: Divergent Gold HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73275
+#EXTINF:-1,AL: Divergent Core HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73276
+#EXTINF:-1,AL: Divergent Wall HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73277
+#EXTINF:-1,AL: Divergent Premier HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73278
+#EXTINF:-1,AL: Divergent Happy HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73279
+#EXTINF:-1,AL: Divergent Class HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73280
+#EXTINF:-1,AL: Divergent Beats HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73281
+#EXTINF:-1,AL: Univers Hits 2 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73283
+#EXTINF:-1,AL: Univers Hits 3 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73284
+#EXTINF:-1,AL: MAX Premier 1 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73286
+#EXTINF:-1,AL: MAX Premier 2 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73287
+#EXTINF:-1,AL: MAX Premier 3 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73288
+#EXTINF:-1,AL: MAX Premier 4 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73289
+#EXTINF:-1,AL: MAXone HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73290
+#EXTINF:-1,AL: MAXcine HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73291
+#EXTINF:-1,AL: MAXred HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73292
+#EXTINF:-1,AL: MAXelite HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73293
+#EXTINF:-1,AL: MAXstar HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73294
+#EXTINF:-1,AL: MAXenergi HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73295
+#EXTINF:-1,AL: RTSH 1 FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/69
+#EXTINF:-1,AL: RTSH 1
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70
+#EXTINF:-1,AL: RTSH 2
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/71
+#EXTINF:-1,AL: RTSH 24
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/72
+#EXTINF:-1,AL: RTSH 3 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73
+#EXTINF:-1,AL: RTSH Shqip
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/74
+#EXTINF:-1,AL: RTSH Plus
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/75
+#EXTINF:-1,AL: RTSH Muzikë
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/76
+#EXTINF:-1,AL: RTSH Kukesi
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/77
+#EXTINF:-1,AL: RTSH Korca
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/78
+#EXTINF:-1,AL: RTSH Sport FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/79
+#EXTINF:-1,AL: RTSH Film
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/80
+#EXTINF:-1,AL: Atv 1
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/81
+#EXTINF:-1,AL: RTV Bujanoc
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/82
+#EXTINF:-1,AL: RTV Aldi TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/83
+#EXTINF:-1,AL: A2 cnn
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84
+#EXTINF:-1,AL: A1 Pazar
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/85
+#EXTINF:-1,AL: A1 Raport 1
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/86
+#EXTINF:-1,AL: Ulqini TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/87
+#EXTINF:-1,AL: Tv Shenja HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/88
+#EXTINF:-1,AL: Tv Shenja
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/89
+#EXTINF:-1,AL: Tv Sharri HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/90
+#EXTINF:-1,AL: TV Prizreni
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/92
+#EXTINF:-1,AL: TV Presheva
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/93
+#EXTINF:-1,AL: TV Opoja
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/94
+#EXTINF:-1,AL: Tv Kopliku
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/95
+#EXTINF:-1,AL: Tv Kopliku FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/96
+#EXTINF:-1,AL: TV Globi
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/98
+#EXTINF:-1,AL: Tv Festa (test)
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/100
+#EXTINF:-1,AL: TV Era HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/101
+#EXTINF:-1,AL: Drita TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/102
+#EXTINF:-1,AL: Tv Dielli
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/103
+#EXTINF:-1,AL: TV Dibra
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/104
+#EXTINF:-1,AL: Tv Besa
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/105
+#EXTINF:-1,AL: Tv Vali
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/107
+#EXTINF:-1,AL: TV Uskana HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/108
+#EXTINF:-1,AL: Tv Opinion
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/109
+#EXTINF:-1,AL: Tv Mitrovica
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/110
+#EXTINF:-1,AL: Tv Llapi
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/111
+#EXTINF:-1,AL: Tv Liria ( Ferizaj )
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/112
+#EXTINF:-1,AL: TNT Albania
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/113
+#EXTINF:-1,AL: TLC
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/114
+#EXTINF:-1,AL: Tirana TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/115
+#EXTINF:-1,AL: Star Plus
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/116
+#EXTINF:-1,AL: Star Drenasi HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/117
+#EXTINF:-1,AL: Turbo Channel
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/118
+#EXTINF:-1,AL: TV 1 Channel Shkoder
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/119
+#EXTINF:-1,AL: Tv 1 Channel Shkoder FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/120
+#EXTINF:-1,AL: Tribuna Channel HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/121
+#EXTINF:-1,AL: Kanali 7
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/122
+#EXTINF:-1,AL: Burimi TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/123
+#EXTINF:-1,AL: Bulqiza Tv
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/124
+#EXTINF:-1,AL: Star HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/126
+#EXTINF:-1,AL: Sofa Tv
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/127
+#EXTINF:-1,AL: Plus TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/128
+#EXTINF:-1,AL: Kombi TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/129
+#EXTINF:-1,AL: Jug TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/130
+#EXTINF:-1,AL: Syri Vision
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/131
+#EXTINF:-1,AL: Luxe TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/132
+#EXTINF:-1,AL: Tring Living HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/133
+#EXTINF:-1,AL: Living FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/134
+#EXTINF:-1,AL: Kitchen 24
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/135
+#EXTINF:-1,AL: CNN
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/136
+#EXTINF:-1,AL: CNBC News
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/137
+#EXTINF:-1,AL: RT Fran
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/138
+#EXTINF:-1,AL: RT English
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/139
+#EXTINF:-1,AL: France 24 Fran
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/140
+#EXTINF:-1,AL: France 24 English
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/141
+#EXTINF:-1,AL: Euronews Albania
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/142
+#EXTINF:-1,AL: Deutsche Welle Deutsch
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/143
+#EXTINF:-1,AL: MRTV 2 SAT
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/144
+#EXTINF:-1,AL: MRTV 2 FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/145
+#EXTINF:-1,AL: Deutsche Welle English
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/146
+#EXTINF:-1,AL: Al Jazeera English
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/147
+#EXTINF:-1,**** Kanale Muzikore ****
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/148
+#EXTINF:-1,AL: X Cifteli HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/149
+#EXTINF:-1,AL: X Music Hits HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/150
+#EXTINF:-1,AL: X Popullore HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/151
+#EXTINF:-1,AL: Euro AL
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/152
+#EXTINF:-1,AL: RTV 21 Popullore
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/153
+#EXTINF:-1,AL: RTV 21 Popullore FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/154
+#EXTINF:-1,AL: RTV 21 Plus
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/155
+#EXTINF:-1,AL: Folk+
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/156
+#EXTINF:-1,AL: RTV 21 Plus FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/157
+#EXTINF:-1,AL: Tv Zico
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/158
+#EXTINF:-1,AL: Top Estrada
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/159
+#EXTINF:-1,AL: Red TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/160
+#EXTINF:-1,AL: Scan Tv
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/163
+#EXTINF:-1,AL: Real RTV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/164
+#EXTINF:-1,AL: My Music
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/165
+#EXTINF:-1,AL: Music Box
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/166
+#EXTINF:-1,AL: Click Muzikë
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/167
+#EXTINF:-1,AL: City TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/168
+#EXTINF:-1,AL: Fashion Box
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/169
+#EXTINF:-1,AL: MTV Rock
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/170
+#EXTINF:-1,AL: MTV Kosova
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/171
+#EXTINF:-1,AL: MTV Hits
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/172
+#EXTINF:-1,AL: MTV Dance
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/173
+#EXTINF:-1,AL: Camel TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/174
+#EXTINF:-1,AL: MFM Music
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/175
+#EXTINF:-1,AL: RTVZiK
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/176
+#EXTINF:-1,AL: Zjarr TV FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/177
+#EXTINF:-1,AL: Zjarr TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/178
+#EXTINF:-1,AL: Zeri info TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/179
+#EXTINF:-1,AL: Melody TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/180
+#EXTINF:-1,AL: Dasma TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/181
+#EXTINF:-1,AL: Diaspora TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/182
+#EXTINF:-1,AL: Amol TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/183
+#EXTINF:-1,AL: VH1 Classic
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/184
+#EXTINF:-1,AL: Fas & Fun Box
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/185
+#EXTINF:-1,AL: Alpo Media Tv
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/186
+#EXTINF:-1,AL: UTV News
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/187
+#EXTINF:-1,AL: TV2
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/188
+#EXTINF:-1,AL: Alb Uk
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/189
+#EXTINF:-1,AL: BBF Music
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/191
+#EXTINF:-1,AL: Balkanika Music
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/192
+#EXTINF:-1,AL: Club TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/193
+#EXTINF:-1,AL: Stv Folk
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/194
+#EXTINF:-1,AL: On TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/195
+#EXTINF:-1,AL: Syri Blue
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/196
+#EXTINF:-1,AL: Elrodi TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/197
+#EXTINF:-1,AL: Hareja TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/198
+#EXTINF:-1,AL: ASHK TV 1 FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/199
+#EXTINF:-1,AL: ASHK TV 2 FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/200
+#EXTINF:-1,AL: ASHK TV 3 FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/201
+#EXTINF:-1,**** Dokumentare ****
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/202
+#EXTINF:-1,AL: Exp Shkenca
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/203
+#EXTINF:-1,AL: Exp Natyra
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/204
+#EXTINF:-1,AL: Exp History
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/205
 #EXTINF:-1,AL: Tring Planet
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/1419.ts
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/206
 #EXTINF:-1,AL: Tring History
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/1422.ts
-#EXTINF:-1,AL: Explorer Natyra
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3111.ts
-#EXTINF:-1,AL: Explorer Shkencë
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3110.ts
-#EXTINF:-1,AL: RTSH Sport
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3139.ts
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/207
+#EXTINF:-1,AL: Tring World
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/208
+#EXTINF:-1,AL: X Natyra HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/209
+#EXTINF:-1,AL: X Histori HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/210
+#EXTINF:-1,AL: X Shkenca HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/211
+#EXTINF:-1,AL: Sky Histori
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/212
+#EXTINF:-1,AL: Sky Planet
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/213
+#EXTINF:-1,AL: Travel Channel
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/214
+#EXTINF:-1,AL: Travel Channel FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/215
+#EXTINF:-1,AL: Animal Planet FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/216
+#EXTINF:-1,AL: National Geographic
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/217
+#EXTINF:-1,AL: Discovery Science FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/218
+#EXTINF:-1,AL: Discovery FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/219
+#EXTINF:-1,AL: Comedy Central Extra
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/220
+#EXTINF:-1,AL: GALAXY HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/221
+#EXTINF:-1,AL: National Graphic FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/222
+#EXTINF:-1,AL: ID Xtra FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/223
+#EXTINF:-1,AL: Earth TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/224
+#EXTINF:-1,AL: DTx
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/225
+#EXTINF:-1,AL: Doku Box
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/226
+#EXTINF:-1,AL: Privat Channel
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/227
+#EXTINF:-1,AL: Nasa LIVE
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/228
+
+#EXTINF:-1,AL: RTSH Femije
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/230
+#EXTINF:-1,AL: Junior
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/231
+#EXTINF:-1,AL: Duck BoxTV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/232
+#EXTINF:-1,AL: Sole TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/233
+#EXTINF:-1,AL: Cufo
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/234
+#EXTINF:-1,AL: Tip TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/235
+#EXTINF:-1,AL: Tring Tring
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/237
+#EXTINF:-1,AL: Tring Super FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/238
+#EXTINF:-1,AL: Tring Super
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/239
+#EXTINF:-1,AL: X Kids
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/240
+#EXTINF:-1,AL: Boomerang
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/241
+#EXTINF:-1,AL: Bang Bang
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/242
+#EXTINF:-1,AL: BabyTV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/243
+#EXTINF:-1,AL: Sofia HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/244
+#EXTINF:-1,AL: Carton Network
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/245
+#EXTINF:-1,AL: RTV 21 Junior
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/246
+
+#EXTINF:-1,AL: Rtv Islam
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/253
+#EXTINF:-1,AL: Tv Islam Prizen
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/254
+#EXTINF:-1,AL: Peace TV Anglisht
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/255
+#EXTINF:-1,AL: Peace TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/256
+#EXTINF:-1,AL: Lexo (RTV1)
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/257
+#EXTINF:-1,AL: Medina Live
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/258
+#EXTINF:-1,AL: Mekka Live
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/259
+#EXTINF:-1,AL: Rtv Pendimi HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/260
+#EXTINF:-1,AL: A1 Islam
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/261
+#EXTINF:-1,AL: Xhamia e Tabakeve
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/262
+
+#EXTINF:-1,AL: Euro Film 1 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/265
+#EXTINF:-1,AL: Euro Film 2 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/266
+#EXTINF:-1,AL: Euro Film 3 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/267
+#EXTINF:-1,AL: Euro Film 4 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/268
+#EXTINF:-1,AL: Family HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/269
+#EXTINF:-1,AL: Family FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/270
+#EXTINF:-1,AL: Film Nje HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/271
+#EXTINF:-1,AL: Film Nje FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/272
+#EXTINF:-1,AL: Film Dy HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/273
+#EXTINF:-1,AL: Film Dy FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/274
+#EXTINF:-1,AL: Film Aksion
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/275
+#EXTINF:-1,AL: Film Aksion FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/276
+#EXTINF:-1,AL: Film Autor
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/277
+#EXTINF:-1,AL: Film Thriller
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/278
+#EXTINF:-1,AL: Film Stinet
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/279
+#EXTINF:-1,AL: Film Komedi
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/280
+#EXTINF:-1,AL: Film Hits
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/281
+#EXTINF:-1,AL: Film Dramë
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/282
+#EXTINF:-1,AL: Euro Film
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/283
+#EXTINF:-1,&lt;&lt;&lt; Kujtesa Film &gt;&gt;&gt;
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/284
+#EXTINF:-1,AL: Film Box Premium
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/285
+#EXTINF:-1,AL: Film Box Plus
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/286
+#EXTINF:-1,AL: Film Box Extra
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/287
+#EXTINF:-1,AL: Film Box Arthouse
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/288
+#EXTINF:-1,AL: Fox
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/289
+#EXTINF:-1,AL: Fox Crime
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/290
+#EXTINF:-1,AL: Fox Life
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/291
+#EXTINF:-1,AL: Fox Movies
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/292
+#EXTINF:-1,AL: Cinemax FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/293
+#EXTINF:-1,AL: Cinemax 2 FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/294
+#EXTINF:-1,AL: HBO FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/295
+#EXTINF:-1,AL: HBO 3 FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/296
+#EXTINF:-1,AL: HBO 2 FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/297
+#EXTINF:-1,AL: Fight Box
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/298
+#EXTINF:-1,AL: GodFather
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/299
+#EXTINF:-1,&lt;&lt;&lt; Tring Film &gt;&gt;&gt;
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/301
+#EXTINF:-1,AL: TELE one 1
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/302
+#EXTINF:-1,AL: TELE one 2
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/303
+#EXTINF:-1,AL: TELE one 3
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/304
+#EXTINF:-1,AL: TELE one 4
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/305
+#EXTINF:-1,AL: TELE one 5
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/306
+#EXTINF:-1,AL: Teleone 6
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/307
+#EXTINF:-1,AL: Tring Aksion
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/308
+#EXTINF:-1,AL: Tring Aksion FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/309
+#EXTINF:-1,AL: Tring Smile
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/310
+#EXTINF:-1,AL: Tring Shqip
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/311
+#EXTINF:-1,AL: Tring Muse
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/312
+#EXTINF:-1,AL: Tring Life
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/313
+#EXTINF:-1,AL: Tring Kids
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/314
+#EXTINF:-1,AL: Tring International
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/315
+#EXTINF:-1,AL: Tring Fantasy
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/316
+#EXTINF:-1,AL: Tring Comedy
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/317
+#EXTINF:-1,AL: Tring 3+
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/318
+#EXTINF:-1,&lt;&lt;&lt; Sky Film &gt;&gt;&gt;
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/319
+#EXTINF:-1,AL: Super Sonic
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/320
+#EXTINF:-1,AL: Sky Aksion
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/321
+#EXTINF:-1,AL: Sky Komedi
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/322
+#EXTINF:-1,AL: Sky Drame
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/323
+#EXTINF:-1,AL: Sky Shqip
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/324
+#EXTINF:-1,AL: Sky Novela
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/325
+#EXTINF:-1,AL: SKY News UK
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/326
+#EXTINF:-1,AL: Sky Max
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/327
+#EXTINF:-1,AL: Sky 7
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/328
+
+#EXTINF:-1,AL: Art Kino 1
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/330
+#EXTINF:-1,AL: Art Kino 2
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/331
+#EXTINF:-1,AL: Art Kino 3
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/332
+#EXTINF:-1,AL: Art Doku 1
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/333
+#EXTINF:-1,AL: Art Doku 2
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/334
+
+#EXTINF:-1,AL: DIGI Gold
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/336
+#EXTINF:-1,AL: DIGI Gold 1
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/337
+#EXTINF:-1,AL: DIGI Gold 2
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/338
+#EXTINF:-1,AL: DIGI Gold 3
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/339
+#EXTINF:-1,AL: DIGI Gold 4
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/340
+#EXTINF:-1,AL: X Premium 1 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/341
+#EXTINF:-1,AL: X Premium 2 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/342
+#EXTINF:-1,AL: X Premium 3 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/343
+#EXTINF:-1,AL: X Premium 4 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/344
+#EXTINF:-1,AL: X Family HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/346
+#EXTINF:-1,AL: X Drama HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/347
+#EXTINF:-1,AL: X Dark HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/348
+#EXTINF:-1,AL: X Comedy HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/349
+#EXTINF:-1,AL: X Action HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/350
+#EXTINF:-1,AL: X Western HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/351
+#EXTINF:-1,AL: X Thriller HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/352
+#EXTINF:-1,AL: X Sci-Fi HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/353
+#EXTINF:-1,AL: X Romance HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/354
+#EXTINF:-1,AL: ShqipTV Jeta HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/16935
+#EXTINF:-1,AL: ShqipTV Fantasy HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/16936
+#EXTINF:-1,AL: ShqipTV Cinema HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/16937
+#EXTINF:-1,AL: ShqipTV Aksion HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/16938
+#EXTINF:-1,AL: ShqipTV Stupcat HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/16939
+#EXTINF:-1,AL: ShqipTV Komedi HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/16940
+#EXTINF:-1,AL: ShqipTV Horror HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/16941
+#EXTINF:-1,AL: ShqipTV Hindi HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/16942
+#EXTINF:-1,AL: ShqipTV Tom & Jerry HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/16943
+#EXTINF:-1,AL: ShqipTV Family HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/16944
+#EXTINF:-1,AL: ShqipTV Film HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/16945
+#EXTINF:-1,AL: ShqipTV Hits HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/16946
+#EXTINF:-1,AL: ShqipTV Mimi HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/16947
+#EXTINF:-1,AL: ShqipTV Serial HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/16948
+#EXTINF:-1,AL: ShqipTV Western HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/16949
+#EXTINF:-1,AL: ShqipTV Kuran HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/16950
+#EXTINF:-1,AL: ShqipTV Ilahi HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/16951
+#EXTINF:-1,AL: ShqipTV Drama HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/16952
+#EXTINF:-1,AL: Episode
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/355
+#EXTINF:-1,AL: Kinema Milenium 1
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/373
+#EXTINF:-1,AL: Kinema Milenium 3
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/375
+#EXTINF:-1,AL: Kinema Hits
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/377
+#EXTINF:-1,AL: Kinema Gold
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/378
+#EXTINF:-1,AL: Kinema Comedy
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/381
+#EXTINF:-1,AL: Kinema Aksion MAX
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/383
+
 #EXTINF:-1,AL: Tring Sport News
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/1420.ts
-#EXTINF:-1,AL: Tring Sport 1
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/1407.ts
-#EXTINF:-1,AL: Tring Sport 2
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/1408.ts
-#EXTINF:-1,AL: Tring Sport 3
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/1409.ts
-#EXTINF:-1,AL: Tring Sport 4
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/1410.ts
-#EXTINF:-1,AL: SuperSport 1
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/1401.ts
-#EXTINF:-1,AL: SuperSport 2
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/1402.ts
-#EXTINF:-1,AL: SuperSport 3
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/1403.ts
-#EXTINF:-1,AL: SuperSport 4
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/1404.ts
-#EXTINF:-1,AL: SuperSport 5
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/1405.ts
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/386
+#EXTINF:-1,AL: Super Sport 1 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/387
+#EXTINF:-1,AL: Super Sport 2 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/388
+#EXTINF:-1,AL: Super Sport 3 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/389
+#EXTINF:-1,AL: Super Sport 4 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/390
+#EXTINF:-1,AL: Super Sport 5 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/391
+#EXTINF:-1,AL: Super Sport 6 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/392
+#EXTINF:-1,AL: Super Sport 7 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/393
 #EXTINF:-1,AL: Kujtesa Sport 1
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/2805.ts
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/394
 #EXTINF:-1,AL: Kujtesa Sport 2
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/2806.ts
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/395
 #EXTINF:-1,AL: Kujtesa Sport 3
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/2807.ts
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/396
 #EXTINF:-1,AL: Kujtesa Sport 4
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/2808.ts
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/397
 #EXTINF:-1,AL: Kujtesa Sport 5
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3141.ts
-#EXTINF:-1,AL: Art Sport 1 FHD
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3746.ts
-#EXTINF:-1,AL: Art Sport 2 FHD
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3747.ts
-#EXTINF:-1,AL: Art Sport 3 FHD
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3748.ts
-#EXTINF:-1,AL: Sport Kosova 1
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/2803.ts
-#EXTINF:-1,AL: Sport Kosova 2
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/2804.ts
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/398
+#EXTINF:-1,AL: Kujtesa Sport 1 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/402
+#EXTINF:-1,AL: Kujtesa Sport 2 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/403
+#EXTINF:-1,AL: Kujtesa Sport 3 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/404
+#EXTINF:-1,AL: Kujtesa Sport 4 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/405
+#EXTINF:-1,AL: Kujtesa Sport 5 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/406
+#EXTINF:-1,AL: Super Sport Kosova 1 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/407
+#EXTINF:-1,AL: Super Sport Kosova 2 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/408
+#EXTINF:-1,AL: Super Sport Kosova 1 FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/409
+#EXTINF:-1,AL: Super Sport Kosova 2 FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/410
+#EXTINF:-1,AL: Super Sport Kosova 3 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/411
+#EXTINF:-1,AL: Super Sport Kosova 3 FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/412
+#EXTINF:-1,AL: EuroSport1
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/413
+#EXTINF:-1,AL: EuroSport2
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/414
+#EXTINF:-1,AL: EuroSport 2 FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/422
+#EXTINF:-1,AL: EuroSport 1 FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/423
+#EXTINF:-1,AL: Tring Max
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/427
+#EXTINF:-1,AL: X Gold 4 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/428
+#EXTINF:-1,AL: X Gold 3 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/429
+#EXTINF:-1,AL: X Gold 2 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/430
+#EXTINF:-1,AL: X Gold 1 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/431
+#EXTINF:-1,AL: Tema TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/432
+#EXTINF:-1,AL: TELE one 6
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/433
+#EXTINF:-1,AL: TLC
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/435
+#EXTINF:-1,AL: In
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/438
+#EXTINF:-1,AL: Sot 7 Pogradec TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/439
+#EXTINF:-1,AL: Rasalat Al Islam HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/440
+#EXTINF:-1,AL: Kuran 24 Or
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/441
+#EXTINF:-1,AL: Start Muzik
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/442
+#EXTINF:-1,AL: A1 Report
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/443
+#EXTINF:-1,AL: Supersonic TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/444
+#EXTINF:-1,AL: Blue Sky TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/445
+#EXTINF:-1,AL: Music Hits
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/446
+#EXTINF:-1,AL: Princ Kids
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/447
+#EXTINF:-1,AL: RTK Serial
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/448
+#EXTINF:-1,AL: Iliria TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/449
+#EXTINF:-1,AL: Alb Music HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/450
+#EXTINF:-1,AL: Bubrreci TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/453
+#EXTINF:-1,AL: TV Saranda
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/599
+#EXTINF:-1,AL: 7 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/929
+#EXTINF:-1,AL: Bomerang TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/2826
+#EXTINF:-1,AL: Jim Jam ( Fëmijë )
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/2829
+#EXTINF:-1,AL: TV1 Shkodër
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/5333
+#EXTINF:-1,AL: Jetimat e Ballkanit
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/10473
+#EXTINF:-1,AL: AABC TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/15815
+#EXTINF:-1,AL: Kinema + HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/15816
+#EXTINF:-1,AL: TV Lobi Korç
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/17547
+#EXTINF:-1,AL: Gjolli Muzukë HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/17548
+#EXTINF:-1,AL: Gjolli Fëmijët HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/17549
+#EXTINF:-1,AL: Gjolli Islam HD ( KURAN )
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/17550
+#EXTINF:-1,AL: Albania TV Chicago
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/18797
+#EXTINF:-1,AL: Studio Firdeus TV ( ISLAM )
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/20376
+#EXTINF:-1,AL: Rozafa TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/21146
+#EXTINF:-1,AL: Syri News HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/29236
+#EXTINF:-1,AL: TV Lion TV Humor
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/31496
+#EXTINF:-1,AL: Alsat M ( Tokësor )
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/31497
+#EXTINF:-1,AL: TV Syri UHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/36114
+#EXTINF:-1,AL: LionTv Stupcat 24/7
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/36473
+#EXTINF:-1,AL: LionTv Humor HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/36474
+#EXTINF:-1,AL:LionTv Aksion HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/36475
+#EXTINF:-1,AL:LionTv Shqip HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/36476
+#EXTINF:-1,AL:LionTV  Dramë  HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/36477
+#EXTINF:-1,AL: ARI TV HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/36480
+#EXTINF:-1,AL: Star Kosova HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/36481
+#EXTINF:-1,AL: Pgva Muzikë
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/36482
+#EXTINF:-1,AL: Pikabo TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/36484
+#EXTINF:-1,AL: Muzikë Shqipë HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/36918
+#EXTINF:-1,AL: Masha dhe Ariu
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/36920
+#EXTINF:-1,AL: E mirë Shqiptare TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/36921
+#EXTINF:-1,AL: Klan Music FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/36923
+#EXTINF:-1,AlbHumor2
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/36926
+#EXTINF:-1,AL: TV Uskana 
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/36928
+#EXTINF:-1,AL: Live TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/36930
+#EXTINF:-1,AL: Prralla TV Fëmijë
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/36931
+#EXTINF:-1,AL: Plisi TV Humor
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/36932
+#EXTINF:-1,AL: Plisi Stupcat HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/36933
+#EXTINF:-1,AL: Plisi Action HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/36934
+#EXTINF:-1,AL: Plisi Fantasy HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/36935
+#EXTINF:-1,AL: Plisi Komedi HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/36936
+#EXTINF:-1,AL: Plisi Qifteli
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/36937
+#EXTINF:-1,AL: A2 Euronews HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/36938
+#EXTINF:-1,AL: Albanian TV Chicago
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/38005
+#EXTINF:-1,AL: X Stupcat
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/38006
+#EXTINF:-1,AL: X O sa mirë
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/38008
+#EXTINF:-1,AL: Syri TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/38010
+#EXTINF:-1,AL: Travel Chanel
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/38012
+#EXTINF:-1,AL: Animal Planet
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/38013
+#EXTINF:-1,AL: Comedie Central
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/38014
+#EXTINF:-1,AL: Discovery Show Casse
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/38015
+#EXTINF:-1,AL: Discovery Chanel
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/38016
+#EXTINF:-1,AL: Discovery Science 
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/38017
+#EXTINF:-1,AL: Discovery Turbo Extra
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/38018
+#EXTINF:-1,AL: Nimo Tom & Jarry TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/38019
+#EXTINF:-1,AL: Lion TV Ilahi 
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/38021
+#EXTINF:-1,AL: Lion TV Shqipë
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/38024
+#EXTINF:-1,AL: Rtsh Gjirokastra
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/42870
+#EXTINF:-1,AL: Dark Aksion HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/61503
+#EXTINF:-1,AL: Dark Stupcat HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/61508
+#EXTINF:-1,AL: Dark Cka ka Shpia  HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/61509
+#EXTINF:-1,AL: Dark O sa mire HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/61510
+#EXTINF:-1,AL: Dark Shpk Nazi HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/61511
+#EXTINF:-1,AL: Dark iStar Seriali HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/61512
+#EXTINF:-1,AL: Dark Seriali Vendlindja ime HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/61513
+#EXTINF:-1,AL: Dark Ich Bin Albaner HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/61514
+#EXTINF:-1,AL: Dark Baskia Humor HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/61515
+#EXTINF:-1,AL: Dark Familja KuqeZi HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/61516
+#EXTINF:-1,AL: Dark Kaçallukutimbra Serial HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/61517
+#EXTINF:-1,AL: Dark Komedi Familja HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/61518
+#EXTINF:-1,AL: Dark Popullore HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/61520
+#EXTINF:-1,AL: Dark Hip-Hop HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/61521
+#EXTINF:-1,AL:  Tallava  HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/61523
+#EXTINF:-1,AL: Dark  GOLD 1 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/61499
+#EXTINF:-1,AL: Dark Rock HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/61524
+#EXTINF:-1,powerGOLD 1 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/61525
+#EXTINF:-1,powerGOLD 2 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/61526
+#EXTINF:-1,powerGOLD 3 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/61527
+#EXTINF:-1,powerGOLD 4 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/61528
+#EXTINF:-1,KS: WebStar Aksion HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/61931
+#EXTINF:-1,KS: WebStar Komedi HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/61932
+#EXTINF:-1,KS: WebStar Cinema HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/61933
+#EXTINF:-1,KS: WebStar Thriller HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/61934
+#EXTINF:-1,KS: WebStar Drame HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/61935
+#EXTINF:-1,KS: WebStar Film 1 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/61936
+#EXTINF:-1,KS: WebStar Cinema DE HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/61937
+#EXTINF:-1,KS: WebStar Muzik HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/61938
+#EXTINF:-1,KS: WebStar Popullore HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/61939
+#EXTINF:-1,KS: WebStar Music CH HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/61940
+#EXTINF:-1,KS: WebStar Qifteli HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/61941
+#EXTINF:-1,AL: WebStar Music HD.
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/61942
+#EXTINF:-1,KS: WebStar Humor HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/61943
+#EXTINF:-1,KS: WebStar Auto 4k
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/61944
+#EXTINF:-1,KS: WebStar Natyr 4k
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/61945
+#EXTINF:-1,KS: WebStar Relax 4k
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/61946
+#EXTINF:-1,AL: WebStar Chanel 4K.
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/61947
+#EXTINF:-1,KS: WebStar Islam HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/61948
+#EXTINF:-1,KS: WebStar Islam 2 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/61949
+#EXTINF:-1,KS: WebStar ChuChu TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/61950
+#EXTINF:-1,KS: WebStar Masha Orso
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/61951
+#EXTINF:-1,AL: Masha e Orso DE
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/61952
+#EXTINF:-1,AL: Zana Music HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63110
+#EXTINF:-1,AL: Zana Aksion HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63111
+#EXTINF:-1,AL: Zana Thriller HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63112
+#EXTINF:-1,AL: Zana Dark HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63113
+#EXTINF:-1,AL: Zana Komedi HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63114
+#EXTINF:-1,AL: TV7 Albania SD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63115
+#EXTINF:-1,AL: Pace TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63116
+#EXTINF:-1,AL: Kinema Shqipë HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63117
+#EXTINF:-1,AL: TV Podujeva HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63722
+#EXTINF:-1,AL: TV Vushtria HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63723
+#EXTINF:-1,AL: Alsat HD (Toksorë)
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63724
+#EXTINF:-1,AL: N Aksion
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63725
+#EXTINF:-1,AL: N Komedi
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63726
+#EXTINF:-1,AL: N Romance
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63727
+#EXTINF:-1,AL: N Fantazi
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63728
+#EXTINF:-1,AL: N Femije
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63729
+#EXTINF:-1,AL: N Relaks FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63730
+#EXTINF:-1,AL: N Aventure
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63731
+#EXTINF:-1,AL: N Epik
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63732
+#EXTINF:-1,AL: N Horror
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63733
+#EXTINF:-1,AL: N Spider-Man
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63734
+#EXTINF:-1,AL: N Jackie Chan
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63735
+#EXTINF:-1,AL: N Van Damme
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63736
+#EXTINF:-1,AL: N Dwayne Johnson
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63737
+#EXTINF:-1,AL: N Arnold Schwarzenegger
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63738
+#EXTINF:-1,AL: N Sylvester Stallone
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63739
+#EXTINF:-1,AL: Dark Albanian Got Talent HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63911
+#EXTINF:-1,AL: Dark The Voice AL HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63912
+#EXTINF:-1,AL: Dark Shkence HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63913
+#EXTINF:-1,AL: Dark Natyre HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63914
+#EXTINF:-1,AL: Dark Dokumentare HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63915
+#EXTINF:-1,AL: Dark KickBox FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63916
+#EXTINF:-1,AL: Dark UFC FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63917
+#EXTINF:-1,AL: Dark Stupcat Skeçe HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63918
+#EXTINF:-1,AL: Dark Oda E Stupcav HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63919
+#EXTINF:-1,AL: Dark Stupcat Amkademiku HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63920
+#EXTINF:-1,AL: Dark Shengen Visa HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63921
+#EXTINF:-1,AL: Dark Kafeneja jone HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63922
+#EXTINF:-1,AL: Dark Tigrat HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63923
+#EXTINF:-1,AL: Dark Gëzuarë UHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63924
+#EXTINF:-1,AL: Dark Popullore 2 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63925
+#EXTINF:-1,AL: Dark  Çifteli  HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63926
+#EXTINF:-1,AL: Dark  GOLD 2 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63927
+#EXTINF:-1,AL: Dark GOLD 3 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63928
+#EXTINF:-1,AL: Dark GOLD 4 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63929
+#EXTINF:-1,AL: Dark Thriller HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63930
+#EXTINF:-1,AL: Dark Netflix FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63931
+#EXTINF:-1,AL: Dark Fantashkence HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63932
+#EXTINF:-1,AL: Dark Romancë FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63933
+#EXTINF:-1,AL: Dark Komedi HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63934
+#EXTINF:-1,AL: Dark Drama HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63935
+#EXTINF:-1,AL: Dark Familjare HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63936
+#EXTINF:-1,AL: Dark Fantazi HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63937
+#EXTINF:-1,AL: Dark Krimi HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63938
+#EXTINF:-1,AL: Dark Western HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63939
+#EXTINF:-1,AL: Dark Horror HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63940
+#EXTINF:-1,AL: Dark SHQIP HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63941
+#EXTINF:-1,AL: Dark BioGrapfy HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63942
+#EXTINF:-1,AL: Dark History HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63943
+#EXTINF:-1,AL: Dark Luftë HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63944
+#EXTINF:-1,AL: Dark Movies 1 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63945
+#EXTINF:-1,AL: Dark Movies 2 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63946
+#EXTINF:-1,AL: Star Plus TV Albania
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/65839
+#EXTINF:-1,AL: Kanali 10 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/66284
+#EXTINF:-1,AL: Netflix Aksion
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/66286
+#EXTINF:-1,AL: Netflix Arnold Schwarzenegger
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/66287
+#EXTINF:-1,AL: Netflix Aventure
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/66288
+#EXTINF:-1,AL: Netflix Bud Spencer & Terence Hill
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/66289
+#EXTINF:-1,AL: Netflix Dwayne Johnson
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/66290
+#EXTINF:-1,AL: Netflix Epik
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/66291
+#EXTINF:-1,AL: Netflix Fantazi
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/66292
+#EXTINF:-1,AL: Netflix Femije
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/66293
+#EXTINF:-1,AL: Netflix Horror
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/66294
+#EXTINF:-1,AL: Netflix Jackie Chan
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/66295
+#EXTINF:-1,AL: Netflix Komedi
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/66296
+#EXTINF:-1,AL: Netflix Relaks FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/66297
+#EXTINF:-1,AL: Netflix Romance
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/66298
+#EXTINF:-1,AL: Netflix Scary Movie
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/66299
+#EXTINF:-1,AL: Netflix Spider-Man
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/66300
+#EXTINF:-1,AL: Netflix Sylvester Stallone
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/66301
+#EXTINF:-1,AL: Netflix Van Damme
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/66302
+#EXTINF:-1,AL: TIMELESS DRAMA Channel FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/66303
+#EXTINF:-1,AL: Pikaboo TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/66304
+#EXTINF:-1,AL: ISP Muzikë HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70526
+#EXTINF:-1,AL: RTV Ahireti HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70527
+#EXTINF:-1,AL: Kanal 10 FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70529
+#EXTINF:-1,AL: Tetova Popullore HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70860
+#EXTINF:-1,AL: Tetova Muzik HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70861
+#EXTINF:-1,AL: Tetova Komedi HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70862
+#EXTINF:-1,AL: Tetova Drame HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70863
+#EXTINF:-1,AL: Tetova Thriller HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70864
+#EXTINF:-1,AL: Tetova Action HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70865
+#EXTINF:-1,AL: Tetova Cifteli HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70866
+#EXTINF:-1,AL: Tetova BBF HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70867
+#EXTINF:-1,AL: Tetova islam HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70868
+#EXTINF:-1,AL: Tetova Gjurme Shqiptare HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70869
+#EXTINF:-1,AL: Tetova Humor HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70870
+#EXTINF:-1,AL: MAXone HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70871
+#EXTINF:-1,AL: MAXcine HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70872
+#EXTINF:-1,AL: MAXred HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70873
+#EXTINF:-1,AL: MAXelite HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70874
+#EXTINF:-1,AL: MAXstar HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70875
+#EXTINF:-1,AL: MAXenergi HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70876
+#EXTINF:-1,AL: MAX premier 1 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70877
+#EXTINF:-1,AL: MAX premier 2 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70878
+#EXTINF:-1,AL: MAX premier 3 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70879
+#EXTINF:-1,AL: MAX premier 4 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70880
+#EXTINF:-1,AL: TELE one Aksion HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70881
+#EXTINF:-1,AL: TELE one Crime HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70882
+#EXTINF:-1,AL: TELE one GOLD Collection HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70883
+#EXTINF:-1,AL: TELE one Fantazi HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70884
+#EXTINF:-1,AL: TELE one Thriller HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70885
+#EXTINF:-1,AL: TELE one Drama HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70886
+#EXTINF:-1,AL: TELE one Epik HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70887
+#EXTINF:-1,AL: TELE one Muzik hits HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70888
+#EXTINF:-1,AL: Kinema24 1 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70889
+#EXTINF:-1,AL: Kinema24 2 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70890
+#EXTINF:-1,AL: Kinema24 3 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70891
+#EXTINF:-1,AL: Kinema24 4 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70892
+#EXTINF:-1,AL: Kinema24 5 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70893
+#EXTINF:-1,AL: Kinema24 6 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70894
+#EXTINF:-1,AL: Q PREMIUM 1 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70895
+#EXTINF:-1,AL: Q PREMIUM 2 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70896
+#EXTINF:-1,AL: Q PREMIUM 3 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70897
+#EXTINF:-1,AL: Q PREMIUM 4 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70898
+#EXTINF:-1,AL: Q PREMIUM  5 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70899
+#EXTINF:-1,AL: Q TRILLER HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70900
+#EXTINF:-1,AL: Q KOMEDI HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70901
+#EXTINF:-1,AL: Q DRAMA HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70902
+#EXTINF:-1,AL: Falcon Cinema Gold HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70903
+#EXTINF:-1,AL: Falcon Cinema Gold 2 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70904
+#EXTINF:-1,AL: Falcon Cinema Adventure HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70905
+#EXTINF:-1,AL: Falcon Cinema Aktion HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70906
+#EXTINF:-1,AL: Falcon Cinema Comedy HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70907
+#EXTINF:-1,AL: Falcon Cinema Drama HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70908
+#EXTINF:-1,AL: Falcon Cinema Romance HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70909
+#EXTINF:-1,AL: Falcon Cinema Sci-Fi HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70910
+#EXTINF:-1,AL: Falcon Cinema Thriller HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70911
+#EXTINF:-1,AL: LionTv Humor HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70912
+#EXTINF:-1,AL: LionTv Stupcat 24/7
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70913
+#EXTINF:-1,AL: LionTV Gold 1L HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70914
+#EXTINF:-1,AL: LionTV Gold 2L HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70915
+#EXTINF:-1,AL: LionTV Gold 3L HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70916
+#EXTINF:-1,AL: LionTV Gold 4L HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70917
+#EXTINF:-1,AL: LionTV Stupcat HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/70918
+#EXTINF:-1,AL: Ashkali TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/71500
+#EXTINF:-1,AL: ABC Story HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/71574
+#EXTINF:-1,AL: I Love Tropoja TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/71855
+#EXTINF:-1,AL: First Clasic HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/71856
+#EXTINF:-1,AL: First Dramë HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/71857
+#EXTINF:-1,AL: First Horror HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/71858
+#EXTINF:-1,AL: Gov Gjurmë Shqiptare HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/71859
+#EXTINF:-1,AL: Kanali 7 News HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/71860
+#EXTINF:-1,AL: Gjurmë Shqiptare HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/71861
+#EXTINF:-1,AL: E Mirë Shqiptare HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/71862
+#EXTINF:-1,AL: Portokalli HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/71863
+#EXTINF:-1,AL: Report HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/71864
+#EXTINF:-1,AL: RTV 1BANIA
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/71865
+#EXTINF:-1,AL: TV Pollogu HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/71866
+#EXTINF:-1,AL: Teuta TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/71867
+#EXTINF:-1,AL: Star TV HD Kosova
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/72760
+#EXTINF:-1,AL: Tele One Shqip HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73255
+#EXTINF:-1,AL: Tele One Aventure HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73256
+#EXTINF:-1,AL: Tele One Gags HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73257
+#EXTINF:-1,AL: Malisheva TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73259
+#EXTINF:-1,AL: Art Media Muzikë
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73945
+#EXTINF:-1,AL: Flutra TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73946
+#EXTINF:-1,AL: RTV Arberia 1 TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73947
+#EXTINF:-1,AL: Arberia 2 TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73948
+#EXTINF:-1,AL: Arberia Femijë TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73949
+#EXTINF:-1,AL: Atd TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73950
+#EXTINF:-1,AL: Xiki Muzikë TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73951
+#EXTINF:-1,AL: Best Channel TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73952
+#EXTINF:-1,AL: First Classic HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73967
+#EXTINF:-1,AL: First Dramë HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73968
+#EXTINF:-1,AL: First Horror HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73969
+#EXTINF:-1,AL: LionTv Humor HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73970
+#EXTINF:-1,AL: LionTv Stupcat 24/7
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73971
+#EXTINF:-1,AL: LionTV Gold 1L HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73972
+#EXTINF:-1,AL: LionTV Gold 2L HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73973
+#EXTINF:-1,AL: LionTV Gold 3L HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73974
+#EXTINF:-1,AL: LionTV Gold 4L HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73975
+#EXTINF:-1,AL: LionTV Stupcat HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73976
+#EXTINF:-1,AL: LionTV Humor HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73977
+#EXTINF:-1,AL: LionTV Gold HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73978
+#EXTINF:-1,AL: Falcon Cinema Gold HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73984
+#EXTINF:-1,AL: Falcon Cinema Adventure HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73985
+#EXTINF:-1,AL: Falcon Cinema Aktion HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73986
+#EXTINF:-1,AL: Falcon Cinema Comedy HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73987
+#EXTINF:-1,AL: Falcon Cinema Romance HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73988
+#EXTINF:-1,AL: Falcon Cinema Sci-Fi HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73989
+#EXTINF:-1,AL: Kinema24 1 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73991
+#EXTINF:-1,AL: Kinema24 2 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73992
+#EXTINF:-1,AL: Kinema24 3 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73993
+#EXTINF:-1,AL: Kinema24 4 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73994
+#EXTINF:-1,AL: Kinema24 5 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73995
+#EXTINF:-1,AL: Kinema24 6 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73996
+#EXTINF:-1,AL: StatiON Cine HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73997
+#EXTINF:-1,AL: StatiON Prime HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73998
+#EXTINF:-1,AL: StatiON Box HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73999
+#EXTINF:-1,AL:: StatiON Top HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/74000
+#EXTINF:-1,AL: StatiON Stars HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/74001
+#EXTINF:-1,AL: Shqip 1 TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/75911
+#EXTINF:-1,AL: Shqip 2 TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/75912
+#EXTINF:-1,AL: Shqip 3 TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/75913
+#EXTINF:-1,AL: Shqip 4 TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/75914
+#EXTINF:-1,AL: Kinema24 Aksion
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/76305
+#EXTINF:-1,AL: Kinema24 Dramë
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/76306
+#EXTINF:-1,AL: Kinema24 Comedy
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/76307
+#EXTINF:-1,AL: Kinema24 Thriller
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/76308
+#EXTINF:-1,AL: Kinema24 Horror
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/76309
+#EXTINF:-1,AL: Kinema24 Fantasy
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/76310
+#EXTINF:-1,AL: MAXpremier 1
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/76311
+#EXTINF:-1,AL: MAXpremier 2
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/76312
+#EXTINF:-1,AL: MAXpremier 3
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/76313
+#EXTINF:-1,AL: MAXpremier 4
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/76314
+#EXTINF:-1,AL: Shijak TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/76315
+#EXTINF:-1,AL: Korça Plus
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/76979
+#EXTINF:-1,TELE one KURANI ( shqip )
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/78458
+#EXTINF:-1,AL: D.FILMA24 Premier FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/79837
+#EXTINF:-1,AL: D. Filma24 Aksion FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/79838
+#EXTINF:-1,AL: D.FILMA24 Thriller FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/79839
+#EXTINF:-1,AL: D.FILMA24 Aziatik FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/79840
+#EXTINF:-1,AL: D.FILMA24 Horror FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/79841
+#EXTINF:-1,AL: D.FILMA24 Familjar FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/79842
+#EXTINF:-1,AL: D.FILMA24 Hindi FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/79843
+#EXTINF:-1,AL: D.FILMA24 Drame FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/79844
+#EXTINF:-1,AL: D.FILMA24 Aventur FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/79845
+#EXTINF:-1,AL: D.FILMA24 Fantazi FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/79846
+#EXTINF:-1,AL: D.FILMA24 Western FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/79847
+#EXTINF:-1,AL: D.FILMA24 Luftë FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/79848
+#EXTINF:-1,AL: D.FILMA24 Krim FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/79849
+#EXTINF:-1,AL: D.FILMA24 Komedi FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/79850
+#EXTINF:-1,AL: KiKiPlay-Hits HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/79851
+#EXTINF:-1,AL: KiKiPlay - Max HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/79852
+#EXTINF:-1,AL: KiKi Canal-Play 3 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/79853
+#EXTINF:-1,AL: KiKi Canal-Play 4 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/79854
+#EXTINF:-1,AL: KiKi Canal-Play 5 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/79855
+#EXTINF:-1,AL: KiKi Canal-Play 6 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/79856
+#EXTINF:-1,AL: KiKi Canal-Play 7 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/79857
+#EXTINF:-1,AL: KiKi Canal-Play 8 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/79858
+#EXTINF:-1,AL: KiKi Canal-Play INFO
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/79859
+#EXTINF:-1,AL: KiKi Serial 1 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/79860
+#EXTINF:-1,AL: KiKi Serial 2 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/79861
+#EXTINF:-1,AL: KiKi Serial 3 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/79862
+#EXTINF:-1,AL: KiKi Serial Channel INFO
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/79863
+#EXTINF:-1,AL: RTV Arti TV HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/83442
+#EXTINF:-1,AL: KS COMEDY
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/83443
+#EXTINF:-1,AL: KS Drama HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/83444
+#EXTINF:-1,AL: KS Filma24 Famiy
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/83445
+#EXTINF:-1,AL: KS Filma24 Premiere
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/83446
+#EXTINF:-1,AL: KS HUMOR HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/83447
+#EXTINF:-1,AL: KS Kids HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/83448
+#EXTINF:-1,AL: KS POPULLORE HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/83449
+#EXTINF:-1,AL: KS Premier 3 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/83450
+#EXTINF:-1,AL: KS PËRALLA HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/83451
+#EXTINF:-1,AL: KS SHQIP
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/83452
+#EXTINF:-1,AL: KS STUPCAT HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/83453
+#EXTINF:-1,AL: KS ÇIFTELI HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/83455
+#EXTINF:-1,AL: Kinema 1
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/83538
+#EXTINF:-1,AL: Kinema 17 N HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/83539
+#EXTINF:-1,AL: Kinema Agimi HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/83540
+#EXTINF:-1,AL: Kinema Aksion
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/83541
+#EXTINF:-1,AL: Kinema Aksion MAX
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/83542
+#EXTINF:-1,AL: Kinema Dajti HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/83543
+#EXTINF:-1,AL: Kinema Fantasy
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/83544
+#EXTINF:-1,AL: Kinema Partizani HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/83545
+#EXTINF:-1,AL: Kinema Republika HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/83546
+#EXTINF:-1,AL: Kinema24 1 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/83547
+#EXTINF:-1,AL: Kinema24 2 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/83548
+#EXTINF:-1,AL: Kinema24 3 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/83549
+#EXTINF:-1,AL: Kinema24 4 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/83550
+#EXTINF:-1,AL: Kinema24 5 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/83551
+#EXTINF:-1,AL: Kinema24 6 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/83552
+#EXTINF:-1,AL: Kinema24 Action HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/83553
+#EXTINF:-1,AL: Kinema24 Comedy HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/83554
+#EXTINF:-1,AL: Kinema24 drama HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/83555
+#EXTINF:-1,AL: Kinema24 thriller HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/83556
+#EXTINF:-1,AL: KINO PREMIERE 2 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/83557
+#EXTINF:-1,AL: Kino Premiere 3 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/83558
+#EXTINF:-1,AL: TV2000 Tirana1
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84280
+#EXTINF:-1,AL: MCN TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84281
+#EXTINF:-1,AL: One TV Vlora
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84282
+#EXTINF:-1,AL: Ich bin Albaner HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84283
+#EXTINF:-1,Test
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84284
+#EXTINF:-1,AL: KiKiGo - Fast&Furious HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84285
+#EXTINF:-1,AL: KiKi Premier info HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84286
+#EXTINF:-1,AL: KiKi Premier 1 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84287
+#EXTINF:-1,AL: KiKi Premier 2 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84288
+#EXTINF:-1,AL: KiKi Premier 3 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84289
+#EXTINF:-1,AL: KiKi Premier 4 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84290
+#EXTINF:-1,AL: KiKiGo - Marvel HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84291
+#EXTINF:-1,AL: KiKiGo - Racing HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84292
+#EXTINF:-1,AL: Dark SHQIP 1 UHD 4K+
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84293
+#EXTINF:-1,AL: Dark Netflix 1 FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84294
+#EXTINF:-1,AL: Dark Netflix 2 FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84295
+#EXTINF:-1,AL: Dark Netflix 3 FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84296
+#EXTINF:-1,AL: Dark Netflix 4 FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84297
+#EXTINF:-1,AL: Dark Netflix 5 FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84298
+#EXTINF:-1,AL: Dark Netflix 6 FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84299
+#EXTINF:-1,AL: Dark Netflix 7 FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84300
+#EXTINF:-1,AL: Dark Netflix 8 FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84301
+#EXTINF:-1,AL: Dark Netflix 9 FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84302
+#EXTINF:-1,AL: Dark Netflix 10 FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84303
+#EXTINF:-1,AL: Dark Netflix 11 FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84304
+#EXTINF:-1,AL: Dark Gold 1 FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84305
+#EXTINF:-1,AL: Dark Gold 2 FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84306
+#EXTINF:-1,AL: Dark Gold 3 FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84307
+#EXTINF:-1,AL: Dark Gold 4 FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84308
+#EXTINF:-1,AL: Dark GOLD 5 FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84309
+#EXTINF:-1,AL: Dark GOLD 6 FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84310
+#EXTINF:-1,AL: Dark GOLD 7 FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84311
+#EXTINF:-1,AL: Dark GOLD 8 FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84312
+#EXTINF:-1,AL: Dark Aksion FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84313
+#EXTINF:-1,AL: Dark Thriller UHD 4k+
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84314
+#EXTINF:-1,AL: Dark Sci-Fi UHD 4K+
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84315
+#EXTINF:-1,AL: Dark Komedi UHD 4K+
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84316
+#EXTINF:-1,AL: Dark Fantazi UHD 4K+
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84317
+#EXTINF:-1,AL: Dark Horror UHD 4K+
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84318
+#EXTINF:-1,AL: Dark Western UHD 4K+
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84319
+#EXTINF:-1,AL: Dark Drame UHD 4K+
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84320
+#EXTINF:-1,AL: Dark Aventure UHD 4K+
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84321
+#EXTINF:-1,AL: Dark Familjare UHD 4K+
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84322
+#EXTINF:-1,AL: Dark Gjerman UHD 4K+
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84323
+#EXTINF:-1,AL: Dark Francez UHD 4K+
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84324
+#EXTINF:-1,AL: Dark ITALY UHD 4K+
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84325
+#EXTINF:-1,AL: Dark Turke UHD 4K+
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84326
+#EXTINF:-1,AL: Dark RUS UHD 4K+
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84327
+#EXTINF:-1,AL: Dark Spanjolle UHD 4K+
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84328
+#EXTINF:-1,AL: Dark Hindi UHD 4K+
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84329
+#EXTINF:-1,AL: Dark Netflix FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84330
+#EXTINF:-1,AL: Dark Romancë FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84331
+#EXTINF:-1,AL: Dark Mixha BiBe FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84332
+#EXTINF:-1,AL: Dark Te BaXha UHD 4K+
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84333
+#EXTINF:-1,AL: Dark Oda E Stupcav HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84334
+#EXTINF:-1,AL: Dark Stupcat Amkademiku HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84335
+#EXTINF:-1,AL: Dark Shengen Visa HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84336
+#EXTINF:-1,AL: Dark Cka ka Shpia  HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84337
+#EXTINF:-1,AL: Dark Kafeneja jone HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84338
+#EXTINF:-1,AL: Dark O sa mire HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84339
+#EXTINF:-1,AL: Dark Shpk Nazi HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84340
+#EXTINF:-1,AL: Dark Fara e Flliqt HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84341
+#EXTINF:-1,AL: Dark Tigrat HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84342
+#EXTINF:-1,AL: Dark iStar Seriali HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84343
+#EXTINF:-1,AL: Dark Ich Bin Albaner HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84344
+#EXTINF:-1,AL: Dark Baskia Humor HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84345
+#EXTINF:-1,AL: Dark Premier Kids FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84346
+#EXTINF:-1,AL: Dark Edukativ HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84347
+#EXTINF:-1,AL: Dark Tom & Jerry HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84348
+#EXTINF:-1,AL: Dark Mr Bean Cartoon UHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84349
+#EXTINF:-1,AL: Dark Pink Panther UHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84350
+#EXTINF:-1,AL: Dark Donald Duck HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84351
+#EXTINF:-1,AL: Dark Peralla HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84352
+#EXTINF:-1,AL: Dark ChuChu TV UHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84353
+#EXTINF:-1,AL: Dark Larva Spring (Kids) FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84354
+#EXTINF:-1,AL: Dark kongkong's (Kid's) FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84355
+#EXTINF:-1,AL: Dark HiTeT 2021 UHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84356
+#EXTINF:-1,AL: Dark Popullore (2021) UHD 4K+
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84357
+#EXTINF:-1,AL: Dark GEZUAR HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84358
+#EXTINF:-1,AL: Dark Popullore HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84359
+#EXTINF:-1,AL: Dark Popullore 2 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84360
+#EXTINF:-1,AL: Dark Popullore 3 FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84361
+#EXTINF:-1,AL: Dark Tallava FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84362
+#EXTINF:-1,AL: Dark Hip-Hop HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84363
+#EXTINF:-1,AL: Dark  Çifteli  HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84364
+#EXTINF:-1,AL: Dark Balade UHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84365
+#EXTINF:-1,AL: Dark Bitonia UHD 4K+
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84366
+#EXTINF:-1,AL: KiKi Paw petrol HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84367
+#EXTINF:-1,AL: KiKi Oddbods HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84368
+#EXTINF:-1,AL: KiKi Pj Mask HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84369
+#EXTINF:-1,AL: KiKi Barby Toys HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84370
+#EXTINF:-1,AL: KiKi Masha & Bear HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84371
+#EXTINF:-1,AL: KiKi Abby Hatcher HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84372
+#EXTINF:-1,AL: KiKi Booba Cartoon HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84373
+#EXTINF:-1,AL: KiKi Ricky Zoom HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84374
+#EXTINF:-1,AL: KiKi Diana Show HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84375
+#EXTINF:-1,AL: KiKi Peppa HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84376
+#EXTINF:-1,AL: KiKi Teletubbies HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84377
+#EXTINF:-1,AL: Dark Ramazan Ilahi FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84378
+#EXTINF:-1,AL: Dark En FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84379
+#EXTINF:-1,AL: Dark Ilahi Shqip FHD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84380
+#EXTINF:-1,AL: Dark ilahi HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84381
+#EXTINF:-1,AL: Dark Ilahi 2 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84382
+#EXTINF:-1,AL: Dark ilahi 3 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84383
+#EXTINF:-1,AL: Dark Dr.Krasniqi HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84384
+#EXTINF:-1,AL: Salaam TV HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84385
+#EXTINF:-1,AL:IMAM HUSSEIN 1 TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84386
+#EXTINF:-1,AL:IMAM HUSSEIN 2 TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84387
+#EXTINF:-1,AL:IMAM HUSSEIN 3 TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84388
+#EXTINF:-1,AL:IMAM HUSSEIN 4 TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84389
+#EXTINF:-1,AL: Karbala Live 1
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84390
+#EXTINF:-1,AL: Karbala Live 2
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84391
+#EXTINF:-1,AL: Karbala Live 3
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84392
+#EXTINF:-1,AL: Karbala Live 4
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84393
+#EXTINF:-1,AL: Karbala Live 5
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84394
+#EXTINF:-1,AL: Karbala Live 6
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84395
+#EXTINF:-1,AL: Klanifornia HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84419
+#EXTINF:-1,AL: MCN TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84420
+#EXTINF:-1,AL: Kinema Milenium 2
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84421
+#EXTINF:-1,AL: Kinema Milenium 4
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84422
+#EXTINF:-1,AL: Kino24 drame
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84423
+#EXTINF:-1,AL: Kino24 aksion
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84424
+#EXTINF:-1,AL: Kino24 komedi
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84425
+#EXTINF:-1,AL: Kino24 thriller
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84426
+#EXTINF:-1,AL: Kino24 horror
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84427
+#EXTINF:-1,AL: Kino24 fantazi
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84428
+#EXTINF:-1,AL: Kino24 hits
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84429
+#EXTINF:-1,AL: Kino24 adventure
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84430
+#EXTINF:-1,AL: Jim Jam Kids
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84483
+#EXTINF:-1,AL: Festina TV
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/84484
+#EXTINF:-1,AL: Alba Box Aksion HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73435
+#EXTINF:-1,AL: Alba Box Muzikë HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73871
+#EXTINF:-1,AL: Alba Box Dramë HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73436
+#EXTINF:-1,AL: Alba Box Hindi HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73437
+#EXTINF:-1,AL: Alba Box Shqipë HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73438
+#EXTINF:-1,AL: Alba Box Komedi HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73439
+#EXTINF:-1,AL: Alba Box Western HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73440
+#EXTINF:-1,AL: Alba Box Premium 1 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73441
+#EXTINF:-1,AL: Alba Box Premium 2 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/73442
+#EXTINF:-1,AL: Alba Box Premium 3 HD
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/74569
 
 
 
