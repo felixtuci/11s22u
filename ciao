@@ -5866,48 +5866,7 @@ http://185.226.65.110/sltv/play.php?chID=218022
 #EXTINF:-1,IT: VIP FRISBEE MINI HD
 http://185.226.65.110/sltv/play.php?chID=276843
 
-#EXTINF:-1,IT: VIP ANIMAZIONEH24 = I GRIFFIN
-http://185.226.65.110/sltv/play.php?chID=310419
-#EXTINF:-1,IT: VIP ANIMAZIONEH24 = I SIMPSON
-http://185.226.65.110/sltv/play.php?chID=310418
-#EXTINF:-1,IT: VIP AnimazioneH24 = American Dad
-http://185.226.65.110/sltv/play.php?chID=310417
-#EXTINF:-1,IT: VIP AnimazioneH24 = Anni 80
-http://185.226.65.110/sltv/play.php?chID=310416
-#EXTINF:-1,IT: VIP AnimazioneH24 = I Simpson 2
-http://185.226.65.110/sltv/play.php?chID=310415
-#EXTINF:-1,IT: VIP AnimazioneH24 = Ecco Pippo
-http://185.226.65.110/sltv/play.php?chID=310414
-#EXTINF:-1,IT: VIP AnimazioneH24 = Peppa Pig
-http://185.226.65.110/sltv/play.php?chID=310413
-#EXTINF:-1,IT: VIP AnimazioneH24 = Dragon Bal
-http://185.226.65.110/sltv/play.php?chID=310412
-#EXTINF:-1,IT: VIP AnimazioneH24 = Esplorando Il Corpo Umano
-http://185.226.65.110/sltv/play.php?chID=310411
-#EXTINF:-1,IT: VIP AnimazioneH24 = Gormiti
-http://185.226.65.110/sltv/play.php?chID=310410
-#EXTINF:-1,IT: VIP AnimazioneH24 = Animazione La casa di Topolino
-http://185.226.65.110/sltv/play.php?chID=310409
-#EXTINF:-1,IT: VIP AnimazioneH24 = PawPatrol
-http://185.226.65.110/sltv/play.php?chID=310408
-#EXTINF:-1,IT: VIP AnimazioneH24 = I Puffi
-http://185.226.65.110/sltv/play.php?chID=310407
-#EXTINF:-1,IT: VIP AnimazioneH24 =  Tartarughe Ninja
-http://185.226.65.110/sltv/play.php?chID=310406
-#EXTINF:-1,IT: VIP AnimazioneH24 = PJ Masks
-http://185.226.65.110/sltv/play.php?chID=310405
-#EXTINF:-1,IT: VIP AnimazioneH24 = Gigi La Trottola
-http://185.226.65.110/sltv/play.php?chID=310404
-#EXTINF:-1,IT: VIP AnimazioneH24 = Masha E Orso
-http://185.226.65.110/sltv/play.php?chID=310403
-#EXTINF:-1,IT: VIP AnimazioneH24 = Super Wings
-http://185.226.65.110/sltv/play.php?chID=310402
-#EXTINF:-1,IT: VIP AnimazioneH24 = Dottoressa Peluche
-http://185.226.65.110/sltv/play.php?chID=310401
-#EXTINF:-1,IT: VIP AnimazioneH24 = Sam Il Pompiere
-http://185.226.65.110/sltv/play.php?chID=310400
-#EXTINF:-1,IT: VIP AnimazioneH24 = Blazee le Mega Macchine
-http://185.226.65.110/sltv/play.php?chID=310399
+
 
 #EXTINF:-1,IT: VIP RAI NEWS 24 HD
 http://185.226.65.110/sltv/play.php?chID=218024
@@ -6308,12 +6267,20 @@ http://185.226.65.110/sltv/play.php?chID=310366
 
 
 #EXTINF:-1   group-title="-IPTV ITALIA 3- ",
-#EXTINF:-1,Italia 1
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/442.ts
-#EXTINF:-1,Canale 5
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/441.ts
-#EXTINF:-1,Rete 4 
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/440.ts
+#EXTINF:-1,Rai_1_HD
+http://168.119.38.56:86/Rai_1_HD/index.m3u8?token=test
+#EXTINF:-1,Rai_2_HD
+http://168.119.38.56:86/Rai_2_HD/index.m3u8?token=test
+#EXTINF:-1,Rai_4
+http://str.smartip-tv.net:8888/Rai_4/index.m3u8?token=test
+#EXTINF:-1,Italia_Uno
+http://168.119.38.56:86/Italia_Uno/index.m3u8?token=test
+#EXTINF:-1,Canale_5
+http://168.119.38.56:86/Canale_5/index.m3u8?token=test
+#EXTINF:-1,Rete_4
+http://str.smartip-tv.net:8888/Rete_4/index.m3u8?token=test
+
+
 #EXTINF:-1,Rai 1 FHD
 http://newpremiumtop.xyz:8000/UNIeeSUXcq/DRDCCBCE/8626
 #EXTINF:-1,RAI 2 FHD
