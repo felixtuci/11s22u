@@ -10462,6 +10462,12 @@ http://top.funtogether.xyz:8080/tomasiptv2021/hgHgyhg12hsgZX/95662
 http://top.funtogether.xyz:8080/tomasiptv2021/hgHgyhg12hsgZX/89979
 
 #EXTINF:-1    group-title="-IPTV FRANCE-",
+#EXTINF:-1,Cine+_Famiz_HD FR
+http://217.23.4.81:86/Cine+_Famiz_HD/index.m3u8?token=test
+#EXTINF:-1,Canal+_Family_HD FR
+http://str.smartip-tv.net:8888/Canal+_Family_HD/index.m3u8?token=test
+#EXTINF:-1,Warner_Bros FR
+http://168.119.38.56:86/warner_bros/tracks-v1/mono.m3u8?token=test
 #EXTINF:-1,RTS Un HD FR
 http://top.funtogether.xyz:8080/tomasiptv2021/hgHgyhg12hsgZX/424
 #EXTINF:-1,RTS Deux HD FR
