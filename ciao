@@ -4760,20 +4760,6 @@ http://185.226.65.110/sltv/play.php?chID=211453
 #EXTINF:-1,AL: Eurosport 2
 http://185.226.65.110/sltv/play.php?chID=211454
 
-#EXTINF:-1,SuperSport 1 FHD gold
-http://212.224.98.206:2200/ALB-EX/Super_Sport_1_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=null
-#EXTINF:-1,SuperSport 2 FHD gold
-http://212.224.98.206:2200/ALB-EX/Super_Sport_2_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=null
-#EXTINF:-1,SuperSport 3 FHD gold
-http://212.224.98.206:2200/ALB-EX/Super_Sport_3_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=null
-#EXTINF:-1,SuperSport 4 FHD gold
-http://212.224.98.206:2200/ALB-EX/Super_Sport_4_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=null
-#EXTINF:-1,SuperSport 5 FHD gold
-http://212.224.98.206:2200/ALB-EX/Super_Sport_5_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=null
-#EXTINF:-1,SuperSport 6 FHD gold
-http://212.224.98.206:2200/ALB-EX/Super_Sport_6_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=null
-
-
 #EXTINF:-1,SuperSport 1 HD illy
 http://93.157.62.180/Supersport1/mpegts
 #EXTINF:-1,SuperSport 2 HD illy
@@ -4821,15 +4807,16 @@ https://rebrand.ly/Shqipks3
 https://rebrand.ly/Shqipks4
 
 #EXTINF:-1,SUPER_SPORT_1
-http://fun6.xyz:2052/ALBANIA_SUPER_SPORT_1/index.m3u8?token=test
+http://38.91.57.31:80/ALBANIA_Super_Sport_News_HD/index.m3u8?token=test            
 #EXTINF:-1,SUPER_SPORT_2
-http://fun6.xyz:2052/ALBANIA_SUPER_SPORT_2/index.m3u8?token=test
+http://38.91.57.31:80/ALBANIA_Super_Sport_2_HD/index.m3u8?token=test              
+
 #EXTINF:-1,SUPER_SPORT_3
-http://fun6.xyz:2052/ALBANIA_SUPER_SPORT_3/index.m3u8?token=test
+http://38.91.57.31:80/ALBANIA_Super_Sport_3_HD/index.m3u8?token=test
 #EXTINF:-1,SUPER_SPORT_4
-http://fun6.xyz:2052/ALBANIA_SUPER_SPORT_4/index.m3u8?token=test
+http://38.91.57.31:80/ALBANIA_Super_Sport_4_HD/index.m3u8?token=test
 #EXTINF:-1,SUPER_SPORT_5
-http://fun6.xyz:2052/ALBANIA_SUPER_SPORT_5/index.m3u8?token=test
+http://38.91.57.31:80/ALBANIA_Super_Sport_5_HD/index.m3u8?token=test
 
 #EXTINF:-1,SUPER SPORT 1 HD
 http://ran.no-ips.net:8888/StS/276568/index.m3u8?token=test
@@ -11374,144 +11361,515 @@ http://top.funtogether.xyz:8080/tomasiptv2021/hgHgyhg12hsgZX/93882
 
 
 #EXTINF:-1    group-title="-IPTV GREECE-",
-#EXTINF:-1,GR: EPT 1
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/1821.ts
-#EXTINF:-1,GR: EPT 2
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/1822.ts
-#EXTINF:-1,GR: EPT 3
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/1823.ts
-#EXTINF:-1,GR: ERT
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3777.ts
-#EXTINF:-1,GR: EPT Sports
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/2731.ts
-#EXTINF:-1,GR: Alpha TV
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/1812.ts
-#EXTINF:-1,GR: ANT1
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/1811.ts
-#EXTINF:-1,GR: Skai TV
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/1803.ts
-#EXTINF:-1,GR: MAD
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/1815.ts
-#EXTINF:-1,GR: STAR
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/1802.ts
-#EXTINF:-1,GR: MEGA
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/1809.ts
-#EXTINF:-1,GR: SIGMA
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/1804.ts
-#EXTINF:-1,GR: KRHTH
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/1813.ts
-#EXTINF:-1,GR: NEA
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/1807.ts
-#EXTINF:-1,GR: Nova Premiere Action FHD
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3347.ts
-#EXTINF:-1,GR: Nova Premiere Adventure FHD
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3351.ts
-#EXTINF:-1,GR: Nova Premiere Animation FHD
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3352.ts
-#EXTINF:-1,GR: Nova Premiere Comedy FHD
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3350.ts
-#EXTINF:-1,GR: Nova Premiere Drama FHD
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3353.ts
-#EXTINF:-1,GR: Nova Premiere Fantasy FHD
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3349.ts
-#EXTINF:-1,GR: Nova Premiere HELLENIC
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3359.ts
-#EXTINF:-1,GR: Nova Premiere History FHD
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3354.ts
-#EXTINF:-1,GR: Nova Premiere Horror FHD
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3355.ts
-#EXTINF:-1,GR: Nova Premiere Mythology FHD
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3357.ts
-#EXTINF:-1,GR: Nova Premiere Passion FHD
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3356.ts
-#EXTINF:-1,GR: Nova Premiere STARZ FHD
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3348.ts
-#EXTINF:-1,GR: Nova Premiere Thriller FHD
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3358.ts
-#EXTINF:-1,GR: OTE CINEMA 1 FHD
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3801.ts
-#EXTINF:-1,GR: OTE CINEMA 2 FHD
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3802.ts
-#EXTINF:-1,GR: OTE CINEMA 3 HD
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3803.ts
-#EXTINF:-1,GR: OTE SERIES
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3804.ts
-#EXTINF:-1,GR: Cosmote Cinema 1
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3772.ts
-#EXTINF:-1,GR: Cosmote Cinema 2
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3773.ts
-#EXTINF:-1,GR: Cosmote Cinema 3
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3774.ts
-#EXTINF:-1,GR: Cosmote Cinema 4
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3775.ts
+#EXTINF:-1,GR: Ert World HD
+http://185.226.65.110/dna/play.php?chID=60281
+
+#EXTINF:-1,GR: Ert 1 HD
+http://185.226.65.110/dna/play.php?chID=43345
+#EXTINF:-1,GR: Ert 2 HD
+http://185.226.65.110/dna/play.php?chID=43346
+#EXTINF:-1,GR: Ert 3 HD
+http://185.226.65.110/dna/play.php?chID=43347
+#EXTINF:-1,GR: Ant1
+http://185.226.65.110/dna/play.php?chID=24676
+#EXTINF:-1,GR: Ant1 HD
+http://185.226.65.110/dna/play.php?chID=43339
+#EXTINF:-1,GR: Ant1  FHD
+http://185.226.65.110/dna/play.php?chID=108766
+#EXTINF:-1,GR: Alpha
+http://185.226.65.110/dna/play.php?chID=17451
+#EXTINF:-1,GR: Alpha HD
+http://185.226.65.110/dna/play.php?chID=43338
+#EXTINF:-1,GR: Alpha FHD
+http://185.226.65.110/dna/play.php?chID=108765
+#EXTINF:-1,GR: Star
+http://185.226.65.110/dna/play.php?chID=17452
+#EXTINF:-1,GR: Star HD
+http://185.226.65.110/dna/play.php?chID=43342
+#EXTINF:-1,GR: Star FHD
+http://185.226.65.110/dna/play.php?chID=108768
+#EXTINF:-1,GR: Open Beyond
+http://185.226.65.110/dna/play.php?chID=17458
+#EXTINF:-1,GR: Open Beyond HD
+http://185.226.65.110/dna/play.php?chID=43343
+#EXTINF:-1,GR: Open Beyond FHD
+http://185.226.65.110/dna/play.php?chID=108769
+#EXTINF:-1,GR: Skai
+http://185.226.65.110/dna/play.php?chID=24679
+#EXTINF:-1,GR: Skai HD
+http://185.226.65.110/dna/play.php?chID=43341
+#EXTINF:-1,GR: Skai FHD
+http://185.226.65.110/dna/play.php?chID=108767
+#EXTINF:-1,GR: Mega TV
+http://185.226.65.110/dna/play.php?chID=85626
+#EXTINF:-1,GR: Mega TV HD
+http://185.226.65.110/dna/play.php?chID=85625
+#EXTINF:-1,GR: Mega TV FHD
+http://185.226.65.110/dna/play.php?chID=108764
+#EXTINF:-1,GR: Makedonia TV
+http://185.226.65.110/dna/play.php?chID=17566
+#EXTINF:-1,GR: Makedonia TV HD
+http://185.226.65.110/dna/play.php?chID=43344
+#EXTINF:-1,GR: One Channel HD
+http://185.226.65.110/dna/play.php?chID=65985
+#EXTINF:-1,GR: TV100
+http://185.226.65.110/dna/play.php?chID=17565
+#EXTINF:-1,GR: Kontra Channel
+http://185.226.65.110/dna/play.php?chID=17457
+#EXTINF:-1,GR: Kontra Channel (B)
+http://185.226.65.110/dna/play.php?chID=75319
+#EXTINF:-1,GR: Euronews
+http://185.226.65.110/dna/play.php?chID=65984
+#EXTINF:-1,GR: Action24
+http://185.226.65.110/dna/play.php?chID=17474
+#EXTINF:-1,GR: ART TV
+http://185.226.65.110/dna/play.php?chID=17473
+#EXTINF:-1,GR: Epsilon
+http://185.226.65.110/dna/play.php?chID=100906
+#EXTINF:-1,GR: 4E Tv
+http://185.226.65.110/dna/play.php?chID=71089
+#EXTINF:-1,GR: Net TV Toronto
+http://185.226.65.110/dna/play.php?chID=18379
+#EXTINF:-1,GR: E TV
+http://185.226.65.110/dna/play.php?chID=87707
+#EXTINF:-1,GR: Best TV
+http://185.226.65.110/dna/play.php?chID=87700
+#EXTINF:-1,GR: Alert
+http://185.226.65.110/dna/play.php?chID=87692
+#EXTINF:-1,GR: Vouli
+http://185.226.65.110/dna/play.php?chID=17476
+
+#EXTINF:-1,GR: Fox
+http://185.226.65.110/dna/play.php?chID=17586
+#EXTINF:-1,GR: Fox Life HD
+http://185.226.65.110/dna/play.php?chID=103018
+#EXTINF:-1,GR: Village Cinema HD
+http://185.226.65.110/dna/play.php?chID=17600
+#EXTINF:-1,GR: MovieTime 1HD
+http://185.226.65.110/dna/play.php?chID=107129
+#EXTINF:-1,GR: MovieTime 2HD
+http://185.226.65.110/dna/play.php?chID=107281
+#EXTINF:-1,GR: MovieTime 3HD
+http://185.226.65.110/dna/play.php?chID=107421
+#EXTINF:-1,GR: MovieTime Old Greek
+http://185.226.65.110/dna/play.php?chID=107403
+#EXTINF:-1,GR: Nova Life HD
+http://185.226.65.110/dna/play.php?chID=52768
+#EXTINF:-1,GR: Nova Cinema 1HD
+http://185.226.65.110/dna/play.php?chID=19642
+#EXTINF:-1,GR: Nova Cinema 1HD (Backup)
+http://185.226.65.110/dna/play.php?chID=106772
+#EXTINF:-1,GR: Nova Cinema 2HD
+http://185.226.65.110/dna/play.php?chID=19641
+#EXTINF:-1,GR: Nova Cinema 2HD (Backup)
+http://185.226.65.110/dna/play.php?chID=106771
+#EXTINF:-1,GR: Nova Cinema 3HD
+http://185.226.65.110/dna/play.php?chID=27549
+#EXTINF:-1,GR: Nova Cinema 3HD (Backup)
+http://185.226.65.110/dna/play.php?chID=106773
+#EXTINF:-1,GR: Nova Cinema 4HD
+http://185.226.65.110/dna/play.php?chID=27550
+#EXTINF:-1,GR: Nova Cinema 4HD (Backup)
+http://185.226.65.110/dna/play.php?chID=106774
+#EXTINF:-1,GR: Nova Stars HD
+http://185.226.65.110/dna/play.php?chID=100832
+#EXTINF:-1,GR: Ote Cinema 1HD
+http://185.226.65.110/dna/play.php?chID=17588
+#EXTINF:-1,GR: Ote Cinema 2HD
+http://185.226.65.110/dna/play.php?chID=17589
+#EXTINF:-1,GR: Ote Cinema 3HD
+http://185.226.65.110/dna/play.php?chID=17591
+#EXTINF:-1,GR: Ote Series HD
+http://185.226.65.110/dna/play.php?chID=17720
+#EXTINF:-1,GR: Ote Series Marathon HD
+http://185.226.65.110/dna/play.php?chID=100834
+
+#EXTINF:-1,GR: Syros TV1
+http://185.226.65.110/dna/play.php?chID=60288
+#EXTINF:-1,GR: Attica TV
+http://185.226.65.110/dna/play.php?chID=18717
+#EXTINF:-1,GR: Acheloos TV
+http://185.226.65.110/dna/play.php?chID=18714
+#EXTINF:-1,GR: Ena Channel
+http://185.226.65.110/dna/play.php?chID=87709
+#EXTINF:-1,GR: Krhth TV
+http://185.226.65.110/dna/play.php?chID=17469
+#EXTINF:-1,GR: Messinia TV
+http://185.226.65.110/dna/play.php?chID=52759
+#EXTINF:-1,GR: Delta TV
+http://185.226.65.110/dna/play.php?chID=105430
+#EXTINF:-1,GR: Samiaki TV
+http://185.226.65.110/dna/play.php?chID=52760
+#EXTINF:-1,GR: Creta TV
+http://185.226.65.110/dna/play.php?chID=52761
+#EXTINF:-1,GR: Channel 9
+http://185.226.65.110/dna/play.php?chID=52767
+#EXTINF:-1,GR: Vergina TV
+http://185.226.65.110/dna/play.php?chID=100953
+#EXTINF:-1,GR: Lychnoc TV
+http://185.226.65.110/dna/play.php?chID=87750
+#EXTINF:-1,GR: Diktyo
+http://185.226.65.110/dna/play.php?chID=45792
+#EXTINF:-1,GR: TV Filopoli
+http://185.226.65.110/dna/play.php?chID=87740
+#EXTINF:-1,GR: Top Channel
+http://185.226.65.110/dna/play.php?chID=87736
+#EXTINF:-1,GR: Nea TV
+http://185.226.65.110/dna/play.php?chID=87722
+#EXTINF:-1,GR: Irida TV
+http://185.226.65.110/dna/play.php?chID=87715
+#EXTINF:-1,GR: Epirus TV1
+http://185.226.65.110/dna/play.php?chID=87711
+#EXTINF:-1,GR: Eoe TV
+http://185.226.65.110/dna/play.php?chID=87710
+#EXTINF:-1,GR: Alfa Dramas
+http://185.226.65.110/dna/play.php?chID=87693
+#EXTINF:-1,GR: Ionian Channel
+http://185.226.65.110/dna/play.php?chID=52762
+
+#EXTINF:-1,GR: Rik 1 Cyprus
+http://185.226.65.110/dna/play.php?chID=17569
+#EXTINF:-1,GR: Rik 2 Cyprus
+http://185.226.65.110/dna/play.php?chID=18351
+#EXTINF:-1,GR: Rik Sat Cyprus
+http://185.226.65.110/dna/play.php?chID=52757
+#EXTINF:-1,GR: Ant1 Cyprus
+http://185.226.65.110/dna/play.php?chID=18353
+#EXTINF:-1,GR: Alpha TV Cyprus
+http://185.226.65.110/dna/play.php?chID=18348
+#EXTINF:-1,GR: Extra TV Cyprus
+http://185.226.65.110/dna/play.php?chID=18352
+#EXTINF:-1,GR: Capital Cyprus
+http://185.226.65.110/dna/play.php?chID=18680
+#EXTINF:-1,GR: Plus Cyprus
+http://185.226.65.110/dna/play.php?chID=52758
+#EXTINF:-1,GR: Omega Cyprus
+http://185.226.65.110/dna/play.php?chID=18349
+#EXTINF:-1,GR: Sigma Cyprus
+http://185.226.65.110/dna/play.php?chID=17480
+
+#EXTINF:-1,GR: Nickelodeon HD
+http://185.226.65.110/dna/play.php?chID=17453
 #EXTINF:-1,GR: Disney Channel
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3519.ts
+http://185.226.65.110/dna/play.php?chID=17597
 #EXTINF:-1,GR: Disney Junior
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3520.ts
-#EXTINF:-1,GR: Disney XD
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3521.ts
-#EXTINF:-1,GR: Nickelodeon
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3760.ts
-#EXTINF:-1,GR: Discovery Channel
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3516.ts
-#EXTINF:-1,GR: Discovery Science
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3517.ts
-#EXTINF:-1,GR: Discovery Showcase
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3518.ts
-#EXTINF:-1,GR: CRIME INVESTIGATION
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3755.ts
-#EXTINF:-1,GR: Food Network
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3764.ts
-#EXTINF:-1,GR: History
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3763.ts
+http://185.226.65.110/dna/play.php?chID=71600
+#EXTINF:-1,GR: Jim Jam
+http://185.226.65.110/dna/play.php?chID=17572
+#EXTINF:-1,GR: Baby TV
+http://185.226.65.110/dna/play.php?chID=18696
+#EXTINF:-1,GR: Smile
+http://185.226.65.110/dna/play.php?chID=18694
+#EXTINF:-1,GR: MovieTime Kids Christmas HD
+http://185.226.65.110/dna/play.php?chID=107309
+#EXTINF:-1,GR: MovieTime Kids 1HD
+http://185.226.65.110/dna/play.php?chID=107299
+#EXTINF:-1,GR: Kids Mix 1
+http://185.226.65.110/dna/play.php?chID=58139
+#EXTINF:-1,GR: Kids Mix 2
+http://185.226.65.110/dna/play.php?chID=58140
+#EXTINF:-1,GR: Tom and Jerry
+http://185.226.65.110/dna/play.php?chID=58061
+#EXTINF:-1,GR: Mickey Mouse
+http://185.226.65.110/dna/play.php?chID=58046
+#EXTINF:-1,GR: Peppa To Gourounaki
+http://185.226.65.110/dna/play.php?chID=58060
+#EXTINF:-1,GR: Smurfs
+http://185.226.65.110/dna/play.php?chID=58045
+#EXTINF:-1,GR: Masha and the Bear
+http://185.226.65.110/dna/play.php?chID=65472
+#EXTINF:-1,GR: Mr Bean Cartoon
+http://185.226.65.110/dna/play.php?chID=65485
+#EXTINF:-1,GR: SpongeBob
+http://185.226.65.110/dna/play.php?chID=71088
+#EXTINF:-1,GR: Lego Friends
+http://185.226.65.110/dna/play.php?chID=104414
+#EXTINF:-1,GR: Maya The Bee
+http://185.226.65.110/dna/play.php?chID=104415
+#EXTINF:-1,GR: Dora And Friends
+http://185.226.65.110/dna/play.php?chID=104413
+#EXTINF:-1,GR: Alvin!!! And The Chipmunks
+http://185.226.65.110/dna/play.php?chID=104412
+#EXTINF:-1,GR: Winx Club
+http://185.226.65.110/dna/play.php?chID=104411
+#EXTINF:-1,GR: Spider-Man
+http://185.226.65.110/dna/play.php?chID=104410
+#EXTINF:-1,GR: Paw Patrol
+http://185.226.65.110/dna/play.php?chID=104405
+#EXTINF:-1,GR: Blaze and The Monster Machine
+http://185.226.65.110/dna/play.php?chID=104391
+#EXTINF:-1,GR: Friends Tigger & Pooh
+http://185.226.65.110/dna/play.php?chID=104428
+#EXTINF:-1,GR: Zouzounia TV
+http://185.226.65.110/dna/play.php?chID=109053
+#EXTINF:-1,GR: Boomerang HD
+http://185.226.65.110/dna/play.php?chID=53039
+#EXTINF:-1,GR: Star Kids
+http://185.226.65.110/dna/play.php?chID=19152
+#EXTINF:-1,GR: Star Kids 1
+http://185.226.65.110/dna/play.php?chID=41000
+
 #EXTINF:-1,GR: Animal Planet
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3776.ts
-#EXTINF:-1,GR: NAT GEO
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3522.ts
-#EXTINF:-1,GR: NAT GEO Wild
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3523.ts
-#EXTINF:-1,GR: Viasat Explorer
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3752.ts
+http://185.226.65.110/dna/play.php?chID=17395
+#EXTINF:-1,GR: Discovery
+http://185.226.65.110/dna/play.php?chID=17396
+#EXTINF:-1,GR: Discovery Turbo  Xtra
+http://185.226.65.110/dna/play.php?chID=17571
+#EXTINF:-1,GR: Discovery Science HD
+http://185.226.65.110/dna/play.php?chID=17398
+#EXTINF:-1,GR: Discovery ID HD
+http://185.226.65.110/dna/play.php?chID=17400
+#EXTINF:-1,GR: Discovery Show Case
+http://185.226.65.110/dna/play.php?chID=17397
+#EXTINF:-1,GR: Crime + Investigation
+http://185.226.65.110/dna/play.php?chID=53929
+#EXTINF:-1,GR: National Geographic
+http://185.226.65.110/dna/play.php?chID=17402
+#EXTINF:-1,GR: Nat Geo Wild HD
+http://185.226.65.110/dna/play.php?chID=17717
+#EXTINF:-1,GR: Travel Channel
+http://185.226.65.110/dna/play.php?chID=17403
+#EXTINF:-1,GR: History HD
+http://185.226.65.110/dna/play.php?chID=17394
+#EXTINF:-1,GR: Ote History HD
+http://185.226.65.110/dna/play.php?chID=27428
 #EXTINF:-1,GR: Viasat History
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3753.ts
+http://185.226.65.110/dna/play.php?chID=17570
+#EXTINF:-1,GR: Viasat Explore
+http://185.226.65.110/dna/play.php?chID=17401
 #EXTINF:-1,GR: Viasat Nature
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3754.ts
-#EXTINF:-1,GR: OTE SPORT 1
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/2732.ts
-#EXTINF:-1,GR: OTE SPORT 2
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3341.ts
-#EXTINF:-1,GR: OTE SPORT 3
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3342.ts
-#EXTINF:-1,GR: OTE SPORT 4
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3343.ts
-#EXTINF:-1,GR: OTE SPORT 5
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3344.ts
-#EXTINF:-1,GR: OTE SPORT 6
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3345.ts
-#EXTINF:-1,GR: OTE Sports Highlights
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3759.ts
-#EXTINF:-1,GR: NOVA SPORT 1
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3346.ts
-#EXTINF:-1,GR: NOVA SPORT 2
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3512.ts
-#EXTINF:-1,GR: NOVA SPORT 3
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3513.ts
-#EXTINF:-1,GR: NOVA SPORT 4
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3514.ts
-#EXTINF:-1,GR: NOVA SPORT 5
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3515.ts
-#EXTINF:-1,GR: Cosmote Sport 1
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3766.ts
-#EXTINF:-1,GR: Cosmote Sport 2
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3767.ts
-#EXTINF:-1,GR: Cosmote Sport 3
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3768.ts
-#EXTINF:-1,GR: Cosmote Sport 4
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3769.ts
-#EXTINF:-1,GR: Cosmote Sport 5
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3770.ts
-#EXTINF:-1,GR: Cosmote Sport 6
-http://iptv.infosat.org:8888/live/tomasarana/jFjj43g64w/3771.ts
+http://185.226.65.110/dna/play.php?chID=52755
+#EXTINF:-1,GR: BBC Earth
+http://185.226.65.110/dna/play.php?chID=62992
+#EXTINF:-1,GR: Cbs Reality
+http://185.226.65.110/dna/play.php?chID=19280
+#EXTINF:-1,GR: E! HD
+http://185.226.65.110/dna/play.php?chID=27936
+#EXTINF:-1,GR: TLC
+http://185.226.65.110/dna/play.php?chID=17404
+#EXTINF:-1,GR: Fashion TV
+http://185.226.65.110/dna/play.php?chID=27432
+#EXTINF:-1,GR: FoodNetwork
+http://185.226.65.110/dna/play.php?chID=27430
+#EXTINF:-1,GR: Nautica Channel
+http://185.226.65.110/dna/play.php?chID=27434
+#EXTINF:-1,GR: OutDoor
+http://185.226.65.110/dna/play.php?chID=27433
+#EXTINF:-1,GR: Celebrity Travel
+http://185.226.65.110/dna/play.php?chID=105069
+#EXTINF:-1,GR: World Fishing Network (USA)
+http://185.226.65.110/dna/play.php?chID=73182
+
+#EXTINF:-1,GR: New Greek Music
+http://185.226.65.110/dna/play.php?chID=57290
+#EXTINF:-1,GR: Greek Music Mix
+http://185.226.65.110/dna/play.php?chID=58017
+#EXTINF:-1,GR: Greek Conserts
+http://185.226.65.110/dna/play.php?chID=57464
+#EXTINF:-1,GR: Mad TV
+http://185.226.65.110/dna/play.php?chID=17459
+#EXTINF:-1,GR: Mad Viral HD
+http://185.226.65.110/dna/play.php?chID=17481
+#EXTINF:-1,GR: Xalastra TV
+http://185.226.65.110/dna/play.php?chID=60287
+#EXTINF:-1,GR: NRG 91
+http://185.226.65.110/dna/play.php?chID=52756
+#EXTINF:-1,GR: Magic TV
+http://185.226.65.110/dna/play.php?chID=85624
+#EXTINF:-1,GR: Tile Mousiki
+http://185.226.65.110/dna/play.php?chID=62453
+#EXTINF:-1,GR: Iconcerts HD
+http://185.226.65.110/dna/play.php?chID=52763
+#EXTINF:-1,GR: Cannali Music
+http://185.226.65.110/dna/play.php?chID=18380
+#EXTINF:-1,GR: Xalastra TV
+http://185.226.65.110/dna/play.php?chID=87745
+#EXTINF:-1,GR: Reload Play
+http://185.226.65.110/dna/play.php?chID=87731
+#EXTINF:-1,GR: Radio TV Pringipesa
+http://185.226.65.110/dna/play.php?chID=87730
+#EXTINF:-1,GR: Play TV
+http://185.226.65.110/dna/play.php?chID=87728
+#EXTINF:-1,GR: Baraza TV Greek Music Hits
+http://185.226.65.110/dna/play.php?chID=87699
+#EXTINF:-1,GR: Old Music Clips
+http://185.226.65.110/dna/play.php?chID=18715
+#EXTINF:-1,GR: Stin Ygeia Mas re Paidia I
+http://185.226.65.110/dna/play.php?chID=109136
+#EXTINF:-1,GR: Stin Ygeia Mas re Paidia II
+http://185.226.65.110/dna/play.php?chID=109156
+#EXTINF:-1,GR: Σπίτι με το MEGA 
+http://185.226.65.110/dna/play.php?chID=107341
+#EXTINF:-1,GR: Rizes Ellinon
+http://185.226.65.110/dna/play.php?chID=37306
+
+#EXTINF:-1,GR: GiNX eSports TV (USA)
+http://185.226.65.110/dna/play.php?chID=103251
+#EXTINF:-1,GR: Fox Sport TV
+http://185.226.65.110/dna/play.php?chID=24701
+#EXTINF:-1,GR: Motors TV
+http://185.226.65.110/dna/play.php?chID=24702
+#EXTINF:-1,GR: Auto Moto HD
+http://185.226.65.110/dna/play.php?chID=63003
+#EXTINF:-1,GR: MotorVision TV HD
+http://185.226.65.110/dna/play.php?chID=23223
+#EXTINF:-1,GR: EdgeSports
+http://185.226.65.110/dna/play.php?chID=27429
+#EXTINF:-1,GR: Ert Sport HD.
+http://185.226.65.110/dna/play.php?chID=68599
+#EXTINF:-1,GR: Eurosport 1 HD
+http://185.226.65.110/dna/play.php?chID=17462
+#EXTINF:-1,GR: Eurosport 2 HD
+http://185.226.65.110/dna/play.php?chID=17573
+#EXTINF:-1,GR: AntetokounBros TV
+http://185.226.65.110/dna/play.php?chID=104513
+#EXTINF:-1,GR: Euroleague Finals TV (2001-2019)
+http://185.226.65.110/dna/play.php?chID=104485
+#EXTINF:-1,GR: Champions League Finals Flashback TV
+http://185.226.65.110/dna/play.php?chID=104543
+#EXTINF:-1,GR: Olympiacos FC Videos
+http://185.226.65.110/dna/play.php?chID=103828
+#EXTINF:-1,GR: PAOK FC Videos
+http://185.226.65.110/dna/play.php?chID=103825
+#EXTINF:-1,GR: AEK FC Videos
+http://185.226.65.110/dna/play.php?chID=103827
+#EXTINF:-1,GR: Panathinaikos FC Videos
+http://185.226.65.110/dna/play.php?chID=103826
+#EXTINF:-1,GR: Aris FC Videos
+http://185.226.65.110/dna/play.php?chID=104483
+#EXTINF:-1,GR: ERT Sport HD
+http://185.226.65.110/dna/play.php?chID=43348
+#EXTINF:-1,GR: Ote Sport 1SD
+http://185.226.65.110/dna/play.php?chID=52189
+#EXTINF:-1,GR: Ote Sport 1HD
+http://185.226.65.110/dna/play.php?chID=17393
+#EXTINF:-1,GR: Ote Sport 1HD (Backup)
+http://185.226.65.110/dna/play.php?chID=106765
+#EXTINF:-1,GR: Ote Sport 2SD
+http://185.226.65.110/dna/play.php?chID=52190
+#EXTINF:-1,GR: Ote Sport 2HD
+http://185.226.65.110/dna/play.php?chID=17482
+#EXTINF:-1,GR: Ote Sport 2HD (Backup)
+http://185.226.65.110/dna/play.php?chID=106766
+#EXTINF:-1,GR: Ote Sport 3SD
+http://185.226.65.110/dna/play.php?chID=52191
+#EXTINF:-1,GR: Ote Sport 3HD
+http://185.226.65.110/dna/play.php?chID=17594
+#EXTINF:-1,GR: Ote Sport 3HD (Backup)
+http://185.226.65.110/dna/play.php?chID=106767
+#EXTINF:-1,GR: Ote Sport 4SD
+http://185.226.65.110/dna/play.php?chID=52192
+#EXTINF:-1,GR: Ote Sport 4HD
+http://185.226.65.110/dna/play.php?chID=17599
+#EXTINF:-1,GR: Ote Sport 4HD (Backup)
+http://185.226.65.110/dna/play.php?chID=106768
+#EXTINF:-1,GR: Ote Sport 5SD
+http://185.226.65.110/dna/play.php?chID=52193
+#EXTINF:-1,GR: Ote Sport 5HD
+http://185.226.65.110/dna/play.php?chID=17742
+#EXTINF:-1,GR: Ote Sport 5HD (Backup)
+http://185.226.65.110/dna/play.php?chID=106769
+#EXTINF:-1,GR: Ote Sport 6HD
+http://185.226.65.110/dna/play.php?chID=19215
+#EXTINF:-1,GR: Ote Sport 6HD (Backup)
+http://185.226.65.110/dna/play.php?chID=106770
+#EXTINF:-1,GR: Ote Sport 7HD
+http://185.226.65.110/dna/play.php?chID=19216
+#EXTINF:-1,GR: Ote Sport 8HD
+http://185.226.65.110/dna/play.php?chID=19217
+#EXTINF:-1,GR: Ote Sport 9HD
+http://185.226.65.110/dna/play.php?chID=57214
+#EXTINF:-1,GR: Ote Sport Highlights HD
+http://185.226.65.110/dna/play.php?chID=57253
+
+#EXTINF:-1,GR: Nova Sports 1SD
+http://185.226.65.110/dna/play.php?chID=52019
+#EXTINF:-1,GR: Nova Sports 1HD
+http://185.226.65.110/dna/play.php?chID=52199
+#EXTINF:-1,GR: Nova Sports 1HD (Backup)
+http://185.226.65.110/dna/play.php?chID=106761
+#EXTINF:-1,GR: Nova Sports 2SD
+http://185.226.65.110/dna/play.php?chID=52010
+#EXTINF:-1,GR: Nova Sports 2HD
+http://185.226.65.110/dna/play.php?chID=17585
+#EXTINF:-1,GR: Nova Sports 2HD (Backup)
+http://185.226.65.110/dna/play.php?chID=106762
+#EXTINF:-1,GR: Nova Sports 3SD
+http://185.226.65.110/dna/play.php?chID=52009
+#EXTINF:-1,GR: Nova Sports 3HD
+http://185.226.65.110/dna/play.php?chID=17587
+#EXTINF:-1,GR: Nova Sports 3HD (Backup)
+http://185.226.65.110/dna/play.php?chID=106763
+#EXTINF:-1,GR: Nova Sports 4HD
+http://185.226.65.110/dna/play.php?chID=17592
+#EXTINF:-1,GR: Nova Sports 4HD (Backup)
+http://185.226.65.110/dna/play.php?chID=106764
+#EXTINF:-1,GR: Nova Sports 5HD
+http://185.226.65.110/dna/play.php?chID=54797
+#EXTINF:-1,GR: Nova Sports24 HD
+http://185.226.65.110/dna/play.php?chID=27559
+
+#EXTINF:-1,GR: Greek Old Movies 1
+http://185.226.65.110/dna/play.php?chID=102936
+#EXTINF:-1,GR: Greek Old Movies 2
+http://185.226.65.110/dna/play.php?chID=103820
+#EXTINF:-1,GR: Greek Old Movies 3
+http://185.226.65.110/dna/play.php?chID=103878
+#EXTINF:-1,GR: Greek Old Movies 4
+http://185.226.65.110/dna/play.php?chID=103910
+
+#EXTINF:-1,GR: Elliniko Theatro 1
+http://185.226.65.110/dna/play.php?chID=109575
+#EXTINF:-1,GR: Elliniko Theatro 2
+http://185.226.65.110/dna/play.php?chID=54942
+#EXTINF:-1,GR: Elliniko Theatro 3
+http://185.226.65.110/dna/play.php?chID=55114
+
+#EXTINF:-1,GR: Kati Xorismena Palikaria
+http://185.226.65.110/dna/play.php?chID=53932
+
+#EXTINF:-1,GR: Mr. Bean
+http://185.226.65.110/dna/play.php?chID=65451
+#EXTINF:-1,GR: Plaka Kanis
+http://185.226.65.110/dna/play.php?chID=65509
+#EXTINF:-1,GR: Al Tsantiri
+http://185.226.65.110/dna/play.php?chID=65511
+#EXTINF:-1,GR: Americas Funniest Home Video
+http://185.226.65.110/dna/play.php?chID=65512
+#EXTINF:-1,GR: Jackass
+http://185.226.65.110/dna/play.php?chID=65513
+#EXTINF:-1,GR: Friends
+http://185.226.65.110/dna/play.php?chID=55667
+
+#EXTINF:-1,GR: New Cinema 1HD
+http://185.226.65.110/dna/play.php?chID=53830
+#EXTINF:-1,GR: New Cinema 2HD
+http://185.226.65.110/dna/play.php?chID=53831
+#EXTINF:-1,GR: New Cinema 7HD
+http://185.226.65.110/dna/play.php?chID=53921
+
+#EXTINF:-1,GR: Star Action
+http://185.226.65.110/dna/play.php?chID=19153
+#EXTINF:-1,GR: Star 3D Cinema
+http://185.226.65.110/dna/play.php?chID=37364
+#EXTINF:-1,GR: Star Cinema
+http://185.226.65.110/dna/play.php?chID=19070
+#EXTINF:-1,GR: Star Cinema HD
+http://185.226.65.110/dna/play.php?chID=19206
+#EXTINF:-1,GR: Star Cinema 1
+http://185.226.65.110/dna/play.php?chID=19214
+#EXTINF:-1,GR: Star Cinema 2
+http://185.226.65.110/dna/play.php?chID=19230
+#EXTINF:-1,GR: Star Cinema 3
+http://185.226.65.110/dna/play.php?chID=19207
+#EXTINF:-1,GR: Star Cinema 4
+http://185.226.65.110/dna/play.php?chID=19209
+#EXTINF:-1,GR: Star Cinema 5
+http://185.226.65.110/dna/play.php?chID=19210
+#EXTINF:-1,GR: Western Cinema 1
+http://185.226.65.110/dna/play.php?chID=53931
+#EXTINF:-1,GR: Western Cinema 2
+http://185.226.65.110/dna/play.php?chID=53970
 
 #EXTINF:-1    group-title="-IPTV ISRAEL-",
 #EXTINF:-1,IL: KAN 11 TV
