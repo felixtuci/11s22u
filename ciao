@@ -4805,7 +4805,7 @@ http://185.246.209.209:80/UK_SKY_SPORTS_F1/index.m3u8?token=test
 #EXTINF:-1,IL_YES_SPORT1_HD
 http://fun6.xyz:8080/HEBREW_IL_YES_SPORT1_HD/index.m3u8?token=test
 #EXTINF:-1,IL_YES_SPORT2_HD
-http://fun6.xyz:8080/HEBREW_IL_YES_SPORT2_HD/index.m3u8?token=test
+http://185.246.209.209/HEBREW_IL_YES_SPORT2_HD/index.m3u8?token=test
 #EXTINF:-1,IL_YES_SPORT3_HD
 http://fun6.xyz:8080/HEBREW_IL_YES_SPORT3_HD/index.m3u8?token=test
 #EXTINF:-1,IL_YES_SPORT4_HD
@@ -4868,30 +4868,38 @@ http://fun6.xyz:2052/SPORTS_BEIN_1_FRANCE/index.m3u8?token=test
 http://fun6.xyz:2052/SPORTS_BEIN_2_FRANCE/index.m3u8?token=test
 #EXTINF:-1,BEIN_3_FRANCE
 http://fun6.xyz:2052/SPORTS_BEIN_3_FRANCE/index.m3u8?token=test
-#EXTINF:-1,SUPERSPORT 1 AF
-http://host2.worldtvip.co:9090/ss1/index.m3u8?token=test
-#EXTINF:-1,SUPERSPORT 2 AF
-http://host2.worldtvip.co:9090/ss2/index.m3u8?token=test
-#EXTINF:-1,SUPERSPORT 3 AF
-http://host2.worldtvip.co:9090/ss3/index.m3u8?token=test
-#EXTINF:-1,SUPERSPORT 4 AF
-http://host2.worldtvip.co:9090/ss4/index.m3u8?token=test
-#EXTINF:-1,SUPERSPORT 5 AF
-http://host2.worldtvip.co:9090/ss5/index.m3u8?token=test
-#EXTINF:-1,SUPERSPORT 6 AF
-http://host2.worldtvip.co:9090/ss6/index.m3u8?token=test
-#EXTINF:-1,SUPERSPORT 7 AF
-http://host2.worldtvip.co:9090/ss7/index.m3u8?token=test
-#EXTINF:-1,SUPERSPORT 8 AF
-http://host2.worldtvip.co:9090/ss8/index.m3u8?token=test
-#EXTINF:-1,SUPERSPORT 9 AF
-http://host2.worldtvip.co:9090/ss9/index.m3u8?token=test
-#EXTINF:-1,SUPERSPORT 10 AF
-http://host2.worldtvip.co:9090/ss10/index.m3u8?token=test
-#EXTINF:-1,SUPERSPORT 11 AF
-http://host2.worldtvip.co:9090/ss11/index.m3u8?token=test
-#EXTINF:-1,SUPERSPORT 12 AF
-http://host2.worldtvip.co:9090/ss12/index.m3u8?token=test
+#EXTINF:-1,SUPERSPORT Premier League
+http://wpc.E454A.alphacdn.net/80E454A/51-180/supersports_premier_league/mpegts?test
+#EXTINF:-1,SUPERSPORT La Liga
+http://wpc.E454A.alphacdn.net/80E454A/51-180/supersports_laliga/mpegts?test
+#EXTINF:-1,SUPERSPORT Football
+http://wpc.E454A.alphacdn.net/80E454A/51-180/supersports_football/mpegts?test
+#EXTINF:-1,SUPERSPORT Maximo
+http://wpc.E454A.alphacdn.net/80E454A/51-180/supersports_maximo/mpegts?test
+#EXTINF:-1,SUPERSPORT Motorsport
+http://wpc.E454A.alphacdn.net/80E454A/51-180/supersports_motorsport/mpegts?test
+#EXTINF:-1,SUPERSPORT Variety 1
+http://wpc.E454A.alphacdn.net/80E454A/51-180/supersports_variety_1/mpegts?test
+#EXTINF:-1,SUPERSPORT Variety 2
+http://wpc.E454A.alphacdn.net/80E454A/51-180/supersports_variety_2/mpegts?test
+#EXTINF:-1,SUPERSPORT Variety 3
+http://wpc.E454A.alphacdn.net/80E454A/51-180/supersports_variety_3/mpegts?test
+#EXTINF:-1,SUPERSPORT Variety 4
+http://wpc.E454A.alphacdn.net/80E454A/51-180/supersports_variety_4/mpegts?test
+
+
+
+
+#EXTINF:-1,TSN SPORTS 1 HD
+http://wpc.E454A.alphacdn.net/80E454A/51-180/tsn_1_hd/mpegts?test
+#EXTINF:-1,TSN SPORTS 2 HD
+http://wpc.E454A.alphacdn.net/80E454A/51-180/tsn_2_hd/mpegts?test
+#EXTINF:-1,TSN SPORTS 3 HD
+http://wpc.E454A.alphacdn.net/80E454A/51-180/tsn_3_hd/mpegts?test
+#EXTINF:-1,TSN SPORTS 4 HD
+http://wpc.E454A.alphacdn.net/80E454A/51-180/tsn_4_hd/mpegts?test
+#EXTINF:-1,TSN SPORTS 5 HD
+http://wpc.E454A.alphacdn.net/80E454A/51-180/tsn_5_hd/mpegts?test
 
 #EXTINF:-1,SUPERSPORT Premier League
 http://51.38.42.180:9090/supersports_premier_league/mpegts?token=test
