@@ -4718,26 +4718,7 @@ http://93.157.62.180/KSport3/mpegts
 #EXTINF:-1,Kujtesa Sport 4 illy
 http://93.157.62.180/KSport4/mpegts
 
-#EXTINF:-1,SUPERSPORT 1 HD 
-https://rebrand.ly/Shqipss1
-#EXTINF:-1,SUPERSPORT 2 HD 
-https://rebrand.ly/Shqipss2
-#EXTINF:-1,SUPERSPORT 3
-https://rebrand.ly/Shqipss3
-#EXTINF:-1,SUPERSPORT 4 HD
-https://rebrand.ly/Shqipss4
-#EXTINF:-1,SUPERSPORT 5 HD
-https://rebrand.ly/Shqipss5
-#EXTINF:-1,SUPERSPORT 6 HD
-https://rebrand.ly/Shqipss6
-#EXTINF:-1,KUJTESA SPORT 1 HD
-https://rebrand.ly/Shqipks1
-#EXTINF:-1,KUJTESA SPORT 2 HD
-https://rebrand.ly/Shqipks2
-#EXTINF:-1,KUJTESA SPORT 3 HD
-https://rebrand.ly/Shqipks3
-#EXTINF:-1,KUJTESA SPORT 4 HD
-https://rebrand.ly/Shqipks4
+
 
 #EXTINF:-1,SUPER_SPORT_1
 http://38.91.57.31:80/ALBANIA_Super_Sport_News_HD/index.m3u8?token=test            
@@ -5442,819 +5423,819 @@ http://top.funtogether.xyz:8080/tomasiptv2021/hgHgyhg12hsgZX/15283
 
 #EXTINF:-1   group-title="-IPTV ITALIA 2- ",
 #EXTINF:-1,IT: Rai 4K
-http://185.226.65.110/clientline/play.php?chID=179589
+http://103.125.219.246/clientline/play.php?chID=179589
 #EXTINF:-1,IT: Rai 1 FHD
-http://185.226.65.110/clientline/play.php?chID=28831
+http://103.125.219.246/clientline/play.php?chID=28831
 #EXTINF:-1,IT: Rai 1
-http://185.226.65.110/clientline/play.php?chID=2760
+http://103.125.219.246/clientline/play.php?chID=2760
 #EXTINF:-1,IT: Rai 2 FHD
-http://185.226.65.110/clientline/play.php?chID=28832
+http://103.125.219.246/clientline/play.php?chID=28832
 #EXTINF:-1,IT: Rai 2
-http://185.226.65.110/clientline/play.php?chID=2761
+http://103.125.219.246/clientline/play.php?chID=2761
 #EXTINF:-1,IT: Rai 3 FHD
-http://185.226.65.110/clientline/play.php?chID=28833
+http://103.125.219.246/clientline/play.php?chID=28833
 #EXTINF:-1,IT: Rai 3
-http://185.226.65.110/clientline/play.php?chID=2762
+http://103.125.219.246/clientline/play.php?chID=2762
 #EXTINF:-1,IT: Rai 4 FHD
-http://185.226.65.110/clientline/play.php?chID=28834
+http://103.125.219.246/clientline/play.php?chID=28834
 #EXTINF:-1,IT: Rai 4 HD
-http://185.226.65.110/clientline/play.php?chID=2763
+http://103.125.219.246/clientline/play.php?chID=2763
 #EXTINF:-1,IT: Rai 5 FHD
-http://185.226.65.110/clientline/play.php?chID=28835
+http://103.125.219.246/clientline/play.php?chID=28835
 #EXTINF:-1,IT: Rai 5 HD
-http://185.226.65.110/clientline/play.php?chID=2776
+http://103.125.219.246/clientline/play.php?chID=2776
 #EXTINF:-1,IT: Italia 1 FHD
-http://185.226.65.110/clientline/play.php?chID=9063
+http://103.125.219.246/clientline/play.php?chID=9063
 #EXTINF:-1,IT: Italia Uno 
-http://185.226.65.110/clientline/play.php?chID=2758
+http://103.125.219.246/clientline/play.php?chID=2758
 #EXTINF:-1,IT: Mediaset Italia 2
-http://185.226.65.110/clientline/play.php?chID=9064
+http://103.125.219.246/clientline/play.php?chID=9064
 #EXTINF:-1,IT: Mediaset Italia 2
-http://185.226.65.110/clientline/play.php?chID=3905
+http://103.125.219.246/clientline/play.php?chID=3905
 #EXTINF:-1,IT: Rete 4 FHD
-http://185.226.65.110/clientline/play.php?chID=2764
+http://103.125.219.246/clientline/play.php?chID=2764
 #EXTINF:-1,IT: Rete 4
-http://185.226.65.110/clientline/play.php?chID=9065
+http://103.125.219.246/clientline/play.php?chID=9065
 #EXTINF:-1,IT: Canale 5 FHD
-http://185.226.65.110/clientline/play.php?chID=2759
+http://103.125.219.246/clientline/play.php?chID=2759
 #EXTINF:-1,IT: Canale 5
-http://185.226.65.110/clientline/play.php?chID=28830
+http://103.125.219.246/clientline/play.php?chID=28830
 #EXTINF:-1,IT: Mediaset La5
-http://185.226.65.110/clientline/play.php?chID=3904
+http://103.125.219.246/clientline/play.php?chID=3904
 #EXTINF:-1,IT: Mediaset Extra
-http://185.226.65.110/clientline/play.php?chID=3906
+http://103.125.219.246/clientline/play.php?chID=3906
 #EXTINF:-1,IT: Iris
-http://185.226.65.110/clientline/play.php?chID=5045
+http://103.125.219.246/clientline/play.php?chID=5045
 #EXTINF:-1,IT: Mediaset Iris
-http://185.226.65.110/clientline/play.php?chID=2765
+http://103.125.219.246/clientline/play.php?chID=2765
 #EXTINF:-1,IT: 20 Mediaset FHD
-http://185.226.65.110/clientline/play.php?chID=7671
+http://103.125.219.246/clientline/play.php?chID=7671
 #EXTINF:-1,IT: 20 Mediaset
-http://185.226.65.110/clientline/play.php?chID=9177
+http://103.125.219.246/clientline/play.php?chID=9177
 #EXTINF:-1,IT: Top Crime
-http://185.226.65.110/clientline/play.php?chID=2767
+http://103.125.219.246/clientline/play.php?chID=2767
 #EXTINF:-1,IT: Cine 34
-http://185.226.65.110/clientline/play.php?chID=9207
+http://103.125.219.246/clientline/play.php?chID=9207
 #EXTINF:-1,IT: La7 FHD
-http://185.226.65.110/clientline/play.php?chID=5954
+http://103.125.219.246/clientline/play.php?chID=5954
 #EXTINF:-1,IT: La7 HD
-http://185.226.65.110/clientline/play.php?chID=2769
+http://103.125.219.246/clientline/play.php?chID=2769
 #EXTINF:-1,IT: La 7d FHD
-http://185.226.65.110/clientline/play.php?chID=201125
+http://103.125.219.246/clientline/play.php?chID=201125
 #EXTINF:-1,IT: La 7d HD
-http://185.226.65.110/clientline/play.php?chID=5040
+http://103.125.219.246/clientline/play.php?chID=5040
 #EXTINF:-1,IT: TV8 FHD
-http://185.226.65.110/clientline/play.php?chID=5041
+http://103.125.219.246/clientline/play.php?chID=5041
 #EXTINF:-1,IT: VIP RAI 1 FHD
-http://185.226.65.110/sltv/play.php?chID=217832
+http://103.125.219.246/sltv/play.php?chID=217832
 #EXTINF:-1,IT: VIP RAI 1 HD
-http://185.226.65.110/sltv/play.php?chID=217870
+http://103.125.219.246/sltv/play.php?chID=217870
 #EXTINF:-1,IT: VIP RAI 2 FHD
-http://185.226.65.110/sltv/play.php?chID=217833
+http://103.125.219.246/sltv/play.php?chID=217833
 #EXTINF:-1,IT: VIP RAI 2 HD
-http://185.226.65.110/sltv/play.php?chID=217871
+http://103.125.219.246/sltv/play.php?chID=217871
 #EXTINF:-1,IT: VIP RAI 3 FHD
-http://185.226.65.110/sltv/play.php?chID=217834
+http://103.125.219.246/sltv/play.php?chID=217834
 #EXTINF:-1,IT: VIP RAI 3 HD
-http://185.226.65.110/sltv/play.php?chID=217872
+http://103.125.219.246/sltv/play.php?chID=217872
 #EXTINF:-1,IT: VIP RAI 4 FHD
-http://185.226.65.110/sltv/play.php?chID=217842
+http://103.125.219.246/sltv/play.php?chID=217842
 #EXTINF:-1,IT: VIP RAI 4 HD
-http://185.226.65.110/sltv/play.php?chID=217898
+http://103.125.219.246/sltv/play.php?chID=217898
 #EXTINF:-1,IT: VIP RAI 5 FHD
-http://185.226.65.110/sltv/play.php?chID=217843
+http://103.125.219.246/sltv/play.php?chID=217843
 #EXTINF:-1,IT: VIP RAI 5 HD
-http://185.226.65.110/sltv/play.php?chID=217899
+http://103.125.219.246/sltv/play.php?chID=217899
 #EXTINF:-1,IT: VIP ITALIA 1 FHD
-http://185.226.65.110/sltv/play.php?chID=217837
+http://103.125.219.246/sltv/play.php?chID=217837
 #EXTINF:-1,IT: VIP ITALIA 1 HD
-http://185.226.65.110/sltv/play.php?chID=217875
+http://103.125.219.246/sltv/play.php?chID=217875
 #EXTINF:-1,IT: VIP ITALIA DUE HD
-http://185.226.65.110/sltv/play.php?chID=217882
+http://103.125.219.246/sltv/play.php?chID=217882
 #EXTINF:-1,IT: VIP CANALE 5 FHD
-http://185.226.65.110/sltv/play.php?chID=217836
+http://103.125.219.246/sltv/play.php?chID=217836
 #EXTINF:-1,IT: VIP CANALE 5 HD
-http://185.226.65.110/sltv/play.php?chID=217874
+http://103.125.219.246/sltv/play.php?chID=217874
 #EXTINF:-1,IT: VIP CANALE 5 SD
-http://185.226.65.110/sltv/play.php?chID=314359
+http://103.125.219.246/sltv/play.php?chID=314359
 #EXTINF:-1,IT: VIP RETE 4 FHD
-http://185.226.65.110/sltv/play.php?chID=217835
+http://103.125.219.246/sltv/play.php?chID=217835
 #EXTINF:-1,IT: VIP RETE 4 HD
-http://185.226.65.110/sltv/play.php?chID=217873
+http://103.125.219.246/sltv/play.php?chID=217873
 #EXTINF:-1,IT: VIP LA 7 FHD
-http://185.226.65.110/sltv/play.php?chID=217838
+http://103.125.219.246/sltv/play.php?chID=217838
 #EXTINF:-1,IT: VIP LA 7D HD
-http://185.226.65.110/sltv/play.php?chID=297861
+http://103.125.219.246/sltv/play.php?chID=297861
 #EXTINF:-1,IT: VIP NOVE FHD
-http://185.226.65.110/sltv/play.php?chID=217839
+http://103.125.219.246/sltv/play.php?chID=217839
 #EXTINF:-1,IT: VIP NOVE
-http://185.226.65.110/sltv/play.php?chID=217879
+http://103.125.219.246/sltv/play.php?chID=217879
 #EXTINF:-1,IT: VIP RAI MOVIE HD
-http://185.226.65.110/sltv/play.php?chID=217900
+http://103.125.219.246/sltv/play.php?chID=217900
 #EXTINF:-1,IT: VIP RAI MOVIE
-http://185.226.65.110/sltv/play.php?chID=217844
+http://103.125.219.246/sltv/play.php?chID=217844
 #EXTINF:-1,IT: VIP RAI PREMIUM FHD
-http://185.226.65.110/sltv/play.php?chID=217845
+http://103.125.219.246/sltv/play.php?chID=217845
 #EXTINF:-1,IT: VIP RAI PREMIUM HD
-http://185.226.65.110/sltv/play.php?chID=217901
+http://103.125.219.246/sltv/play.php?chID=217901
 #EXTINF:-1,IT: VIP RAI STORIA FHD
-http://185.226.65.110/sltv/play.php?chID=217847
+http://103.125.219.246/sltv/play.php?chID=217847
 #EXTINF:-1,IT: VIP RAI STORIA HD
-http://185.226.65.110/sltv/play.php?chID=217904
+http://103.125.219.246/sltv/play.php?chID=217904
 #EXTINF:-1,IT: VIP CIELO FHD
-http://185.226.65.110/sltv/play.php?chID=217848
+http://103.125.219.246/sltv/play.php?chID=217848
 #EXTINF:-1,IT: VIP CIELO
-http://185.226.65.110/sltv/play.php?chID=217885
+http://103.125.219.246/sltv/play.php?chID=217885
 #EXTINF:-1,IT: VIP DMAX FHD
-http://185.226.65.110/sltv/play.php?chID=217849
+http://103.125.219.246/sltv/play.php?chID=217849
 #EXTINF:-1,IT: VIP DMAX
-http://185.226.65.110/sltv/play.php?chID=217887
+http://103.125.219.246/sltv/play.php?chID=217887
 #EXTINF:-1,IT: VIP IRIS HD
-http://185.226.65.110/sltv/play.php?chID=217859
+http://103.125.219.246/sltv/play.php?chID=217859
 #EXTINF:-1,IT: VIP IRIS
-http://185.226.65.110/sltv/play.php?chID=217891
+http://103.125.219.246/sltv/play.php?chID=217891
 #EXTINF:-1,IT: VIP GIALLO FHD
-http://185.226.65.110/sltv/play.php?chID=217850
+http://103.125.219.246/sltv/play.php?chID=217850
 #EXTINF:-1,IT: VIP GIALLO
-http://185.226.65.110/sltv/play.php?chID=217890
+http://103.125.219.246/sltv/play.php?chID=217890
 #EXTINF:-1,IT: VIP REAL TIME HD
-http://185.226.65.110/sltv/play.php?chID=217852
+http://103.125.219.246/sltv/play.php?chID=217852
 #EXTINF:-1,IT: VIP TV 8 HD
-http://185.226.65.110/sltv/play.php?chID=217855
+http://103.125.219.246/sltv/play.php?chID=217855
 #EXTINF:-1,IT: VIP TV 8
-http://185.226.65.110/sltv/play.php?chID=217878
+http://103.125.219.246/sltv/play.php?chID=217878
 #EXTINF:-1,IT: VIP LA 7
-http://185.226.65.110/sltv/play.php?chID=217876
+http://103.125.219.246/sltv/play.php?chID=217876
 #EXTINF:-1,IT: VIP LA 7D
-http://185.226.65.110/sltv/play.php?chID=217877
+http://103.125.219.246/sltv/play.php?chID=217877
 #EXTINF:-1,IT: VIP LA 5 HD
-http://185.226.65.110/sltv/play.php?chID=217860
+http://103.125.219.246/sltv/play.php?chID=217860
 #EXTINF:-1,IT: VIP MEDIASET EXTRA HD
-http://185.226.65.110/sltv/play.php?chID=217862
+http://103.125.219.246/sltv/play.php?chID=217862
 #EXTINF:-1,IT: VIP PARAMOUNT CHANNEL HD
-http://185.226.65.110/sltv/play.php?chID=217897
+http://103.125.219.246/sltv/play.php?chID=217897
 #EXTINF:-1,IT: VIP PARAMOUNT CHANNEL
-http://185.226.65.110/sltv/play.php?chID=217864
+http://103.125.219.246/sltv/play.php?chID=217864
 #EXTINF:-1,IT: VIP TOP CRIME HD
-http://185.226.65.110/sltv/play.php?chID=217907
+http://103.125.219.246/sltv/play.php?chID=217907
 #EXTINF:-1,IT: VIP TOP CRIME
-http://185.226.65.110/sltv/play.php?chID=217867
+http://103.125.219.246/sltv/play.php?chID=217867
 #EXTINF:-1,IT: VIP TV2000 HD
-http://185.226.65.110/sltv/play.php?chID=217908
+http://103.125.219.246/sltv/play.php?chID=217908
 #EXTINF:-1,IT: VIP TV2000 
-http://185.226.65.110/sltv/play.php?chID=217868
+http://103.125.219.246/sltv/play.php?chID=217868
 #EXTINF:-1,IT: VIP SPIKE
-http://185.226.65.110/sltv/play.php?chID=217906
+http://103.125.219.246/sltv/play.php?chID=217906
 #EXTINF:-1,IT: VIP CINE34
-http://185.226.65.110/sltv/play.php?chID=276846
+http://103.125.219.246/sltv/play.php?chID=276846
  
 #EXTINF:-1,IT: VIP SKY UNO FHD
-http://185.226.65.110/sltv/play.php?chID=217913
+http://103.125.219.246/sltv/play.php?chID=217913
 #EXTINF:-1,IT: VIP SKY UNO HD
-http://185.226.65.110/sltv/play.php?chID=217937
+http://103.125.219.246/sltv/play.php?chID=217937
 #EXTINF:-1,IT: VIP SKY ATLANTIC FHD
-http://185.226.65.110/sltv/play.php?chID=217914
+http://103.125.219.246/sltv/play.php?chID=217914
 #EXTINF:-1,IT: VIP SKY ATLANTIC HD
-http://185.226.65.110/sltv/play.php?chID=217938
+http://103.125.219.246/sltv/play.php?chID=217938
 #EXTINF:-1,IT: VIP FOX CRIME FHD
-http://185.226.65.110/sltv/play.php?chID=217917
+http://103.125.219.246/sltv/play.php?chID=217917
 #EXTINF:-1,IT: VIP FOX CRIME HD
-http://185.226.65.110/sltv/play.php?chID=217941
+http://103.125.219.246/sltv/play.php?chID=217941
 #EXTINF:-1,IT: VIP FOX FHD
-http://185.226.65.110/sltv/play.php?chID=217918
+http://103.125.219.246/sltv/play.php?chID=217918
 #EXTINF:-1,IT: VIP FOX HD
-http://185.226.65.110/sltv/play.php?chID=217942
+http://103.125.219.246/sltv/play.php?chID=217942
 #EXTINF:-1,IT: VIP COMEDY CENTRAL FHD
-http://185.226.65.110/sltv/play.php?chID=217920
+http://103.125.219.246/sltv/play.php?chID=217920
 #EXTINF:-1,IT: VIP COMEDY CENTRAL
-http://185.226.65.110/sltv/play.php?chID=217933
+http://103.125.219.246/sltv/play.php?chID=217933
 #EXTINF:-1,IT: VIP SKY ARTE FHD
-http://185.226.65.110/sltv/play.php?chID=217922
+http://103.125.219.246/sltv/play.php?chID=217922
 #EXTINF:-1,IT: VIP SKY ARTE HD
-http://185.226.65.110/sltv/play.php?chID=217947
+http://103.125.219.246/sltv/play.php?chID=217947
 #EXTINF:-1,IT: VIP BLAZE HD
-http://185.226.65.110/sltv/play.php?chID=217923
+http://103.125.219.246/sltv/play.php?chID=217923
 #EXTINF:-1,IT: VIP BLAZE
-http://185.226.65.110/sltv/play.php?chID=217948
+http://103.125.219.246/sltv/play.php?chID=217948
 #EXTINF:-1,IT: VIP SKY CLASSICA FHD
-http://185.226.65.110/sltv/play.php?chID=217925
+http://103.125.219.246/sltv/play.php?chID=217925
 #EXTINF:-1,IT: VIP FOOD NETWORK FHD
-http://185.226.65.110/sltv/play.php?chID=217928
+http://103.125.219.246/sltv/play.php?chID=217928
 #EXTINF:-1,IT: VIP FOOD NETWORK
-http://185.226.65.110/sltv/play.php?chID=217945
+http://103.125.219.246/sltv/play.php?chID=217945
 #EXTINF:-1,IT: VIP GAMBERO ROSSO HD
-http://185.226.65.110/sltv/play.php?chID=217929
+http://103.125.219.246/sltv/play.php?chID=217929
 #EXTINF:-1,IT: VIP GAMBERO ROSSO
-http://185.226.65.110/sltv/play.php?chID=217951
+http://103.125.219.246/sltv/play.php?chID=217951
 #EXTINF:-1,IT: VIP LAEFFE
-http://185.226.65.110/sltv/play.php?chID=217930
+http://103.125.219.246/sltv/play.php?chID=217930
  
 #EXTINF:-1,IT: VIP DISCOVERY FHD
-http://185.226.65.110/sltv/play.php?chID=217960
+http://103.125.219.246/sltv/play.php?chID=217960
 #EXTINF:-1,IT: VIP DISCOVERY HD
-http://185.226.65.110/sltv/play.php?chID=217973
+http://103.125.219.246/sltv/play.php?chID=217973
 #EXTINF:-1,IT: VIP DISCOVERY SCI FHD
-http://185.226.65.110/sltv/play.php?chID=217961
+http://103.125.219.246/sltv/play.php?chID=217961
 #EXTINF:-1,IT: VIP DISCOVERY SCI HD
-http://185.226.65.110/sltv/play.php?chID=217974
+http://103.125.219.246/sltv/play.php?chID=217974
 #EXTINF:-1,IT: VIP HGTV Home Garden
-http://185.226.65.110/sltv/play.php?chID=313653
+http://103.125.219.246/sltv/play.php?chID=313653
 #EXTINF:-1,IT: VIP HISTORY HD
-http://185.226.65.110/sltv/play.php?chID=217963
+http://103.125.219.246/sltv/play.php?chID=217963
 #EXTINF:-1,IT: VIP HISTORY
-http://185.226.65.110/sltv/play.php?chID=217975
+http://103.125.219.246/sltv/play.php?chID=217975
 #EXTINF:-1,IT: VIP NAT GEO FHD
-http://185.226.65.110/sltv/play.php?chID=217964
+http://103.125.219.246/sltv/play.php?chID=217964
 #EXTINF:-1,IT: VIP NAT GEO HD
-http://185.226.65.110/sltv/play.php?chID=217976
+http://103.125.219.246/sltv/play.php?chID=217976
 #EXTINF:-1,IT: VIP NAT GEO WILD FHD
-http://185.226.65.110/sltv/play.php?chID=217966
+http://103.125.219.246/sltv/play.php?chID=217966
 #EXTINF:-1,IT: VIP NAT GEO WILD HD
-http://185.226.65.110/sltv/play.php?chID=217978
+http://103.125.219.246/sltv/play.php?chID=217978
 #EXTINF:-1,IT: VIP CRIME + INVESTIGATION FHD
-http://185.226.65.110/sltv/play.php?chID=217967
+http://103.125.219.246/sltv/play.php?chID=217967
 #EXTINF:-1,IT: VIP CRIME + INVESTIGATION
-http://185.226.65.110/sltv/play.php?chID=217980
+http://103.125.219.246/sltv/play.php?chID=217980
 #EXTINF:-1,IT: VIP ALICE
-http://185.226.65.110/sltv/play.php?chID=217883
+http://103.125.219.246/sltv/play.php?chID=217883
 #EXTINF:-1,IT: VIP Alice +
-http://185.226.65.110/sltv/play.php?chID=217982
+http://103.125.219.246/sltv/play.php?chID=217982
 #EXTINF:-1,IT: VIP DELUXE 139
-http://185.226.65.110/sltv/play.php?chID=296044
+http://103.125.219.246/sltv/play.php?chID=296044
 #EXTINF:-1,IT: VIP PESCA
-http://185.226.65.110/sltv/play.php?chID=217968
+http://103.125.219.246/sltv/play.php?chID=217968
 #EXTINF:-1,IT: VIP CACCIA
-http://185.226.65.110/sltv/play.php?chID=217969
+http://103.125.219.246/sltv/play.php?chID=217969
 #EXTINF:-1,IT: VIP FISHING TV HD
-http://185.226.65.110/sltv/play.php?chID=276845
+http://103.125.219.246/sltv/play.php?chID=276845
 #EXTINF:-1,IT: VIP RAI SCUOLA HD
-http://185.226.65.110/sltv/play.php?chID=217902
+http://103.125.219.246/sltv/play.php?chID=217902
 #EXTINF:-1,IT: VIP RAI SCUOLA
-http://185.226.65.110/sltv/play.php?chID=217985
+http://103.125.219.246/sltv/play.php?chID=217985
 #EXTINF:-1,IT: VIP FOCUS
-http://185.226.65.110/sltv/play.php?chID=217981
+http://103.125.219.246/sltv/play.php?chID=217981
  
 #EXTINF:-1,IT: VIP SKY SPORT 24 FHD
-http://185.226.65.110/sltv/play.php?chID=218115
+http://103.125.219.246/sltv/play.php?chID=218115
 #EXTINF:-1,IT: VIP SKY SPORT 24 HD
-http://185.226.65.110/sltv/play.php?chID=218135
+http://103.125.219.246/sltv/play.php?chID=218135
 #EXTINF:-1,IT: VIP SKY SPORT UNO FHD
-http://185.226.65.110/sltv/play.php?chID=218116
+http://103.125.219.246/sltv/play.php?chID=218116
 #EXTINF:-1,IT: VIP SKY SPORT UNO HD
-http://185.226.65.110/sltv/play.php?chID=218136
+http://103.125.219.246/sltv/play.php?chID=218136
 #EXTINF:-1,IT: VIP SKY SPORT FOOTBALL FHD
-http://185.226.65.110/sltv/play.php?chID=218121
+http://103.125.219.246/sltv/play.php?chID=218121
 #EXTINF:-1,IT: VIP SKY SPORT FOOTBALL HD
-http://185.226.65.110/sltv/play.php?chID=218141
+http://103.125.219.246/sltv/play.php?chID=218141
 #EXTINF:-1,IT: VIP SKY SPORT ARENA FHD
-http://185.226.65.110/sltv/play.php?chID=218122
+http://103.125.219.246/sltv/play.php?chID=218122
 #EXTINF:-1,IT: VIP SKY SPORT ARENA HD
-http://185.226.65.110/sltv/play.php?chID=218142
+http://103.125.219.246/sltv/play.php?chID=218142
 #EXTINF:-1,IT: VIP SKY SPORT SERIE A HEVC
-http://185.226.65.110/sltv/play.php?chID=312445
+http://103.125.219.246/sltv/play.php?chID=312445
 #EXTINF:-1,IT: VIP SKY SPORT SERIE A FHD
-http://185.226.65.110/sltv/play.php?chID=218159
+http://103.125.219.246/sltv/play.php?chID=218159
 #EXTINF:-1,IT: VIP SKY SPORT SERIE A HD
-http://185.226.65.110/sltv/play.php?chID=218176
+http://103.125.219.246/sltv/play.php?chID=218176
 #EXTINF:-1,IT: VIP SKY SPORT SERIE A SD
-http://185.226.65.110/sltv/play.php?chID=312444
+http://103.125.219.246/sltv/play.php?chID=312444
 #EXTINF:-1,IT: VIP SKY SPORT NBA FHD
-http://185.226.65.110/sltv/play.php?chID=218119
+http://103.125.219.246/sltv/play.php?chID=218119
 #EXTINF:-1,IT: VIP SKY SPORT NBA HD
-http://185.226.65.110/sltv/play.php?chID=218139
+http://103.125.219.246/sltv/play.php?chID=218139
 #EXTINF:-1,IT: VIP SKY SPORT F1 FHD
-http://185.226.65.110/sltv/play.php?chID=218117
+http://103.125.219.246/sltv/play.php?chID=218117
 #EXTINF:-1,IT: VIP SKY SPORT F1 HD
-http://185.226.65.110/sltv/play.php?chID=218137
+http://103.125.219.246/sltv/play.php?chID=218137
 #EXTINF:-1,IT: VIP SKY SPORT MOTO GP FHD
-http://185.226.65.110/sltv/play.php?chID=218118
+http://103.125.219.246/sltv/play.php?chID=218118
 #EXTINF:-1,IT: VIP SKY SPORT MOTO GP HD
-http://185.226.65.110/sltv/play.php?chID=218138
+http://103.125.219.246/sltv/play.php?chID=218138
 #EXTINF:-1,IT: VIP SKY SPORT COLLECTIONE FHD
-http://185.226.65.110/sltv/play.php?chID=218120
+http://103.125.219.246/sltv/play.php?chID=218120
 #EXTINF:-1,IT: VIP SKY SPORT COLLECTIONE HD
-http://185.226.65.110/sltv/play.php?chID=218144
+http://103.125.219.246/sltv/play.php?chID=218144
 #EXTINF:-1,IT: VIP SUPER TENNIS FULL HD
-http://185.226.65.110/sltv/play.php?chID=218125
+http://103.125.219.246/sltv/play.php?chID=218125
 #EXTINF:-1,IT: VIP SUPER TENNIS HD
-http://185.226.65.110/sltv/play.php?chID=218145
+http://103.125.219.246/sltv/play.php?chID=218145
 #EXTINF:-1,IT: VIP JUVENTUS TV FHD
-http://185.226.65.110/sltv/play.php?chID=228964
+http://103.125.219.246/sltv/play.php?chID=228964
 #EXTINF:-1,IT: VIP INTER TV FHD
-http://185.226.65.110/sltv/play.php?chID=218170
+http://103.125.219.246/sltv/play.php?chID=218170
 #EXTINF:-1,IT: VIP LAZIO FHD
-http://185.226.65.110/sltv/play.php?chID=218171
+http://103.125.219.246/sltv/play.php?chID=218171
 #EXTINF:-1,IT: VIP MILAN TV FHD
-http://185.226.65.110/sltv/play.php?chID=218172
+http://103.125.219.246/sltv/play.php?chID=218172
 #EXTINF:-1,IT: VIP ROMA TV FHD
-http://185.226.65.110/sltv/play.php?chID=218173
+http://103.125.219.246/sltv/play.php?chID=218173
 #EXTINF:-1,IT: VIP TORINO FHD
-http://185.226.65.110/sltv/play.php?chID=218174
+http://103.125.219.246/sltv/play.php?chID=218174
 #EXTINF:-1,IT: VIP UNIRESAT HD
-http://185.226.65.110/sltv/play.php?chID=217909
+http://103.125.219.246/sltv/play.php?chID=217909
 #EXTINF:-1,IT: VIP UNIRESAT
-http://185.226.65.110/sltv/play.php?chID=218133
+http://103.125.219.246/sltv/play.php?chID=218133
 #EXTINF:-1,IT: VIP EUROSPORT 1 HD
-http://185.226.65.110/sltv/play.php?chID=218147
+http://103.125.219.246/sltv/play.php?chID=218147
 #EXTINF:-1,IT: VIP EUROSPORT 2 HD
-http://185.226.65.110/sltv/play.php?chID=218148
+http://103.125.219.246/sltv/play.php?chID=218148
 #EXTINF:-1,IT: VIP MOTOR TREND HD
-http://185.226.65.110/sltv/play.php?chID=217851
+http://103.125.219.246/sltv/play.php?chID=217851
 #EXTINF:-1,IT: VIP SPORT ITALIA HD
-http://185.226.65.110/sltv/play.php?chID=218153
+http://103.125.219.246/sltv/play.php?chID=218153
 #EXTINF:-1,IT: VIP SPORT ITALIA LIVE 24
-http://185.226.65.110/sltv/play.php?chID=218154
+http://103.125.219.246/sltv/play.php?chID=218154
 #EXTINF:-1,IT: VIP RAI SPORT FHD
-http://185.226.65.110/sltv/play.php?chID=217846
+http://103.125.219.246/sltv/play.php?chID=217846
 #EXTINF:-1,IT: VIP RAI SPORT HD
-http://185.226.65.110/sltv/play.php?chID=218156
+http://103.125.219.246/sltv/play.php?chID=218156
 #EXTINF:-1,IT: VIP RSI LA 1 HD
-http://185.226.65.110/sltv/play.php?chID=217910
+http://103.125.219.246/sltv/play.php?chID=217910
 #EXTINF:-1,IT: VIP RSI LA 2 HD
-http://185.226.65.110/sltv/play.php?chID=217911
+http://103.125.219.246/sltv/play.php?chID=217911
  
 #EXTINF:-1,IT: VIP TOP CALCIO 24
-http://185.226.65.110/sltv/play.php?chID=218185
+http://103.125.219.246/sltv/play.php?chID=218185
 #EXTINF:-1,IT: VIP SKY CALCIO 251 FULL HD
-http://185.226.65.110/sltv/play.php?chID=218161
+http://103.125.219.246/sltv/play.php?chID=218161
 #EXTINF:-1,IT: VIP SKY CALCIO 252 FULL HD
-http://185.226.65.110/sltv/play.php?chID=218162
+http://103.125.219.246/sltv/play.php?chID=218162
 #EXTINF:-1,IT: VIP SKY CALCIO 252 HD
-http://185.226.65.110/sltv/play.php?chID=218178
+http://103.125.219.246/sltv/play.php?chID=218178
 #EXTINF:-1,IT: VIP SKY CALCIO 253 HD
-http://185.226.65.110/sltv/play.php?chID=218179
+http://103.125.219.246/sltv/play.php?chID=218179
 #EXTINF:-1,IT: VIP SKY CALCIO 254 FULL HD
-http://185.226.65.110/sltv/play.php?chID=218164
+http://103.125.219.246/sltv/play.php?chID=218164
 #EXTINF:-1,IT: VIP SKY CALCIO 254 HD
-http://185.226.65.110/sltv/play.php?chID=218180
+http://103.125.219.246/sltv/play.php?chID=218180
 #EXTINF:-1,IT: VIP SKY CALCIO 255 FULL HD
-http://185.226.65.110/sltv/play.php?chID=218165
+http://103.125.219.246/sltv/play.php?chID=218165
 #EXTINF:-1,IT: VIP SKY CALCIO 255 HD
-http://185.226.65.110/sltv/play.php?chID=218181
+http://103.125.219.246/sltv/play.php?chID=218181
 #EXTINF:-1,IT: VIP SKY CALCIO 256 FULL HD
-http://185.226.65.110/sltv/play.php?chID=218166
+http://103.125.219.246/sltv/play.php?chID=218166
 #EXTINF:-1,IT: VIP SKY CALCIO 257 FULL HD
-http://185.226.65.110/sltv/play.php?chID=218167
+http://103.125.219.246/sltv/play.php?chID=218167
 #EXTINF:-1,IT: VIP SPORT ITALIA SOLO CALCIO
-http://185.226.65.110/sltv/play.php?chID=218184
+http://103.125.219.246/sltv/play.php?chID=218184
 #EXTINF:-1,IT: VIP DAZN 1 SAT FHD
-http://185.226.65.110/sltv/play.php?chID=223567
+http://103.125.219.246/sltv/play.php?chID=223567
 #EXTINF:-1,IT: VIP DAZN 1 
-http://185.226.65.110/sltv/play.php?chID=223626
+http://103.125.219.246/sltv/play.php?chID=223626
 #EXTINF:-1,IT: VIP DAZN 2 
-http://185.226.65.110/sltv/play.php?chID=223627
+http://103.125.219.246/sltv/play.php?chID=223627
 #EXTINF:-1,IT: VIP DAZN 3 
-http://185.226.65.110/sltv/play.php?chID=223628
+http://103.125.219.246/sltv/play.php?chID=223628
 #EXTINF:-1,IT: VIP DAZN 4 
-http://185.226.65.110/sltv/play.php?chID=223629
+http://103.125.219.246/sltv/play.php?chID=223629
 #EXTINF:-1,IT: VIP DAZN 5 
-http://185.226.65.110/sltv/play.php?chID=223630
+http://103.125.219.246/sltv/play.php?chID=223630
 #EXTINF:-1,IT: VIP DAZN 6 
-http://185.226.65.110/sltv/play.php?chID=223631
+http://103.125.219.246/sltv/play.php?chID=223631
 #EXTINF:-1,IT: VIP DAZN 7 
-http://185.226.65.110/sltv/play.php?chID=223632
+http://103.125.219.246/sltv/play.php?chID=223632
 #EXTINF:-1,IT: VIP DAZN 8 
-http://185.226.65.110/sltv/play.php?chID=223633
+http://103.125.219.246/sltv/play.php?chID=223633
 #EXTINF:-1,IT: VIP DAZN 9 
-http://185.226.65.110/sltv/play.php?chID=223634
+http://103.125.219.246/sltv/play.php?chID=223634
 #EXTINF:-1,IT: VIP DAZN 10 
-http://185.226.65.110/sltv/play.php?chID=223635
+http://103.125.219.246/sltv/play.php?chID=223635
  
 #EXTINF:-1,IT: VIP RAI GULP FHD
-http://185.226.65.110/sltv/play.php?chID=217989
+http://103.125.219.246/sltv/play.php?chID=217989
 #EXTINF:-1,IT: VIP RAI GULP HD
-http://185.226.65.110/sltv/play.php?chID=218009
+http://103.125.219.246/sltv/play.php?chID=218009
 #EXTINF:-1,IT: VIP BABY TV FHD
-http://185.226.65.110/sltv/play.php?chID=217991
+http://103.125.219.246/sltv/play.php?chID=217991
 #EXTINF:-1,IT: VIP CARTOONITO
-http://185.226.65.110/sltv/play.php?chID=218007
+http://103.125.219.246/sltv/play.php?chID=218007
 #EXTINF:-1,IT: VIP BOOMERANG FHD
-http://185.226.65.110/sltv/play.php?chID=217992
+http://103.125.219.246/sltv/play.php?chID=217992
 #EXTINF:-1,IT: VIP BOOMERANG HD
-http://185.226.65.110/sltv/play.php?chID=218011
+http://103.125.219.246/sltv/play.php?chID=218011
 #EXTINF:-1,IT: VIP CARTOON NETWORK FHD
-http://185.226.65.110/sltv/play.php?chID=217993
+http://103.125.219.246/sltv/play.php?chID=217993
 #EXTINF:-1,IT: VIP CARTOON NETWORK HD
-http://185.226.65.110/sltv/play.php?chID=218012
+http://103.125.219.246/sltv/play.php?chID=218012
 #EXTINF:-1,IT: VIP DEA JUNIOR HD
-http://185.226.65.110/sltv/play.php?chID=218013
+http://103.125.219.246/sltv/play.php?chID=218013
 #EXTINF:-1,IT: VIP DEA KIDS
-http://185.226.65.110/sltv/play.php?chID=218014
+http://103.125.219.246/sltv/play.php?chID=218014
 #EXTINF:-1,IT: VIP NICK JR HD
-http://185.226.65.110/sltv/play.php?chID=218019
+http://103.125.219.246/sltv/play.php?chID=218019
 #EXTINF:-1,IT: VIP NICKELODEON HD
-http://185.226.65.110/sltv/play.php?chID=218020
+http://103.125.219.246/sltv/play.php?chID=218020
 #EXTINF:-1,IT: VIP RAI YOYO FHD
-http://185.226.65.110/sltv/play.php?chID=218004
+http://103.125.219.246/sltv/play.php?chID=218004
 #EXTINF:-1,IT: VIP RAI YOYO HD
-http://185.226.65.110/sltv/play.php?chID=218010
+http://103.125.219.246/sltv/play.php?chID=218010
 #EXTINF:-1,IT: VIP BOING
-http://185.226.65.110/sltv/play.php?chID=218005
+http://103.125.219.246/sltv/play.php?chID=218005
 #EXTINF:-1,IT: VIP Discovery K2
-http://185.226.65.110/sltv/play.php?chID=218008
+http://103.125.219.246/sltv/play.php?chID=218008
 #EXTINF:-1,IT: VIP SUPER!
-http://185.226.65.110/sltv/play.php?chID=218022
+http://103.125.219.246/sltv/play.php?chID=218022
 #EXTINF:-1,IT: VIP FRISBEE MINI HD
-http://185.226.65.110/sltv/play.php?chID=276843
+http://103.125.219.246/sltv/play.php?chID=276843
  
  
  
 #EXTINF:-1,IT: VIP RAI NEWS 24 HD
-http://185.226.65.110/sltv/play.php?chID=218024
+http://103.125.219.246/sltv/play.php?chID=218024
 #EXTINF:-1,IT: VIP SKY TG 24 HD
-http://185.226.65.110/sltv/play.php?chID=218025
+http://103.125.219.246/sltv/play.php?chID=218025
 #EXTINF:-1,IT: VIP EURONEWS 
-http://185.226.65.110/sltv/play.php?chID=296043
+http://103.125.219.246/sltv/play.php?chID=296043
 #EXTINF:-1,IT: VIP SKY TG 24 FULL HD
-http://185.226.65.110/sltv/play.php?chID=218026
+http://103.125.219.246/sltv/play.php?chID=218026
 #EXTINF:-1,IT: VIP TG NORBA 24
-http://185.226.65.110/sltv/play.php?chID=218027
+http://103.125.219.246/sltv/play.php?chID=218027
 #EXTINF:-1,IT: VIP TGCOM 24
-http://185.226.65.110/sltv/play.php?chID=218028
+http://103.125.219.246/sltv/play.php?chID=218028
  
 #EXTINF:-1,IT: VIP SKY CINEMA UNO FHD
-http://185.226.65.110/sltv/play.php?chID=218035
+http://103.125.219.246/sltv/play.php?chID=218035
 #EXTINF:-1,IT: VIP SKY CINEMA UNO HD
-http://185.226.65.110/sltv/play.php?chID=218047
+http://103.125.219.246/sltv/play.php?chID=218047
 #EXTINF:-1,IT: VIP SKY CINEMA UNO +24 FHD
-http://185.226.65.110/sltv/play.php?chID=218036
+http://103.125.219.246/sltv/play.php?chID=218036
 #EXTINF:-1,IT: VIP SKY CINEMA UNO +24 HD
-http://185.226.65.110/sltv/play.php?chID=218048
+http://103.125.219.246/sltv/play.php?chID=218048
 #EXTINF:-1,IT: VIP SKY CINEMA DUE FHD
-http://185.226.65.110/sltv/play.php?chID=218037
+http://103.125.219.246/sltv/play.php?chID=218037
 #EXTINF:-1,IT: VIP SKY CINEMA DUE HD
-http://185.226.65.110/sltv/play.php?chID=218053
+http://103.125.219.246/sltv/play.php?chID=218053
 #EXTINF:-1,IT: VIP SKY CINEMA DUE +24 FHD
-http://185.226.65.110/sltv/play.php?chID=300089
+http://103.125.219.246/sltv/play.php?chID=300089
 #EXTINF:-1,IT: VIP SKY CINEMA ACTION FHD
-http://185.226.65.110/sltv/play.php?chID=218039
+http://103.125.219.246/sltv/play.php?chID=218039
 #EXTINF:-1,IT: VIP SKY CINEMA ACTION HD
-http://185.226.65.110/sltv/play.php?chID=218049
+http://103.125.219.246/sltv/play.php?chID=218049
 #EXTINF:-1,IT: VIP SKY CINEMA COLLECTION FHD
-http://185.226.65.110/sltv/play.php?chID=218040
+http://103.125.219.246/sltv/play.php?chID=218040
 #EXTINF:-1,IT: VIP SKY CINEMA COLLECTION HD
-http://185.226.65.110/sltv/play.php?chID=218050
+http://103.125.219.246/sltv/play.php?chID=218050
 #EXTINF:-1,IT: VIP SKY CINEMA COMEDY FHD
-http://185.226.65.110/sltv/play.php?chID=218041
+http://103.125.219.246/sltv/play.php?chID=218041
 #EXTINF:-1,IT: VIP SKY CINEMA COMEDY HD
-http://185.226.65.110/sltv/play.php?chID=218051
+http://103.125.219.246/sltv/play.php?chID=218051
 #EXTINF:-1,IT: VIP SKY CINEMA DRAMA FHD
-http://185.226.65.110/sltv/play.php?chID=218042
+http://103.125.219.246/sltv/play.php?chID=218042
 #EXTINF:-1,IT: VIP SKY CINEMA DRAMA HD
-http://185.226.65.110/sltv/play.php?chID=218052
+http://103.125.219.246/sltv/play.php?chID=218052
 #EXTINF:-1,IT: VIP SKY CINEMA FAMILY FHD
-http://185.226.65.110/sltv/play.php?chID=218043
+http://103.125.219.246/sltv/play.php?chID=218043
 #EXTINF:-1,IT: VIP SKY CINEMA FAMILY HD
-http://185.226.65.110/sltv/play.php?chID=218055
+http://103.125.219.246/sltv/play.php?chID=218055
 #EXTINF:-1,IT: VIP SKY CINEMA ROMANCE FHD
-http://185.226.65.110/sltv/play.php?chID=218044
+http://103.125.219.246/sltv/play.php?chID=218044
 #EXTINF:-1,IT: VIP SKY CINEMA ROMANCE HD
-http://185.226.65.110/sltv/play.php?chID=218056
+http://103.125.219.246/sltv/play.php?chID=218056
 #EXTINF:-1,IT: VIP SKY CINEMA SUSPENSE FHD
-http://185.226.65.110/sltv/play.php?chID=218045
+http://103.125.219.246/sltv/play.php?chID=218045
 #EXTINF:-1,IT: VIP SKY CINEMA SUSPENSE HD
-http://185.226.65.110/sltv/play.php?chID=218057
+http://103.125.219.246/sltv/play.php?chID=218057
  
 #EXTINF:-1,IT: VIP PREMIUM ACTION FHD
-http://185.226.65.110/sltv/play.php?chID=218060
+http://103.125.219.246/sltv/play.php?chID=218060
 #EXTINF:-1,IT: VIP PREMIUM CINEMA +24 FHD
-http://185.226.65.110/sltv/play.php?chID=218061
+http://103.125.219.246/sltv/play.php?chID=218061
 #EXTINF:-1,IT: VIP PREMIUM CINEMA 2 FHD
-http://185.226.65.110/sltv/play.php?chID=218064
+http://103.125.219.246/sltv/play.php?chID=218064
 #EXTINF:-1,IT: VIP PREMIUM CINEMA 1 FHD
-http://185.226.65.110/sltv/play.php?chID=218065
+http://103.125.219.246/sltv/play.php?chID=218065
 #EXTINF:-1,IT: VIP PREMIUM CRIME FHD
-http://185.226.65.110/sltv/play.php?chID=218066
+http://103.125.219.246/sltv/play.php?chID=218066
 #EXTINF:-1,IT: VIP PREMIUM STORIES FHD
-http://185.226.65.110/sltv/play.php?chID=218068
+http://103.125.219.246/sltv/play.php?chID=218068
  
  
 #EXTINF:-1,IT: Vetrina Sky Primafila Premiere HD
-http://185.226.65.110/clientline/play.php?chID=201226
+http://103.125.219.246/clientline/play.php?chID=201226
 #EXTINF:-1,IT: Sky Primafila Premiere 1 FHD
-http://185.226.65.110/clientline/play.php?chID=201225
+http://103.125.219.246/clientline/play.php?chID=201225
 #EXTINF:-1,IT: Sky Primafila Premiere 2 FHD
-http://185.226.65.110/clientline/play.php?chID=201224
+http://103.125.219.246/clientline/play.php?chID=201224
 #EXTINF:-1,IT: Sky Primafila Premiere 3 FHD
-http://185.226.65.110/clientline/play.php?chID=201223
+http://103.125.219.246/clientline/play.php?chID=201223
 #EXTINF:-1,IT: Sky Primafila Premiere 4 FHD
-http://185.226.65.110/clientline/play.php?chID=201222
+http://103.125.219.246/clientline/play.php?chID=201222
 #EXTINF:-1,IT: Sky Primafila Premiere 5 FHD
-http://185.226.65.110/clientline/play.php?chID=201221
+http://103.125.219.246/clientline/play.php?chID=201221
 #EXTINF:-1,IT: Sky Primafila Premiere 6 FHD
-http://185.226.65.110/clientline/play.php?chID=201220
+http://103.125.219.246/clientline/play.php?chID=201220
 #EXTINF:-1,IT: Sky Primafila Premiere 7 FHD
-http://185.226.65.110/clientline/play.php?chID=201219
+http://103.125.219.246/clientline/play.php?chID=201219
 #EXTINF:-1,IT: Sky Primafila Premiere 8 FHD
-http://185.226.65.110/clientline/play.php?chID=201218
+http://103.125.219.246/clientline/play.php?chID=201218
 #EXTINF:-1,IT: Sky Primafila Premiere 9 FHD
-http://185.226.65.110/clientline/play.php?chID=201217
+http://103.125.219.246/clientline/play.php?chID=201217
 #EXTINF:-1,IT: Sky Primafila Premiere 10 FHD
-http://185.226.65.110/clientline/play.php?chID=201216
+http://103.125.219.246/clientline/play.php?chID=201216
 #EXTINF:-1,IT: Sky Primafila Premiere 11 FHD
-http://185.226.65.110/clientline/play.php?chID=201215
+http://103.125.219.246/clientline/play.php?chID=201215
 #EXTINF:-1,IT: Sky Primafila Premiere 12 FHD
-http://185.226.65.110/clientline/play.php?chID=201214
+http://103.125.219.246/clientline/play.php?chID=201214
 #EXTINF:-1,IT: Sky Primafila Premiere 13 FHD
-http://185.226.65.110/clientline/play.php?chID=201213
+http://103.125.219.246/clientline/play.php?chID=201213
 #EXTINF:-1,IT: Sky Primafila Premiere 14 FHD
-http://185.226.65.110/clientline/play.php?chID=201212
+http://103.125.219.246/clientline/play.php?chID=201212
 #EXTINF:-1,IT: Sky Primafila Premiere 15 FHD
-http://185.226.65.110/clientline/play.php?chID=201211
+http://103.125.219.246/clientline/play.php?chID=201211
 #EXTINF:-1,IT: Sky Primafila Premiere 16 FHD
-http://185.226.65.110/clientline/play.php?chID=201210
+http://103.125.219.246/clientline/play.php?chID=201210
 #EXTINF:-1,IT: Sky Primafila Premiere 17 FHD
-http://185.226.65.110/clientline/play.php?chID=201209
+http://103.125.219.246/clientline/play.php?chID=201209
 #EXTINF:-1,IT: Sky Primafila Premiere 18 FHD
-http://185.226.65.110/clientline/play.php?chID=201208
+http://103.125.219.246/clientline/play.php?chID=201208
 #EXTINF:-1,IT: Vetrina Sky Primafila4K HD
-http://185.226.65.110/clientline/play.php?chID=201207
+http://103.125.219.246/clientline/play.php?chID=201207
 #EXTINF:-1,IT: SKY PRIMAFILA 1 4K
-http://185.226.65.110/clientline/play.php?chID=201206
+http://103.125.219.246/clientline/play.php?chID=201206
 #EXTINF:-1,IT: SKY PRIMAFILA 2 4K
-http://185.226.65.110/clientline/play.php?chID=201205
+http://103.125.219.246/clientline/play.php?chID=201205
 #EXTINF:-1,IT: SKY PRIMAFILA 3 4K
-http://185.226.65.110/clientline/play.php?chID=201204
+http://103.125.219.246/clientline/play.php?chID=201204
 #EXTINF:-1,IT: SKY PRIMAFILA 4 4K
-http://185.226.65.110/clientline/play.php?chID=201202
+http://103.125.219.246/clientline/play.php?chID=201202
 #EXTINF:-1,IT: SKY PRIMAFILA 5 4K
-http://185.226.65.110/clientline/play.php?chID=201201
+http://103.125.219.246/clientline/play.php?chID=201201
 #EXTINF:-1,IT: SKY PRIMAFILA 6 4K
-http://185.226.65.110/clientline/play.php?chID=201200
+http://103.125.219.246/clientline/play.php?chID=201200
 #EXTINF:-1,IT: SKY PRIMAFILA 7 4K
-http://185.226.65.110/clientline/play.php?chID=201199
+http://103.125.219.246/clientline/play.php?chID=201199
 #EXTINF:-1,IT: SKY PRIMAFILA 8 4K
-http://185.226.65.110/clientline/play.php?chID=201198
+http://103.125.219.246/clientline/play.php?chID=201198
 #EXTINF:-1,IT: SKY PRIMAFILA 9 4K
-http://185.226.65.110/clientline/play.php?chID=201197
+http://103.125.219.246/clientline/play.php?chID=201197
 #EXTINF:-1,IT: Eagle Super Pigiamini FHD
-http://185.226.65.110/clientline/play.php?chID=201196
+http://103.125.219.246/clientline/play.php?chID=201196
 #EXTINF:-1,IT: Eagle Cinema Horror FHD
-http://185.226.65.110/clientline/play.php?chID=201195
+http://103.125.219.246/clientline/play.php?chID=201195
 #EXTINF:-1,IT: Eagle Cinema Drammatico FHD
-http://185.226.65.110/clientline/play.php?chID=201194
+http://103.125.219.246/clientline/play.php?chID=201194
 #EXTINF:-1,IT: Eagle Cinema Passione FHD
-http://185.226.65.110/clientline/play.php?chID=201193
+http://103.125.219.246/clientline/play.php?chID=201193
 #EXTINF:-1,IT: Eagle Cinema Storico FHD
-http://185.226.65.110/clientline/play.php?chID=201192
+http://103.125.219.246/clientline/play.php?chID=201192
 #EXTINF:-1,IT: Eagle Cinema Thriller FHD
-http://185.226.65.110/clientline/play.php?chID=201191
+http://103.125.219.246/clientline/play.php?chID=201191
 #EXTINF:-1,IT: Eagle Cinema Comico Cult FHD
-http://185.226.65.110/clientline/play.php?chID=201190
+http://103.125.219.246/clientline/play.php?chID=201190
 #EXTINF:-1,IT: Eagle Cinema Sorriso FHD
-http://185.226.65.110/clientline/play.php?chID=201189
+http://103.125.219.246/clientline/play.php?chID=201189
 #EXTINF:-1,IT: Eagle Cinema Commedia FHD
-http://185.226.65.110/clientline/play.php?chID=201188
+http://103.125.219.246/clientline/play.php?chID=201188
 #EXTINF:-1,IT: Eagle Cinema Fantastico FHD
-http://185.226.65.110/clientline/play.php?chID=201187
+http://103.125.219.246/clientline/play.php?chID=201187
 #EXTINF:-1,IT: Eagle Cinema Avventura FHD
-http://185.226.65.110/clientline/play.php?chID=201186
+http://103.125.219.246/clientline/play.php?chID=201186
 #EXTINF:-1,IT: Eagle Cinema Azione FHD
-http://185.226.65.110/clientline/play.php?chID=201185
+http://103.125.219.246/clientline/play.php?chID=201185
 #EXTINF:-1,IT: Eagle Cinema Prima Visione FHD
-http://185.226.65.110/clientline/play.php?chID=201184
+http://103.125.219.246/clientline/play.php?chID=201184
 #EXTINF:-1,IT: Eagle Cinema Animazione FHD
-http://185.226.65.110/clientline/play.php?chID=201183
+http://103.125.219.246/clientline/play.php?chID=201183
 #EXTINF:-1,IT: Eagle Cinema Film in Sala  HD (qualita camera)
-http://185.226.65.110/clientline/play.php?chID=201182
+http://103.125.219.246/clientline/play.php?chID=201182
 #EXTINF:-1,IT: Eagle Cinema Mitologia HD
-http://185.226.65.110/clientline/play.php?chID=201181
+http://103.125.219.246/clientline/play.php?chID=201181
 #EXTINF:-1,IT: Eagle Le Fiabe Disney
-http://185.226.65.110/clientline/play.php?chID=201180
+http://103.125.219.246/clientline/play.php?chID=201180
 #EXTINF:-1,IT: Eagle Masha e Orso FHD
-http://185.226.65.110/clientline/play.php?chID=201179
+http://103.125.219.246/clientline/play.php?chID=201179
 #EXTINF:-1,IT: Eagle Fiabe Magiche HD
-http://185.226.65.110/clientline/play.php?chID=201178
+http://103.125.219.246/clientline/play.php?chID=201178
 #EXTINF:-1,IT: Eagle Peppa Pig FHD
-http://185.226.65.110/clientline/play.php?chID=201177
+http://103.125.219.246/clientline/play.php?chID=201177
 #EXTINF:-1,IT: Eagle Disney Topolino Paperino e Pippo HD
-http://185.226.65.110/clientline/play.php?chID=201176
+http://103.125.219.246/clientline/play.php?chID=201176
 #EXTINF:-1,IT: Eagle Looney Toons HD
-http://185.226.65.110/clientline/play.php?chID=201175
+http://103.125.219.246/clientline/play.php?chID=201175
 #EXTINF:-1,IT: Eagle Gomorra Stagione 1 FHD HEVC
-http://185.226.65.110/clientline/play.php?chID=201174
+http://103.125.219.246/clientline/play.php?chID=201174
 #EXTINF:-1,IT: Eagle Gomorra Stagione 2 FHD HEVC
-http://185.226.65.110/clientline/play.php?chID=201173
+http://103.125.219.246/clientline/play.php?chID=201173
 #EXTINF:-1,IT: Eagle Gomorra Stagione 3 FHD HEVC
-http://185.226.65.110/clientline/play.php?chID=201172
+http://103.125.219.246/clientline/play.php?chID=201172
 #EXTINF:-1,IT: Eagle Gomorra Stagione 4 FHD HEVC (FINALE)
-http://185.226.65.110/clientline/play.php?chID=201171
+http://103.125.219.246/clientline/play.php?chID=201171
 #EXTINF:-1,IT: EAGLE 4K (IT-DE-EN-multilanguage)
-http://185.226.65.110/clientline/play.php?chID=201170
+http://103.125.219.246/clientline/play.php?chID=201170
 #EXTINF:-1,IT: Eagle Cinema Religion HD
-http://185.226.65.110/clientline/play.php?chID=201169
+http://103.125.219.246/clientline/play.php?chID=201169
 #EXTINF:-1,IT: Eagle Cinema Western FHD
-http://185.226.65.110/clientline/play.php?chID=201168
+http://103.125.219.246/clientline/play.php?chID=201168
 #EXTINF:-1,IT: Eagle Cinema Spaghetti Western FHD
-http://185.226.65.110/clientline/play.php?chID=201167
+http://103.125.219.246/clientline/play.php?chID=201167
 #EXTINF:-1,IT: Eagle Cinema 007 HD
-http://185.226.65.110/clientline/play.php?chID=201166
+http://103.125.219.246/clientline/play.php?chID=201166
 #EXTINF:-1,IT: Eagle Cinema Bud Spencer HD
-http://185.226.65.110/clientline/play.php?chID=201165
+http://103.125.219.246/clientline/play.php?chID=201165
 #EXTINF:-1,IT: Eagle Nature Discovery 4K (double audio)
-http://185.226.65.110/clientline/play.php?chID=201164
+http://103.125.219.246/clientline/play.php?chID=201164
 #EXTINF:-1,IT: Eagle Nature Explorer FHD
-http://185.226.65.110/clientline/play.php?chID=201163
+http://103.125.219.246/clientline/play.php?chID=201163
 #EXTINF:-1,IT: Eagle Brickleberry FHD 24H
-http://185.226.65.110/clientline/play.php?chID=201162
+http://103.125.219.246/clientline/play.php?chID=201162
 #EXTINF:-1,IT: Eagle Peter Griffin 24H
-http://185.226.65.110/clientline/play.php?chID=201161
+http://103.125.219.246/clientline/play.php?chID=201161
 #EXTINF:-1,IT: Eagle The Cleveland Show 24H
-http://185.226.65.110/clientline/play.php?chID=201160
+http://103.125.219.246/clientline/play.php?chID=201160
 #EXTINF:-1,IT: Eagle Cinepanettone HD
-http://185.226.65.110/clientline/play.php?chID=201159
+http://103.125.219.246/clientline/play.php?chID=201159
 #EXTINF:-1,IT: Eagle Cinema Biografico FHD
-http://185.226.65.110/clientline/play.php?chID=201158
+http://103.125.219.246/clientline/play.php?chID=201158
 #EXTINF:-1,IT: Eagle Cinema Famiglia FHD
-http://185.226.65.110/clientline/play.php?chID=201157
+http://103.125.219.246/clientline/play.php?chID=201157
 #EXTINF:-1,IT: Eagle Cinema Fantascienza FHD
-http://185.226.65.110/clientline/play.php?chID=201156
+http://103.125.219.246/clientline/play.php?chID=201156
 #EXTINF:-1,IT: Eagle Scooby-Doo FHD
-http://185.226.65.110/clientline/play.php?chID=201155
+http://103.125.219.246/clientline/play.php?chID=201155
 #EXTINF:-1,IT: Eagle 20thCenturyFox FHD
-http://185.226.65.110/clientline/play.php?chID=201154
+http://103.125.219.246/clientline/play.php?chID=201154
 #EXTINF:-1,IT: Eagle MARVEL FHD
-http://185.226.65.110/clientline/play.php?chID=201153
+http://103.125.219.246/clientline/play.php?chID=201153
 #EXTINF:-1,IT: Eagle Bambini Bing HD
-http://185.226.65.110/clientline/play.php?chID=201152
+http://103.125.219.246/clientline/play.php?chID=201152
 #EXTINF:-1,IT: Eagle American Dad 24H
-http://185.226.65.110/clientline/play.php?chID=201151
+http://103.125.219.246/clientline/play.php?chID=201151
 #EXTINF:-1,IT: Eagle Dragon Ball Z Channel FHD  (Audio-1.ITA-2.ENG)
-http://185.226.65.110/clientline/play.php?chID=201100
+http://103.125.219.246/clientline/play.php?chID=201100
 #EXTINF:-1,IT: Eagle Lupin III Channel
-http://185.226.65.110/clientline/play.php?chID=201099
+http://103.125.219.246/clientline/play.php?chID=201099
 #EXTINF:-1,IT: Eagle DC's Legends of Tomorrow 1  FHD
-http://185.226.65.110/clientline/play.php?chID=201148
+http://103.125.219.246/clientline/play.php?chID=201148
 #EXTINF:-1,IT: Eagle DC's Legends of Tomorrow 2  FHD
-http://185.226.65.110/clientline/play.php?chID=201147
+http://103.125.219.246/clientline/play.php?chID=201147
 #EXTINF:-1,IT: Eagle DC's Legends of Tomorrow 3  FHD
-http://185.226.65.110/clientline/play.php?chID=201146
+http://103.125.219.246/clientline/play.php?chID=201146
 #EXTINF:-1,IT: Eagle DC's Legends of Tomorrow 4  FHD
-http://185.226.65.110/clientline/play.php?chID=201145
+http://103.125.219.246/clientline/play.php?chID=201145
 #EXTINF:-1,IT: Eagle DC's Legends of Tomorrow 5 Sub  FHD
-http://185.226.65.110/clientline/play.php?chID=201144
+http://103.125.219.246/clientline/play.php?chID=201144
 #EXTINF:-1,IT: Il Trono di Spade stagione 1 FHD
-http://185.226.65.110/clientline/play.php?chID=201140
+http://103.125.219.246/clientline/play.php?chID=201140
 #EXTINF:-1,IT: Il Trono di Spade stagione 2 FHD
-http://185.226.65.110/clientline/play.php?chID=201139
+http://103.125.219.246/clientline/play.php?chID=201139
 #EXTINF:-1,IT: Il Trono di Spade stagione 3 FHD
-http://185.226.65.110/clientline/play.php?chID=201138
+http://103.125.219.246/clientline/play.php?chID=201138
 #EXTINF:-1,IT: Il Trono di Spade stagione 4 FHD
-http://185.226.65.110/clientline/play.php?chID=201137
+http://103.125.219.246/clientline/play.php?chID=201137
 #EXTINF:-1,IT: Il Trono di Spade stagione 5 FHD
-http://185.226.65.110/clientline/play.php?chID=201136
+http://103.125.219.246/clientline/play.php?chID=201136
 #EXTINF:-1,IT: Il Trono di Spade stagione 6 FHD
-http://185.226.65.110/clientline/play.php?chID=201135
+http://103.125.219.246/clientline/play.php?chID=201135
 #EXTINF:-1,IT: Il Trono di Spade stagione 7 FHD
-http://185.226.65.110/clientline/play.php?chID=201134
+http://103.125.219.246/clientline/play.php?chID=201134
 #EXTINF:-1,IT: Il Trono di Spade stagione 8 FHD (FINALE)
-http://185.226.65.110/clientline/play.php?chID=201141
+http://103.125.219.246/clientline/play.php?chID=201141
 #EXTINF:-1,IT:  Lo Hobbit Channel FHD
-http://185.226.65.110/clientline/play.php?chID=201142
+http://103.125.219.246/clientline/play.php?chID=201142
 #EXTINF:-1,IT: The Big Bang Theory FHD
-http://185.226.65.110/clientline/play.php?chID=201133
+http://103.125.219.246/clientline/play.php?chID=201133
 #EXTINF:-1,IT: Me-contro-Te Channel HD
-http://185.226.65.110/clientline/play.php?chID=201132
+http://103.125.219.246/clientline/play.php?chID=201132
 #EXTINF:-1,IT: Ghost Adventures-Cacciatori di fantasmi channel
-http://185.226.65.110/clientline/play.php?chID=201131
+http://103.125.219.246/clientline/play.php?chID=201131
 #EXTINF:-1,IT: Fast and Furious Channel FHD
-http://185.226.65.110/clientline/play.php?chID=201130
+http://103.125.219.246/clientline/play.php?chID=201130
 #EXTINF:-1,IT: I Mercenari-The Expendables Channel FHD
-http://185.226.65.110/clientline/play.php?chID=201129
+http://103.125.219.246/clientline/play.php?chID=201129
 #EXTINF:-1,IT: I Mercenari-The Expendables Channel 4K
-http://185.226.65.110/clientline/play.php?chID=201128
+http://103.125.219.246/clientline/play.php?chID=201128
 #EXTINF:-1,IT: Jean Claude Van Damme Channel FHD
-http://185.226.65.110/clientline/play.php?chID=201127
+http://103.125.219.246/clientline/play.php?chID=201127
 #EXTINF:-1,IT: Underworld  Channel FHD
-http://185.226.65.110/clientline/play.php?chID=201126
+http://103.125.219.246/clientline/play.php?chID=201126
 #EXTINF:-1,IT: Star Wars Channel FHD
-http://185.226.65.110/clientline/play.php?chID=201124
+http://103.125.219.246/clientline/play.php?chID=201124
 #EXTINF:-1,IT: Men in Black Channel FHD
-http://185.226.65.110/clientline/play.php?chID=201123
+http://103.125.219.246/clientline/play.php?chID=201123
 #EXTINF:-1,IT: Mission impossible Channel FHD
-http://185.226.65.110/clientline/play.php?chID=201122
+http://103.125.219.246/clientline/play.php?chID=201122
 #EXTINF:-1,IT: Pirati dei Caraibi Channel FHD
-http://185.226.65.110/clientline/play.php?chID=201121
+http://103.125.219.246/clientline/play.php?chID=201121
 #EXTINF:-1,IT: Pirati dei Caraibi Channel 4K
-http://185.226.65.110/clientline/play.php?chID=201120
+http://103.125.219.246/clientline/play.php?chID=201120
 #EXTINF:-1,IT: Rambo Channel FHD
-http://185.226.65.110/clientline/play.php?chID=201119
+http://103.125.219.246/clientline/play.php?chID=201119
 #EXTINF:-1,IT: Rocky Channel FHD
-http://185.226.65.110/clientline/play.php?chID=201118
+http://103.125.219.246/clientline/play.php?chID=201118
 #EXTINF:-1,IT: Terminator Channel FHD
-http://185.226.65.110/clientline/play.php?chID=201117
+http://103.125.219.246/clientline/play.php?chID=201117
 #EXTINF:-1,IT: The Bourne Channel FHD
-http://185.226.65.110/clientline/play.php?chID=201116
+http://103.125.219.246/clientline/play.php?chID=201116
 #EXTINF:-1,IT: Transformers Channel FHD
-http://185.226.65.110/clientline/play.php?chID=201115
+http://103.125.219.246/clientline/play.php?chID=201115
 #EXTINF:-1,IT: Twilight Channel FHD
-http://185.226.65.110/clientline/play.php?chID=201114
+http://103.125.219.246/clientline/play.php?chID=201114
 #EXTINF:-1,IT: Avengers Grimm Channel FHD
-http://185.226.65.110/clientline/play.php?chID=201113
+http://103.125.219.246/clientline/play.php?chID=201113
 #EXTINF:-1,IT: G.I.JOE Channel FHD
-http://185.226.65.110/clientline/play.php?chID=201112
+http://103.125.219.246/clientline/play.php?chID=201112
 #EXTINF:-1,IT: Harry Potter Channel FHD
-http://185.226.65.110/clientline/play.php?chID=201111
+http://103.125.219.246/clientline/play.php?chID=201111
 #EXTINF:-1,IT: Hunger Games Channel FHD
-http://185.226.65.110/clientline/play.php?chID=201110
+http://103.125.219.246/clientline/play.php?chID=201110
 #EXTINF:-1,IT: Il Re Scorpione Channel FHD
-http://185.226.65.110/clientline/play.php?chID=201109
+http://103.125.219.246/clientline/play.php?chID=201109
 #EXTINF:-1,IT: IL Signore Degli Anelli Channel FHD
-http://185.226.65.110/clientline/play.php?chID=201108
+http://103.125.219.246/clientline/play.php?chID=201108
 #EXTINF:-1,IT: Indiana Jones Channel FHD
-http://185.226.65.110/clientline/play.php?chID=201107
+http://103.125.219.246/clientline/play.php?chID=201107
 #EXTINF:-1,IT: IP MAN Channel FHD
-http://185.226.65.110/clientline/play.php?chID=201106
+http://103.125.219.246/clientline/play.php?chID=201106
 #EXTINF:-1,IT:  How i Met You Mother FHD
-http://185.226.65.110/clientline/play.php?chID=201101
+http://103.125.219.246/clientline/play.php?chID=201101
 #EXTINF:-1,IT: Karate Kid Channel FHD
-http://185.226.65.110/clientline/play.php?chID=201105
+http://103.125.219.246/clientline/play.php?chID=201105
 #EXTINF:-1,IT: Kung Fu Panda Film Channel FHD
-http://185.226.65.110/clientline/play.php?chID=201104
+http://103.125.219.246/clientline/play.php?chID=201104
 #EXTINF:-1,IT: Kung Fu Panda Series Channel HD
-http://185.226.65.110/clientline/play.php?chID=201143
+http://103.125.219.246/clientline/play.php?chID=201143
 #EXTINF:-1,IT: Disney Plus Film HD
-http://185.226.65.110/clientline/play.php?chID=201103
+http://103.125.219.246/clientline/play.php?chID=201103
 #EXTINF:-1,IT: Disney Plus Film 2 HD
-http://185.226.65.110/clientline/play.php?chID=201149
+http://103.125.219.246/clientline/play.php?chID=201149
 #EXTINF:-1,IT: Disney Plus Animation HD
-http://185.226.65.110/clientline/play.php?chID=201102
+http://103.125.219.246/clientline/play.php?chID=201102
 #EXTINF:-1,IT: Disney Plus Nature HD
-http://185.226.65.110/clientline/play.php?chID=201150
+http://103.125.219.246/clientline/play.php?chID=201150
  
  
 #EXTINF:-1,IT: VIP SKY PRIMAFILA 1 FHD
-http://185.226.65.110/sltv/play.php?chID=222762
+http://103.125.219.246/sltv/play.php?chID=222762
 #EXTINF:-1,IT: VIP  SKY PRIMAFILA 14 FHD
-http://185.226.65.110/sltv/play.php?chID=222772
+http://103.125.219.246/sltv/play.php?chID=222772
 #EXTINF:-1,IT: VIP  SKY PRIMAFILA 15 FHD
-http://185.226.65.110/sltv/play.php?chID=222773
+http://103.125.219.246/sltv/play.php?chID=222773
 #EXTINF:-1,IT: VIP  SKY PRIMAFILA 17 FHD
-http://185.226.65.110/sltv/play.php?chID=222775
+http://103.125.219.246/sltv/play.php?chID=222775
  
 #EXTINF:-1,IT: VIP VETRINA FILM AL CINEMA LIVE
-http://185.226.65.110/sltv/play.php?chID=310397
+http://103.125.219.246/sltv/play.php?chID=310397
 #EXTINF:-1,IT: VIP FILM AL CINEMA 1
-http://185.226.65.110/sltv/play.php?chID=310396
+http://103.125.219.246/sltv/play.php?chID=310396
 #EXTINF:-1,IT: VIP FILM AL CINEMA 2
-http://185.226.65.110/sltv/play.php?chID=310395
+http://103.125.219.246/sltv/play.php?chID=310395
 #EXTINF:-1,IT: VIP FILM AL CINEMA 3
-http://185.226.65.110/sltv/play.php?chID=310394
+http://103.125.219.246/sltv/play.php?chID=310394
 #EXTINF:-1,IT: VIP FILM AL CINEMA 4
-http://185.226.65.110/sltv/play.php?chID=310393
+http://103.125.219.246/sltv/play.php?chID=310393
 #EXTINF:-1,IT: VIP FILM AL CINEMA 5
-http://185.226.65.110/sltv/play.php?chID=310392
+http://103.125.219.246/sltv/play.php?chID=310392
 #EXTINF:-1,IT: VIP FILM AL CINEMA 6
-http://185.226.65.110/sltv/play.php?chID=310391
+http://103.125.219.246/sltv/play.php?chID=310391
 #EXTINF:-1,IT: VIP FILM AL CINEMA 7
-http://185.226.65.110/sltv/play.php?chID=310390
+http://103.125.219.246/sltv/play.php?chID=310390
 #EXTINF:-1,IT: VIP FILM AL CINEMA 8
-http://185.226.65.110/sltv/play.php?chID=310389
+http://103.125.219.246/sltv/play.php?chID=310389
 #EXTINF:-1,IT: VIP FILM AL CINEMA 9
-http://185.226.65.110/sltv/play.php?chID=310388
+http://103.125.219.246/sltv/play.php?chID=310388
 #EXTINF:-1,IT: VIP FILM AL CINEMA 10
-http://185.226.65.110/sltv/play.php?chID=310387
+http://103.125.219.246/sltv/play.php?chID=310387
 #EXTINF:-1,IT: VIP IN VACANZE SU MARTE
-http://185.226.65.110/sltv/play.php?chID=310386
+http://103.125.219.246/sltv/play.php?chID=310386
  
 #EXTINF:-1,IT: VIP CINEMAH24 4K
-http://185.226.65.110/sltv/play.php?chID=310384
+http://103.125.219.246/sltv/play.php?chID=310384
 #EXTINF:-1,IT: VIP CINEMAH24 ANIMAZIONE
-http://185.226.65.110/sltv/play.php?chID=310383
+http://103.125.219.246/sltv/play.php?chID=310383
 #EXTINF:-1,IT: VIP CINEMAH24 ANIME 
-http://185.226.65.110/sltv/play.php?chID=310382
+http://103.125.219.246/sltv/play.php?chID=310382
 #EXTINF:-1,IT: VIP CINEMAH24 AVVENTURA 
-http://185.226.65.110/sltv/play.php?chID=310381
+http://103.125.219.246/sltv/play.php?chID=310381
 #EXTINF:-1,IT: VIP CINEMAH24 AZIONE 
-http://185.226.65.110/sltv/play.php?chID=310380
+http://103.125.219.246/sltv/play.php?chID=310380
 #EXTINF:-1,IT: VIP CINEMAH24 BUD SPENCER TERENCE HILL 
-http://185.226.65.110/sltv/play.php?chID=310379
+http://103.125.219.246/sltv/play.php?chID=310379
 #EXTINF:-1,IT: VIP CINEMAH24 CHRISTMAS 
-http://185.226.65.110/sltv/play.php?chID=310378
+http://103.125.219.246/sltv/play.php?chID=310378
 #EXTINF:-1,IT: VIP CINEMAH24 COMMEDIA
-http://185.226.65.110/sltv/play.php?chID=310377
+http://103.125.219.246/sltv/play.php?chID=310377
 #EXTINF:-1,IT: VIP CINEMAH24 DISCOVERY 4K 
-http://185.226.65.110/sltv/play.php?chID=310376
+http://103.125.219.246/sltv/play.php?chID=310376
 #EXTINF:-1,IT: VIP CINEMAH24 DRAMMATICO 
-http://185.226.65.110/sltv/play.php?chID=310375
+http://103.125.219.246/sltv/play.php?chID=310375
 #EXTINF:-1,IT: VIP CINEMAH24 FANTASCIENZA
-http://185.226.65.110/sltv/play.php?chID=310374
+http://103.125.219.246/sltv/play.php?chID=310374
 #EXTINF:-1,IT: VIP CINEMAH24 FANTASY
-http://185.226.65.110/sltv/play.php?chID=310373
+http://103.125.219.246/sltv/play.php?chID=310373
 #EXTINF:-1,IT: VIP CINEMAH24 HORROR
-http://185.226.65.110/sltv/play.php?chID=310372
+http://103.125.219.246/sltv/play.php?chID=310372
 #EXTINF:-1,IT: VIP CINEMAH24 ROMANTICO
-http://185.226.65.110/sltv/play.php?chID=310371
+http://103.125.219.246/sltv/play.php?chID=310371
 #EXTINF:-1,IT: VIP CINEMAH24 SERIE TV
-http://185.226.65.110/sltv/play.php?chID=310370
+http://103.125.219.246/sltv/play.php?chID=310370
 #EXTINF:-1,IT: VIP CINEMAH24 SUPEREROI
-http://185.226.65.110/sltv/play.php?chID=310369
+http://103.125.219.246/sltv/play.php?chID=310369
 #EXTINF:-1,IT: VIP CINEMAH24 THRILLER
-http://185.226.65.110/sltv/play.php?chID=310368
+http://103.125.219.246/sltv/play.php?chID=310368
 #EXTINF:-1,IT: VIP CINEMAH24 WALTDISNEY
-http://185.226.65.110/sltv/play.php?chID=310367
+http://103.125.219.246/sltv/play.php?chID=310367
 #EXTINF:-1,IT: VIP CINEMAH24 WESTERN
-http://185.226.65.110/sltv/play.php?chID=310366
+http://103.125.219.246/sltv/play.php?chID=310366
 
 
 #EXTINF:-1   group-title="-IPTV ITALIA 3- ",
@@ -11366,500 +11347,500 @@ http://top.funtogether.xyz:8080/tomasiptv2021/hgHgyhg12hsgZX/93882
 
 #EXTINF:-1    group-title="-IPTV GREECE-",
 #EXTINF:-1,GR: ERT 1 HD
-http://185.226.65.110/clientline/play.php?chID=131180
+http://103.125.219.246/clientline/play.php?chID=131180
 #EXTINF:-1,GR: ERT 1
-http://185.226.65.110/clientline/play.php?chID=2844
+http://103.125.219.246/clientline/play.php?chID=2844
 #EXTINF:-1,GR: ERT 1: 7H Delay
-http://185.226.65.110/clientline/play.php?chID=111741
+http://103.125.219.246/clientline/play.php?chID=111741
 #EXTINF:-1,GR: ERT 2 HD
-http://185.226.65.110/clientline/play.php?chID=131181
+http://103.125.219.246/clientline/play.php?chID=131181
 #EXTINF:-1,GR: ERT 2
-http://185.226.65.110/clientline/play.php?chID=2843
+http://103.125.219.246/clientline/play.php?chID=2843
 #EXTINF:-1,GR: ERT 3 HD
-http://185.226.65.110/clientline/play.php?chID=131182
+http://103.125.219.246/clientline/play.php?chID=131182
 #EXTINF:-1,GR: ERT 3
-http://185.226.65.110/clientline/play.php?chID=15056
+http://103.125.219.246/clientline/play.php?chID=15056
 #EXTINF:-1,GR: ERT World HD
-http://185.226.65.110/clientline/play.php?chID=208511
+http://103.125.219.246/clientline/play.php?chID=208511
 #EXTINF:-1,GR: Mega FHD
-http://185.226.65.110/clientline/play.php?chID=196741
+http://103.125.219.246/clientline/play.php?chID=196741
 #EXTINF:-1,GR: Mega Channel
-http://185.226.65.110/clientline/play.php?chID=3402
+http://103.125.219.246/clientline/play.php?chID=3402
 #EXTINF:-1,GR: Mega: 7H Delay
-http://185.226.65.110/clientline/play.php?chID=111742
+http://103.125.219.246/clientline/play.php?chID=111742
 #EXTINF:-1,GR: Ant1 FHD
-http://185.226.65.110/clientline/play.php?chID=126880
+http://103.125.219.246/clientline/play.php?chID=126880
 #EXTINF:-1,GR: Ant1 HD
-http://185.226.65.110/clientline/play.php?chID=16801
+http://103.125.219.246/clientline/play.php?chID=16801
 #EXTINF:-1,GR: Ant1
-http://185.226.65.110/clientline/play.php?chID=1534
+http://103.125.219.246/clientline/play.php?chID=1534
 #EXTINF:-1,GR: Ant1: 7H Delay
-http://185.226.65.110/clientline/play.php?chID=111747
+http://103.125.219.246/clientline/play.php?chID=111747
 #EXTINF:-1,GR: Star FHD
-http://185.226.65.110/clientline/play.php?chID=126887
+http://103.125.219.246/clientline/play.php?chID=126887
 #EXTINF:-1,GR: Star HD
-http://185.226.65.110/clientline/play.php?chID=16797
+http://103.125.219.246/clientline/play.php?chID=16797
 #EXTINF:-1,GR: Star
-http://185.226.65.110/clientline/play.php?chID=3680
+http://103.125.219.246/clientline/play.php?chID=3680
 #EXTINF:-1,GR: Star: 7H Delay
-http://185.226.65.110/clientline/play.php?chID=111744
+http://103.125.219.246/clientline/play.php?chID=111744
 #EXTINF:-1,GR: Alpha FHD
-http://185.226.65.110/clientline/play.php?chID=126875
+http://103.125.219.246/clientline/play.php?chID=126875
 #EXTINF:-1,GR: Alpha HD
-http://185.226.65.110/clientline/play.php?chID=16802
+http://103.125.219.246/clientline/play.php?chID=16802
 #EXTINF:-1,GR: Alpha
-http://185.226.65.110/clientline/play.php?chID=1530
+http://103.125.219.246/clientline/play.php?chID=1530
 #EXTINF:-1,GR: Alpha: 7H Delay
-http://185.226.65.110/clientline/play.php?chID=111743
+http://103.125.219.246/clientline/play.php?chID=111743
 #EXTINF:-1,GR: Skai FHD
-http://185.226.65.110/clientline/play.php?chID=126881
+http://103.125.219.246/clientline/play.php?chID=126881
 #EXTINF:-1,GR: Skai HD
-http://185.226.65.110/clientline/play.php?chID=16798
+http://103.125.219.246/clientline/play.php?chID=16798
 #EXTINF:-1,GR: Skai
-http://185.226.65.110/clientline/play.php?chID=3681
+http://103.125.219.246/clientline/play.php?chID=3681
 #EXTINF:-1,GR: Skai: 7H Delay
-http://185.226.65.110/clientline/play.php?chID=111745
+http://103.125.219.246/clientline/play.php?chID=111745
 #EXTINF:-1,GR: Open Beyond FHD
-http://185.226.65.110/clientline/play.php?chID=126886
+http://103.125.219.246/clientline/play.php?chID=126886
 #EXTINF:-1,GR: Open Beyond
-http://185.226.65.110/clientline/play.php?chID=1538
+http://103.125.219.246/clientline/play.php?chID=1538
 #EXTINF:-1,GR: Open TV: 7H Delay
-http://185.226.65.110/clientline/play.php?chID=111746
+http://103.125.219.246/clientline/play.php?chID=111746
 #EXTINF:-1,GR: Makedonia TV FHD
-http://185.226.65.110/clientline/play.php?chID=16799
+http://103.125.219.246/clientline/play.php?chID=16799
 #EXTINF:-1,GR: Makedonia TV
-http://185.226.65.110/clientline/play.php?chID=1547
+http://103.125.219.246/clientline/play.php?chID=1547
 #EXTINF:-1,GR: One Channel FHD
-http://185.226.65.110/clientline/play.php?chID=112792
+http://103.125.219.246/clientline/play.php?chID=112792
 #EXTINF:-1,GR: One Channel
-http://185.226.65.110/clientline/play.php?chID=96718
+http://103.125.219.246/clientline/play.php?chID=96718
 #EXTINF:-1,GR: Art
-http://185.226.65.110/clientline/play.php?chID=22633
+http://103.125.219.246/clientline/play.php?chID=22633
 #EXTINF:-1,GR: Action 24
-http://185.226.65.110/clientline/play.php?chID=4247
+http://103.125.219.246/clientline/play.php?chID=4247
 #EXTINF:-1,GR: Ena
-http://185.226.65.110/clientline/play.php?chID=122412
+http://103.125.219.246/clientline/play.php?chID=122412
 #EXTINF:-1,GR: Vouli TV
-http://185.226.65.110/clientline/play.php?chID=1555
+http://103.125.219.246/clientline/play.php?chID=1555
 #EXTINF:-1,GR: Al Jazeera
-http://185.226.65.110/clientline/play.php?chID=126897
+http://103.125.219.246/clientline/play.php?chID=126897
 #EXTINF:-1,GR: Euronews HD
-http://185.226.65.110/clientline/play.php?chID=21033
+http://103.125.219.246/clientline/play.php?chID=21033
 #EXTINF:-1,GR: Russia Today FHD
-http://185.226.65.110/clientline/play.php?chID=126898
+http://103.125.219.246/clientline/play.php?chID=126898
 #EXTINF:-1,GR: CNN HD
-http://185.226.65.110/clientline/play.php?chID=13943
+http://103.125.219.246/clientline/play.php?chID=13943
 #EXTINF:-1,GR: CNBC
-http://185.226.65.110/clientline/play.php?chID=126900
+http://103.125.219.246/clientline/play.php?chID=126900
 #EXTINF:-1,GR: Deutsche Welle
-http://185.226.65.110/clientline/play.php?chID=25267
+http://103.125.219.246/clientline/play.php?chID=25267
 #EXTINF:-1,GR: France 24
-http://185.226.65.110/clientline/play.php?chID=126899
+http://103.125.219.246/clientline/play.php?chID=126899
 
 #EXTINF:-1,CY: Rik 1
-http://185.226.65.110/clientline/play.php?chID=15064
+http://103.125.219.246/clientline/play.php?chID=15064
 #EXTINF:-1,CY: Rik 2
-http://185.226.65.110/clientline/play.php?chID=15065
+http://103.125.219.246/clientline/play.php?chID=15065
 #EXTINF:-1,CY: Rik Sat
-http://185.226.65.110/clientline/play.php?chID=15063
+http://103.125.219.246/clientline/play.php?chID=15063
 #EXTINF:-1,CY: Ant1
-http://185.226.65.110/clientline/play.php?chID=1533
+http://103.125.219.246/clientline/play.php?chID=1533
 #EXTINF:-1,CY: Alpha
-http://185.226.65.110/clientline/play.php?chID=29233
+http://103.125.219.246/clientline/play.php?chID=29233
 #EXTINF:-1,CY: Mega
-http://185.226.65.110/clientline/play.php?chID=18420
+http://103.125.219.246/clientline/play.php?chID=18420
 #EXTINF:-1,CY: Sigma
-http://185.226.65.110/clientline/play.php?chID=1550
+http://103.125.219.246/clientline/play.php?chID=1550
 #EXTINF:-1,CY: Capital TV
-http://185.226.65.110/clientline/play.php?chID=18423
+http://103.125.219.246/clientline/play.php?chID=18423
 #EXTINF:-1,CY: Mad
-http://185.226.65.110/clientline/play.php?chID=4244
+http://103.125.219.246/clientline/play.php?chID=4244
 #EXTINF:-1,CY: Smile TV
-http://185.226.65.110/clientline/play.php?chID=25614
+http://103.125.219.246/clientline/play.php?chID=25614
 #EXTINF:-1,CY: Plus TV
-http://185.226.65.110/clientline/play.php?chID=18424
+http://103.125.219.246/clientline/play.php?chID=18424
 #EXTINF:-1,CY: Extra
-http://185.226.65.110/clientline/play.php?chID=18422
+http://103.125.219.246/clientline/play.php?chID=18422
 
 #EXTINF:-1,GR: Nova Life HD
-http://185.226.65.110/clientline/play.php?chID=123414
+http://103.125.219.246/clientline/play.php?chID=123414
 #EXTINF:-1,GR: National Geo FHD
-http://185.226.65.110/clientline/play.php?chID=122415
+http://103.125.219.246/clientline/play.php?chID=122415
 #EXTINF:-1,GR: Nat Geo Wild FHD
-http://185.226.65.110/clientline/play.php?chID=15665
+http://103.125.219.246/clientline/play.php?chID=15665
 #EXTINF:-1,GR: Discovery Channel HD
-http://185.226.65.110/clientline/play.php?chID=10285
+http://103.125.219.246/clientline/play.php?chID=10285
 #EXTINF:-1,GR: Discovery Science HD
-http://185.226.65.110/clientline/play.php?chID=15082
+http://103.125.219.246/clientline/play.php?chID=15082
 #EXTINF:-1,GR: Discovery Turbo Xtra
-http://185.226.65.110/clientline/play.php?chID=147993
+http://103.125.219.246/clientline/play.php?chID=147993
 #EXTINF:-1,GR: Investigation Discovery HD
-http://185.226.65.110/clientline/play.php?chID=10284
+http://103.125.219.246/clientline/play.php?chID=10284
 #EXTINF:-1,GR: History Channel HD
-http://185.226.65.110/clientline/play.php?chID=217754
+http://103.125.219.246/clientline/play.php?chID=217754
 #EXTINF:-1,GR: Food Network
-http://185.226.65.110/clientline/play.php?chID=20382
+http://103.125.219.246/clientline/play.php?chID=20382
 #EXTINF:-1,GR: E! Entertainment FHD
-http://185.226.65.110/clientline/play.php?chID=12827
+http://103.125.219.246/clientline/play.php?chID=12827
 #EXTINF:-1,GR: TLC
-http://185.226.65.110/clientline/play.php?chID=146746
+http://103.125.219.246/clientline/play.php?chID=146746
 #EXTINF:-1,GR: Fox FHD
-http://185.226.65.110/clientline/play.php?chID=12824
+http://103.125.219.246/clientline/play.php?chID=12824
 #EXTINF:-1,GR: Fox Life FHD
-http://185.226.65.110/clientline/play.php?chID=12825
+http://103.125.219.246/clientline/play.php?chID=12825
 #EXTINF:-1,GR: Crime & Investigation HD
-http://185.226.65.110/clientline/play.php?chID=20327
+http://103.125.219.246/clientline/play.php?chID=20327
 #EXTINF:-1,GR: Outdoor Channel FHD
-http://185.226.65.110/clientline/play.php?chID=21026
+http://103.125.219.246/clientline/play.php?chID=21026
 #EXTINF:-1,GR: Museum FHD
-http://185.226.65.110/clientline/play.php?chID=12826
+http://103.125.219.246/clientline/play.php?chID=12826
 #EXTINF:-1,GR: Viasat Explore HD
-http://185.226.65.110/clientline/play.php?chID=20384
+http://103.125.219.246/clientline/play.php?chID=20384
 #EXTINF:-1,GR: Viasat Nature HD
-http://185.226.65.110/clientline/play.php?chID=20326
+http://103.125.219.246/clientline/play.php?chID=20326
 #EXTINF:-1,GR: Viasat History HD
-http://185.226.65.110/clientline/play.php?chID=19609
+http://103.125.219.246/clientline/play.php?chID=19609
 #EXTINF:-1,GR: BBC Earth HD
-http://185.226.65.110/clientline/play.php?chID=20325
+http://103.125.219.246/clientline/play.php?chID=20325
 #EXTINF:-1,GR: CBS Reality HD
-http://185.226.65.110/clientline/play.php?chID=19708
+http://103.125.219.246/clientline/play.php?chID=19708
 #EXTINF:-1,GR: Cosmote History FHD
-http://185.226.65.110/clientline/play.php?chID=19610
+http://103.125.219.246/clientline/play.php?chID=19610
 #EXTINF:-1,GR: Animal Planet HD
-http://185.226.65.110/clientline/play.php?chID=10286
+http://103.125.219.246/clientline/play.php?chID=10286
 #EXTINF:-1,GR: Nautical Channel FHD
-http://185.226.65.110/clientline/play.php?chID=21025
+http://103.125.219.246/clientline/play.php?chID=21025
 #EXTINF:-1,GR: Body in Balance FHD
-http://185.226.65.110/clientline/play.php?chID=21027
+http://103.125.219.246/clientline/play.php?chID=21027
 #EXTINF:-1,GR: Hunter Channel
-http://185.226.65.110/clientline/play.php?chID=96722
+http://103.125.219.246/clientline/play.php?chID=96722
 #EXTINF:-1,GR: Insight TV
-http://185.226.65.110/clientline/play.php?chID=19720
+http://103.125.219.246/clientline/play.php?chID=19720
 #EXTINF:-1,GR: MyZen TV
-http://185.226.65.110/clientline/play.php?chID=19657
+http://103.125.219.246/clientline/play.php?chID=19657
 #EXTINF:-1,GR: Luxe TV FHD
-http://185.226.65.110/clientline/play.php?chID=126901
+http://103.125.219.246/clientline/play.php?chID=126901
 #EXTINF:-1,GR: Fashion TV FHD
-http://185.226.65.110/clientline/play.php?chID=19710
+http://103.125.219.246/clientline/play.php?chID=19710
 
 #EXTINF:-1,GR: Nova Mad Greekz HD
-http://185.226.65.110/clientline/play.php?chID=68442
+http://103.125.219.246/clientline/play.php?chID=68442
 #EXTINF:-1,GR: Mad FHD
-http://185.226.65.110/clientline/play.php?chID=122413
+http://103.125.219.246/clientline/play.php?chID=122413
 #EXTINF:-1,GR: MTV Live FHD
-http://185.226.65.110/clientline/play.php?chID=126902
+http://103.125.219.246/clientline/play.php?chID=126902
 #EXTINF:-1,GR: Mezzo
-http://185.226.65.110/clientline/play.php?chID=137539
+http://103.125.219.246/clientline/play.php?chID=137539
 #EXTINF:-1,GR: Tile Musiki
-http://185.226.65.110/clientline/play.php?chID=19674
+http://103.125.219.246/clientline/play.php?chID=19674
 #EXTINF:-1,GR: Tile Mousiki 2
-http://185.226.65.110/clientline/play.php?chID=126903
+http://103.125.219.246/clientline/play.php?chID=126903
 #EXTINF:-1,GR: Cannali Music
-http://185.226.65.110/clientline/play.php?chID=19607
+http://103.125.219.246/clientline/play.php?chID=19607
 #EXTINF:-1,GR: Greek Music Mix 2
-http://185.226.65.110/clientline/play.php?chID=19711
+http://103.125.219.246/clientline/play.php?chID=19711
 
 #EXTINF:-1,GR: Boomerang FHD
-http://185.226.65.110/clientline/play.php?chID=68441
+http://103.125.219.246/clientline/play.php?chID=68441
 #EXTINF:-1,GR: Disney Channel HD
-http://185.226.65.110/clientline/play.php?chID=12576
+http://103.125.219.246/clientline/play.php?chID=12576
 #EXTINF:-1,GR: Disney Junior
-http://185.226.65.110/clientline/play.php?chID=19608
+http://103.125.219.246/clientline/play.php?chID=19608
 #EXTINF:-1,GR: Disney XD HD
-http://185.226.65.110/clientline/play.php?chID=12575
+http://103.125.219.246/clientline/play.php?chID=12575
 #EXTINF:-1,GR: Nickelodeon HD
-http://185.226.65.110/clientline/play.php?chID=5839
+http://103.125.219.246/clientline/play.php?chID=5839
 #EXTINF:-1,GR: Smile TV HD
-http://185.226.65.110/clientline/play.php?chID=4253
+http://103.125.219.246/clientline/play.php?chID=4253
 #EXTINF:-1,GR: Baby TV
-http://185.226.65.110/clientline/play.php?chID=12578
+http://103.125.219.246/clientline/play.php?chID=12578
 
 #EXTINF:-1,GR: Nova Cinema 1 HD
-http://185.226.65.110/clientline/play.php?chID=19699
+http://103.125.219.246/clientline/play.php?chID=19699
 #EXTINF:-1,GR: Nova Cinema 2 HD
-http://185.226.65.110/clientline/play.php?chID=27539
+http://103.125.219.246/clientline/play.php?chID=27539
 #EXTINF:-1,GR: Nova Cinema 3 HD
-http://185.226.65.110/clientline/play.php?chID=27540
+http://103.125.219.246/clientline/play.php?chID=27540
 #EXTINF:-1,GR: Nova Cinema 4 HD
-http://185.226.65.110/clientline/play.php?chID=27541
+http://103.125.219.246/clientline/play.php?chID=27541
 #EXTINF:-1,GR: Cosmote Cinema 1 FHD
-http://185.226.65.110/clientline/play.php?chID=11246
+http://103.125.219.246/clientline/play.php?chID=11246
 #EXTINF:-1,GR: Cosmote Cinema 2 FHD
-http://185.226.65.110/clientline/play.php?chID=11245
+http://103.125.219.246/clientline/play.php?chID=11245
 #EXTINF:-1,GR: Cosmote Cinema 3 FHD
-http://185.226.65.110/clientline/play.php?chID=11244
+http://103.125.219.246/clientline/play.php?chID=11244
 #EXTINF:-1,GR: Village Cinema FHD
-http://185.226.65.110/clientline/play.php?chID=11242
+http://103.125.219.246/clientline/play.php?chID=11242
 #EXTINF:-1,GR: Cosmote Cinema Marvel Studios FHD
-http://185.226.65.110/clientline/play.php?chID=96721
+http://103.125.219.246/clientline/play.php?chID=96721
 #EXTINF:-1,GR: Cosmote Series FHD
-http://185.226.65.110/clientline/play.php?chID=11243
+http://103.125.219.246/clientline/play.php?chID=11243
 #EXTINF:-1,GR: Cosmote Promo FHD
-http://185.226.65.110/clientline/play.php?chID=126868
+http://103.125.219.246/clientline/play.php?chID=126868
 #EXTINF:-1,GR: Greek Cinema HD
-http://185.226.65.110/clientline/play.php?chID=96723
+http://103.125.219.246/clientline/play.php?chID=96723
 #EXTINF:-1,GR: Epic Drama HD
-http://185.226.65.110/clientline/play.php?chID=19719
+http://103.125.219.246/clientline/play.php?chID=19719
 #EXTINF:-1,GR: TCM FHD
-http://185.226.65.110/clientline/play.php?chID=115169
+http://103.125.219.246/clientline/play.php?chID=115169
 #EXTINF:-1,GR: NetvTorronto
-http://185.226.65.110/clientline/play.php?chID=21032
+http://103.125.219.246/clientline/play.php?chID=21032
 #EXTINF:-1,GR: Cosmote Cinema 1
-http://185.226.65.110/clientline/play.php?chID=122781
+http://103.125.219.246/clientline/play.php?chID=122781
 #EXTINF:-1,GR: Cosmote Cinema 2
-http://185.226.65.110/clientline/play.php?chID=122782
+http://103.125.219.246/clientline/play.php?chID=122782
 #EXTINF:-1,GR: Cosmote Cinema 3
-http://185.226.65.110/clientline/play.php?chID=122783
+http://103.125.219.246/clientline/play.php?chID=122783
 #EXTINF:-1,GR: Cosmote Series
-http://185.226.65.110/clientline/play.php?chID=122784
+http://103.125.219.246/clientline/play.php?chID=122784
 #EXTINF:-1,GR: Nova Throne Season 1 HD
-http://185.226.65.110/clientline/play.php?chID=129276
+http://103.125.219.246/clientline/play.php?chID=129276
 #EXTINF:-1,GR: Nova Throne Season 2 HD
-http://185.226.65.110/clientline/play.php?chID=129275
+http://103.125.219.246/clientline/play.php?chID=129275
 #EXTINF:-1,GR: Nova Throne Season 3 HD
-http://185.226.65.110/clientline/play.php?chID=129274
+http://103.125.219.246/clientline/play.php?chID=129274
 #EXTINF:-1,GR: Nova Throne Season 4 HD
-http://185.226.65.110/clientline/play.php?chID=111728
+http://103.125.219.246/clientline/play.php?chID=111728
 #EXTINF:-1,GR: Nova Throne Season 5 HD
-http://185.226.65.110/clientline/play.php?chID=111727
+http://103.125.219.246/clientline/play.php?chID=111727
 #EXTINF:-1,GR: Nova Throne Season 6 HD
-http://185.226.65.110/clientline/play.php?chID=111726
+http://103.125.219.246/clientline/play.php?chID=111726
 #EXTINF:-1,GR: Nova Throne Season 7 HD
-http://185.226.65.110/clientline/play.php?chID=111725
+http://103.125.219.246/clientline/play.php?chID=111725
 #EXTINF:-1,GR: Nova Throne Season 8 HD (FINAL)
-http://185.226.65.110/clientline/play.php?chID=111724
+http://103.125.219.246/clientline/play.php?chID=111724
 #EXTINF:-1,GR: Nova Premiere 1 HD
-http://185.226.65.110/clientline/play.php?chID=111734
+http://103.125.219.246/clientline/play.php?chID=111734
 #EXTINF:-1,GR: Nova Premiere 2 HD
-http://185.226.65.110/clientline/play.php?chID=111730
+http://103.125.219.246/clientline/play.php?chID=111730
 #EXTINF:-1,GR: Nova Premiere 3 HD
-http://185.226.65.110/clientline/play.php?chID=147754
+http://103.125.219.246/clientline/play.php?chID=147754
 #EXTINF:-1,GR: Nova Premiere 4 HD
-http://185.226.65.110/clientline/play.php?chID=147755
+http://103.125.219.246/clientline/play.php?chID=147755
 #EXTINF:-1,GR: Nova Premiere 5 HD
-http://185.226.65.110/clientline/play.php?chID=96717
+http://103.125.219.246/clientline/play.php?chID=96717
 #EXTINF:-1,GR: Nova Premiere 6 HD
-http://185.226.65.110/clientline/play.php?chID=96714
+http://103.125.219.246/clientline/play.php?chID=96714
 #EXTINF:-1,GR: Nova Premiere 7 HD
-http://185.226.65.110/clientline/play.php?chID=147757
+http://103.125.219.246/clientline/play.php?chID=147757
 #EXTINF:-1,GR: Nova Premiere 8 HD
-http://185.226.65.110/clientline/play.php?chID=147758
+http://103.125.219.246/clientline/play.php?chID=147758
 #EXTINF:-1,GR: Nova Premiere 9 HD
-http://185.226.65.110/clientline/play.php?chID=147759
+http://103.125.219.246/clientline/play.php?chID=147759
 #EXTINF:-1,GR: Nova Premiere 10 HD
-http://185.226.65.110/clientline/play.php?chID=147761
+http://103.125.219.246/clientline/play.php?chID=147761
 #EXTINF:-1,GR: Nova Premiere Action FHD
-http://185.226.65.110/clientline/play.php?chID=20328
+http://103.125.219.246/clientline/play.php?chID=20328
 #EXTINF:-1,GR: Nova Premiere Adventure FHD
-http://185.226.65.110/clientline/play.php?chID=111981
+http://103.125.219.246/clientline/play.php?chID=111981
 #EXTINF:-1,GR: Nova Premiere Animation FHD
-http://185.226.65.110/clientline/play.php?chID=13950
+http://103.125.219.246/clientline/play.php?chID=13950
 #EXTINF:-1,GR: Nova Premiere Biography FHD
-http://185.226.65.110/clientline/play.php?chID=13944
+http://103.125.219.246/clientline/play.php?chID=13944
 #EXTINF:-1,GR: Nova Premiere Comedy FHD
-http://185.226.65.110/clientline/play.php?chID=19656
+http://103.125.219.246/clientline/play.php?chID=19656
 #EXTINF:-1,GR: Nova Premiere Fantasy FHD
-http://185.226.65.110/clientline/play.php?chID=19655
+http://103.125.219.246/clientline/play.php?chID=19655
 #EXTINF:-1,GR: Nova Premiere HELLENIC
-http://185.226.65.110/clientline/play.php?chID=96719
+http://103.125.219.246/clientline/play.php?chID=96719
 #EXTINF:-1,GR: Nova Premiere History FHD
-http://185.226.65.110/clientline/play.php?chID=16796
+http://103.125.219.246/clientline/play.php?chID=16796
 #EXTINF:-1,GR: Nova Premiere Horror FHD
-http://185.226.65.110/clientline/play.php?chID=4528
+http://103.125.219.246/clientline/play.php?chID=4528
 #EXTINF:-1,GR: Nova Premiere Mythology FHD
-http://185.226.65.110/clientline/play.php?chID=96720
+http://103.125.219.246/clientline/play.php?chID=96720
 #EXTINF:-1,GR: Nova Premiere Passion FHD
-http://185.226.65.110/clientline/play.php?chID=19698
+http://103.125.219.246/clientline/play.php?chID=19698
 #EXTINF:-1,GR: Nova Premiere Sci-Fi FHD
-http://185.226.65.110/clientline/play.php?chID=13949
+http://103.125.219.246/clientline/play.php?chID=13949
 #EXTINF:-1,GR: Nova Premiere STARZ FHD
-http://185.226.65.110/clientline/play.php?chID=19654
+http://103.125.219.246/clientline/play.php?chID=19654
 #EXTINF:-1,GR: Nova Premiere Thriller FHD
-http://185.226.65.110/clientline/play.php?chID=13948
+http://103.125.219.246/clientline/play.php?chID=13948
 #EXTINF:-1,GR: Nova Premiere Western FHD
-http://185.226.65.110/clientline/play.php?chID=13945
+http://103.125.219.246/clientline/play.php?chID=13945
 
 #EXTINF:-1,GR: Kontra Channel
-http://185.226.65.110/clientline/play.php?chID=1543
+http://103.125.219.246/clientline/play.php?chID=1543
 #EXTINF:-1,GR: Attica TV
-http://185.226.65.110/clientline/play.php?chID=1531
+http://103.125.219.246/clientline/play.php?chID=1531
 #EXTINF:-1,GR: Krhth Tv
-http://185.226.65.110/clientline/play.php?chID=1544
+http://103.125.219.246/clientline/play.php?chID=1544
 #EXTINF:-1,GR: Blue Sky
-http://185.226.65.110/clientline/play.php?chID=112791
+http://103.125.219.246/clientline/play.php?chID=112791
 #EXTINF:-1,GR: High TV
-http://185.226.65.110/clientline/play.php?chID=4250
+http://103.125.219.246/clientline/play.php?chID=4250
 #EXTINF:-1,GR: Extra Channel
-http://185.226.65.110/clientline/play.php?chID=4246
+http://103.125.219.246/clientline/play.php?chID=4246
 #EXTINF:-1,GR: Channel 9
-http://185.226.65.110/clientline/play.php?chID=5831
+http://103.125.219.246/clientline/play.php?chID=5831
 #EXTINF:-1,GR: Travel Channel
-http://185.226.65.110/clientline/play.php?chID=32035
+http://103.125.219.246/clientline/play.php?chID=32035
 #EXTINF:-1,GR: Alert
-http://185.226.65.110/clientline/play.php?chID=133978
+http://103.125.219.246/clientline/play.php?chID=133978
 
 
-http://185.226.65.110/clientline/play.php?chID=4520
+http://103.125.219.246/clientline/play.php?chID=4520
 #EXTINF:-1,GR: Cosmote Sport Highlights FHD
-http://185.226.65.110/clientline/play.php?chID=27520
+http://103.125.219.246/clientline/play.php?chID=27520
 #EXTINF:-1,GR: Cosmote Sport 1 FHD
-http://185.226.65.110/clientline/play.php?chID=27521
+http://103.125.219.246/clientline/play.php?chID=27521
 #EXTINF:-1,GR: Cosmote Sport 2 FHD
-http://185.226.65.110/clientline/play.php?chID=27522
+http://103.125.219.246/clientline/play.php?chID=27522
 #EXTINF:-1,GR: Cosmote Sport 3 FHD
-http://185.226.65.110/clientline/play.php?chID=27523
+http://103.125.219.246/clientline/play.php?chID=27523
 #EXTINF:-1,GR: Cosmote Sport 4 FHD
-http://185.226.65.110/clientline/play.php?chID=27524
+http://103.125.219.246/clientline/play.php?chID=27524
 #EXTINF:-1,GR: Cosmote Sport 5 HD
-http://185.226.65.110/clientline/play.php?chID=27525
+http://103.125.219.246/clientline/play.php?chID=27525
 #EXTINF:-1,GR: Cosmote Sport 6 FHD
-http://185.226.65.110/clientline/play.php?chID=27536
+http://103.125.219.246/clientline/play.php?chID=27536
 #EXTINF:-1,GR: Cosmote Sport 7 FHD
-http://185.226.65.110/clientline/play.php?chID=27537
+http://103.125.219.246/clientline/play.php?chID=27537
 #EXTINF:-1,GR: Cosmote Sport 8 FHD
-http://185.226.65.110/clientline/play.php?chID=27538
+http://103.125.219.246/clientline/play.php?chID=27538
 #EXTINF:-1,GR: Cosmote Sport 9 FHD
-http://185.226.65.110/clientline/play.php?chID=111721
+http://103.125.219.246/clientline/play.php?chID=111721
 #EXTINF:-1,GR: Cosmote Sport 1
-http://185.226.65.110/clientline/play.php?chID=112156
+http://103.125.219.246/clientline/play.php?chID=112156
 #EXTINF:-1,GR: Cosmote Sport 2
-http://185.226.65.110/clientline/play.php?chID=112154
+http://103.125.219.246/clientline/play.php?chID=112154
 #EXTINF:-1,GR: Cosmote Sport 3
-http://185.226.65.110/clientline/play.php?chID=112152
+http://103.125.219.246/clientline/play.php?chID=112152
 #EXTINF:-1,GR: Cosmote Sport 4
-http://185.226.65.110/clientline/play.php?chID=112150
+http://103.125.219.246/clientline/play.php?chID=112150
 #EXTINF:-1,GR: Cosmote Sport 5
-http://185.226.65.110/clientline/play.php?chID=112148
+http://103.125.219.246/clientline/play.php?chID=112148
 #EXTINF:-1,GR: Cosmote Sport 6
-http://185.226.65.110/clientline/play.php?chID=112147
+http://103.125.219.246/clientline/play.php?chID=112147
 #EXTINF:-1,GR: Cosmote Sport 7
-http://185.226.65.110/clientline/play.php?chID=112146
+http://103.125.219.246/clientline/play.php?chID=112146
 #EXTINF:-1,GR: Cosmote Sport 8
-http://185.226.65.110/clientline/play.php?chID=112145
+http://103.125.219.246/clientline/play.php?chID=112145
 #EXTINF:-1,GR: Nova Sports 24 HD
-http://185.226.65.110/clientline/play.php?chID=113712
+http://103.125.219.246/clientline/play.php?chID=113712
 #EXTINF:-1,GR: Nova Sports 1 HD
-http://185.226.65.110/clientline/play.php?chID=12379
+http://103.125.219.246/clientline/play.php?chID=12379
 #EXTINF:-1,GR: Nova Sports 2 HD
-http://185.226.65.110/clientline/play.php?chID=12380
+http://103.125.219.246/clientline/play.php?chID=12380
 #EXTINF:-1,GR: Nova Sports 3 HD
-http://185.226.65.110/clientline/play.php?chID=12381
+http://103.125.219.246/clientline/play.php?chID=12381
 #EXTINF:-1,GR: Nova Sports 4 HD
-http://185.226.65.110/clientline/play.php?chID=12382
+http://103.125.219.246/clientline/play.php?chID=12382
 #EXTINF:-1,GR: Nova Sports 5 HD
-http://185.226.65.110/clientline/play.php?chID=17339
+http://103.125.219.246/clientline/play.php?chID=17339
 #EXTINF:-1,GR: Nova Sports 1 HD (BACKUP)
-http://185.226.65.110/clientline/play.php?chID=112629
+http://103.125.219.246/clientline/play.php?chID=112629
 #EXTINF:-1,GR: Nova Sports 2 HD (BACKUP)
-http://185.226.65.110/clientline/play.php?chID=113604
+http://103.125.219.246/clientline/play.php?chID=113604
 #EXTINF:-1,GR: Nova Sports 3 HD (BACKUP)
-http://185.226.65.110/clientline/play.php?chID=145666
+http://103.125.219.246/clientline/play.php?chID=145666
 #EXTINF:-1,GR: Nova Sports 4 HD (BACKUP)
-http://185.226.65.110/clientline/play.php?chID=145667
+http://103.125.219.246/clientline/play.php?chID=145667
 #EXTINF:-1,GR: Nova Sports 5 HD (BACKUP)
-http://185.226.65.110/clientline/play.php?chID=145668
+http://103.125.219.246/clientline/play.php?chID=145668
 #EXTINF:-1,GR: Paok TV
-http://185.226.65.110/clientline/play.php?chID=146724
+http://103.125.219.246/clientline/play.php?chID=146724
 #EXTINF:-1,GR: Edge Sport FHD
-http://185.226.65.110/clientline/play.php?chID=19673
+http://103.125.219.246/clientline/play.php?chID=19673
 #EXTINF:-1,GR: Motorvision Channel FHD
-http://185.226.65.110/clientline/play.php?chID=20305
+http://103.125.219.246/clientline/play.php?chID=20305
 #EXTINF:-1,GR: ERT Sports FHD
-http://185.226.65.110/clientline/play.php?chID=208503
+http://103.125.219.246/clientline/play.php?chID=208503
 #EXTINF:-1,GR: GINX eSports FHD
-http://185.226.65.110/clientline/play.php?chID=5842
+http://103.125.219.246/clientline/play.php?chID=5842
 #EXTINF:-1,GR: Eurosport 1 HD
-http://185.226.65.110/clientline/play.php?chID=13940
+http://103.125.219.246/clientline/play.php?chID=13940
 #EXTINF:-1,GR: Eurosport 2 HD
-http://185.226.65.110/clientline/play.php?chID=13939
+http://103.125.219.246/clientline/play.php?chID=13939
 
 
 #EXTINF:-1,GR RADIO: DROMOS 89.8
-http://185.226.65.110/clientline/play.php?chID=14051
+http://103.125.219.246/clientline/play.php?chID=14051
 #EXTINF:-1,GR RADIO: SFERA 102.2
-http://185.226.65.110/clientline/play.php?chID=14050
+http://103.125.219.246/clientline/play.php?chID=14050
 #EXTINF:-1,GR RADIO: DERTY 98.6
-http://185.226.65.110/clientline/play.php?chID=14046
+http://103.125.219.246/clientline/play.php?chID=14046
 #EXTINF:-1,GR RADIO: PALMOS RADIO 102.7
-http://185.226.65.110/clientline/play.php?chID=14045
+http://103.125.219.246/clientline/play.php?chID=14045
 #EXTINF:-1,GR RADIO: DIESI FM 101.3
-http://185.226.65.110/clientline/play.php?chID=14044
+http://103.125.219.246/clientline/play.php?chID=14044
 #EXTINF:-1,GR RADIO: MELODIA FM 99.2
-http://185.226.65.110/clientline/play.php?chID=14043
+http://103.125.219.246/clientline/play.php?chID=14043
 #EXTINF:-1,GR RADIO: MENTA 88 FM
-http://185.226.65.110/clientline/play.php?chID=14042
+http://103.125.219.246/clientline/play.php?chID=14042
 #EXTINF:-1,GR RADIO: LOVE RADIO 97.5
-http://185.226.65.110/clientline/play.php?chID=14041
+http://103.125.219.246/clientline/play.php?chID=14041
 #EXTINF:-1,GR RADIO: ATHENS DEEJAY 95.2
-http://185.226.65.110/clientline/play.php?chID=14040
+http://103.125.219.246/clientline/play.php?chID=14040
 #EXTINF:-1,GR RADIO: MUSIC 89.2
-http://185.226.65.110/clientline/play.php?chID=14039
+http://103.125.219.246/clientline/play.php?chID=14039
 #EXTINF:-1,GR RADIO: HOT FM 104.6
-http://185.226.65.110/clientline/play.php?chID=14038
+http://103.125.219.246/clientline/play.php?chID=14038
 #EXTINF:-1,GR RADIO: HIT 88.9
-http://185.226.65.110/clientline/play.php?chID=14036
+http://103.125.219.246/clientline/play.php?chID=14036
 #EXTINF:-1,GR RADIO: NITRO 102.5
-http://185.226.65.110/clientline/play.php?chID=14032
+http://103.125.219.246/clientline/play.php?chID=14032
 #EXTINF:-1,GR RADIO: KISS FM 92.9
-http://185.226.65.110/clientline/play.php?chID=14027
+http://103.125.219.246/clientline/play.php?chID=14027
 #EXTINF:-1,GR RADIO: GALAXY 92 FM
-http://185.226.65.110/clientline/play.php?chID=14025
+http://103.125.219.246/clientline/play.php?chID=14025
 #EXTINF:-1,GR RADIO: RED 96.3
-http://185.226.65.110/clientline/play.php?chID=14024
+http://103.125.219.246/clientline/play.php?chID=14024
 #EXTINF:-1,GR RADIO: STYL FM 104.9
-http://185.226.65.110/clientline/play.php?chID=14019
+http://103.125.219.246/clientline/play.php?chID=14019
 #EXTINF:-1,GR RADIO: A100 FM 107.4
-http://185.226.65.110/clientline/play.php?chID=14018
+http://103.125.219.246/clientline/play.php?chID=14018
 #EXTINF:-1,GR RADIO: KRHTH FM 87.5
-http://185.226.65.110/clientline/play.php?chID=14017
+http://103.125.219.246/clientline/play.php?chID=14017
 #EXTINF:-1,GR RADIO: STO KOKKINO 100.5
-http://185.226.65.110/clientline/play.php?chID=14016
+http://103.125.219.246/clientline/play.php?chID=14016
 #EXTINF:-1,GR RADIO: REAL FM 94.8
-http://185.226.65.110/clientline/play.php?chID=14014
+http://103.125.219.246/clientline/play.php?chID=14014
 #EXTINF:-1,GR RADIO: SPORT FM 94.6
-http://185.226.65.110/clientline/play.php?chID=14009
+http://103.125.219.246/clientline/play.php?chID=14009
 #EXTINF:-1,GR RADIO: SPORT 24 RADIO 103.3
-http://185.226.65.110/clientline/play.php?chID=14008
+http://103.125.219.246/clientline/play.php?chID=14008
 #EXTINF:-1,GR RADIO: EKKLHSIA ELLADOS 89.5
-http://185.226.65.110/clientline/play.php?chID=14007
+http://103.125.219.246/clientline/play.php?chID=14007
 #EXTINF:-1,GR RADIO: ERT - DEYTERO PROGRAMMA
-http://185.226.65.110/clientline/play.php?chID=14005
+http://103.125.219.246/clientline/play.php?chID=14005
 #EXTINF:-1,GR RADIO: ERT - KOSMOS
-http://185.226.65.110/clientline/play.php?chID=14002
+http://103.125.219.246/clientline/play.php?chID=14002
 #EXTINF:-1,GR RADIO: ERT - PROTO PROGRAMMA
-http://185.226.65.110/clientline/play.php?chID=14006
+http://103.125.219.246/clientline/play.php?chID=14006
 #EXTINF:-1,GR RADIO: ERT - TRITO PROGRAMMA
-http://185.226.65.110/clientline/play.php?chID=14004
+http://103.125.219.246/clientline/play.php?chID=14004
 #EXTINF:-1,GR RADIO: RADIO ARHAGELOS 94.1
-http://185.226.65.110/clientline/play.php?chID=15216
+http://103.125.219.246/clientline/play.php?chID=15216
 #EXTINF:-1,GR RADIO: RADIO OLYMPOS 100.2
-http://185.226.65.110/clientline/play.php?chID=15215
+http://103.125.219.246/clientline/play.php?chID=15215
 #EXTINF:-1,GR RADIO: ERA SPORT
-http://185.226.65.110/clientline/play.php?chID=14003
+http://103.125.219.246/clientline/play.php?chID=14003
 #EXTINF:-1,GR RADIO: ERT VOICE OF GREECE
-http://185.226.65.110/clientline/play.php?chID=14001
+http://103.125.219.246/clientline/play.php?chID=14001
 #EXTINF:-1,GR RADIO: PARADISE RADIO 101.6
-http://185.226.65.110/clientline/play.php?chID=16894
+http://103.125.219.246/clientline/play.php?chID=16894
 #EXTINF:-1,GR RADIO: PARAPOLITIKA FM 90.1
-http://185.226.65.110/clientline/play.php?chID=16891
+http://103.125.219.246/clientline/play.php?chID=16891
 #EXTINF:-1,GR RADIO: RADIO BLACKMAN 103.1
-http://185.226.65.110/clientline/play.php?chID=16895
+http://103.125.219.246/clientline/play.php?chID=16895
 #EXTINF:-1,GR RADIO: SKAI FM 100.3
-http://185.226.65.110/clientline/play.php?chID=16893
+http://103.125.219.246/clientline/play.php?chID=16893
 #EXTINF:-1,GR RADIO: ATHENS VOICE RADIO 102,5
-http://185.226.65.110/clientline/play.php?chID=111305
+http://103.125.219.246/clientline/play.php?chID=111305
 #EXTINF:-1,GR RADIO: ELLINIKOS RADIO 93,2
-http://185.226.65.110/clientline/play.php?chID=111304
+http://103.125.219.246/clientline/play.php?chID=111304
 #EXTINF:-1,GR RADIO: MUSIC RADIO 98,6
-http://185.226.65.110/clientline/play.php?chID=111303
+http://103.125.219.246/clientline/play.php?chID=111303
 #EXTINF:-1,GR RADIO: POLITIKA RADIO 90,1
-http://185.226.65.110/clientline/play.php?chID=111311
+http://103.125.219.246/clientline/play.php?chID=111311
 #EXTINF:-1,GR RADIO: RADIO 24/7 88,6
-http://185.226.65.110/clientline/play.php?chID=111312
+http://103.125.219.246/clientline/play.php?chID=111312
 #EXTINF:-1,GR RADIO: THEMA RADIO 104,6
-http://185.226.65.110/clientline/play.php?chID=111309
+http://103.125.219.246/clientline/play.php?chID=111309
 #EXTINF:-1,GR RADIO: X FM 94,3
-http://185.226.65.110/clientline/play.php?chID=111308
+http://103.125.219.246/clientline/play.php?chID=111308
 
 #EXTINF:-1    group-title="-IPTV ISRAEL-",
 #EXTINF:-1,IL: KAN 11 TV
