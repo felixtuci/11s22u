@@ -962,2012 +962,270 @@ http://xtream.team:8080/iptvtree/AU3vErG73h/4200
 
 
 #EXTINF:-1   group-title="-IPTV SHQIP 3-",
-#EXTINF:-1,AL: Top Channel HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/21
-#EXTINF:-1,AL: Top Channel FHD/ UHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/22
-#EXTINF:-1,AL: Vizion Plus
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/49
-#EXTINF:-1,AL: Vizion Plus FHD/UHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/50
-#EXTINF:-1,AL: Klan HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/32
-#EXTINF:-1,AL: Klan FHD/UHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/33
-#EXTINF:-1,AL: Klan Plus HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/34
-#EXTINF:-1,AL: Klan Plus 4K+
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/35
-#EXTINF:-1,AL: RTSH 1 FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/69
-#EXTINF:-1,AL: RTSH 1
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70
-#EXTINF:-1,AL: RTSH 2
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/71
-#EXTINF:-1,AL: RTSH 24
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/72
-#EXTINF:-1,AL: RTSH 3 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73
-#EXTINF:-1,AL: RTSH Shqip
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/74
-#EXTINF:-1,AL: RTSH Plus
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/75
-#EXTINF:-1,AL: RTSH Muzikë
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/76
-#EXTINF:-1,AL: RTSH Kukesi
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/77
-#EXTINF:-1,AL: RTSH Korca
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/78
+#EXTINF:-1,|AL| TOP Channel HD
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53161
+#EXTINF:-1,|AL| Vizion Plus HD
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53056
+#EXTINF:-1,|AL| Vision Plus Toksor
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53170
+#EXTINF:-1,|AL| KLAN HD
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53081
+#EXTINF:-1,|AL| KLAN Plus
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53130
 
-#EXTINF:-1,AL: RTSH Film
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/80
-
-#EXTINF:-1,AL: Klan Kosova 4K
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/17
-#EXTINF:-1,AL: Klan Kosova FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/18
-#EXTINF:-1,AL: RTK Sat HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63721
-#EXTINF:-1,AL: RTK HD (Tokësor)
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/2
-#EXTINF:-1,AL: RTK 1 4K
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/3
-#EXTINF:-1,AL: RTK 2 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/4
-#EXTINF:-1,AL: RTK 3 UHD 4K+
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/5
-#EXTINF:-1,AL: RTK 4 FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/6
-#EXTINF:-1,AL: Alsat M FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/24
-#EXTINF:-1,AL: Alsat M UHD 4K+
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/23
-#EXTINF:-1,AL: Alsat M ( Tokësor )
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/31497
-#EXTINF:-1,AL: T7 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/25
-#EXTINF:-1,AL: T7 FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/26
-#EXTINF:-1,AL: T7 4K UHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/31498
-#EXTINF:-1,AL: TV Dukagjini HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/19
-#EXTINF:-1,AL: TV Dukagjini FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/20
-
-#EXTINF:-1,AL: Kanali 10 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/45
-#EXTINF:-1,AL: A-TV HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73944
+#EXTINF:-1,|AL| ABC News
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53096
+#EXTINF:-1,|AL| Top News
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53068
+#EXTINF:-1,|AL| News 24
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53137
+#EXTINF:-1,|AL| ORA News
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53138
 
 
-#EXTINF:-1,AL: Klan MK
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/37
-#EXTINF:-1,AL: KTV HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/7
-#EXTINF:-1,AL: KTV UHD 4K+
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/8
-#EXTINF:-1,AL: RTV 21 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/9
-#EXTINF:-1,AL: RTV 21 UHD 4K+
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/10
-#EXTINF:-1,AL: RTV 21 NewsBiz FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/11
-#EXTINF:-1,AL: RTV 21 NewsBiz HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/12
-#EXTINF:-1,AL: RTV 21 MK FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/13
-#EXTINF:-1,AL: RTV 21 MK
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/14
-#EXTINF:-1,AL: RTV 21 Mix FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/15
-#EXTINF:-1,AL: RTV 21 Mix
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/16
-#EXTINF:-1,AL: First Channel HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/30
-#EXTINF:-1,AL: First Chanel FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/31
-
-#EXTINF:-1,AL: TV Syri UHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/36114
-#EXTINF:-1,AL: Syri News HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/29236
-#EXTINF:-1,AL: MCN TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84281
-#EXTINF:-1,AL: One TV Vlora
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84282
-#EXTINF:-1,AL: TV 1 Channel Shkoder
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/119
-#EXTINF:-1,AL: Tv 1 Channel Shkoder FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/120
-#EXTINF:-1,AL: Antena Shkoder
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63
-
-#EXTINF:-1,AL: Abc News FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/52
-#EXTINF:-1,AL: News 24
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/55
-#EXTINF:-1,AL: News 24 FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/56
-#EXTINF:-1,AL: Arta News
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/57
-#EXTINF:-1,AL: Arta News FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/58
-#EXTINF:-1,AL: Ora News HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/59
-#EXTINF:-1,AL: Ora News FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/60
-
-
-#EXTINF:-1,AL: Koha Tv Mk
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/38
-#EXTINF:-1,AL: Istogu Channel FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/39
-#EXTINF:-1,AL: RTV Fontana FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/40
-#EXTINF:-1,AL: Channel 7
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/41
-#EXTINF:-1,AL: Channel One
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/42
-#EXTINF:-1,AL: Rrokum HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/44
-
-
-#EXTINF:-1,AL: Top News
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/51
-
-#EXTINF:-1,AL: Apollon News FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/61
-#EXTINF:-1,AL: Apollon TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/62
-
-#EXTINF:-1,AL: Fax News
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/64
-#EXTINF:-1,AL: Fax News HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/65
-#EXTINF:-1,AL: AD TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/66
-#EXTINF:-1,AL: Tv Tetova HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/67
-#EXTINF:-1,AL: Netflix Aksion HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73260
-#EXTINF:-1,AL: Netflix Komedi HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73261
-#EXTINF:-1,AL: Netflix Romance HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73262
-#EXTINF:-1,AL: Netflix Dwayne Johnson HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73263
-#EXTINF:-1,AL: Netflix Jackie Chan HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73264
-#EXTINF:-1,AL: Netflix Sylvester Stallone HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73265
-#EXTINF:-1,AL: Kinema24 1 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73266
-#EXTINF:-1,AL: Kinema24 2 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73267
-#EXTINF:-1,AL: Kinema24 3 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73268
-#EXTINF:-1,AL: Kinema24 4 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73269
-#EXTINF:-1,AL: Kinema24 5 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73270
-#EXTINF:-1,AL: Kinema24 6 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73271
-#EXTINF:-1,AL: Divergent 1 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73272
-#EXTINF:-1,AL: Divergent 2 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73273
-#EXTINF:-1,AL: Divergent 3 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73274
-#EXTINF:-1,AL: Divergent Gold HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73275
-#EXTINF:-1,AL: Divergent Core HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73276
-#EXTINF:-1,AL: Divergent Wall HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73277
-#EXTINF:-1,AL: Divergent Premier HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73278
-#EXTINF:-1,AL: Divergent Happy HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73279
-#EXTINF:-1,AL: Divergent Class HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73280
-#EXTINF:-1,AL: Divergent Beats HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73281
-#EXTINF:-1,AL: Univers Hits 2 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73283
-#EXTINF:-1,AL: Univers Hits 3 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73284
-#EXTINF:-1,AL: MAX Premier 1 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73286
-#EXTINF:-1,AL: MAX Premier 2 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73287
-#EXTINF:-1,AL: MAX Premier 3 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73288
-#EXTINF:-1,AL: MAX Premier 4 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73289
-#EXTINF:-1,AL: MAXone HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73290
-#EXTINF:-1,AL: MAXcine HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73291
-#EXTINF:-1,AL: MAXred HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73292
-#EXTINF:-1,AL: MAXelite HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73293
-#EXTINF:-1,AL: MAXstar HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73294
-#EXTINF:-1,AL: MAXenergi HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73295
-
-#EXTINF:-1,AL: Atv 1
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/81
-#EXTINF:-1,AL: RTV Bujanoc
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/82
-#EXTINF:-1,AL: RTV Aldi TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/83
-#EXTINF:-1,AL: A2 cnn
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84
-#EXTINF:-1,AL: A1 Pazar
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/85
-#EXTINF:-1,AL: A1 Raport 1
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/86
-#EXTINF:-1,AL: Ulqini TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/87
-#EXTINF:-1,AL: Tv Shenja HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/88
-#EXTINF:-1,AL: Tv Shenja
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/89
-#EXTINF:-1,AL: Tv Sharri HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/90
-#EXTINF:-1,AL: TV Prizreni
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/92
-#EXTINF:-1,AL: TV Presheva
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/93
-#EXTINF:-1,AL: TV Opoja
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/94
-#EXTINF:-1,AL: Tv Kopliku
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/95
-#EXTINF:-1,AL: Tv Kopliku FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/96
-#EXTINF:-1,AL: TV Globi
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/98
-#EXTINF:-1,AL: Tv Festa (test)
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/100
-#EXTINF:-1,AL: TV Era HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/101
-#EXTINF:-1,AL: Drita TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/102
-#EXTINF:-1,AL: Tv Dielli
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/103
-#EXTINF:-1,AL: TV Dibra
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/104
-#EXTINF:-1,AL: Tv Besa
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/105
-#EXTINF:-1,AL: Tv Vali
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/107
-#EXTINF:-1,AL: TV Uskana HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/108
-#EXTINF:-1,AL: Tv Opinion
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/109
-#EXTINF:-1,AL: Tv Mitrovica
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/110
-#EXTINF:-1,AL: Tv Llapi
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/111
-#EXTINF:-1,AL: Tv Liria ( Ferizaj )
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/112
-#EXTINF:-1,AL: TNT Albania
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/113
-#EXTINF:-1,AL: TLC
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/114
-#EXTINF:-1,AL: Tirana TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/115
-#EXTINF:-1,AL: Star Plus
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/116
-#EXTINF:-1,AL: Star Drenasi HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/117
-#EXTINF:-1,AL: Turbo Channel
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/118
-
-#EXTINF:-1,AL: Tribuna Channel HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/121
-#EXTINF:-1,AL: Kanali 7
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/122
-#EXTINF:-1,AL: Burimi TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/123
-#EXTINF:-1,AL: Bulqiza Tv
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/124
-#EXTINF:-1,AL: Star HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/126
-#EXTINF:-1,AL: Sofa Tv
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/127
-#EXTINF:-1,AL: Plus TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/128
-#EXTINF:-1,AL: Kombi TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/129
-#EXTINF:-1,AL: Jug TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/130
-#EXTINF:-1,AL: Syri Vision
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/131
-#EXTINF:-1,AL: Luxe TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/132
-#EXTINF:-1,AL: Tring Living HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/133
-#EXTINF:-1,AL: Living FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/134
-#EXTINF:-1,AL: Kitchen 24
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/135
-#EXTINF:-1,AL: CNN
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/136
-#EXTINF:-1,AL: CNBC News
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/137
-
-
-
-#EXTINF:-1,AL: I Love Tropoja TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/71855
-#EXTINF:-1,AL: Euro Film 1 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/265
-#EXTINF:-1,AL: Euro Film 2 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/266
-#EXTINF:-1,AL: Euro Film 3 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/267
-#EXTINF:-1,AL: Euro Film 4 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/268
-#EXTINF:-1,AL: T HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/46
-#EXTINF:-1,AL: T FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/27
-#EXTINF:-1,AL: Family HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/269
-#EXTINF:-1,AL: Family FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/270
-#EXTINF:-1,AL: Film Nje HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/271
-#EXTINF:-1,AL: Film Nje FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/272
-#EXTINF:-1,AL: Film Dy HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/273
-#EXTINF:-1,AL: Film Dy FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/274
-#EXTINF:-1,AL: Film Aksion
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/275
-#EXTINF:-1,AL: Film Aksion FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/276
-#EXTINF:-1,AL: Film Autor
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/277
-#EXTINF:-1,AL: Film Thriller
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/278
-#EXTINF:-1,AL: Film Stinet
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/279
-#EXTINF:-1,AL: Film Komedi
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/280
-#EXTINF:-1,AL: Film Hits
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/281
-#EXTINF:-1,AL: Film Dramë
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/282
-#EXTINF:-1,AL: Euro Film
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/283
-
-
-#EXTINF:-1,AL: Fox HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/289
-#EXTINF:-1,AL: Fox Crime
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/290
-#EXTINF:-1,AL: Fox Life
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/291
-#EXTINF:-1,AL: Fox Movies
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/292
-
-
-#EXTINF:-1,AL: TELE one 1
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/302
-#EXTINF:-1,AL: TELE one 2
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/303
-#EXTINF:-1,AL: TELE one 3
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/304
-#EXTINF:-1,AL: TELE one 4
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/305
-#EXTINF:-1,AL: TELE one 5
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/306
-#EXTINF:-1,AL: TELE one 6
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/307
-#EXTINF:-1,AL: Tring Jolly HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/28
-#EXTINF:-1,AL: Jolly FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/29
-#EXTINF:-1,AL: Tring Super FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/238
-#EXTINF:-1,AL: Tring Super
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/239
-#EXTINF:-1,AL: TDC Serial Turke HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/47
-#EXTINF:-1,AL: Kanal D HD 
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/77313
-#EXTINF:-1,AL: Kanal D HD +
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73258
-#EXTINF:-1,AL: Tring Aksion
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/308
-#EXTINF:-1,AL: Tring Aksion FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/309
-#EXTINF:-1,AL: Tring Smile
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/310
-#EXTINF:-1,AL: Tring Shqip
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/311
-#EXTINF:-1,AL: Tring Muse
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/312
-#EXTINF:-1,AL: Tring Life
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/313
-#EXTINF:-1,AL: Tring Kids
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/314
-#EXTINF:-1,AL: Tring International
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/315
-#EXTINF:-1,AL: Tring Fantasy
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/316
-#EXTINF:-1,AL: Tring Comedy
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/317
-#EXTINF:-1,AL: Tring 3+
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/318
-
-
-#EXTINF:-1,AL: Sky Aksion
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/321
-#EXTINF:-1,AL: Sky Komedi
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/322
-#EXTINF:-1,AL: Sky Drame
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/323
-#EXTINF:-1,AL: Sky Shqip
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/324
-#EXTINF:-1,AL: Sky Novela
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/325
-#EXTINF:-1,AL: SKY News UK
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/326
-#EXTINF:-1,AL: Sky Max
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/327
-#EXTINF:-1,AL: Sky 7
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/328
-
-#EXTINF:-1,AL: Art Kino 1
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/330
-#EXTINF:-1,AL: Art Kino 2
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/331
-#EXTINF:-1,AL: Art Kino 3
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/332
-#EXTINF:-1,AL: Art Doku 1
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/333
-#EXTINF:-1,AL: Art Doku 2
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/334
-
-
-#EXTINF:-1,AL: Exp Shkenca
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/203
-#EXTINF:-1,AL: Exp Natyra
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/204
-#EXTINF:-1,AL: Exp History
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/205
-#EXTINF:-1,AL: Tring Planet
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/206
-#EXTINF:-1,AL: Tring History
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/207
-#EXTINF:-1,AL: Tring World
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/208
-#EXTINF:-1,AL: X Natyra HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/209
-#EXTINF:-1,AL: X Histori HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/210
-#EXTINF:-1,AL: X Shkenca HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/211
-#EXTINF:-1,AL: Sky Histori
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/212
-#EXTINF:-1,AL: Sky Planet
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/213
-#EXTINF:-1,AL: Travel Channel
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/214
-#EXTINF:-1,AL: Travel Channel FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/215
-#EXTINF:-1,AL: Animal Planet FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/216
-#EXTINF:-1,AL: National Geographic
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/217
-#EXTINF:-1,AL: Discovery Science FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/218
-#EXTINF:-1,AL: Discovery FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/219
-#EXTINF:-1,AL: Comedy Central Extra
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/220
-#EXTINF:-1,AL: GALAXY HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/221
-#EXTINF:-1,AL: National Graphic FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/222
-#EXTINF:-1,AL: ID Xtra FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/223
-#EXTINF:-1,AL: Earth TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/224
-#EXTINF:-1,AL: DTx
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/225
-#EXTINF:-1,AL: Doku Box
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/226
-#EXTINF:-1,AL: Privat Channel
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/227
-#EXTINF:-1,AL: Nasa LIVE
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/228
-
-#EXTINF:-1,AL: RTSH Femije
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/230
-#EXTINF:-1,AL: Junior
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/231
-#EXTINF:-1,AL: Duck BoxTV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/232
-#EXTINF:-1,AL: Sole TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/233
-#EXTINF:-1,AL: Bang Bang
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/242
-#EXTINF:-1,AL: Cufo
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/234
-#EXTINF:-1,AL: Tip TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/235
-#EXTINF:-1,AL: Tring Tring
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/237
-
-
-
-#EXTINF:-1,AL: X Kids
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/240
-#EXTINF:-1,AL: Boomerang
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/241
-
-#EXTINF:-1,AL: BabyTV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/243
-#EXTINF:-1,AL: Sofia HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/244
-#EXTINF:-1,AL: Carton Network
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/245
-#EXTINF:-1,AL: RTV 21 Junior
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/246
-
-#EXTINF:-1,AL: X Humor HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/248
-#EXTINF:-1,AL: Kafeneja jone 24/7
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/251
-
-#EXTINF:-1,AL: Rtv Islam
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/253
-#EXTINF:-1,AL: Tv Islam Prizen
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/254
-#EXTINF:-1,AL: Peace TV Anglisht
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/255
-#EXTINF:-1,AL: Peace TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/256
-#EXTINF:-1,AL: Lexo (RTV1)
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/257
-#EXTINF:-1,AL: Medina Live
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/258
-#EXTINF:-1,AL: Mekka Live
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/259
-#EXTINF:-1,AL: Rtv Pendimi HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/260
-#EXTINF:-1,AL: A1 Islam
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/261
-#EXTINF:-1,AL: Xhamia e Tabakeve
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/262
+#EXTINF:-1,|AL| RTV 21 Popullore
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53069
+#EXTINF:-1,|AL| RTV 21 HD
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53070
+#EXTINF:-1,|AL| RTV 21 Maqedonia
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53071
+#EXTINF:-1,|AL| RTV 21 Junior
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53072
+#EXTINF:-1,|AL| RTV 21 Toksor
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53073
+#EXTINF:-1,|AL| RTK 4
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53074
+#EXTINF:-1,|AL| RTK 3
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53075
+#EXTINF:-1,|AL| RTK 2
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53076
+#EXTINF:-1,|AL| RTK 1
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53077
+#EXTINF:-1,|AL| Peace TV
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53078
+#EXTINF:-1,|AL| MKTV 2
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53079
+#EXTINF:-1,|AL| KTV HD
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53080
+#EXTINF:-1,|AL| ALSAT M
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53054
+#EXTINF:-1,|AL| KLAN Kosova HD
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53129
+#EXTINF:-1,|AL| T7
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/62222
+#EXTINF:-1,|AL| KTV Toksor
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53131
 
 
 
 
 
+#EXTINF:-1,|AL| Tring Super HD
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53058
+#EXTINF:-1,|AL| Tring Life
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53059
+#EXTINF:-1,|AL| Tring Jolly HD
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53060
 
-#EXTINF:-1,AL: DIGI Gold
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/336
-#EXTINF:-1,AL: DIGI Gold 1
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/337
-#EXTINF:-1,AL: DIGI Gold 2
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/338
-#EXTINF:-1,AL: DIGI Gold 3
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/339
-#EXTINF:-1,AL: DIGI Gold 4
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/340
-#EXTINF:-1,AL: X Premium 1 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/341
-#EXTINF:-1,AL: X Premium 2 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/342
-#EXTINF:-1,AL: X Premium 3 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/343
-#EXTINF:-1,AL: X Premium 4 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/344
-#EXTINF:-1,AL: X Family HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/346
-#EXTINF:-1,AL: X Drama HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/347
-#EXTINF:-1,AL: X Dark HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/348
-#EXTINF:-1,AL: X Comedy HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/349
-#EXTINF:-1,AL: X Action HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/350
-#EXTINF:-1,AL: X Western HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/351
-#EXTINF:-1,AL: X Thriller HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/352
-#EXTINF:-1,AL: X Sci-Fi HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/353
-#EXTINF:-1,AL: X Romance HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/354
-#EXTINF:-1,AL: ShqipTV Jeta HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/16935
-#EXTINF:-1,AL: ShqipTV Fantasy HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/16936
-#EXTINF:-1,AL: ShqipTV Cinema HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/16937
-#EXTINF:-1,AL: ShqipTV Aksion HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/16938
-#EXTINF:-1,AL: ShqipTV Stupcat HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/16939
-#EXTINF:-1,AL: ShqipTV Komedi HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/16940
-#EXTINF:-1,AL: ShqipTV Horror HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/16941
-#EXTINF:-1,AL: ShqipTV Hindi HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/16942
-#EXTINF:-1,AL: ShqipTV Tom & Jerry HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/16943
-#EXTINF:-1,AL: ShqipTV Family HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/16944
-#EXTINF:-1,AL: ShqipTV Film HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/16945
-#EXTINF:-1,AL: ShqipTV Hits HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/16946
-#EXTINF:-1,AL: ShqipTV Mimi HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/16947
-#EXTINF:-1,AL: ShqipTV Serial HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/16948
-#EXTINF:-1,AL: ShqipTV Western HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/16949
-#EXTINF:-1,AL: ShqipTV Kuran HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/16950
-#EXTINF:-1,AL: ShqipTV Ilahi HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/16951
-#EXTINF:-1,AL: ShqipTV Drama HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/16952
-#EXTINF:-1,AL: Episode
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/355
-#EXTINF:-1,AL: Kinema Milenium 1
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/373
-#EXTINF:-1,AL: Kinema Milenium 3
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/375
-#EXTINF:-1,AL: Kinema Hits
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/377
-#EXTINF:-1,AL: Kinema Gold
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/378
-#EXTINF:-1,AL: Kinema Comedy
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/381
-#EXTINF:-1,AL: Kinema Aksion MAX
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/383
+#EXTINF:-1,|AL| Tring Action HD
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53062
+#EXTINF:-1,|AL| Tring Shqip
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53063
 
-#EXTINF:-1,AL: Tring Sport News
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/386
-#EXTINF:-1,AL: Super Sport 1 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/387
-#EXTINF:-1,AL: Super Sport 2 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/388
-#EXTINF:-1,AL: Super Sport 3 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/389
-#EXTINF:-1,AL: Super Sport 4 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/390
-#EXTINF:-1,AL: Super Sport 5 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/391
-#EXTINF:-1,AL: Super Sport 6 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/392
-#EXTINF:-1,AL: Super Sport 7 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/393
-#EXTINF:-1,AL: Kujtesa Sport 1
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/394
-#EXTINF:-1,AL: Kujtesa Sport 2
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/395
-#EXTINF:-1,AL: Kujtesa Sport 3
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/396
-#EXTINF:-1,AL: Kujtesa Sport 4
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/397
-#EXTINF:-1,AL: Kujtesa Sport 5
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/398
-#EXTINF:-1,AL: Kujtesa Sport 1 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/402
-#EXTINF:-1,AL: Kujtesa Sport 2 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/403
-#EXTINF:-1,AL: Kujtesa Sport 3 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/404
-#EXTINF:-1,AL: Kujtesa Sport 4 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/405
-#EXTINF:-1,AL: Kujtesa Sport 5 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/406
-#EXTINF:-1,AL: Super Sport Kosova 1 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/407
-#EXTINF:-1,AL: Super Sport Kosova 2 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/408
-#EXTINF:-1,AL: Super Sport Kosova 1 FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/409
-#EXTINF:-1,AL: Super Sport Kosova 2 FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/410
-#EXTINF:-1,AL: Super Sport Kosova 3 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/411
-#EXTINF:-1,AL: Super Sport Kosova 3 FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/412
-#EXTINF:-1,AL: RTSH Sport FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/79
-#EXTINF:-1,AL: EuroSport1
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/413
-#EXTINF:-1,AL: EuroSport2
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/414
-#EXTINF:-1,AL: EuroSport 2 FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/422
-#EXTINF:-1,AL: EuroSport 1 FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/423
-#EXTINF:-1,AL: Tring Max
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/427
-#EXTINF:-1,AL: X Gold 4 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/428
-#EXTINF:-1,AL: X Gold 3 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/429
-#EXTINF:-1,AL: X Gold 2 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/430
-#EXTINF:-1,AL: X Gold 1 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/431
-#EXTINF:-1,AL: Tema TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/432
-#EXTINF:-1,AL: TELE one 6
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/433
-#EXTINF:-1,AL: TLC
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/435
-#EXTINF:-1,AL: In
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/438
-#EXTINF:-1,AL: Sot 7 Pogradec TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/439
-#EXTINF:-1,AL: Rasalat Al Islam HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/440
-#EXTINF:-1,AL: Kuran 24 Or
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/441
-#EXTINF:-1,AL: Start Muzik
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/442
-#EXTINF:-1,AL: A1 Report
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/443
-#EXTINF:-1,AL: Supersonic TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/444
-#EXTINF:-1,AL: Blue Sky TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/445
-#EXTINF:-1,AL: Music Hits
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/446
-#EXTINF:-1,AL: Princ Kids
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/447
-#EXTINF:-1,AL: RTK Serial
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/448
-#EXTINF:-1,AL: Iliria TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/449
-#EXTINF:-1,AL: Alb Music HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/450
-#EXTINF:-1,AL: Bubrreci TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/453
-#EXTINF:-1,AL: TV Saranda
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/599
-#EXTINF:-1,AL: 7 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/929
-#EXTINF:-1,AL: Bomerang TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/2826
-#EXTINF:-1,AL: Jim Jam ( Fëmijë )
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/2829
-#EXTINF:-1,AL: TV1 Shkodër
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/5333
-#EXTINF:-1,AL: Jetimat e Ballkanit
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/10473
-#EXTINF:-1,AL: AABC TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/15815
-#EXTINF:-1,AL: Kinema + HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/15816
-#EXTINF:-1,AL: TV Lobi Korç
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/17547
-#EXTINF:-1,AL: Gjolli Muzukë HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/17548
-#EXTINF:-1,AL: Gjolli Fëmijët HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/17549
-#EXTINF:-1,AL: Gjolli Islam HD ( KURAN )
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/17550
-#EXTINF:-1,AL: Albania TV Chicago
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/18797
-#EXTINF:-1,AL: Studio Firdeus TV ( ISLAM )
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/20376
-#EXTINF:-1,AL: Rozafa TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/21146
-
-#EXTINF:-1,AL: TV Lion TV Humor
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/31496
-
-
-#EXTINF:-1,AL: LionTv Stupcat 24/7
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/36473
-#EXTINF:-1,AL: LionTv Humor HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/36474
-#EXTINF:-1,AL:LionTv Aksion HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/36475
-#EXTINF:-1,AL:LionTv Shqip HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/36476
-#EXTINF:-1,AL:LionTV  Dramë  HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/36477
-#EXTINF:-1,AL: ARI TV HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/36480
-#EXTINF:-1,AL: Star Kosova HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/36481
-#EXTINF:-1,AL: Pgva Muzikë
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/36482
-#EXTINF:-1,AL: Pikabo TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/36484
-#EXTINF:-1,AL: Muzikë Shqipë HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/36918
-#EXTINF:-1,AL: Masha dhe Ariu
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/36920
-#EXTINF:-1,AL: E mirë Shqiptare TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/36921
-#EXTINF:-1,AL: Klan Music FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/36923
-#EXTINF:-1,AL  Alb Humor2
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/36926
-#EXTINF:-1,AL: TV Uskana 
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/36928
-#EXTINF:-1,AL: Live TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/36930
-#EXTINF:-1,AL: Prralla TV Fëmijë
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/36931
-#EXTINF:-1,AL: Plisi TV Humor
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/36932
-#EXTINF:-1,AL: Plisi Stupcat HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/36933
-#EXTINF:-1,AL: Plisi Action HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/36934
-#EXTINF:-1,AL: Plisi Fantasy HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/36935
-#EXTINF:-1,AL: Plisi Komedi HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/36936
-#EXTINF:-1,AL: Plisi Qifteli
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/36937
-#EXTINF:-1,AL: A2 Euronews HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/36938
-#EXTINF:-1,AL: Albanian TV Chicago
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/38005
-#EXTINF:-1,AL: X Stupcat
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/38006
-#EXTINF:-1,AL: X O sa mirë
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/38008
-#EXTINF:-1,AL: Syri TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/38010
-#EXTINF:-1,AL: Travel Chanel
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/38012
-#EXTINF:-1,AL: Animal Planet
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/38013
-#EXTINF:-1,AL: Comedie Central
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/38014
-#EXTINF:-1,AL: Discovery Show Casse
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/38015
-#EXTINF:-1,AL: Discovery Chanel
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/38016
-#EXTINF:-1,AL: Discovery Science 
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/38017
-#EXTINF:-1,AL: Discovery Turbo Extra
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/38018
-#EXTINF:-1,AL: Nimo Tom & Jarry TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/38019
-#EXTINF:-1,AL: Lion TV Ilahi 
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/38021
-#EXTINF:-1,AL: Lion TV Shqipë
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/38024
-#EXTINF:-1,AL: Rtsh Gjirokastra
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/42870
-#EXTINF:-1,AL: Dark Aksion HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/61503
-#EXTINF:-1,AL: Dark Stupcat HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/61508
-#EXTINF:-1,AL: Dark Cka ka Shpia  HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/61509
-#EXTINF:-1,AL: Dark O sa mire HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/61510
-#EXTINF:-1,AL: Dark Shpk Nazi HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/61511
-#EXTINF:-1,AL: Dark iStar Seriali HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/61512
-#EXTINF:-1,AL: Dark Seriali Vendlindja ime HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/61513
-#EXTINF:-1,AL: Dark Ich Bin Albaner HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/61514
-#EXTINF:-1,AL: Dark Baskia Humor HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/61515
-#EXTINF:-1,AL: Dark Familja KuqeZi HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/61516
-#EXTINF:-1,AL: Dark Kaçallukutimbra Serial HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/61517
-#EXTINF:-1,AL: Dark Komedi Familja HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/61518
-#EXTINF:-1,AL: Dark Popullore HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/61520
-#EXTINF:-1,AL: Dark Hip-Hop HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/61521
-#EXTINF:-1,AL:  Tallava  HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/61523
-#EXTINF:-1,AL: Dark  GOLD 1 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/61499
-#EXTINF:-1,AL: Dark Rock HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/61524
-#EXTINF:-1,powerGOLD 1 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/61525
-#EXTINF:-1,powerGOLD 2 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/61526
-#EXTINF:-1,powerGOLD 3 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/61527
-#EXTINF:-1,powerGOLD 4 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/61528
-#EXTINF:-1,KS: WebStar Aksion HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/61931
-#EXTINF:-1,KS: WebStar Komedi HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/61932
-#EXTINF:-1,KS: WebStar Cinema HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/61933
-#EXTINF:-1,KS: WebStar Thriller HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/61934
-#EXTINF:-1,KS: WebStar Drame HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/61935
-#EXTINF:-1,KS: WebStar Film 1 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/61936
-#EXTINF:-1,KS: WebStar Cinema DE HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/61937
-#EXTINF:-1,KS: WebStar Muzik HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/61938
-#EXTINF:-1,KS: WebStar Popullore HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/61939
-#EXTINF:-1,KS: WebStar Music CH HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/61940
-#EXTINF:-1,KS: WebStar Qifteli HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/61941
-#EXTINF:-1,AL: WebStar Music HD.
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/61942
-#EXTINF:-1,KS: WebStar Humor HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/61943
-#EXTINF:-1,KS: WebStar Auto 4k
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/61944
-#EXTINF:-1,KS: WebStar Natyr 4k
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/61945
-#EXTINF:-1,KS: WebStar Relax 4k
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/61946
-#EXTINF:-1,AL: WebStar Chanel 4K.
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/61947
-#EXTINF:-1,KS: WebStar Islam HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/61948
-#EXTINF:-1,KS: WebStar Islam 2 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/61949
-#EXTINF:-1,KS: WebStar ChuChu TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/61950
-#EXTINF:-1,KS: WebStar Masha Orso
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/61951
-#EXTINF:-1,AL: Masha e Orso DE
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/61952
-#EXTINF:-1,AL: Zana Music HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63110
-#EXTINF:-1,AL: Zana Aksion HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63111
-#EXTINF:-1,AL: Zana Thriller HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63112
-#EXTINF:-1,AL: Zana Dark HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63113
-#EXTINF:-1,AL: Zana Komedi HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63114
-#EXTINF:-1,AL: TV7 Albania SD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63115
-#EXTINF:-1,AL: Pace TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63116
-#EXTINF:-1,AL: Kinema Shqipë HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63117
-#EXTINF:-1,AL: TV Podujeva HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63722
-#EXTINF:-1,AL: TV Vushtria HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63723
-#EXTINF:-1,AL: Alsat HD (Toksorë)
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63724
-#EXTINF:-1,AL: N Aksion
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63725
-#EXTINF:-1,AL: N Komedi
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63726
-#EXTINF:-1,AL: N Romance
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63727
-#EXTINF:-1,AL: N Fantazi
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63728
-#EXTINF:-1,AL: N Femije
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63729
-#EXTINF:-1,AL: N Relaks FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63730
-#EXTINF:-1,AL: N Aventure
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63731
-#EXTINF:-1,AL: N Epik
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63732
-#EXTINF:-1,AL: N Horror
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63733
-#EXTINF:-1,AL: N Spider-Man
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63734
-#EXTINF:-1,AL: N Jackie Chan
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63735
-#EXTINF:-1,AL: N Van Damme
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63736
-#EXTINF:-1,AL: N Dwayne Johnson
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63737
-#EXTINF:-1,AL: N Arnold Schwarzenegger
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63738
-#EXTINF:-1,AL: N Sylvester Stallone
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63739
-#EXTINF:-1,AL: Dark Albanian Got Talent HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63911
-#EXTINF:-1,AL: Dark The Voice AL HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63912
-#EXTINF:-1,AL: Dark Shkence HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63913
-#EXTINF:-1,AL: Dark Natyre HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63914
-#EXTINF:-1,AL: Dark Dokumentare HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63915
-#EXTINF:-1,AL: Dark KickBox FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63916
-#EXTINF:-1,AL: Dark UFC FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63917
-#EXTINF:-1,AL: Dark Stupcat Skeçe HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63918
-#EXTINF:-1,AL: Dark Oda E Stupcav HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63919
-#EXTINF:-1,AL: Dark Stupcat Amkademiku HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63920
-#EXTINF:-1,AL: Dark Shengen Visa HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63921
-#EXTINF:-1,AL: Dark Kafeneja jone HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63922
-#EXTINF:-1,AL: Dark Tigrat HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63923
-#EXTINF:-1,AL: Dark Gëzuarë UHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63924
-#EXTINF:-1,AL: Dark Popullore 2 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63925
-#EXTINF:-1,AL: Dark  Çifteli  HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63926
-#EXTINF:-1,AL: Dark  GOLD 2 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63927
-#EXTINF:-1,AL: Dark GOLD 3 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63928
-#EXTINF:-1,AL: Dark GOLD 4 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63929
-#EXTINF:-1,AL: Dark Thriller HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63930
-#EXTINF:-1,AL: Dark Netflix FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63931
-#EXTINF:-1,AL: Dark Fantashkence HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63932
-#EXTINF:-1,AL: Dark Romancë FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63933
-#EXTINF:-1,AL: Dark Komedi HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63934
-#EXTINF:-1,AL: Dark Drama HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63935
-#EXTINF:-1,AL: Dark Familjare HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63936
-#EXTINF:-1,AL: Dark Fantazi HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63937
-#EXTINF:-1,AL: Dark Krimi HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63938
-#EXTINF:-1,AL: Dark Western HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63939
-#EXTINF:-1,AL: Dark Horror HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63940
-#EXTINF:-1,AL: Dark SHQIP HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63941
-#EXTINF:-1,AL: Dark BioGrapfy HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63942
-#EXTINF:-1,AL: Dark History HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63943
-#EXTINF:-1,AL: Dark Luftë HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63944
-#EXTINF:-1,AL: Dark Movies 1 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63945
-#EXTINF:-1,AL: Dark Movies 2 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/63946
-#EXTINF:-1,AL: Star Plus TV Albania
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/65839
-#EXTINF:-1,AL: Kanali 10 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/66284
-#EXTINF:-1,AL: Netflix Aksion
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/66286
-#EXTINF:-1,AL: Netflix Arnold Schwarzenegger
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/66287
-#EXTINF:-1,AL: Netflix Aventure
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/66288
-#EXTINF:-1,AL: Netflix Bud Spencer & Terence Hill
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/66289
-#EXTINF:-1,AL: Netflix Dwayne Johnson
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/66290
-#EXTINF:-1,AL: Netflix Epik
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/66291
-#EXTINF:-1,AL: Netflix Fantazi
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/66292
-#EXTINF:-1,AL: Netflix Femije
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/66293
-#EXTINF:-1,AL: Netflix Horror
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/66294
-#EXTINF:-1,AL: Netflix Jackie Chan
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/66295
-#EXTINF:-1,AL: Netflix Komedi
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/66296
-#EXTINF:-1,AL: Netflix Relaks FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/66297
-#EXTINF:-1,AL: Netflix Romance
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/66298
-#EXTINF:-1,AL: Netflix Scary Movie
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/66299
-#EXTINF:-1,AL: Netflix Spider-Man
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/66300
-#EXTINF:-1,AL: Netflix Sylvester Stallone
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/66301
-#EXTINF:-1,AL: Netflix Van Damme
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/66302
-#EXTINF:-1,AL: TIMELESS DRAMA Channel FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/66303
-#EXTINF:-1,AL: Pikaboo TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/66304
-#EXTINF:-1,AL: ISP Muzikë HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70526
-#EXTINF:-1,AL: RTV Ahireti HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70527
-#EXTINF:-1,AL: Kanal 10 FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70529
-#EXTINF:-1,AL: Tetova Popullore HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70860
-#EXTINF:-1,AL: Tetova Muzik HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70861
-#EXTINF:-1,AL: Tetova Komedi HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70862
-#EXTINF:-1,AL: Tetova Drame HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70863
-#EXTINF:-1,AL: Tetova Thriller HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70864
-#EXTINF:-1,AL: Tetova Action HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70865
-#EXTINF:-1,AL: Tetova Cifteli HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70866
-#EXTINF:-1,AL: Tetova BBF HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70867
-#EXTINF:-1,AL: Tetova islam HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70868
-#EXTINF:-1,AL: Tetova Gjurme Shqiptare HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70869
-#EXTINF:-1,AL: Tetova Humor HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70870
-#EXTINF:-1,AL: MAXone HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70871
-#EXTINF:-1,AL: MAXcine HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70872
-#EXTINF:-1,AL: MAXred HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70873
-#EXTINF:-1,AL: MAXelite HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70874
-#EXTINF:-1,AL: MAXstar HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70875
-#EXTINF:-1,AL: MAXenergi HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70876
-#EXTINF:-1,AL: MAX premier 1 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70877
-#EXTINF:-1,AL: MAX premier 2 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70878
-#EXTINF:-1,AL: MAX premier 3 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70879
-#EXTINF:-1,AL: MAX premier 4 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70880
-#EXTINF:-1,AL: TELE one Aksion HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70881
-#EXTINF:-1,AL: TELE one Crime HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70882
-#EXTINF:-1,AL: TELE one GOLD Collection HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70883
-#EXTINF:-1,AL: TELE one Fantazi HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70884
-#EXTINF:-1,AL: TELE one Thriller HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70885
-#EXTINF:-1,AL: TELE one Drama HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70886
-#EXTINF:-1,AL: TELE one Epik HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70887
-#EXTINF:-1,AL: TELE one Muzik hits HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70888
-#EXTINF:-1,AL: Kinema24 1 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70889
-#EXTINF:-1,AL: Kinema24 2 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70890
-#EXTINF:-1,AL: Kinema24 3 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70891
-#EXTINF:-1,AL: Kinema24 4 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70892
-#EXTINF:-1,AL: Kinema24 5 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70893
-#EXTINF:-1,AL: Kinema24 6 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70894
-#EXTINF:-1,AL: Q PREMIUM 1 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70895
-#EXTINF:-1,AL: Q PREMIUM 2 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70896
-#EXTINF:-1,AL: Q PREMIUM 3 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70897
-#EXTINF:-1,AL: Q PREMIUM 4 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70898
-#EXTINF:-1,AL: Q PREMIUM  5 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70899
-#EXTINF:-1,AL: Q TRILLER HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70900
-#EXTINF:-1,AL: Q KOMEDI HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70901
-#EXTINF:-1,AL: Q DRAMA HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70902
-#EXTINF:-1,AL: Falcon Cinema Gold HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70903
-#EXTINF:-1,AL: Falcon Cinema Gold 2 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70904
-#EXTINF:-1,AL: Falcon Cinema Adventure HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70905
-#EXTINF:-1,AL: Falcon Cinema Aktion HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70906
-#EXTINF:-1,AL: Falcon Cinema Comedy HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70907
-#EXTINF:-1,AL: Falcon Cinema Drama HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70908
-#EXTINF:-1,AL: Falcon Cinema Romance HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70909
-#EXTINF:-1,AL: Falcon Cinema Sci-Fi HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70910
-#EXTINF:-1,AL: Falcon Cinema Thriller HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70911
-#EXTINF:-1,AL: LionTv Humor HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70912
-#EXTINF:-1,AL: Stupcat 24/7
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70913
-#EXTINF:-1,AL: LionTV Gold 1L HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70914
-#EXTINF:-1,AL: LionTV Gold 2L HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70915
-#EXTINF:-1,AL: LionTV Gold 3L HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70916
-#EXTINF:-1,AL: LionTV Gold 4L HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70917
-#EXTINF:-1,AL: LionTV Stupcat HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/70918
-
-
-#EXTINF:-1,AL: First Clasic HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/71856
-#EXTINF:-1,AL: First Dramë HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/71857
-#EXTINF:-1,AL: First Horror HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/71858
-#EXTINF:-1,AL: Gov Gjurmë Shqiptare HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/71859
-#EXTINF:-1,AL: Kanali 7 News HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/71860
-#EXTINF:-1,AL: Gjurmë Shqiptare HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/71861
-#EXTINF:-1,AL: E Mirë Shqiptare HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/71862
-#EXTINF:-1,AL: Portokalli HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/71863
-#EXTINF:-1,AL: Report HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/71864
-#EXTINF:-1,AL: RTV 1BANIA
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/71865
-#EXTINF:-1,AL: TV Pollogu HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/71866
-#EXTINF:-1,AL: Teuta TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/71867
-#EXTINF:-1,AL: Star TV HD Kosova
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/72760
-#EXTINF:-1,AL: Tele One Shqip HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73255
-#EXTINF:-1,AL: Tele One Aventure HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73256
-#EXTINF:-1,AL: Tele One Gags HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73257
-#EXTINF:-1,AL: Malisheva TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73259
-#EXTINF:-1,AL: Art Media Muzikë
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73945
-#EXTINF:-1,AL: Flutra TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73946
-#EXTINF:-1,AL: RTV Arberia 1 TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73947
-#EXTINF:-1,AL: Arberia 2 TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73948
-#EXTINF:-1,AL: Arberia Femijë TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73949
-#EXTINF:-1,AL: Atd TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73950
-#EXTINF:-1,AL: Xiki Muzikë TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73951
-#EXTINF:-1,AL: Best Channel TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73952
-
-
-#EXTINF:-1,AL: Alba Box Aksion HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73435
-#EXTINF:-1,AL: Alba Box Muzikë HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73871
-#EXTINF:-1,AL: Alba Box Dramë HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73436
-#EXTINF:-1,AL: Alba Box Hindi HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73437
-#EXTINF:-1,AL: Alba Box Shqipë HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73438
-#EXTINF:-1,AL: Alba Box Komedi HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73439
-#EXTINF:-1,AL: Alba Box Western HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73440
-#EXTINF:-1,AL: Alba Box Premium 1 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73441
-#EXTINF:-1,AL: Alba Box Premium 2 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73442
-#EXTINF:-1,AL: Alba Box Premium 3 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/74569
-#EXTINF:-1,AL: First Classic HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73967
-#EXTINF:-1,AL: First Dramë HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73968
-#EXTINF:-1,AL: First Horror HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73969
-#EXTINF:-1,AL: LionTv Humor HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73970
-#EXTINF:-1,AL: LionTv Stupcat 24/7
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73971
-#EXTINF:-1,AL: LionTV Gold 1L HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73972
-#EXTINF:-1,AL: LionTV Gold 2L HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73973
-#EXTINF:-1,AL: LionTV Gold 3L HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73974
-#EXTINF:-1,AL: LionTV Gold 4L HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73975
-#EXTINF:-1,AL: LionTV Stupcat HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73976
-#EXTINF:-1,AL: LionTV Humor HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73977
-#EXTINF:-1,AL: LionTV Gold HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73978
-#EXTINF:-1,AL: Falcon Cinema Gold HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73984
-#EXTINF:-1,AL: Falcon Cinema Adventure HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73985
-#EXTINF:-1,AL: Falcon Cinema Aktion HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73986
-#EXTINF:-1,AL: Falcon Cinema Comedy HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73987
-#EXTINF:-1,AL: Falcon Cinema Romance HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73988
-#EXTINF:-1,AL: Falcon Cinema Sci-Fi HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73989
-#EXTINF:-1,AL: Kinema24 1 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73991
-#EXTINF:-1,AL: Kinema24 2 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73992
-#EXTINF:-1,AL: Kinema24 3 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73993
-#EXTINF:-1,AL: Kinema24 4 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73994
-#EXTINF:-1,AL: Kinema24 5 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73995
-#EXTINF:-1,AL: Kinema24 6 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73996
-#EXTINF:-1,AL: StatiON Cine HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73997
-#EXTINF:-1,AL: StatiON Prime HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73998
-#EXTINF:-1,AL: StatiON Box HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/73999
-#EXTINF:-1,AL:: StatiON Top HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/74000
-#EXTINF:-1,AL: StatiON Stars HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/74001
-#EXTINF:-1,AL: Shqip 1 TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/75911
-#EXTINF:-1,AL: Shqip 2 TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/75912
-#EXTINF:-1,AL: Shqip 3 TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/75913
-#EXTINF:-1,AL: Shqip 4 TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/75914
-#EXTINF:-1,AL: Kinema24 Aksion
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/76305
-#EXTINF:-1,AL: Kinema24 Dramë
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/76306
-#EXTINF:-1,AL: Kinema24 Comedy
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/76307
-#EXTINF:-1,AL: Kinema24 Thriller
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/76308
-#EXTINF:-1,AL: Kinema24 Horror
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/76309
-#EXTINF:-1,AL: Kinema24 Fantasy
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/76310
-#EXTINF:-1,AL: MAXpremier 1
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/76311
-#EXTINF:-1,AL: MAXpremier 2
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/76312
-#EXTINF:-1,AL: MAXpremier 3
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/76313
-#EXTINF:-1,AL: MAXpremier 4
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/76314
-#EXTINF:-1,AL: Shijak TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/76315
-#EXTINF:-1,AL: Korça Plus
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/76979
-#EXTINF:-1,TELE one KURANI ( shqip )
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/78458
-#EXTINF:-1,AL: KiKiPlay-Hits HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/79851
-#EXTINF:-1,AL: KiKiPlay - Max HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/79852
-#EXTINF:-1,AL: KiKi Canal-Play 3 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/79853
-#EXTINF:-1,AL: KiKi Canal-Play 4 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/79854
-#EXTINF:-1,AL: KiKi Canal-Play 5 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/79855
-#EXTINF:-1,AL: KiKi Canal-Play 6 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/79856
-#EXTINF:-1,AL: KiKi Canal-Play 7 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/79857
-#EXTINF:-1,AL: KiKi Canal-Play 8 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/79858
-#EXTINF:-1,AL: KiKi Canal-Play INFO
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/79859
-#EXTINF:-1,AL: KiKi Serial 1 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/79860
-#EXTINF:-1,AL: KiKi Serial 2 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/79861
-#EXTINF:-1,AL: KiKi Serial 3 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/79862
-#EXTINF:-1,AL: KiKi Serial Channel INFO
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/79863
-#EXTINF:-1,AL: RTV Arti TV HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/83442
-#EXTINF:-1,AL: KS COMEDY
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/83443
-#EXTINF:-1,AL: KS Drama HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/83444
-#EXTINF:-1,AL: KS Filma24 Famiy
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/83445
-#EXTINF:-1,AL: KS Filma24 Premiere
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/83446
-#EXTINF:-1,AL: KS HUMOR HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/83447
-#EXTINF:-1,AL: KS Kids HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/83448
-#EXTINF:-1,AL: KS POPULLORE HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/83449
-#EXTINF:-1,AL: KS Premier 3 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/83450
-#EXTINF:-1,AL: KS PËRALLA HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/83451
-#EXTINF:-1,AL: KS SHQIP
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/83452
-#EXTINF:-1,AL: KS STUPCAT HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/83453
-#EXTINF:-1,AL: KS ÇIFTELI HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/83455
-#EXTINF:-1,AL: Kinema 1
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/83538
-#EXTINF:-1,AL: Kinema 17 N HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/83539
-#EXTINF:-1,AL: Kinema Agimi HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/83540
-#EXTINF:-1,AL: Kinema Aksion
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/83541
-#EXTINF:-1,AL: Kinema Aksion MAX
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/83542
-#EXTINF:-1,AL: Kinema Dajti HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/83543
-#EXTINF:-1,AL: Kinema Fantasy
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/83544
-#EXTINF:-1,AL: Kinema Partizani HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/83545
-#EXTINF:-1,AL: Kinema Republika HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/83546
-#EXTINF:-1,AL: Kinema24 1 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/83547
-#EXTINF:-1,AL: Kinema24 2 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/83548
-#EXTINF:-1,AL: Kinema24 3 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/83549
-#EXTINF:-1,AL: Kinema24 4 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/83550
-#EXTINF:-1,AL: Kinema24 5 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/83551
-#EXTINF:-1,AL: Kinema24 6 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/83552
-#EXTINF:-1,AL: Kinema24 Action HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/83553
-#EXTINF:-1,AL: Kinema24 Comedy HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/83554
-#EXTINF:-1,AL: Kinema24 drama HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/83555
-#EXTINF:-1,AL: Kinema24 thriller HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/83556
-#EXTINF:-1,AL: KINO PREMIERE 2 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/83557
-#EXTINF:-1,AL: Kino Premiere 3 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/83558
-#EXTINF:-1,AL: TV2000 Tirana1
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84280
-
-#EXTINF:-1,AL: Ich bin Albaner HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84283
-#EXTINF:-1,Test
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84284
-#EXTINF:-1,AL: KiKiGo - Fast&Furious HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84285
-#EXTINF:-1,AL: KiKi Premier info HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84286
-#EXTINF:-1,AL: KiKi Premier 1 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84287
-#EXTINF:-1,AL: KiKi Premier 2 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84288
-#EXTINF:-1,AL: KiKi Premier 3 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84289
-#EXTINF:-1,AL: KiKi Premier 4 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84290
-#EXTINF:-1,AL: KiKiGo - Marvel HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84291
-#EXTINF:-1,AL: KiKiGo - Racing HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84292
-#EXTINF:-1,AL: Dark SHQIP 1 UHD 4K+
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84293
-#EXTINF:-1,AL: Dark Netflix 1 FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84294
-#EXTINF:-1,AL: Dark Netflix 2 FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84295
-#EXTINF:-1,AL: Dark Netflix 3 FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84296
-#EXTINF:-1,AL: Dark Netflix 4 FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84297
-#EXTINF:-1,AL: Dark Netflix 5 FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84298
-#EXTINF:-1,AL: Dark Netflix 6 FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84299
-#EXTINF:-1,AL: Dark Netflix 7 FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84300
-#EXTINF:-1,AL: Dark Netflix 8 FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84301
-#EXTINF:-1,AL: Dark Netflix 9 FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84302
-#EXTINF:-1,AL: Dark Netflix 10 FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84303
-#EXTINF:-1,AL: Dark Netflix 11 FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84304
-#EXTINF:-1,AL: Dark Gold 1 FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84305
-#EXTINF:-1,AL: Dark Gold 2 FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84306
-#EXTINF:-1,AL: Dark Gold 3 FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84307
-#EXTINF:-1,AL: Dark Gold 4 FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84308
-#EXTINF:-1,AL: Dark GOLD 5 FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84309
-#EXTINF:-1,AL: Dark GOLD 6 FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84310
-#EXTINF:-1,AL: Dark GOLD 7 FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84311
-#EXTINF:-1,AL: Dark GOLD 8 FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84312
-#EXTINF:-1,AL: Dark Aksion FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84313
-#EXTINF:-1,AL: Dark Thriller UHD 4k+
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84314
-#EXTINF:-1,AL: Dark Sci-Fi UHD 4K+
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84315
-#EXTINF:-1,AL: Dark Komedi UHD 4K+
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84316
-#EXTINF:-1,AL: Dark Fantazi UHD 4K+
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84317
-#EXTINF:-1,AL: Dark Horror UHD 4K+
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84318
-#EXTINF:-1,AL: Dark Western UHD 4K+
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84319
-#EXTINF:-1,AL: Dark Drame UHD 4K+
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84320
-#EXTINF:-1,AL: Dark Aventure UHD 4K+
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84321
-#EXTINF:-1,AL: Dark Familjare UHD 4K+
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84322
-#EXTINF:-1,AL: Dark Gjerman UHD 4K+
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84323
-#EXTINF:-1,AL: Dark Francez UHD 4K+
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84324
-#EXTINF:-1,AL: Dark ITALY UHD 4K+
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84325
-#EXTINF:-1,AL: Dark Turke UHD 4K+
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84326
-#EXTINF:-1,AL: Dark RUS UHD 4K+
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84327
-#EXTINF:-1,AL: Dark Spanjolle UHD 4K+
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84328
-#EXTINF:-1,AL: Dark Hindi UHD 4K+
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84329
-#EXTINF:-1,AL: Dark Netflix FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84330
-#EXTINF:-1,AL: Dark Romancë FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84331
-#EXTINF:-1,AL: Dark Mixha BiBe FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84332
-#EXTINF:-1,AL: Dark Te BaXha UHD 4K+
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84333
-#EXTINF:-1,AL: Dark Oda E Stupcav HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84334
-#EXTINF:-1,AL: Dark Stupcat Amkademiku HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84335
-#EXTINF:-1,AL: Dark Shengen Visa HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84336
-#EXTINF:-1,AL: Dark Cka ka Shpia  HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84337
-#EXTINF:-1,AL: Dark Kafeneja jone HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84338
-#EXTINF:-1,AL: Dark O sa mire HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84339
-#EXTINF:-1,AL: Dark Shpk Nazi HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84340
-#EXTINF:-1,AL: Dark Fara e Flliqt HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84341
-#EXTINF:-1,AL: Dark Tigrat HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84342
-#EXTINF:-1,AL: Dark iStar Seriali HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84343
-#EXTINF:-1,AL: Dark Ich Bin Albaner HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84344
-#EXTINF:-1,AL: Dark Baskia Humor HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84345
-#EXTINF:-1,AL: Dark Premier Kids FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84346
-#EXTINF:-1,AL: Dark Edukativ HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84347
-#EXTINF:-1,AL: Dark Tom & Jerry HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84348
-#EXTINF:-1,AL: Dark Mr Bean Cartoon UHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84349
-#EXTINF:-1,AL: Dark Pink Panther UHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84350
-#EXTINF:-1,AL: Dark Donald Duck HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84351
-#EXTINF:-1,AL: Dark Peralla HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84352
-#EXTINF:-1,AL: Dark ChuChu TV UHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84353
-#EXTINF:-1,AL: Dark Larva Spring (Kids) FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84354
-#EXTINF:-1,AL: Dark kongkong's (Kid's) FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84355
-#EXTINF:-1,AL: Dark HiTeT 2021 UHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84356
-#EXTINF:-1,AL: Dark Popullore (2021) UHD 4K+
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84357
-#EXTINF:-1,AL: Dark GEZUAR HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84358
-#EXTINF:-1,AL: Dark Popullore HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84359
-#EXTINF:-1,AL: Dark Popullore 2 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84360
-#EXTINF:-1,AL: Dark Popullore 3 FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84361
-#EXTINF:-1,AL: Dark Tallava FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84362
-#EXTINF:-1,AL: Dark Hip-Hop HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84363
-#EXTINF:-1,AL: Dark  Çifteli  HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84364
-#EXTINF:-1,AL: Dark Balade UHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84365
-#EXTINF:-1,AL: Dark Bitonia UHD 4K+
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84366
-#EXTINF:-1,AL: KiKi Paw petrol HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84367
-#EXTINF:-1,AL: KiKi Oddbods HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84368
-#EXTINF:-1,AL: KiKi Pj Mask HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84369
-#EXTINF:-1,AL: KiKi Barby Toys HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84370
-#EXTINF:-1,AL: KiKi Masha & Bear HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84371
-#EXTINF:-1,AL: KiKi Abby Hatcher HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84372
-#EXTINF:-1,AL: KiKi Booba Cartoon HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84373
-#EXTINF:-1,AL: KiKi Ricky Zoom HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84374
-#EXTINF:-1,AL: KiKi Diana Show HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84375
-#EXTINF:-1,AL: KiKi Peppa HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84376
-#EXTINF:-1,AL: KiKi Teletubbies HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84377
-#EXTINF:-1,AL: Dark Ramazan Ilahi FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84378
-#EXTINF:-1,AL: Dark En FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84379
-#EXTINF:-1,AL: Dark Ilahi Shqip FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84380
-#EXTINF:-1,AL: Dark ilahi HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84381
-#EXTINF:-1,AL: Dark Ilahi 2 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84382
-#EXTINF:-1,AL: Dark ilahi 3 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84383
-#EXTINF:-1,AL: Dark Dr.Krasniqi HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84384
-#EXTINF:-1,AL: Salaam TV HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84385
-#EXTINF:-1,AL:IMAM HUSSEIN 1 TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84386
-#EXTINF:-1,AL:IMAM HUSSEIN 2 TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84387
-#EXTINF:-1,AL:IMAM HUSSEIN 3 TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84388
-#EXTINF:-1,AL:IMAM HUSSEIN 4 TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84389
-#EXTINF:-1,AL: Karbala Live 1
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84390
-#EXTINF:-1,AL: Karbala Live 2
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84391
-#EXTINF:-1,AL: Karbala Live 3
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84392
-#EXTINF:-1,AL: Karbala Live 4
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84393
-#EXTINF:-1,AL: Karbala Live 5
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84394
-#EXTINF:-1,AL: Karbala Live 6
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84395
-#EXTINF:-1,AL: Klanifornia HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84419
-#EXTINF:-1,AL: MCN TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84420
-#EXTINF:-1,AL: Kinema Milenium 2
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84421
-#EXTINF:-1,AL: Kinema Milenium 4
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84422
-#EXTINF:-1,AL: Kino24 drame
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84423
-#EXTINF:-1,AL: Kino24 aksion
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84424
-#EXTINF:-1,AL: Kino24 komedi
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84425
-#EXTINF:-1,AL: Kino24 thriller
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84426
-#EXTINF:-1,AL: Kino24 horror
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84427
-#EXTINF:-1,AL: Kino24 fantazi
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84428
-#EXTINF:-1,AL: Kino24 hits
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84429
-#EXTINF:-1,AL: Kino24 adventure
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84430
-#EXTINF:-1,AL: Cinemax FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/293
-#EXTINF:-1,AL: Cinemax 2 FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/294
-#EXTINF:-1,AL: HBO FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/295
-#EXTINF:-1,AL: HBO 3 FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/296
-#EXTINF:-1,AL: HBO 2 FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/297
-#EXTINF:-1,AL: Fight Box
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/298
-#EXTINF:-1,AL: GodFather
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/299
-#EXTINF:-1,AL: Film Box Premium
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/285
-#EXTINF:-1,AL: Film Box Plus
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/286
-#EXTINF:-1,AL: Film Box Extra
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/287
-#EXTINF:-1,AL: Film Box Arthouse
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/288
-#EXTINF:-1,AL: B Aksion HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/33798
-#EXTINF:-1,AL: B  Muzikë HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/25588
-#EXTINF:-1,AL: B  Ilahi HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/25589
-#EXTINF:-1,AL: B  Qifteli HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/33799
-#EXTINF:-1,AL: B Popullore HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/47674
-#EXTINF:-1,AL: B  Humor HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/36139
-#EXTINF:-1,AL: B Hindi HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/61560
-#EXTINF:-1,AL: B Hindi Muzikë HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/62103
-#EXTINF:-1,AL: B Stupcat 24/7 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/61556
-#EXTINF:-1,AL: B Jackie Chan HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/49248
-#EXTINF:-1,AL: B  Islam HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/33797
-#EXTINF:-1,AL: B  Shqipë HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/30969
-#EXTINF:-1,AL: B Fëmijë HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/33796
-#EXTINF:-1,AL: B  TV Dramë HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/61555
-#EXTINF:-1,AL: B  Filma Turke HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/36909
-#EXTINF:-1,AL: B  Muzikë Turke HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/36906
-#EXTINF:-1,AL: B  Kemal Sunal TV HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/36907
-#EXTINF:-1,AL: B  Ibrahim Tatlises HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/36908
-#EXTINF:-1,AL: Knight Rider HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/30972
-#EXTINF:-1,AL: B Sh- & Shqiptarët
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/47672
-#EXTINF:-1,AL: B Tregim Popullor
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/47675
-#EXTINF:-1,AL: B Gold 1 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/36919
-#EXTINF:-1,AL: B Gold 2 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/36922
-#EXTINF:-1,AL: B  Gold 3 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/36924
-#EXTINF:-1,AL: B  Gold 4 HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/36925
-#EXTINF:-1,AL: Boin TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/125
-#EXTINF:-1,AL: ALB Swiss TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/190
-#EXTINF:-1,AL: Spin Tv
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/161
-#EXTINF:-1,AL: Shota TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/162
-#EXTINF:-1,AL: Jim Jam Kids
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84483
-#EXTINF:-1,AL: Festina TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84484
-#EXTINF:-1,AL: Skampa TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84485
-#EXTINF:-1,AL: AA Network HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84788
-#EXTINF:-1,AL: ACTV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84789
-#EXTINF:-1,AL: N-TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84790
-#EXTINF:-1,AL: Frame TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/84791
-#EXTINF:-1,AL: Xiki TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/85062
-#EXTINF:-1,AL: 8ova Action HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/85063
-#EXTINF:-1,AL: 8ova BBF HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/85064
-#EXTINF:-1,AL: 8ova cifteli FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/85065
-#EXTINF:-1,AL: 8ova Drame HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/85066
-#EXTINF:-1,AL: 8OVA Gjurme Shqipetare TV HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/85067
-#EXTINF:-1,AL: 8OVA Gjurme Shqiptare TV HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/85068
-#EXTINF:-1,AL: 8ova Humor HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/85069
-#EXTINF:-1,AL: 8ova islam HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/85070
-#EXTINF:-1,AL: 8ova Komedi HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/85071
-#EXTINF:-1,AL: 8ova Music HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/85072
-#EXTINF:-1,AL 8ova Music HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/85073
-#EXTINF:-1,AL: 8ova Popullore HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/85074
-#EXTINF:-1,AL: 8ova Thriller HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/85075
-#EXTINF:-1,AL: Dituria Islame
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/85076
+#EXTINF:-1,|AL| Tring Fantasy
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53065
+#EXTINF:-1,|AL| Tring Comedy
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53066
+#EXTINF:-1,|AL| Tring 3+
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53067
+#EXTINF:-1,|AL| Tring Smile
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53163
+#EXTINF:-1,|AL| Tring Histori
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53064
+#EXTINF:-1,|AL| Tring Planet
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53061
+#EXTINF:-1,|AL| Tring World
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53164
 
 
 
 
+#EXTINF:-1,|AL| Kino Premiere 2 HD
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53082
+#EXTINF:-1,|AL| Kino Premiere 1 HD
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53083
+#EXTINF:-1,|AL| Kino Premiere 3 HD
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53084
+#EXTINF:-1,|AL| Film Thriller
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53085
+#EXTINF:-1,|AL| Film Hits HD
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53086
+#EXTINF:-1,|AL| Film Dy HD
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53087
+#EXTINF:-1,|AL| Film Drame
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53088
+#EXTINF:-1,|AL| Film Aksion
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53089
 
-#EXTINF:-1,AL: X Cifteli HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/149
-#EXTINF:-1,AL: X Music Hits HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/150
-#EXTINF:-1,AL: X Popullore HD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/151
-#EXTINF:-1,AL: Euro AL
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/152
-#EXTINF:-1,AL: RTV 21 Popullore
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/153
-#EXTINF:-1,AL: RTV 21 Popullore FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/154
-#EXTINF:-1,AL: RTV 21 Plus
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/155
-#EXTINF:-1,AL: Folk+
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/156
-#EXTINF:-1,AL: RTV 21 Plus FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/157
-#EXTINF:-1,AL: Tv Zico
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/158
-#EXTINF:-1,AL: Top Estrada
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/159
-#EXTINF:-1,AL: Red TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/160
-#EXTINF:-1,AL: Scan Tv
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/163
-#EXTINF:-1,AL: Real RTV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/164
-#EXTINF:-1,AL: My Music
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/165
-#EXTINF:-1,AL: Music Box
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/166
-#EXTINF:-1,AL: Click Muzikë
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/167
-#EXTINF:-1,AL: City TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/168
-#EXTINF:-1,AL: Fashion Box
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/169
-#EXTINF:-1,AL: MTV Rock
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/170
-#EXTINF:-1,AL: MTV Kosova
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/171
-#EXTINF:-1,AL: MTV Hits
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/172
-#EXTINF:-1,AL: MTV Dance
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/173
-#EXTINF:-1,AL: Camel TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/174
-#EXTINF:-1,AL: MFM Music
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/175
-#EXTINF:-1,AL: RTVZiK
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/176
-#EXTINF:-1,AL: Zjarr TV FHD
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/177
-#EXTINF:-1,AL: Zjarr TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/178
-#EXTINF:-1,AL: Zeri info TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/179
-#EXTINF:-1,AL: Melody TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/180
-#EXTINF:-1,AL: Dasma TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/181
-#EXTINF:-1,AL: Diaspora TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/182
-#EXTINF:-1,AL: Amol TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/183
-#EXTINF:-1,AL: VH1 Classic
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/184
-#EXTINF:-1,AL: Fas & Fun Box
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/185
-#EXTINF:-1,AL: Alpo Media Tv
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/186
-#EXTINF:-1,AL: UTV News
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/187
-#EXTINF:-1,AL: TV2
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/188
-#EXTINF:-1,AL: Alb Uk
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/189
-#EXTINF:-1,AL: BBF Music
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/191
-#EXTINF:-1,AL: Balkanika Music
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/192
-#EXTINF:-1,AL: Club TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/193
-#EXTINF:-1,AL: Stv Folk
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/194
-#EXTINF:-1,AL: On TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/195
-#EXTINF:-1,AL: Syri Blue
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/196
-#EXTINF:-1,AL: Elrodi TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/197
-#EXTINF:-1,AL: Hareja TV
-http://albamax.ddns.net:8080/antree-amigo/Exchange-caGVSY95tv/198
+#EXTINF:-1,|AL| Tring Tring
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53057
+#EXTINF:-1,|AL| Baby TV
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53098
+#EXTINF:-1,|AL| Cufo
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53100
+#EXTINF:-1,|AL| Dasma TV
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53101
+#EXTINF:-1,|AL| Digi Gold 1
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53106
+#EXTINF:-1,|AL| Digi Gold 2
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53107
+#EXTINF:-1,|AL| Digi Gold 3
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53108
+#EXTINF:-1,|AL| Digi Gold 4
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/62280
+#EXTINF:-1,|AL| Explorer Histori
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53110
+#EXTINF:-1,|AL| Explorer Natyra
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53111
+#EXTINF:-1,|AL| Explorer Shkence
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53112
+#EXTINF:-1,|AL| Film Autor
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53113
+#EXTINF:-1,|AL| Film Gold 2
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53114
+#EXTINF:-1,|AL| Film Gold 3
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53115
+#EXTINF:-1,|AL| Film Gold 4
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53116
+#EXTINF:-1,|AL| Film Gold 1
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53117
+#EXTINF:-1,|AL| Film Komedi
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53118
+#EXTINF:-1,|AL| Film Nje HD
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53119
+#EXTINF:-1,|AL| Film Stinet
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53120
+#EXTINF:-1,|AL| First TV
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53121
+#EXTINF:-1,|AL| Folk
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53122
+#EXTINF:-1,|AL| Folklorit
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53123
+#EXTINF:-1,|AL| Jolly HD
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53124
+#EXTINF:-1,|AL| Junior TV
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53125
+#EXTINF:-1,|AL| Kino Action
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53126
+#EXTINF:-1,|AL| Kino Scifi HD
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53127
+#EXTINF:-1,|AL| Kino Thriller HD
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53128
+
+#EXTINF:-1,|AL| Kujtesa Sport 1
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53132
+#EXTINF:-1,|AL| Kujtesa Sport 2
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53133
+#EXTINF:-1,|AL| Living HD
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53134
+#EXTINF:-1,|AL| Muse
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53136
+
+#EXTINF:-1,|AL| TV Plus HD
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53139
+#EXTINF:-1,|AL| Report TV
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53140
+#EXTINF:-1,|AL| Rrokum TV
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53141
+#EXTINF:-1,|AL| RTSH 1
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53143
+#EXTINF:-1,|AL| RTSH Sport HD
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53144
+#EXTINF:-1,|AL| RTV 21 Plus
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53145
+#EXTINF:-1,|AL| RTV Islam
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53146
+#EXTINF:-1,|AL| TV Sharri
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53147
+#EXTINF:-1,|AL| ShqipTV Aksion HD
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53148
+#EXTINF:-1,|AL| ShqipTV Film HD
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53149
+#EXTINF:-1,|AL| Sky komedi
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53150
+#EXTINF:-1,|AL| Art Sport 1 HD
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53151
+#EXTINF:-1,|AL| Art Sport 2 HD
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53152
+#EXTINF:-1,|AL| STV Folk
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53153
+#EXTINF:-1,|AL| Super Sport 1
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53154
+#EXTINF:-1,|AL| Super Sport 2
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53155
+#EXTINF:-1,|AL| Super Sport 3
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53156
+#EXTINF:-1,|AL| Super Sport 4
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53157
+#EXTINF:-1,|AL| Supersonic TV
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53158
+#EXTINF:-1,|AL| Tetova HD TV
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53159
+#EXTINF:-1,|AL| Tirana TV
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53160
+
+
+#EXTINF:-1,|AL| TV Arta
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53165
+#EXTINF:-1,|AL| TV Dukagjini
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53166
+#EXTINF:-1,|AL| TV Mitrovica
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53167
+#EXTINF:-1,|AL| TV Opoja
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53168
+#EXTINF:-1,|AL| TVSH
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53169
+
+#EXTINF:-1,|AL| ZICO TV
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53171
+
+#EXTINF:-1,|AL| K Sport 1
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/62231
+#EXTINF:-1,|AL| K Sport 2
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/62230
+#EXTINF:-1,|AL| K Sport 3
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/62229
+#EXTINF:-1,|AL| K Sport 4
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/62228
+#EXTINF:-1,|AL| Tring Sport 1 HD
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/62227
+#EXTINF:-1,|AL| Tring Sport 2 HD
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/62226
+#EXTINF:-1,|AL| Tring Sport 3 HD
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/62225
+#EXTINF:-1,|AL| Tring Sport 4 HD
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/62224
+#EXTINF:-1,|AL| Tring Sport News
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/62223
+
+#EXTINF:-1,|AL| FAX NEWS
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/65974
+#EXTINF:-1,|AL| Elrodi TV
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53109
+#EXTINF:-1,|AL| Club TV
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53090
+#EXTINF:-1,|AL| BBF Music
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53091
+#EXTINF:-1,|AL| Alb Humor
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53092
+#EXTINF:-1,|AL| ALB HITS
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53093
+#EXTINF:-1,|AL| A1 Shqiptare
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53094
+#EXTINF:-1,|AL| A1 ISLAM
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53095
+#EXTINF:-1,|AL| Zjarr TV
+http://s1.showplustv.com:1997/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/53055
 
 
 
