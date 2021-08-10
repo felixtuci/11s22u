@@ -1,476 +1,258 @@
 #EXTINF:-1   group-title="-IPTV SHQIP 1-",
-#EXTINF:-1,ALB: TOP Channel HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41497
-#EXTINF:-1,ALB: TOP Channel FHD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41498
-#EXTINF:-1,ALB: Klan TV HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41512
-#EXTINF:-1,ALB: Klan TV FHD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41513
-#EXTINF:-1,ALB: KLan Plus HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41514
-#EXTINF:-1,ALB: Klan Plus FHD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41515
-#EXTINF:-1,ALB: Vizion Plus HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41516
-#EXTINF:-1,ALB: Vizion Plus
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41517
-#EXTINF:-1,ALB: RTK 1 HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41486
-#EXTINF:-1,ALB: RTK 1 FHD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41487
-#EXTINF:-1,ALB: RTK 2 HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41488
-#EXTINF:-1,ALB: RTK 3 FHD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41489
-#EXTINF:-1,ALB: RTK 4 HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41490
-#EXTINF:-1,ALB: RTSH 1 HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41491
-#EXTINF:-1,ALB: RTSH 2 HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41492
-#EXTINF:-1,ALB: RTSH 3 HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41493
-#EXTINF:-1,ALB: RTSH 24 HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41494
-#EXTINF:-1,ALB: RTSH Shqip
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41495
-#EXTINF:-1,ALB: RTSH Film
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41496
+#EXTINF:-1,AL: TOP Channel FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11445
+#EXTINF:-1,AL: TV KLAN FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11498
+#EXTINF:-1,AL: Klan FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11179
+#EXTINF:-1,AL: Klan Plus FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11183
+
+#EXTINF:-1,AL: VIZION PLUS FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11521
+#EXTINF:-1,AL: VIZION PLUS
+http://nova.iptvpromotions.com:25461/quincy/quincy/11522
+
+#EXTINF:-1,AL: RTSH 1 FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11310
+#EXTINF:-1,AL: RTSH 2 FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11311
+#EXTINF:-1,AL: RTSH 3 FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11312
+#EXTINF:-1,AL: RTSH 24 HD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11313
+#EXTINF:-1,AL: RTSH Femije FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11314
+#EXTINF:-1,AL: RTSH Film FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11315
+#EXTINF:-1,AL: RTSH GJIROKASTRA
+http://nova.iptvpromotions.com:25461/quincy/quincy/11316
+#EXTINF:-1,AL: RTSH HD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11317
+#EXTINF:-1,AL: RTSH KORÇA
+http://nova.iptvpromotions.com:25461/quincy/quincy/11318
+#EXTINF:-1,AL: RTSH KUVEND
+http://nova.iptvpromotions.com:25461/quincy/quincy/11319
+#EXTINF:-1,AL: RTSH Music FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11320
+#EXTINF:-1,AL: RTSH Muzik
+http://nova.iptvpromotions.com:25461/quincy/quincy/11321
+#EXTINF:-1,AL RTSH Muzik
+http://nova.iptvpromotions.com:25461/quincy/quincy/11322
+#EXTINF:-1,AL: RTSH MUZIKE
+http://nova.iptvpromotions.com:25461/quincy/quincy/11323
+#EXTINF:-1,AL RTSH MUZIKE
+http://nova.iptvpromotions.com:25461/quincy/quincy/11324
+#EXTINF:-1,AL: RTSH PLUS
+http://nova.iptvpromotions.com:25461/quincy/quincy/11325
+#EXTINF:-1,AL: RTSH Plus shkolle
+http://nova.iptvpromotions.com:25461/quincy/quincy/11326
+#EXTINF:-1,AL: RTSH SAT HD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11327
+#EXTINF:-1,AL: RTSH Shqip FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11328
+#EXTINF:-1,AL: RTSH SPORT FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11329
 
 
-#EXTINF:-1,ALB: RTV 21 FHD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41500
-#EXTINF:-1,ALB: RTV 21 HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41501
-#EXTINF:-1,ALB: RTV 21 Maqedonia HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41502
-#EXTINF:-1,ALB: RTV 21 Maqedonia FHD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41503
-#EXTINF:-1,ALB: RTV 21 Mix HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41504
-#EXTINF:-1,ALB: RTV 21 Plus HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41505
-#EXTINF:-1,ALB: RTV 21 Popullore
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41506
-#EXTINF:-1,ALB: KTV HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41507
-#EXTINF:-1,ALB: KTV FHD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41508
-#EXTINF:-1,ALB: Klan Kosova HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41509
-#EXTINF:-1,ALB: Klan Kosova FHD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41510
-#EXTINF:-1,ALB: Klan Macedonia HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41511
 
 
-#EXTINF:-1,ALB: T7 HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41519
-#EXTINF:-1,ALB: T7 FHD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41520
-#EXTINF:-1,ALB: First Channel HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41521
-#EXTINF:-1,ALB: Shenja TV HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41522
-#EXTINF:-1,ALB: TV ERA
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41523
-#EXTINF:-1,ALB: TV Tetova
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41524
-#EXTINF:-1,ALB: TV Koha
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41525
-#EXTINF:-1,ALB: MRT 2
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41526
-#EXTINF:-1,ALB: Top News HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41499
-#EXTINF:-1,ALB: News 24
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41527
-#EXTINF:-1,ALB: A2 CNN
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41528
-#EXTINF:-1,ALB: ABC News
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41529
-#EXTINF:-1,ALB: Euronews  Albania
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41530
-#EXTINF:-1,ALB: Report TV
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41531
-#EXTINF:-1,ALB: Ora News FHD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41532
-#EXTINF:-1,ALB: ALBUK
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41533
-#EXTINF:-1,ALB: Arta News FHD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41534
-#EXTINF:-1,ALB: Tema TV
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41535
-#EXTINF:-1,ALB: 7 News
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41536
-#EXTINF:-1,ALB: Rtv Pendimi
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41537
-#EXTINF:-1,ALB: Peace TV
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41538
-#EXTINF:-1,ALB: Peace TV Anglisht
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41539
-#EXTINF:-1,ALB: Rtv Islam
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41540
-#EXTINF:-1,ALB: Mekka Live
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41541
-#EXTINF:-1,ALB: Medina Live
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41542
-#EXTINF:-1,ALB: Rrokum  HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41544
-#EXTINF:-1,ALB: Dukagjini TV FHD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41545
-#EXTINF:-1,ALB: GlobiTV
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41546
-#EXTINF:-1,ALB: Boin UK
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41547
-#EXTINF:-1,ALB: Stinet
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41548
-#EXTINF:-1,ALB: 24 Kitchen
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41549
-#EXTINF:-1,ALB: Tring Muse
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41550
-#EXTINF:-1,ALB: Star Plus Shkoder
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41551
-#EXTINF:-1,ALB: BESA
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41552
-#EXTINF:-1,ALB: Syri Vision
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41553
-#EXTINF:-1,ALB: Tv Opinion
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41554
-#EXTINF:-1,ALB: RTSH Korca
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41555
-#EXTINF:-1,ALB: OPINIONI tv
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41556
-#EXTINF:-1,ALB: Tv Mitrovica
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41557
-#EXTINF:-1,ALB: TV Presheva
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41559
-#EXTINF:-1,ALB: Star Plus TV HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41560
-#EXTINF:-1,ALB: Alsat M HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41561
-#EXTINF:-1,ALB: Alsat M FHD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41562
-#EXTINF:-1,ALB: ZjarrTV
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41563
-#EXTINF:-1,ALB: 7Tv
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41564
-#EXTINF:-1,ALB: X Humor HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41566
-#EXTINF:-1,ALB: X Stupcat
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41567
-#EXTINF:-1,ALB: Alb UK
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41571
-#EXTINF:-1,ALB: Zeri TV
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41572
-#EXTINF:-1,ALB: FASHION TV FHD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41573
-#EXTINF:-1,ALB: RTV 21 BUSINESS
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41574
-#EXTINF:-1,ALB: TRING INTERNATIONAL
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41575
-#EXTINF:-1,ALB: Fax News
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41576
-#EXTINF:-1,ALB: Kanali 7
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41577
-#EXTINF:-1,ALB: RTSH PLUS
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41578
-#EXTINF:-1,ALB: Art Kino 1 FHD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41579
-#EXTINF:-1,ALB: Art Kino 2 FHD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41580
-#EXTINF:-1,ALB: Art Kino 3 FHD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41581
-#EXTINF:-1,ALB: Episode FHD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41582
-#EXTINF:-1,ALB: TDC Serial FHD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41518
-#EXTINF:-1,ALB: Film Nje HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41584
-#EXTINF:-1,ALB: Film Nje FHD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41585
-#EXTINF:-1,ALB: Film Dy HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41586
-#EXTINF:-1,ALB: Film Dy FHD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41587
-#EXTINF:-1,ALB: Film Aksion
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41588
-#EXTINF:-1,ALB: Film Aksion FHD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41589
-#EXTINF:-1,ALB: Film Thriller
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41590
-#EXTINF:-1,ALB: Film Hits
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41591
-#EXTINF:-1,ALB: Film Autor
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41592
-#EXTINF:-1,ALB: Film Drame
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41593
-#EXTINF:-1,ALB: Film Komedi
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41594
-#EXTINF:-1,ALB: Euro Film
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41595
-#EXTINF:-1,ALB: Film Stinet
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41596
-#EXTINF:-1,ALB: Family FHD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41597
-#EXTINF:-1,ALB: T FHD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41598
-#EXTINF:-1,ALB: Fox
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41599
-#EXTINF:-1,ALB: Fox Movies
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41600
-#EXTINF:-1,ALB: Fox Life
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41601
-#EXTINF:-1,ALB: Tring 3+
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41602
-#EXTINF:-1,ALB: Tring Super
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41603
-#EXTINF:-1,ALB: Tring Super FHD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41604
-#EXTINF:-1,ALB: Tring Action HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41605
-#EXTINF:-1,ALB: Tring Comedy
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41606
-#EXTINF:-1,ALB: Tring Life
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41607
-#EXTINF:-1,ALB: Tring Fantasy
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41608
-#EXTINF:-1,ALB: Tring Shqip
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41609
-#EXTINF:-1,ALB: Jolly FHD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41610
-#EXTINF:-1,ALB: Tring Smile
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41611
-#EXTINF:-1,ALB: DIGI Gold HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41612
-#EXTINF:-1,ALB: DIGI Gold 1 HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41613
-#EXTINF:-1,ALB: DIGI Gold 2 HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41614
-#EXTINF:-1,ALB: DIGI Gold 3 HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41615
-#EXTINF:-1,ALB: DIGI Gold 4 HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41616
-#EXTINF:-1,ALB: X Filma24 HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41617
-#EXTINF:-1,ALB: X Premium 1 HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41618
-#EXTINF:-1,ALB: X Premium 2 HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41619
-#EXTINF:-1,ALB: X Premium 3 HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41620
-#EXTINF:-1,ALB: X Premium 4 HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41621
-#EXTINF:-1,ALB: X Action HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41622
-#EXTINF:-1,ALB: X Comedy HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41623
-#EXTINF:-1,ALB: X Family HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41624
-#EXTINF:-1,ALB: X Sci-Fi HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41625
-#EXTINF:-1,ALB: X Romance HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41626
-#EXTINF:-1,ALB: X Thriller HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41627
-#EXTINF:-1,ALB: X Drama HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41628
-#EXTINF:-1,ALB: X Dark HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41629
-#EXTINF:-1,ALB: X Western HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41630
-#EXTINF:-1,ALB: Star HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41631
-#EXTINF:-1,ALB: Sky Max
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41633
-#EXTINF:-1,ALB: Sky Aksion
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41634
-#EXTINF:-1,ALB: Sky Drame
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41635
-#EXTINF:-1,ALB: Sky Novela
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41636
-#EXTINF:-1,ALB: Art Doku 1
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41637
-#EXTINF:-1,ALB: Art Doku 2
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41638
-#EXTINF:-1,ALB: Exp Shkenca
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41639
-#EXTINF:-1,ALB: Exp Natyra
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41640
-#EXTINF:-1,ALB: Exp History
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41641
-#EXTINF:-1,ALB: Living FHD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41642
-#EXTINF:-1,ALB: Tring World
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41643
-#EXTINF:-1,ALB: Tring Planet
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41644
-#EXTINF:-1,ALB: Tring History
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41645
-#EXTINF:-1,ALB: X Natyra HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41647
-#EXTINF:-1,ALB: X Histori HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41648
-#EXTINF:-1,ALB: National Geo FHD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41649
-#EXTINF:-1,ALB: Travel Channel FHD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41650
-#EXTINF:-1,ALB: Animal Planet HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41651
-#EXTINF:-1,ALB: Discovery Showcase FHD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41652
-#EXTINF:-1,ALB: Discovery Channel
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41653
-#EXTINF:-1,ALB: Discovery Science FHD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41654
-#EXTINF:-1,ALB: Fine Living
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41656
-#EXTINF:-1,ALB: Bang Bang
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41657
-#EXTINF:-1,ALB: Cufo
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41658
-#EXTINF:-1,ALB: Tom & Jerry HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41659
-#EXTINF:-1,ALB: Sole TV
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41660
-#EXTINF:-1,ALB: Tring Kids
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41661
-#EXTINF:-1,ALB: Tring Tring
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41662
-#EXTINF:-1,ALB: Tip TV
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41663
-#EXTINF:-1,ALB: Junior TV
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41664
-#EXTINF:-1,ALB: Sofia HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41665
-#EXTINF:-1,ALB: BabyTV
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41666
-#EXTINF:-1,ALB: Boomerang
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41667
-#EXTINF:-1,ALB: Duck TV
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41668
-#EXTINF:-1,ALB: RTV 21 Junior
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41669
-#EXTINF:-1,ALB: Masha dhe Ariu
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41670
-#EXTINF:-1,ALB: SMILE HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41671
-#EXTINF:-1,ALB: DARK KIDS
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41672
-#EXTINF:-1,ALB: RTSH FEMIJE
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41673
-#EXTINF:-1,ALB: RTV Fontana
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41674
-#EXTINF:-1,ALB: X Music Hits HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41675
-#EXTINF:-1,ALB: X Popullore HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41676
-#EXTINF:-1,ALB: Elrodi TV HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41678
-#EXTINF:-1,ALB: Folk +
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41679
-#EXTINF:-1,ALB: BBF Music HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41680
-#EXTINF:-1,ALB: MFM Music
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41681
-#EXTINF:-1,ALB: MTV Kosova
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41682
-#EXTINF:-1,ALB: My Music
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41683
-#EXTINF:-1,ALB: Dasma TV
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41684
-#EXTINF:-1,ALB: TV Opoja
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41685
-#EXTINF:-1,ALB: TV SHARRI FHD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41686
-#EXTINF:-1,ALB: ZICO TV FHD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41687
-#EXTINF:-1,ALB: ON TV
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41688
-#EXTINF:-1,ALB: STV Folk
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41689
-#EXTINF:-1,ALB: Supersonic Muzik
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41690
-#EXTINF:-1,ALB: AMOL HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41691
-#EXTINF:-1,ALB: Roma TV FHD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41692
-#EXTINF:-1,ALB: Ballkanika Music
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41693
-#EXTINF:-1,ALB: Tirana TV
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41694
-#EXTINF:-1,ALB: Turbo Channel
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41695
-#EXTINF:-1,ALB: Euro Al
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41696
-#EXTINF:-1,ALB: ALBUK Music
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41697
-#EXTINF:-1,ALB: Melody.tv
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41698
-#EXTINF:-1,ALB: TOP ESTRADA
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41699
-#EXTINF:-1,ALB: TV Dielli
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41700
-#EXTINF:-1,ALB: DeeJay TV
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41701
-#EXTINF:-1,ALB: TV LIRIA
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41702
-#EXTINF:-1,ALB: ALBSWISS FHD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41704
-#EXTINF:-1,ALB: DARK CIFTELI
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41706
-#EXTINF:-1,ALB: DARK RAP
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41707
-#EXTINF:-1,ALB: DARK POPULLORE
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41708
-#EXTINF:-1,ALB: RTSH MUZIKE
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41709
-#EXTINF:-1,ALB: Super Sport 1 HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41710
-#EXTINF:-1,ALB: Super Sport 2 HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41711
-#EXTINF:-1,ALB: Super Sport 3 HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41712
-#EXTINF:-1,ALB: Super Sport 4 HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41713
-#EXTINF:-1,ALB: Super Sport 5 HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41714
-#EXTINF:-1,ALB: Tring Sport News
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41715
-#EXTINF:-1,ALB: Tring Sport 1 HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41716
-#EXTINF:-1,ALB: Tring Sport 2 HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41717
-#EXTINF:-1,ALB: Tring Sport 3 HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41718
-#EXTINF:-1,ALB: Tring Sport 4 HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41719
-#EXTINF:-1,ALB: Tring Sport 1 FHD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41720
-#EXTINF:-1,ALB: Tring Sport 2 FHD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41721
-#EXTINF:-1,ALB: Tring Sport 3 FHD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41722
-#EXTINF:-1,ALB: Tring Sport 4 FHD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41723
-#EXTINF:-1,ALB: RTSH Sport FHD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41724
-#EXTINF:-1,ALB: Kujtesa Sport 1 HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41725
-#EXTINF:-1,ALB: Kujtesa Sport 2 HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41726
-#EXTINF:-1,ALB: Kujtesa Sport 3 HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41727
-#EXTINF:-1,ALB: Kujtesa Sport 4 HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41728
-#EXTINF:-1,ALB: Kujtesa Sport 5 HD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41729
-#EXTINF:-1,ALB: Art Sport 1 FHD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41730
-#EXTINF:-1,ALB: Art Sport 2 FHD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41731
-#EXTINF:-1,ALB: Art Sport 3 FHD
-http://ip.xtremetv.eu:8000/smario/gS5udthq3bBF2gQu/41732
+
+#EXTINF:-1,AL: Syri News TV
+http://nova.iptvpromotions.com:25461/quincy/quincy/11406
+#EXTINF:-1,AL: TOP NEWS HD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11447
+
+
+#EXTINF:-1,AL: Kanal 10 FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11163
+#EXTINF:-1,AL: Alsat M ( Tokesor )
+http://nova.iptvpromotions.com:25461/quincy/quincy/10946
+#EXTINF:-1,AL: ALSAT M FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/10947
+#EXTINF:-1,AL: KTV FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11191
+#EXTINF:-1,AL: Ktv Kohavision
+http://nova.iptvpromotions.com:25461/quincy/quincy/11192
+#EXTINF:-1,AL: KTV Toksor
+http://nova.iptvpromotions.com:25461/quincy/quincy/11193
+#EXTINF:-1,AL: T7 FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11412
+#EXTINF:-1,AL: KLAN Kosova FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11180
+#EXTINF:-1,AL: KLAN Macedonia HD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11181
+#EXTINF:-1,AL: Klan MK
+http://nova.iptvpromotions.com:25461/quincy/quincy/11182
+#EXTINF:-1,AL: RTK 1 FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11302
+#EXTINF:-1,AL: RTK 2 HD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11303
+#EXTINF:-1,AL: RTK 3 FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11304
+#EXTINF:-1,AL: RTK 4 FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11305
+#EXTINF:-1,AL: RTV 21 FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11331
+#EXTINF:-1,AL: RTV 21 HD JUNIOR
+http://nova.iptvpromotions.com:25461/quincy/quincy/11332
+#EXTINF:-1,AL RTV 21 HD JUNIOR
+http://nova.iptvpromotions.com:25461/quincy/quincy/11333
+#EXTINF:-1,AL: RTV 21 MAGEDONIA HD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11334
+#EXTINF:-1,AL: RTV 21 Maqedoni
+http://nova.iptvpromotions.com:25461/quincy/quincy/11335
+#EXTINF:-1,AL: RTV 21 MIX FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11336
+#EXTINF:-1,AL: RTV 21 MK FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11337
+#EXTINF:-1,AL: RTV 21 NEWSBIZ FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11338
+#EXTINF:-1,AL: RTV 21 Plus FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11339
+#EXTINF:-1,AL: RTV 21 POPULLORE FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11340
+#EXTINF:-1,AL: RTV 21 Toksor HD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11341
+#EXTINF:-1,AL: RTV ALDI
+http://nova.iptvpromotions.com:25461/quincy/quincy/11342
+#EXTINF:-1,AL: RTV BUJANOC
+http://nova.iptvpromotions.com:25461/quincy/quincy/11343
+#EXTINF:-1,AL: RTV FONTANA FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11344
+#EXTINF:-1,AL: RTV ILIRIDA
+http://nova.iptvpromotions.com:25461/quincy/quincy/11345
+#EXTINF:-1,AL: RTV ISLAM HD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11346
+#EXTINF:-1,AL: RTV MALISHEVA
+http://nova.iptvpromotions.com:25461/quincy/quincy/11347
+#EXTINF:-1,AL: RTV Ora HD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11348
+#EXTINF:-1,AL: RTV Pendimi HD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11349
+#EXTINF:-1,AL: RTV Pendimi ISLAM HD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11350
+#EXTINF:-1,AL: RTV SHARRI HD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11351
+
+#EXTINF:-1,AL: T FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11410
+#EXTINF:-1,AL: T+ HD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11411
+#EXTINF:-1,AL: FILM NJE FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11110
+#EXTINF:-1,AL: FILM DY FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11101
+#EXTINF:-1,AL: FILM HITS FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11106
+#EXTINF:-1,AL: FILM ACTION HD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11095
+#EXTINF:-1,AL: Film Autor HD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11097
+#EXTINF:-1,AL: FILM DRAME HD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11100
+#EXTINF:-1,AL: Film Komedi HD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11108
+#EXTINF:-1,AL: Family HD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11102
+#EXTINF:-1,AL: FILM SHQIP HD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11111
+#EXTINF:-1,AL: FILM STINET HD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11112
+#EXTINF:-1,AL: Film Thriller HD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11113
+#EXTINF:-1,AL: Filma 24 HD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11114
+#EXTINF:-1,AL: FOX HD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11127
+#EXTINF:-1,AL: TRING JOLLY FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11465
+#EXTINF:-1,AL: Tring Action FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11456
+#EXTINF:-1,AL: TRING SUPER FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11485
+#EXTINF:-1,AL: Tring Fantasy 
+http://nova.iptvpromotions.com:25461/quincy/quincy/11459
+
+#EXTINF:-1,AL: Kanal D Drama HD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11164
+#EXTINF:-1,AL: ART KINO 1 FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/10963
+#EXTINF:-1,AL: ART KINO 2 FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/10964
+#EXTINF:-1,AL: ART KINO 3 FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/10965
+
+#EXTINF:-1,AL: Explore Natyra
+http://nova.iptvpromotions.com:25461/quincy/quincy/11069
+#EXTINF:-1,AL: Explore Shkence
+http://nova.iptvpromotions.com:25461/quincy/quincy/11070
+#EXTINF:-1,AL: Explorer Histori
+http://nova.iptvpromotions.com:25461/quincy/quincy/11071
+#EXTINF:-1,AL: ART DOKU 1 HD
+http://nova.iptvpromotions.com:25461/quincy/quincy/10961
+#EXTINF:-1,AL: ART DOKU 2 HD
+http://nova.iptvpromotions.com:25461/quincy/quincy/10962
+
+#EXTINF:-1,AL: ART Sport 1 FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/10966
+#EXTINF:-1,AL: ART Sport 2 FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/10967
+#EXTINF:-1,AL: ART Sport 3 FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/10968
+
+
+#EXTINF:-1,AL: SUPER SPORT 1 NEWS
+http://nova.iptvpromotions.com:25461/quincy/quincy/11393
+#EXTINF:-1,AL: SuperSport 1 HD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11400
+#EXTINF:-1,AL: SUPER SPORT 2 FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11394
+#EXTINF:-1,AL: SUPER SPORT 3 FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11395
+#EXTINF:-1,AL: SUPER SPORT 4 FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11396
+#EXTINF:-1,AL: SUPER SPORT 5 FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11397
+#EXTINF:-1,AL: SUPER SPORT 6 FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11398
+#EXTINF:-1,AL: SUPER SPORT NEWS FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11399
+
+#EXTINF:-1,AL: SuperSport KOSOVA 1 FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11401
+#EXTINF:-1,AL: SuperSport KOSOVA 2 FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11402
+#EXTINF:-1,AL: SuperSport KOSOVA 3 HD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11403
+#EXTINF:-1,AL: Kujtesa Sport 1 FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11194
+#EXTINF:-1,AL: Kujtesa Sport 2 FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11195
+#EXTINF:-1,AL: Kujtesa Sport 3 FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11196
+#EXTINF:-1,AL: Kujtesa Sport 4 FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11197
+
+#EXTINF:-1,AL: TRING SPORT 1 FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11476
+#EXTINF:-1,AL TRING SPORT 1 FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11477
+#EXTINF:-1,AL: TRING SPORT 2 FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11478
+#EXTINF:-1,AL TRING SPORT 2 FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11479
+#EXTINF:-1,AL: Tring Sport 3 FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11480
+#EXTINF:-1,AL TRING SPORT 3 HD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11481
+#EXTINF:-1,AL: TRING SPORT 4 FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11482
+#EXTINF:-1,AL: Tring Sport News FHD
+http://nova.iptvpromotions.com:25461/quincy/quincy/11483
+
+
+
 
 
 #EXTINF:-1   group-title="-IPTV SHQIP 2-",
