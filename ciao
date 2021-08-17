@@ -1,283 +1,395 @@
 #EXTINF:-1   group-title="-IPTV SHQIP 1-",
-#EXTINF:-1,AL: TOP Channel FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11445
-#EXTINF:-1,AL: TV KLAN FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11498
-#EXTINF:-1,AL: Klan FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11179
-#EXTINF:-1,AL: Klan Plus FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11183
+#EXTINF:-1,RTK1 (Backup) AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9458
+#EXTINF:-1,RTK 1 FHD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22814
+#EXTINF:-1,RTK 2 AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/7061
+#EXTINF:-1,RTK 3 AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/7036
+#EXTINF:-1,RTK 4 AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/7037
+#EXTINF:-1,RTV 21 (Backup) AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9451
+#EXTINF:-1,RTV 21 FHD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/3832
+#EXTINF:-1,RTV 21 Maqedonia AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9453
+#EXTINF:-1,RTV 21 Mix AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/16616
+#EXTINF:-1,KTV Kohavision AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/7065
+#EXTINF:-1,Klan Kosova HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4189
+#EXTINF:-1,Klan Kosova FHD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9455
+#EXTINF:-1,KTV Kohavision FHD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9456
+#EXTINF:-1,T7 AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/20167
+#EXTINF:-1,T7 FHD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23108
+#EXTINF:-1,Dukagjini FHD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4236
+#EXTINF:-1,Klan HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9454
+#EXTINF:-1,Klan FHD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/3800
+#EXTINF:-1,Klan Plus HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/7074
+#EXTINF:-1,Top Channel (Backup) AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9457
+#EXTINF:-1,Top Channel FHD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4178
+#EXTINF:-1,Alsat M AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/6259
+#EXTINF:-1,Alsat M (Backup) AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9450
+#EXTINF:-1,Alsat M FHD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22783
+#EXTINF:-1,Vizion Plus HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4214
+#EXTINF:-1,Vizion Plus (Backup) AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9463
+#EXTINF:-1,First Channel Kosova AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/12044
+#EXTINF:-1,arta TV HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/21901
+#EXTINF:-1,Koha TV HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/19145
+#EXTINF:-1,RTSH Shqip AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/19478
+#EXTINF:-1,RTSH 1 HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/15632
+#EXTINF:-1,RTSH 2 AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/19480
+#EXTINF:-1,RTSH 3 AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/20168
+#EXTINF:-1,TV Mitrovica AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/12037
+#EXTINF:-1,TV Prizreni AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/43387
+#EXTINF:-1,RTV 21 Plus FHD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8455
+#EXTINF:-1,RTV 21 Popullore AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/6257
+#EXTINF:-1,RTV 21 Popullore FHD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9452
+#EXTINF:-1,RTV Zeri Kosoves HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/17183
+#EXTINF:-1,RTV Fontana FHD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/24860
+#EXTINF:-1,X Çifteli HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22802
+#EXTINF:-1,X music hits HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22800
+#EXTINF:-1,X popullore HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22801
+#EXTINF:-1,TV Opoja AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/16475
+#EXTINF:-1,Dasma TV AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/7076
+#EXTINF:-1,My Music AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/7070
+#EXTINF:-1,Folk + AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/6260
+#EXTINF:-1,BBF Music AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/6261
+#EXTINF:-1,Zjarr TV AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9372
+#EXTINF:-1,Besa TV AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9395
+#EXTINF:-1,TV Sharri AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9368
+#EXTINF:-1,Top Estrada AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/12046
+#EXTINF:-1,Zico TV AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23854
+#EXTINF:-1,RTSH Muzike AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/20172
+#EXTINF:-1,Elrodi Music AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4235
+#EXTINF:-1,MTV Kosova AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/12051
+#EXTINF:-1,Q Stupcat AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/19545
+#EXTINF:-1,X humor HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22803
+#EXTINF:-1,Q Premium 1 HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/12031
+#EXTINF:-1,Q Premium 2 HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/12030
+#EXTINF:-1,Q Premium 3 HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/12029
+#EXTINF:-1,X premium 1 HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22784
+#EXTINF:-1,X premium 2 HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22785
+#EXTINF:-1,X premium 3 HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22786
+#EXTINF:-1,X premium 4 HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22787
+#EXTINF:-1,Digi Gold 1 HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/15778
+#EXTINF:-1,Digi Gold 2 HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/15779
+#EXTINF:-1,Digi Gold 3 AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/16814
+#EXTINF:-1,Digi Gold 4 AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/16815
+#EXTINF:-1,Art Kino 1 FHD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/28175
+#EXTINF:-1,Art Kino 3 FHD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/28177
+#EXTINF:-1,Film Nje HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/3815
+#EXTINF:-1,Film Dy HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/3816
+#EXTINF:-1,Film Hits AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/3818
+#EXTINF:-1,Film Aksion AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/3820
+#EXTINF:-1,Film Komedi AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/3821
+#EXTINF:-1,Film Autor AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/3803
+#EXTINF:-1,Film Thriller AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4193
+#EXTINF:-1,Film Dramë AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4194
+#EXTINF:-1,Euro Channel AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/20180
+#EXTINF:-1,Eurofilm AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/20191
+#EXTINF:-1,Sky Komedy AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9878
+#EXTINF:-1,Sky Drame AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8772
+#EXTINF:-1,Sky Aksion AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9134
+#EXTINF:-1,Star Plus AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8774
+#EXTINF:-1,RTSH film AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/17168
+#EXTINF:-1,Stinët AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/17171
+#EXTINF:-1,T HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/7055
+#EXTINF:-1,Tring 3+ AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4237
+#EXTINF:-1,Tring Tring AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4215
+#EXTINF:-1,Tring Life HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4224
+#EXTINF:-1,Tring Jolly HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4227
+#EXTINF:-1,Tring Smile AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/6258
+#EXTINF:-1,Tring Super AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4218
+#EXTINF:-1,Tring Shqip AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4219
+#EXTINF:-1,Tring Action AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4223
+#EXTINF:-1,Tring Comedy AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/2054
+#EXTINF:-1,Tring Planet AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/6088
+#EXTINF:-1,Tring World AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4213
+#EXTINF:-1,Tring History AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4228
+#EXTINF:-1,Tring Fantasy AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4230
+#EXTINF:-1,X action HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22788
+#EXTINF:-1,X comedy HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22789
+#EXTINF:-1,X dark HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22792
+#EXTINF:-1,X histori HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22798
+#EXTINF:-1,X family HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22799
+#EXTINF:-1,X natyra HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22797
+#EXTINF:-1,X romance HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22794
+#EXTINF:-1,X drama HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22791
+#EXTINF:-1,X scyfy HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22793
+#EXTINF:-1,X shkenca HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22796
+#EXTINF:-1,X thriller HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22790
+#EXTINF:-1,X western HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22795
+#EXTINF:-1,X filma24 HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22815
+#EXTINF:-1,Q Action HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/12047
+#EXTINF:-1,ALBUK HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/12053
+#EXTINF:-1,Sky Planet AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/20189
+#EXTINF:-1,FOX Crime AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/3814
+#EXTINF:-1,Bang Bang AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/7062
+#EXTINF:-1,Çufo AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4208
+#EXTINF:-1,Baby TV AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8410
+#EXTINF:-1,Tring Kids AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8773
+#EXTINF:-1,RTV 21 Junior AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/16804
+#EXTINF:-1,Junior TV AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/17182
+#EXTINF:-1,Top News AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4209
+#EXTINF:-1,ABC News AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/6263
+#EXTINF:-1,News 24 HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/3795
+#EXTINF:-1,Ora News AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/7066
+#EXTINF:-1,Kanali 7 News AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8777
+#EXTINF:-1,RTSH 24 AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/20173
+#EXTINF:-1,Kanali 7 AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/19544
+#EXTINF:-1,E! AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/7072
+#EXTINF:-1,Art Doku 1 FHD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/28178
+#EXTINF:-1,Discovery HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/11291
+#EXTINF:-1,Explorer Shkencë AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4203
+#EXTINF:-1,Explorer Natyra AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4202
+#EXTINF:-1,Explorer Natyra (Backup) AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9462
+#EXTINF:-1,Explorer Histori AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4204
+#EXTINF:-1,National Geographic AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/3793
+#EXTINF:-1,Travel Channel AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/7060
+#EXTINF:-1,Living HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9370
+#EXTINF:-1,SuperSport Kosova 1 AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/3822
+#EXTINF:-1,SuperSport Kosova 2 AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/3823
+#EXTINF:-1,SuperSport Kosova 3 AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/21627
+#EXTINF:-1,SuperSport News FHD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22807
+#EXTINF:-1,SuperSport 1 HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4198
+#EXTINF:-1,SuperSport 2 FHD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22808
+#EXTINF:-1,SuperSport 2 HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4199
+#EXTINF:-1,SuperSport 3 FHD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22809
+#EXTINF:-1,SuperSport 3 HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4200
+#EXTINF:-1,SuperSport 4 FHD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22810
+#EXTINF:-1,SuperSport 4 HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4201
+#EXTINF:-1,SuperSport 5 FHD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22811
+#EXTINF:-1,SuperSport 5 HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9373
+#EXTINF:-1,RTSH Sport AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/15635
+#EXTINF:-1,Tring Sport News HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8077
+#EXTINF:-1,Tring Sport 1 FHD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8078
+#EXTINF:-1,Tring Sport 2 FHD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8079
+#EXTINF:-1,Tring Sport 3 HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8080
+#EXTINF:-1,Tring Sport 4 HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8081
+#EXTINF:-1,K-Sport 1 AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9150
+#EXTINF:-1,K-Sport 2 AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9151
+#EXTINF:-1,K-Sport 3 AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9152
+#EXTINF:-1,K-Sport 4 AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9153
+#EXTINF:-1,Art Sport 1 FHD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/28182
+#EXTINF:-1,Art Sport 2 FHD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/28183
+#EXTINF:-1,ALB Thriller AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9143
+#EXTINF:-1,Click AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/12033
+#EXTINF:-1,Era TV AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4231
+#EXTINF:-1,FOX AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9392
+#EXTINF:-1,Klan Macedonia AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/27538
+#EXTINF:-1,Muse AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/6092
+#EXTINF:-1,Novela AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/17181
+#EXTINF:-1,Portokalli HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/19547
+#EXTINF:-1,RTSH Plus AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/15633
+#EXTINF:-1,Report TV AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9366
+#EXTINF:-1,RTV Islam AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/12019
+#EXTINF:-1,Shenja TV AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9399
+#EXTINF:-1,Star Plus Shkodar AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9384
+#EXTINF:-1,Syri TV AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/16571
+#EXTINF:-1,Syri Vision AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/20179
+#EXTINF:-1,TemaTV AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9367
+#EXTINF:-1,Tip TV AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/7063
+#EXTINF:-1,TV Dielli AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/19542
+#EXTINF:-1,TV Kopliku AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/20184
+#EXTINF:-1,Euronews HD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/34755
+#EXTINF:-1,Supersonic TV AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/3810
+#EXTINF:-1,TDC AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/38606
+#EXTINF:-1,Kanal 10 AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/53152
+#EXTINF:-1,Kanal D Drama FHD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/56168
+#EXTINF:-1,First Channel Kosova FHD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/66309
+#EXTINF:-1,A TV FHD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/73298
+#EXTINF:-1,Art Kino 2 FHD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/28176
+#EXTINF:-1,Art Sport 3 FHD AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/28184
+#EXTINF:-1,Blic TV Presheva AL
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/81434
 
-#EXTINF:-1,AL: VIZION PLUS FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11521
-#EXTINF:-1,AL: VIZION PLUS
-http://nova.iptvpromotions.com:25461/quincy/quincy/11522
-
-#EXTINF:-1,AL: RTSH 1 FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11310
-#EXTINF:-1,AL: RTSH 2 FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11311
-#EXTINF:-1,AL: RTSH 3 FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11312
-#EXTINF:-1,AL: RTSH 24 HD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11313
-#EXTINF:-1,AL: RTSH Femije FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11314
-#EXTINF:-1,AL: RTSH Film FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11315
-#EXTINF:-1,AL: RTSH GJIROKASTRA
-http://nova.iptvpromotions.com:25461/quincy/quincy/11316
-#EXTINF:-1,AL: RTSH HD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11317
-#EXTINF:-1,AL: RTSH KORÇA
-http://nova.iptvpromotions.com:25461/quincy/quincy/11318
-#EXTINF:-1,AL: RTSH KUVEND
-http://nova.iptvpromotions.com:25461/quincy/quincy/11319
-#EXTINF:-1,AL: RTSH Music FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11320
-#EXTINF:-1,AL: RTSH Muzik
-http://nova.iptvpromotions.com:25461/quincy/quincy/11321
-#EXTINF:-1,AL RTSH Muzik
-http://nova.iptvpromotions.com:25461/quincy/quincy/11322
-#EXTINF:-1,AL: RTSH MUZIKE
-http://nova.iptvpromotions.com:25461/quincy/quincy/11323
-#EXTINF:-1,AL RTSH MUZIKE
-http://nova.iptvpromotions.com:25461/quincy/quincy/11324
-#EXTINF:-1,AL: RTSH PLUS
-http://nova.iptvpromotions.com:25461/quincy/quincy/11325
-#EXTINF:-1,AL: RTSH Plus shkolle
-http://nova.iptvpromotions.com:25461/quincy/quincy/11326
-#EXTINF:-1,AL: RTSH SAT HD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11327
-#EXTINF:-1,AL: RTSH Shqip FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11328
-#EXTINF:-1,AL: RTSH SPORT FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11329
-
-
-
-
-
-#EXTINF:-1,AL: Syri News TV
-http://nova.iptvpromotions.com:25461/quincy/quincy/11406
-#EXTINF:-1,AL: TOP NEWS HD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11447
-
-#EXTINF:-1,AL: TV DUKAGJINI HD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11496
-#EXTINF:-1,AL: Kanal 10 FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11163
-#EXTINF:-1,AL: Alsat M ( Tokesor )
-http://nova.iptvpromotions.com:25461/quincy/quincy/10946
-#EXTINF:-1,AL: ALSAT M FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/10947
-#EXTINF:-1,AL: KTV FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11191
-#EXTINF:-1,AL: Ktv Kohavision
-http://nova.iptvpromotions.com:25461/quincy/quincy/11192
-#EXTINF:-1,AL: KTV Toksor
-http://nova.iptvpromotions.com:25461/quincy/quincy/11193
-#EXTINF:-1,AL: T7 FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11412
-#EXTINF:-1,AL: KLAN Kosova FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11180
-#EXTINF:-1,AL: KLAN Macedonia HD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11181
-#EXTINF:-1,AL: Klan MK
-http://nova.iptvpromotions.com:25461/quincy/quincy/11182
-#EXTINF:-1,AL: RTK 1 FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11302
-#EXTINF:-1,AL: RTK 2 HD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11303
-#EXTINF:-1,AL: RTK 3 FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11304
-#EXTINF:-1,AL: RTK 4 FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11305
-#EXTINF:-1,AL: RTV 21 FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11331
-#EXTINF:-1,AL: RTV 21 HD JUNIOR
-http://nova.iptvpromotions.com:25461/quincy/quincy/11332
-#EXTINF:-1,AL RTV 21 HD JUNIOR
-http://nova.iptvpromotions.com:25461/quincy/quincy/11333
-#EXTINF:-1,AL: RTV 21 MAGEDONIA HD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11334
-#EXTINF:-1,AL: RTV 21 Maqedoni
-http://nova.iptvpromotions.com:25461/quincy/quincy/11335
-#EXTINF:-1,AL: RTV 21 MIX FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11336
-#EXTINF:-1,AL: RTV 21 MK FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11337
-#EXTINF:-1,AL: RTV 21 NEWSBIZ FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11338
-#EXTINF:-1,AL: RTV 21 Plus FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11339
-#EXTINF:-1,AL: RTV 21 POPULLORE FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11340
-#EXTINF:-1,AL: RTV 21 Toksor HD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11341
-#EXTINF:-1,AL: RTV ALDI
-http://nova.iptvpromotions.com:25461/quincy/quincy/11342
-#EXTINF:-1,AL: RTV BUJANOC
-http://nova.iptvpromotions.com:25461/quincy/quincy/11343
-#EXTINF:-1,AL: RTV FONTANA FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11344
-#EXTINF:-1,AL: RTV ILIRIDA
-http://nova.iptvpromotions.com:25461/quincy/quincy/11345
-#EXTINF:-1,AL: RTV ISLAM HD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11346
-#EXTINF:-1,AL: RTV MALISHEVA
-http://nova.iptvpromotions.com:25461/quincy/quincy/11347
-#EXTINF:-1,AL: RTV Ora HD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11348
-#EXTINF:-1,AL: RTV Pendimi HD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11349
-#EXTINF:-1,AL: RTV Pendimi ISLAM HD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11350
-#EXTINF:-1,AL: RTV SHARRI HD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11351
-
-#EXTINF:-1,AL: T FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11410
-#EXTINF:-1,AL: T+ HD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11411
-#EXTINF:-1,AL: FILM NJE FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11110
-#EXTINF:-1,AL: FILM DY FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11101
-#EXTINF:-1,AL: FILM HITS FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11106
-#EXTINF:-1,AL: FILM ACTION HD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11095
-#EXTINF:-1,AL: Film Autor HD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11097
-#EXTINF:-1,AL: FILM DRAME HD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11100
-#EXTINF:-1,AL: Film Komedi HD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11108
-#EXTINF:-1,AL: Euro Film HD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11062
-#EXTINF:-1,AL: Family HD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11102
-#EXTINF:-1,AL: FILM SHQIP HD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11111
-#EXTINF:-1,AL: FILM STINET HD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11112
-#EXTINF:-1,AL: Film Thriller HD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11113
-#EXTINF:-1,AL: Filma 24 HD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11114
-#EXTINF:-1,AL: FOX HD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11127
-#EXTINF:-1,AL: TRING JOLLY FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11465
-#EXTINF:-1,AL: Tring Action FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11456
-#EXTINF:-1,AL: TRING SUPER FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11485
-#EXTINF:-1,AL: Tring Fantasy 
-http://nova.iptvpromotions.com:25461/quincy/quincy/11459
-#EXTINF:-1,AL: Tring 3 Plus 
-http://nova.iptvpromotions.com:25461/quincy/quincy/11454
-#EXTINF:-1,AL: Tring Komedi
-http://nova.iptvpromotions.com:25461/quincy/quincy/11467
-#EXTINF:-1,AL: TRING LIFE
-http://nova.iptvpromotions.com:25461/quincy/quincy/11468
-#EXTINF:-1,AL: Tring Shqip 
-http://nova.iptvpromotions.com:25461/quincy/quincy/11474
-
-#EXTINF:-1,AL: Kanal D Drama HD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11164
-#EXTINF:-1,AL: ART KINO 1 FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/10963
-#EXTINF:-1,AL: ART KINO 2 FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/10964
-#EXTINF:-1,AL: ART KINO 3 FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/10965
-
-#EXTINF:-1,AL: TRING HISTORI
-http://nova.iptvpromotions.com:25461/quincy/quincy/11460
-#EXTINF:-1,AL: Tring Planet 
-http://nova.iptvpromotions.com:25461/quincy/quincy/11473
-#EXTINF:-1,AL: Tring World 
-http://nova.iptvpromotions.com:25461/quincy/quincy/11487
-
-#EXTINF:-1,AL: Tring Tring 
-http://nova.iptvpromotions.com:25461/quincy/quincy/11486
-#EXTINF:-1,AL: Tip TV HD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11441
-#EXTINF:-1,AL: SOFIA HD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11375
-#EXTINF:-1,AL: Cufo HD
-http://nova.iptvpromotions.com:25461/quincy/quincy/10999
-#EXTINF:-1,AL: BANG BANG HD
-http://nova.iptvpromotions.com:25461/quincy/quincy/10978
-#EXTINF:-1,AL: Explore Natyra
-http://nova.iptvpromotions.com:25461/quincy/quincy/11069
-#EXTINF:-1,AL: Explore Shkence
-http://nova.iptvpromotions.com:25461/quincy/quincy/11070
-#EXTINF:-1,AL: Explorer Histori
-http://nova.iptvpromotions.com:25461/quincy/quincy/11071
-#EXTINF:-1,AL: ART DOKU 1 HD
-http://nova.iptvpromotions.com:25461/quincy/quincy/10961
-#EXTINF:-1,AL: ART DOKU 2 HD
-http://nova.iptvpromotions.com:25461/quincy/quincy/10962
-
-#EXTINF:-1,AL: ART Sport 1 FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/10966
-#EXTINF:-1,AL: ART Sport 2 FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/10967
-#EXTINF:-1,AL: ART Sport 3 FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/10968
-
-
-#EXTINF:-1,AL: SUPER SPORT 1 NEWS
-http://nova.iptvpromotions.com:25461/quincy/quincy/11393
-#EXTINF:-1,AL: SuperSport 1 HD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11400
-#EXTINF:-1,AL: SUPER SPORT 2 FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11394
-#EXTINF:-1,AL: SUPER SPORT 3 FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11395
-#EXTINF:-1,AL: SUPER SPORT 4 FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11396
-#EXTINF:-1,AL: SUPER SPORT 5 FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11397
-#EXTINF:-1,AL: SUPER SPORT 6 FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11398
-#EXTINF:-1,AL: SUPER SPORT NEWS FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11399
-
-#EXTINF:-1,AL: SuperSport KOSOVA 1 FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11401
-#EXTINF:-1,AL: SuperSport KOSOVA 2 FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11402
-#EXTINF:-1,AL: SuperSport KOSOVA 3 HD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11403
-#EXTINF:-1,AL: Kujtesa Sport 1 FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11194
-#EXTINF:-1,AL: Kujtesa Sport 2 FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11195
-#EXTINF:-1,AL: Kujtesa Sport 3 FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11196
-#EXTINF:-1,AL: Kujtesa Sport 4 FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11197
-
-#EXTINF:-1,AL: TRING SPORT 1 FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11476
-#EXTINF:-1,AL TRING SPORT 1 FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11477
-#EXTINF:-1,AL: TRING SPORT 2 FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11478
-#EXTINF:-1,AL TRING SPORT 2 FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11479
-#EXTINF:-1,AL: Tring Sport 3 FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11480
-#EXTINF:-1,AL TRING SPORT 3 HD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11481
-#EXTINF:-1,AL: TRING SPORT 4 FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11482
-#EXTINF:-1,AL: Tring Sport News FHD
-http://nova.iptvpromotions.com:25461/quincy/quincy/11483
 
 
 
@@ -4340,1171 +4452,325 @@ http://168.119.38.56:86/Canale_5/index.m3u8?token=test
 http://str.smartip-tv.net:8888/Rete_4/index.m3u8?token=test
 
 
-#EXTINF:-1,Rai 1 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8626
-#EXTINF:-1,RAI 2 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8627
-#EXTINF:-1,RAI 3 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8628
-#EXTINF:-1,RETE 4 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8629
-#EXTINF:-1,Canale 5 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8630
-#EXTINF:-1,Italia 1 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8631
-#EXTINF:-1,La 7 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8632
-#EXTINF:-1,LA 7d FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8633
-#EXTINF:-1,TV8 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8634
-#EXTINF:-1,Nove FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8635
-#EXTINF:-1,Cielo FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8636
-#EXTINF:-1,20 Mediaset FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8637
-#EXTINF:-1,Giallo FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8638
-#EXTINF:-1,Rai4K
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/76812
-#EXTINF:-1,RAI 4 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8639
-#EXTINF:-1,RAI 5 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8640
-#EXTINF:-1,RAI Movie FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8641
-#EXTINF:-1,RAI Premium FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8642
-#EXTINF:-1,RAI Scuola FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8643
-#EXTINF:-1,RAI Storia FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8644
-#EXTINF:-1,Real Time FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8645
-#EXTINF:-1,DMAX FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8646
-#EXTINF:-1,Food Network FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8647
-#EXTINF:-1,RSI LA 1 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8648
-#EXTINF:-1,RSI LA 2 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8649
-#EXTINF:-1,Motor Trend FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8650
-
-#EXTINF:-1,RAI 1 H265
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8652
-#EXTINF:-1,RAI 1 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8653
-#EXTINF:-1,RAI 1 SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8654
-#EXTINF:-1,RAI 2 H265
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8655
-#EXTINF:-1,RAI 2 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8656
-#EXTINF:-1,RAI 2 SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8657
-#EXTINF:-1,RAI 3 H265
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8658
-#EXTINF:-1,RAI 3 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8659
-#EXTINF:-1,RAI 3 SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8660
-#EXTINF:-1,RETE 4 H265
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8661
-#EXTINF:-1,RETE 4 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8662
-#EXTINF:-1,RETE 4 SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8663
-#EXTINF:-1,CANALE 5 H265
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8664
-#EXTINF:-1,CANALE 5 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8665
-#EXTINF:-1,CANALE 5 SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8666
-#EXTINF:-1,ITALIA 1 H265
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8667
-#EXTINF:-1,ITALIA 1 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8668
-#EXTINF:-1,ITALIA 1 SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8669
-#EXTINF:-1,LA 7 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8670
-#EXTINF:-1,LA 7 SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8671
-#EXTINF:-1,LA 7d HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8672
-#EXTINF:-1,TV 8 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8673
-#EXTINF:-1,TV 8 SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8674
-#EXTINF:-1,NOVE HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8675
-#EXTINF:-1,NOVE SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8676
-#EXTINF:-1,DMAX HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8677
-#EXTINF:-1,DMAX SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8678
-#EXTINF:-1,CIELO HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8679
-#EXTINF:-1,CIELO SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8680
-#EXTINF:-1,CANALE 20 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8681
-#EXTINF:-1,CANALE 20 SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8682
-#EXTINF:-1,RAI 4 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8683
-#EXTINF:-1,RAI 4 SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8684
-#EXTINF:-1,RAI 5 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8685
-#EXTINF:-1,RAI 5 SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8686
-#EXTINF:-1,RAI MOVIE HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8687
-#EXTINF:-1,RAI MOVIE SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8688
-#EXTINF:-1,RAI PREMIUM HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8689
-#EXTINF:-1,RAI PREMIUM SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8690
-#EXTINF:-1,RAI SCUOLA HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8691
-#EXTINF:-1,RAI SCUOLA SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8692
-#EXTINF:-1,RAI STORIA HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8693
-#EXTINF:-1,RAI STORIA SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8694
-#EXTINF:-1,REAL TIME HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8695
-#EXTINF:-1,REALTIME SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8696
-#EXTINF:-1,FOOD NETWORK HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8697
-#EXTINF:-1,MOTOR TREND HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8698
-#EXTINF:-1,MEDIASET EXTRA HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8700
-#EXTINF:-1,RSI LA 1 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8702
-#EXTINF:-1,RSI LA 1 SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8703
-#EXTINF:-1,RSI LA 2 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8704
-#EXTINF:-1,RSI LA 2 SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8705
-#EXTINF:-1,IRIS HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8706
-#EXTINF:-1,SPIKE HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8707
-#EXTINF:-1,ALICE HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8708
-#EXTINF:-1,PARAMOUNT CHANNEL HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8709
-#EXTINF:-1,CINE 34 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8710
-#EXTINF:-1,LA 5 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8711
-#EXTINF:-1,HGTV HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8712
-#EXTINF:-1,QVC HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8713
-#EXTINF:-1,TV2000 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8714
-#EXTINF:-1,ITALIA 2 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8715
-#EXTINF:-1,FOCUS HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8716
-#EXTINF:-1,WINE TV HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8717
-#EXTINF:-1,TV LUNA
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8718
-#EXTINF:-1,PADREPIO HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8719
-#EXTINF:-1,CANALE 21
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8721
-#EXTINF:-1,VideolinaTV
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8722
-
-#EXTINF:-1,SKY UNO H265
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8728
-#EXTINF:-1,SKY UNO FULL HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8729
-#EXTINF:-1,SKY UNO HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8730
-#EXTINF:-1,SKY UNO SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8731
-#EXTINF:-1,SKY UNO +1 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/49234
-#EXTINF:-1,SKY ATLANTIC H265
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8732
-#EXTINF:-1,SKY ATLANTIC FULL HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8733
-#EXTINF:-1,SKY ATLANTIC HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8734
-#EXTINF:-1,SKY ATLANTIC SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8735
-#EXTINF:-1,SKY ATLANTIC +1 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/49233
-#EXTINF:-1,Sky Documentaries FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/76692
-#EXTINF:-1,Sky Documentaries HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/76693
-#EXTINF:-1,Sky Serie FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/76688
-#EXTINF:-1,Sky Serie HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/76689
-#EXTINF:-1,FOX H265
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8736
-#EXTINF:-1,FOX FULL HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8737
-#EXTINF:-1,SKY FOX HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8738
-#EXTINF:-1,FOX SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8739
-#EXTINF:-1,Sky Investigation H265
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8740
-#EXTINF:-1,Sky Investigation FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8741
-#EXTINF:-1,Sky Investigation HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8742
-#EXTINF:-1,Sky Investigation SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8743
-#EXTINF:-1,SKY BLAZE FULL HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8745
-#EXTINF:-1,SKY BLAZE HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8746
-#EXTINF:-1,BLAZE SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8747
-#EXTINF:-1,COMEDY CENTRAL FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8749
-#EXTINF:-1,COMEDY CENTRAL HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8750
-#EXTINF:-1,LAEFFE FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8751
-#EXTINF:-1,LAEFFE HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8752
-#EXTINF:-1,MTV FULL HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8754
-#EXTINF:-1,MTV HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8755
-#EXTINF:-1,MTV SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8756
-#EXTINF:-1,VH1
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8757
-
-#EXTINF:-1,SKY CINEMA UNO H265
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8758
-#EXTINF:-1,SKY CINEMA UNO FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8759
-#EXTINF:-1,SKY CINEMA UNO HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8760
-#EXTINF:-1,SKY CINEMA UNO SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8761
-#EXTINF:-1,SKY CINEMA DUE H265
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8766
-#EXTINF:-1,SKY CINEMA DUE FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8767
-#EXTINF:-1,SKY CINEMA DUE HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8768
-#EXTINF:-1,SKY CINEMA DUE SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8769
-#EXTINF:-1,SKY CINEMA ACTION H265
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8774
-#EXTINF:-1,SKY CINEMA ACTION FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8775
-#EXTINF:-1,SKY CINEMA ACTION HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8776
-#EXTINF:-1,SKY CINEMA ACTION SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8777
-#EXTINF:-1,SKY CINEMA COLLECTION H265
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8778
-#EXTINF:-1,SKY CINEMA COLLECTION FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8779
-#EXTINF:-1,SKY CINEMA COLLECTION HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8780
-#EXTINF:-1,SKY CINEMA COLLECTION SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8781
-#EXTINF:-1,SKY CINEMA COMEDY H265
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8782
-#EXTINF:-1,SKY CINEMA COMEDY FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8783
-#EXTINF:-1,SKY CINEMA COMEDY HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8784
-#EXTINF:-1,SKY CINEMA COMEDY SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8785
-#EXTINF:-1,SKY CINEMA DRAMA H265
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8786
-#EXTINF:-1,SKY CINEMA DRAMA FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8787
-#EXTINF:-1,SKY CINEMA DRAMA HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8788
-#EXTINF:-1,SKY CINEMA DRAMA SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8789
-#EXTINF:-1,SKY CINEMA FAMILY H265
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8790
-#EXTINF:-1,SKY CINEMA FAMILY FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8791
-#EXTINF:-1,SKY CINEMA FAMILY HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8792
-#EXTINF:-1,SKY CINEMA FAMILY SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8793
-#EXTINF:-1,SKY CINEMA ROMANCE H265
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8794
-#EXTINF:-1,SKY CINEMA ROMANCE FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8795
-#EXTINF:-1,SKY CINEMA ROMANCE HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8796
-#EXTINF:-1,SKY CINEMA ROMANCE SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8797
-#EXTINF:-1,SKY CINEMA SUSPENSE H265
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8798
-#EXTINF:-1,SKY CINEMA SUSPENSE FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8799
-#EXTINF:-1,SKY CINEMA SUSPENSE HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8800
-#EXTINF:-1,SKY CINEMA SUSPENSE SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8801
-
-#EXTINF:-1,PREMIUM CINEMA 1 H265
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8804
-#EXTINF:-1,PREMIUM CINEMA 1 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8805
-#EXTINF:-1,PREMIUM CINEMA 1 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8806
-#EXTINF:-1,PREMIUM CINEMA 2 H265
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8807
-#EXTINF:-1,PREMIUM CINEMA 2 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8808
-#EXTINF:-1,PREMIUM CINEMA 2 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8809
-#EXTINF:-1,PREMIUM CINEMA 3 H265
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8810
-#EXTINF:-1,PREMIUM CINEMA 3 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8811
-#EXTINF:-1,PREMIUM CINEMA 3 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8812
-#EXTINF:-1,PREMIUM CINEMA  +24 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8814
-#EXTINF:-1,PREMIUM CINEMA  +24 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8815
-#EXTINF:-1,PREMIUM CINEMA +24 H265
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8813
-
-#EXTINF:-1,PREMIUM ACTION H265
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8817
-#EXTINF:-1,PREMIUM ACTION FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8818
-#EXTINF:-1,PREMIUM ACTION HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8819
-#EXTINF:-1,PREMIUM CRIME H265
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8820
-#EXTINF:-1,PREMIUM CRIME FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8821
-#EXTINF:-1,PREMIUM CRIME HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8822
-#EXTINF:-1,PREMIUM STORIES H265
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8823
-#EXTINF:-1,PREMIUM STORIES FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8824
-#EXTINF:-1,PREMIUM STORIES HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8825
-#EXTINF:-1,TOP CRIME
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8826
-
-#EXTINF:-1,Adriano Celentano Channel
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/45333
-#EXTINF:-1,Alberto Sordi Channel
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/45334
-#EXTINF:-1,Aldo Giovanni e Giacomo Channel
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/45335
-#EXTINF:-1,Alessandro Siani Channel
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/45336
-#EXTINF:-1,Alvaro Vitali Channel
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/45337
-#EXTINF:-1,Angelina Jolie Channel
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/45338
-#EXTINF:-1,Biaggio Izzo Channel
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/45339
-#EXTINF:-1,Boldi E Desica Channel
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/45340
-#EXTINF:-1,Bud Spencer Channel
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/45341
-#EXTINF:-1,Carlo Verdone Channel
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/45342
-#EXTINF:-1,Checco Zalone Channel
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/45343
-#EXTINF:-1,Chuck Norris Channel
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/45344
-#EXTINF:-1,Clint Eastwood Channel
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/45345
-#EXTINF:-1,Dario Argento Channel
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/45346
-#EXTINF:-1,Diego Abatantuono Channel
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/45347
-#EXTINF:-1,Ficarra E Picone Channel
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/45348
-#EXTINF:-1,Franco e Ciccio Channel
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/45349
-#EXTINF:-1,Jason Statham Channel
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/45350
-#EXTINF:-1,Leonardo Pieraccioni Channel
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/45351
-#EXTINF:-1,Nicolas Cage Channel
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/45352
-#EXTINF:-1,Paolo Villaggio Channel
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/45353
-#EXTINF:-1,Roberto Benigni Channel
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/45354
-#EXTINF:-1,Steven Seagal Channel
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/45355
-#EXTINF:-1,Totò Channel
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/49607
-
-#EXTINF:-1,Cinema Azione
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9596
-#EXTINF:-1,Cinema Animazione
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9597
-#EXTINF:-1,Cinema Christmas
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9598
-#EXTINF:-1,Cinema Horror
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9599
-#EXTINF:-1,Cinema Fantascienza
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9600
-#EXTINF:-1,Cinema Commedia
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9601
-#EXTINF:-1,Cinema Prima Visione
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9602
-#EXTINF:-1,Cinema Fantasy
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9603
-#EXTINF:-1,Cinema 007
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9604
-#EXTINF:-1,Cinema Fantastico
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9605
-#EXTINF:-1,Cinema Thriller
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9606
-#EXTINF:-1,Cinema 4K
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9607
-#EXTINF:-1,Fantozzi Channel
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9608
-#EXTINF:-1,Cinema Drammatico
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9609
-#EXTINF:-1,Cinema Film in Sala
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9610
-#EXTINF:-1,Cinema Western
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9611
-#EXTINF:-1,Cinema Avventura
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9612
-#EXTINF:-1,Cinema Spaghetti Western
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9613
-#EXTINF:-1,Cinepanettone
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9614
-#EXTINF:-1,Cinema Biografico
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9615
-#EXTINF:-1,Cinema Famiglia
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9616
-#EXTINF:-1,Cinema 20thCenturyFox FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9617
-#EXTINF:-1,Cinema Drammatico FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9618
-#EXTINF:-1,Cinema Passione FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9619
-#EXTINF:-1,Cinema Storico FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9620
-#EXTINF:-1,Cinema Comico Cult FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9621
-#EXTINF:-1,Cinema Sorriso FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9622
-#EXTINF:-1,Cinema Mitologia HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9623
-#EXTINF:-1,Cinema Religion HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9624
-
-#EXTINF:-1,Cinema MARVEL FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9626
-#EXTINF:-1,007 Channel HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9627
-#EXTINF:-1,DC's Legends of Tomorrow 1  FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9628
-#EXTINF:-1,DC's Legends of Tomorrow 2  FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9629
-#EXTINF:-1,DC's Legends of Tomorrow 3  FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9630
-#EXTINF:-1,DC's Legends of Tomorrow 4  FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9631
-#EXTINF:-1,Kung Fu Panda Series Channel HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9632
-#EXTINF:-1,Lo Hobbit Channel FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9633
-#EXTINF:-1,Gomorra Stagione 1 FHD HEVC
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9634
-#EXTINF:-1,Gomorra Stagione 2 FHD HEVC
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9635
-#EXTINF:-1,Gomorra Stagione 3 FHD HEVC
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9636
-#EXTINF:-1,Gomorra Stagione 4 FHD HEVC (FINALE)
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9637
-#EXTINF:-1,Il Trono di Spade stagione 8 FHD (FINALE)
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9638
-#EXTINF:-1,Il Trono di Spade stagione 1 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9639
-#EXTINF:-1,Il Trono di Spade stagione 2 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9640
-#EXTINF:-1,Il Trono di Spade stagione 3 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9641
-#EXTINF:-1,Il Trono di Spade stagione 4 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9642
-#EXTINF:-1,Il Trono di Spade stagione 5 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9643
-#EXTINF:-1,Il Trono di Spade stagione 6 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9644
-#EXTINF:-1,Il Trono di Spade stagione 7 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9645
-#EXTINF:-1,The Big Bang Theory FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9646
-#EXTINF:-1,Me-contro-Te Channel HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9647
-#EXTINF:-1,Ghost Adventures-Cacciatori di fantasmi Channel
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9648
-#EXTINF:-1,Fast and Furious Channel FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9649
-#EXTINF:-1,I Mercenari-The Expendables Channel FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9650
-#EXTINF:-1,Underworld  Channel FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9651
-#EXTINF:-1,Star Wars Channel FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9652
-#EXTINF:-1,Men in Black Channel FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9653
-#EXTINF:-1,Mission impossible Channel FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9654
-#EXTINF:-1,Pirati dei Caraibi Channel FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9655
-#EXTINF:-1,Pirati dei Caraibi Channel 4K
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9656
-#EXTINF:-1,Rambo Channel FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9657
-#EXTINF:-1,Rocky Channel FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9658
-#EXTINF:-1,Terminator Channel FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9659
-#EXTINF:-1,The Bourne Channel FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9660
-#EXTINF:-1,Transformers Channel FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9661
-#EXTINF:-1,Twilight Channel FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9662
-#EXTINF:-1,Avengers Grimm Channel FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9663
-#EXTINF:-1,G.I.JOE Channel FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9664
-#EXTINF:-1,Harry Potter Channel FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9665
-#EXTINF:-1,Hunger Games Channel FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9666
-#EXTINF:-1,Il Re Scorpione Channel FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9667
-#EXTINF:-1,IL Signore Degli Anelli Channel FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9668
-#EXTINF:-1,Indiana Jones Channel FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9669
-#EXTINF:-1,IP MAN Channel FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9670
-#EXTINF:-1,Karate Kid Channel FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9671
-#EXTINF:-1,Vetrina Sky Primafila
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/46313
-#EXTINF:-1,Sky Primafila 1 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/46314
-#EXTINF:-1,Sky Primafila 2 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/46315
-#EXTINF:-1,Sky Primafila 3 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/46316
-#EXTINF:-1,Sky Primafila 4 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/46317
-#EXTINF:-1,Sky Primafila 5 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/46318
-#EXTINF:-1,Sky Primafila 6 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/46319
-#EXTINF:-1,Sky Primafila 7 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/46320
-#EXTINF:-1,Sky Primafila 8 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/46321
-#EXTINF:-1,Sky Primafila 9 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/46322
-#EXTINF:-1,Sky Primafila 10 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/46323
-#EXTINF:-1,Sky Primafila 11 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/46324
-#EXTINF:-1,Sky Primafila 12 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/46325
-#EXTINF:-1,Sky Primafila 13 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/46326
-#EXTINF:-1,Sky Primafila 14 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/46327
-#EXTINF:-1,Sky Primafila 15 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/46328
-#EXTINF:-1,Sky Primafila 16 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/46329
-#EXTINF:-1,Sky Primafila 17 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/46330
-#EXTINF:-1,Sky Primafila 18 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/46331
+#EXTINF:-1,Rai 4K IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/24698
+#EXTINF:-1,Rai 1 HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14207
+#EXTINF:-1,Rai 1 IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/1662
+#EXTINF:-1,Rai 2 HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14206
+#EXTINF:-1,Rai 2 IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/1663
+#EXTINF:-1,Rai 3 HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14205
+#EXTINF:-1,Rai 3 IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/1664
+#EXTINF:-1,Rai 4 HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14204
+#EXTINF:-1,Rai 4 IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/1709
+#EXTINF:-1,Rai 5 HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14203
+#EXTINF:-1,Rai Movie HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14100
+#EXTINF:-1,Rai Movie IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4108
+#EXTINF:-1,Rai News 24 HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8996
+#EXTINF:-1,Rai Premium HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14098
+#EXTINF:-1,Rai Scuola HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8998
+#EXTINF:-1,Rai Sport + HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14202
+#EXTINF:-1,Rai Sport IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14201
+#EXTINF:-1,Rai Yoyo HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8994
+#EXTINF:-1,Real Time HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14199
+#EXTINF:-1,Rete Quattro IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14200
+#EXTINF:-1,Sky Atlantic HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/1682
+#EXTINF:-1,Sky Cinema Uno HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4077
+#EXTINF:-1,Sky Cinema Drama HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14083
+#EXTINF:-1,Sky Cinema Comedy HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/2011
+#EXTINF:-1,Sky Cinema Family HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/2010
+#EXTINF:-1,Sky Sport NBA HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14069
+#EXTINF:-1,Sky Sport Uno HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14073
+#EXTINF:-1,Sky Sport 24 HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/1686
+#EXTINF:-1,Sky Sport Arena HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/1689
+#EXTINF:-1,Sky Sport F1 HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/1691
+#EXTINF:-1,Sky Sport MotoGP HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/3639
+#EXTINF:-1,Sky Uno HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/1681
+#EXTINF:-1,SportItalia IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14120
+#EXTINF:-1,Super Tennis HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4084
+#EXTINF:-1,Super! HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14066
+#EXTINF:-1,TV2000 IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9002
+#EXTINF:-1,Top Crime IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8241
+#EXTINF:-1,La 7 d IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/16568
+#EXTINF:-1,La 7 HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/16567
+#EXTINF:-1,Milan TV IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/17244
+#EXTINF:-1,Baby TV IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/17330
+#EXTINF:-1,Lazio Style TV IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/17332
+#EXTINF:-1,Radio Freccia HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/17326
+#EXTINF:-1,Radionorba TV IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/17327
+#EXTINF:-1,RTL 102.5 HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/17328
+#EXTINF:-1,Sky Sport Football HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/17371
+#EXTINF:-1,Radio Italia HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/18102
+#EXTINF:-1,Radio Italia Trend HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/28335
+#EXTINF:-1,Sky Sport Collection HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23265
+#EXTINF:-1,Motor Trend FHD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23275
+#EXTINF:-1,Sky Cinema Uno +24 HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/7011
+#EXTINF:-1,Sky Arte HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/21544
+#EXTINF:-1,Rai Storia HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23367
+#EXTINF:-1,Rete Quattro HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23368
+#EXTINF:-1,20 Mediaset  FHD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23371
+#EXTINF:-1,Spike Italia HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23373
+#EXTINF:-1,National Geographic Wild HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23376
+#EXTINF:-1,Pesca HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23377
+#EXTINF:-1,Italian Fishing TV IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23391
+#EXTINF:-1,Crime + Investigation HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23392
+#EXTINF:-1,History HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23397
+#EXTINF:-1,Paramount Channel IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23398
+#EXTINF:-1,Unire Sat HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23399
+#EXTINF:-1,Italia 1 FHD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23939
+#EXTINF:-1,Rai Premium IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23933
+#EXTINF:-1,Rai Gulp HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23932
+#EXTINF:-1,Sky Cinema Due HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/26904
+#EXTINF:-1,Sky Cinema Collection HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/26903
+#EXTINF:-1,Sky Cinema Romance HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/26902
+#EXTINF:-1,Sky Cinema Action HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/26901
+#EXTINF:-1,Sky Cinema Suspense HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/26900
+#EXTINF:-1,Premium Action HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14137
+#EXTINF:-1,Premium Cinema 2 Comedy HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/6902
+#EXTINF:-1,Premium Cinema 3 Energy HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/6904
+#EXTINF:-1,Premium Cinema 1 HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14124
+#EXTINF:-1,Premium Crime IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14114
+#EXTINF:-1,Premium Stories HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14103
+#EXTINF:-1,Sky Primafila 1 HD Live IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/1998
+#EXTINF:-1,Sky Primafila 2 HD Live IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/1999
+#EXTINF:-1,Sky Primafila 3 HD Live IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/2000
+#EXTINF:-1,Sky Primafila 4 HD Live IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/2001
+#EXTINF:-1,Sky Primafila 5 HD Live IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/2002
+#EXTINF:-1,Sky Primafila 6 HD Live IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/2003
+#EXTINF:-1,Sky Primafila 7 HD Live IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/2004
+#EXTINF:-1,Sky Primafila 8 HD Live IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/2005
+#EXTINF:-1,Sky Primafila 9 HD Live IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/2006
+#EXTINF:-1,Sky Primafila 10 HD Live IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/2007
+#EXTINF:-1,Sportitalia SoloCalcio HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14131
+#EXTINF:-1,Eagle Cinema Prima HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23381
+#EXTINF:-1,Eagle Cinema Thriller HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23382
+#EXTINF:-1,Eagle Cinema Fantastico HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23383
+#EXTINF:-1,Eagle Cinema Azione HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23384
+#EXTINF:-1,Eagle Cinema Commedia HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23385
+#EXTINF:-1,Eagle Cinema Collection HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23386
+#EXTINF:-1,Eagle Cinema Horror HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23387
+#EXTINF:-1,Eagle Cinema Avventura HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23388
+#EXTINF:-1,Eagle Cinema Passione HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23389
+#EXTINF:-1,Eagle Cinema Storico HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23390
+#EXTINF:-1,Eagle Cinema Comico Cult HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/26905
+#EXTINF:-1,Eagle Cinema Drammatico HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/27227
+#EXTINF:-1,Eagle Cinema Sorriso FHD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/26886
+#EXTINF:-1,Eagle Cinema Mitologia IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/26888
+#EXTINF:-1,Eagle Cinema Religion HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/26889
+#EXTINF:-1,Eagle Cinema Western HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/26890
+#EXTINF:-1,Eagle Cinema Animazione HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/26887
+#EXTINF:-1,Top Calcio 24 IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/28203
+#EXTINF:-1,Sky Sport 5 HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8969
+#EXTINF:-1,Sky Sport 4 HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8968
+#EXTINF:-1,Sky Sport 3 HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8967
+#EXTINF:-1,Sky Sport 2 HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/1694
+#EXTINF:-1,Sky Sport 1 HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/1693
+#EXTINF:-1,Sky Sport HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23266
+#EXTINF:-1,Euronews IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/34753
+#EXTINF:-1,Food Network HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/51401
+#EXTINF:-1,Boomerang  IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23403
+#EXTINF:-1,Cine 34 IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/70826
+#EXTINF:-1,Gambero Rosso IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8982
+#EXTINF:-1,TV 8 HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14179
+#EXTINF:-1,Roma TV HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/21529
+#EXTINF:-1,Sky SuperCalcio HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/1692
+#EXTINF:-1,Radio Monte Carlo IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/73263
+#EXTINF:-1,Senato TV IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/73264
+#EXTINF:-1,Camera dei Deputati IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/73265
+#EXTINF:-1,DeA Kids IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14076
 
 
+#EXTINF:-1,Alice IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8986
+#EXTINF:-1,MS Motor TV IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14210
+#EXTINF:-1,Boing IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14182
+#EXTINF:-1,Caccia HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8984
+#EXTINF:-1,Canale 5 IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14209
+#EXTINF:-1,Canale 5 FHD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/1666
+#EXTINF:-1,Cartoon Network IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14176
+#EXTINF:-1,Cartoonito IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/7030
+#EXTINF:-1,Cielo IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/1671
+#EXTINF:-1,DMAX HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/5231
+#EXTINF:-1,NOVE HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14174
+#EXTINF:-1,Discovery Channel HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14171
+#EXTINF:-1,Discovery Science HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8980
+#EXTINF:-1,Disney + Film HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4377
+#EXTINF:-1,Disney+ Animation IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/20119
+#EXTINF:-1,Eurosport 1 HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14188
+#EXTINF:-1,Eurosport 2 HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14156
+#EXTINF:-1,FOX HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/3713
+#EXTINF:-1,Focus IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8981
+#EXTINF:-1,FOX Crime HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14163
+#EXTINF:-1,Frisbee IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/7031
+#EXTINF:-1,Giallo FHD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9006
+#EXTINF:-1,Inter Channel IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14192
+#EXTINF:-1,Iris HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14157
+#EXTINF:-1,Italia 1 IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/5234
+#EXTINF:-1,K2 IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14155
+#EXTINF:-1,LA 5 IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14189
+#EXTINF:-1,m2o tv IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9005
+#EXTINF:-1,Mediaset Extra IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14194
+#EXTINF:-1,Italia 2 IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14193
+#EXTINF:-1,Nick IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/20120
+#EXTINF:-1,TGCom 24 IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8238
+#EXTINF:-1,National Geographic HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14141
 
-#EXTINF:-1,Sky Sport 24 H265
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8828
-#EXTINF:-1,Sky Sport 24 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8829
-#EXTINF:-1,Sky Sport 24 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8830
-#EXTINF:-1,Sky Sport 24 SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8831
-#EXTINF:-1,Sky Sport Uno H265
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8832
-#EXTINF:-1,Sky Sport Uno FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8833
-#EXTINF:-1,Sky Sport Uno HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8834
-#EXTINF:-1,Sky Sport Uno SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8835
-#EXTINF:-1,Sky Sport Football H265
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8836
-#EXTINF:-1,Sky Sport Football FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8837
-#EXTINF:-1,Sky Sport Football HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8838
-#EXTINF:-1,Sky Sport Football SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8839
-#EXTINF:-1,Sky Sport ARENA H265
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8840
-#EXTINF:-1,Sky Sport Arena FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8841
-#EXTINF:-1,Sky Sport Arena HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8842
-#EXTINF:-1,Sky Sport Arena SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8843
-#EXTINF:-1,Sky Sport Tennis H265
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8844
-#EXTINF:-1,Sky Sport Tennis FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8845
-#EXTINF:-1,Sky Sport Tennis HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8846
-#EXTINF:-1,Sky Sport Tennis SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8847
-#EXTINF:-1,Sky Sport NBA H265
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8848
-#EXTINF:-1,Sky Sport Nba FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8849
-#EXTINF:-1,Sky Sport NBA HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8850
-#EXTINF:-1,Sky Sport NBA SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8851
-#EXTINF:-1,Sky Sport F1 H265
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8856
-#EXTINF:-1,Sky Sport F1 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8857
-#EXTINF:-1,Sky Sport F1 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8858
-#EXTINF:-1,Sky Sport F1 SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8859
-#EXTINF:-1,Sky Sport MOTO GP H265
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8852
-#EXTINF:-1,Sky Sport MotoGP FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8853
-#EXTINF:-1,Sky Sport MotoGP HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8854
-#EXTINF:-1,Sky Sport MotoGP SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8855
-#EXTINF:-1,EUROSPORT 1 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8861
-#EXTINF:-1,EUROSPORT 1 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8862
-#EXTINF:-1,EUROSPORT 2 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8864
-#EXTINF:-1,EUROSPORT 2 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8865
-#EXTINF:-1,BIKE SMART MOBILITY
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8868
-#EXTINF:-1,WWE Wrestling HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8869
-#EXTINF:-1,Discovery Dmax Sport WWE HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/54984
-#EXTINF:-1,Fight NetWork
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8870
-#EXTINF:-1,RAI SPORT FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8871
-#EXTINF:-1,RAI SPORT HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8872
-#EXTINF:-1,SPORT ITALIA HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8873
-#EXTINF:-1,SPORT ITALIA FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8874
-#EXTINF:-1,SPORT ITALIA LIVE 24
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8875
-#EXTINF:-1,SPORT ITALIA SOLO CALCIO
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8876
-#EXTINF:-1,SPORT ITALIA SOLO MOTORI
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8877
-#EXTINF:-1,SUPER TENNIS FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8878
-#EXTINF:-1,SUPER TENNIS HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8879
-#EXTINF:-1,UNIRESAT HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8880
-#EXTINF:-1,TOP CALCIO 24
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8881
-#EXTINF:-1,BOXING
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/74995
-#EXTINF:-1,CLUB WORLD POKER TOUR
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/74991
-#EXTINF:-1,MS MotorTV
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8882
-#EXTINF:-1,World Poker Tour
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/72656
-#EXTINF:-1,POKER TV
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/74990
-#EXTINF:-1,GOLF PGA TOUR
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/74992
-#EXTINF:-1,ONE GOLF
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/74993
-#EXTINF:-1,MLS SPORT
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/74994
-#EXTINF:-1,Redbull TV
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/72771
-
-#EXTINF:-1,SKY SPORT SERIE A H265
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8884
-#EXTINF:-1,SKY SPORT SERIE A FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8885
-#EXTINF:-1,Sky Sport Serie A HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/73932
-#EXTINF:-1,Sky Sport Serie A SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8921
-#EXTINF:-1,SKY CALCIO 1 H265
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8888
-#EXTINF:-1,SKY CALCIO 1 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8889
-#EXTINF:-1,SKY CALCIO 1 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8890
-#EXTINF:-1,SKY CALCIO 2 H265
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8892
-#EXTINF:-1,SKY CALCIO 2 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8893
-#EXTINF:-1,SKY CALCIO 2 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8894
-#EXTINF:-1,SKY CALCIO 3 H265
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8896
-#EXTINF:-1,SKY CALCIO 3 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8897
-#EXTINF:-1,SKY CALCIO 3 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8898
-#EXTINF:-1,SKY CALCIO 4 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8901
-#EXTINF:-1,SKY CALCIO 4 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8902
-#EXTINF:-1,SKY CALCIO 5 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8905
-#EXTINF:-1,SKY CALCIO 5 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8906
-#EXTINF:-1,SKY CALCIO 6 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8908
-#EXTINF:-1,SKY CALCIO 6 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8910
-#EXTINF:-1,SKY CALCIO 7 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8911
-#EXTINF:-1,SKY CALCIO 7 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8912
-#EXTINF:-1,INTER TV
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8913
-#EXTINF:-1,LAZIO STYLE
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8914
-#EXTINF:-1,MILAN TV
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8915
-#EXTINF:-1,ROMA CHANNEL
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8916
-#EXTINF:-1,TORINO CHANNEL
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8917
-#EXTINF:-1,VETRINA DAZN
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8949
-
-#EXTINF:-1,Dazn 1
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8958
-#EXTINF:-1,Dazn 1 SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8970
-#EXTINF:-1,Dazn 2
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8959
-#EXTINF:-1,Dazn 3
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8960
-#EXTINF:-1,Dazn 4
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8961
-#EXTINF:-1,Dazn 5
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8962
-#EXTINF:-1,Dazn 6
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8963
-#EXTINF:-1,Dazn 7
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8964
-#EXTINF:-1,Dazn 8
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8965
-#EXTINF:-1,Dazn 9
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8969
-#EXTINF:-1,Dazn 10
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8966
-#EXTINF:-1,Dazn 11
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8967
-#EXTINF:-1,Dazn 12
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/8968
-
-#EXTINF:-1,VETRINA DAZN
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/73915
-#EXTINF:-1,DAZN WEB 1
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/73920
-#EXTINF:-1,DAZN WEB 2
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/73921
-#EXTINF:-1,DAZN WEB 3
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/73922
-#EXTINF:-1,DAZN WEB 4
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/73923
-#EXTINF:-1,DAZN WEB 5
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/73924
-#EXTINF:-1,DAZN WEB 6
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/73925
-#EXTINF:-1,DAZN WEB 7
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/73926
-#EXTINF:-1,DAZN WEB 8
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/73927
-#EXTINF:-1,DAZN WEB 9
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/73928
-#EXTINF:-1,DAZN WEB 10
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/73929
-#EXTINF:-1,DAZN WEB 11
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/73930
-
-#EXTINF:-1,Discovery H265
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9454
-#EXTINF:-1,Discovery FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9455
-#EXTINF:-1,Discovery HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9456
-#EXTINF:-1,Discovery SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9457
-#EXTINF:-1,Discovery Sci H265
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9458
-#EXTINF:-1,Discovery Sci FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9459
-#EXTINF:-1,Discovery Sci HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9460
-#EXTINF:-1,Discovery Sci SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9461
-#EXTINF:-1,Nat Geo H265
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9462
-#EXTINF:-1,Nat Geo FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9463
-#EXTINF:-1,Nat Geo HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9464
-#EXTINF:-1,Nat Geo SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9465
-#EXTINF:-1,Nat Geo Wild H265
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9466
-#EXTINF:-1,Nat Geo Wild FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9467
-#EXTINF:-1,Nat Geo Wild HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9468
-#EXTINF:-1,Nat Geo Wild SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9469
-#EXTINF:-1,History Channel H265
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9470
-#EXTINF:-1,History Channel FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9471
-#EXTINF:-1,History Channel HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9472
-#EXTINF:-1,History Channel SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9473
-#EXTINF:-1,Crime Investigation H265
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9474
-#EXTINF:-1,Crime Investigation FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9475
-#EXTINF:-1,Crime Investigation HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9476
-#EXTINF:-1,Crime Investigation SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9477
-#EXTINF:-1,Sky Arte FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9478
-#EXTINF:-1,Sky Arte HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9479
-#EXTINF:-1,Sky Arte SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9480
-#EXTINF:-1,Classica FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9481
-#EXTINF:-1,Classica HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9482
-#EXTINF:-1,Classica SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9483
-#EXTINF:-1,Gambero Rosso FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9484
-#EXTINF:-1,Gambero Rosso HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9485
-#EXTINF:-1,Gambero Rosso SD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9486
-#EXTINF:-1,Caccia e Pesca FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9487
-#EXTINF:-1,Caccia e Pesca HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9488
-#EXTINF:-1,Pesca e Caccia FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9489
-#EXTINF:-1,Pesca e Caccia HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9490
-#EXTINF:-1,Italian Fishing TV FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9491
-#EXTINF:-1,Italian Fishing TV HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9492
-
-#EXTINF:-1,Disney Plus Film HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9496
-#EXTINF:-1,Disney Plus Film 2 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9497
-#EXTINF:-1,Disney Plus Animation HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9498
-#EXTINF:-1,Disney Plus Nature HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9499
-#EXTINF:-1,RAI YOYO HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9501
-#EXTINF:-1,RAI GULP HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9503
-#EXTINF:-1,BOOMERANG HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9505
-#EXTINF:-1,CARTOON NETWORK HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9507
-#EXTINF:-1,DEA JUNIOR HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9509
-#EXTINF:-1,DEA KIDS HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9511
-#EXTINF:-1,NICK JR HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9513
-#EXTINF:-1,NICKELODEON HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9515
-#EXTINF:-1,BABY TV
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9516
-#EXTINF:-1,BOING
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9517
-#EXTINF:-1,BOING PLUS
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9518
-#EXTINF:-1,CARTOONITO
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9519
-#EXTINF:-1,K2
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9520
-#EXTINF:-1,FRISBEE MINI
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9522
-#EXTINF:-1,SUPER!
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9523
-
-#EXTINF:-1,American Dad
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9527
-#EXTINF:-1,Barbapapà CHANNEL
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/73234
-#EXTINF:-1,Bing
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9551
-#EXTINF:-1,Blaze e le Mega Macchine
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9544
-#EXTINF:-1,Dottoressa Peluche
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9542
-#EXTINF:-1,Dragon Ball
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9531
-#EXTINF:-1,Eagle Looney Toons
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9547
-#EXTINF:-1,Ecco Pippo
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9529
-#EXTINF:-1,Esplorando Il CorpoUmano
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9532
-#EXTINF:-1,Gigi LaTrottola
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9539
-#EXTINF:-1,I Gormiti
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9533
-#EXTINF:-1,I Griffin
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9525
-#EXTINF:-1,I Puffi
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9536
-#EXTINF:-1,I Simpson
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9526
-#EXTINF:-1,Lupin III
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9549
-#EXTINF:-1,Masha E Orso
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9540
-#EXTINF:-1,PawPatrol
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9535
-#EXTINF:-1,Peppa Pig
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9530
-#EXTINF:-1,Pigiamini
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9546
-#EXTINF:-1,PJ Masks
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9538
-#EXTINF:-1,Sam Il Pompiere
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9543
-#EXTINF:-1,Scooby-Doo
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9548
-#EXTINF:-1,Scuola di Polizia
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9550
-#EXTINF:-1,Super Wings
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9541
-#EXTINF:-1,Tartarughe Ninja
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9537
-#EXTINF:-1,Tom & Gerry Channel
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/47620
-#EXTINF:-1,Topolino Paperino e Pippo
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9545
-#EXTINF:-1,La Casa di Topolino Channel
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/76152
-#EXTINF:-1,La casa di Topolino
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/75666
-
-#EXTINF:-1,EURONEWS ITALIAN HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9553
-#EXTINF:-1,SKY TG 24 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9554
-#EXTINF:-1,RAI NEWS 24 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9555
-#EXTINF:-1,TG NORBA 24
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9556
-#EXTINF:-1,TGCOM24
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9557
-
-#EXTINF:-1,M2o Tv
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9559
-#EXTINF:-1,51 Radio TV
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9560
-#EXTINF:-1,RADIO FRECCIA
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9561
-#EXTINF:-1,Radio Birikina TV
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9562
-#EXTINF:-1,Radio Capital TV
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9563
-#EXTINF:-1,Radio Number One
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9564
-#EXTINF:-1,Radio Taormina TV
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9565
-#EXTINF:-1,Radionorba TV
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9566
-#EXTINF:-1,Sea Music TV
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9567
-#EXTINF:-1,DEEJAY TV HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9568
-#EXTINF:-1,Sky MTV music FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9570
-#EXTINF:-1,Radio Azzurra TV
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9571
-#EXTINF:-1,Radio Italia Trend TV  HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9572
-#EXTINF:-1,Radio Italia Tv HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9573
-#EXTINF:-1,RTL 102,5 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9575
-#EXTINF:-1,RADIO MONTE CARLO TV HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9576
-#EXTINF:-1,RADIO ITALIA TV HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9577
-#EXTINF:-1,RADIO NORBA TV
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9578
-#EXTINF:-1,RADIO NUMBER ONE TV DIRETTO
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9579
-#EXTINF:-1,RADIO R101
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9580
-#EXTINF:-1,RADIO ZETA TV HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9582
-#EXTINF:-1,VIRGIN RADIO
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/9592
-
-
-
-
-#EXTINF:-1,Rai 1 +1 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/73900
-#EXTINF:-1,Rai 1 +2 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/73901
-#EXTINF:-1,Rai 2 +1 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/73902
-#EXTINF:-1,Rai 2 +2 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/73903
-#EXTINF:-1,Rai 3 +1 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/73904
-#EXTINF:-1,Rai 3 +2 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/73905
-#EXTINF:-1,RETE 4 +1 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/73906
-#EXTINF:-1,Rete 4 +2 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/73907
-#EXTINF:-1,CANALE 5 +1 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/73908
-#EXTINF:-1,Canale 5 +2 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/73909
-#EXTINF:-1,ITALIA 1 +1 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/73910
-#EXTINF:-1,Italia 1 +2 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/73911
-#EXTINF:-1,TV 8 +1 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/73912
-#EXTINF:-1,Nove +1 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/73913
-#EXTINF:-1,Cielo +1 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/73914
-#EXTINF:-1,DMAX +1 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/54856
-#EXTINF:-1,Real Time +1 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/54855
-
-#EXTINF:-1,Sky Uno +1 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/54860
-#EXTINF:-1,Sky Atlantic +1 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/54862
-#EXTINF:-1,FOX +1 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/54866
-#EXTINF:-1,Fox Crime +1 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/54867
-
-#EXTINF:-1,Discovery +1 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/54871
-#EXTINF:-1,Nat Geo +1 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/54873
-#EXTINF:-1,History +1 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/54876
-#EXTINF:-1,Discovery Sci +1 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/54877
-
-#EXTINF:-1,Sky Cinema Uno +1 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/54881
-#EXTINF:-1,Sky Cinema Uno +1 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/54882
-#EXTINF:-1,Sky Cinema Due +1 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/54883
-#EXTINF:-1,Sky Cinema Action +1 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/54884
-#EXTINF:-1,Sky Cinema Collection +1 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/54885
-#EXTINF:-1,Sky Cinema Comedy +1 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/54886
-#EXTINF:-1,Sky Cinema Drama +1 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/54887
-#EXTINF:-1,Sky Cinema Family +1 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/54888
-#EXTINF:-1,Sky Cinema Romance +1 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/54889
-
-#EXTINF:-1,Sky Sport Uno +1 FHD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/54891
-#EXTINF:-1,Sky Sport Arena +1 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/54892
-#EXTINF:-1,Sky Sport Football +1 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/54893
-#EXTINF:-1,Sky Sport NBA +1 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/54894
-#EXTINF:-1,Sky Sport Moto GP +1 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/54895
-#EXTINF:-1,Sky Sport Formula 1 +1 HD
-http://italiadomena.tk:8000/UNIeeSUXcq/Bahk9901Ha/54896
+#EXTINF:-1,Radio 105 TV IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/5240
 
 
 
