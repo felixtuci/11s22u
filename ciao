@@ -1,394 +1,591 @@
 #EXTINF:-1   group-title="-IPTV SHQIP 1-",
-#EXTINF:-1,RTK1 (Backup) AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9458
-#EXTINF:-1,RTK 1 FHD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22814
-#EXTINF:-1,RTK 2 AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/7061
-#EXTINF:-1,RTK 3 AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/7036
-#EXTINF:-1,RTK 4 AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/7037
-#EXTINF:-1,RTV 21 (Backup) AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9451
-#EXTINF:-1,RTV 21 FHD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/3832
-#EXTINF:-1,RTV 21 Maqedonia AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9453
-#EXTINF:-1,RTV 21 Mix AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/16616
-#EXTINF:-1,KTV Kohavision AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/7065
-#EXTINF:-1,Klan Kosova HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4189
-#EXTINF:-1,Klan Kosova FHD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9455
-#EXTINF:-1,KTV Kohavision FHD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9456
-#EXTINF:-1,T7 AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/20167
-#EXTINF:-1,T7 FHD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23108
-#EXTINF:-1,Dukagjini FHD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4236
-#EXTINF:-1,Klan HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9454
-#EXTINF:-1,Klan FHD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/3800
-#EXTINF:-1,Klan Plus HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/7074
-#EXTINF:-1,Top Channel (Backup) AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9457
-#EXTINF:-1,Top Channel FHD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4178
-#EXTINF:-1,Alsat M AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/6259
-#EXTINF:-1,Alsat M (Backup) AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9450
-#EXTINF:-1,Alsat M FHD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22783
-#EXTINF:-1,Vizion Plus HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4214
-#EXTINF:-1,Vizion Plus (Backup) AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9463
-#EXTINF:-1,First Channel Kosova AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/12044
-#EXTINF:-1,arta TV HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/21901
-#EXTINF:-1,Koha TV HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/19145
-#EXTINF:-1,RTSH Shqip AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/19478
-#EXTINF:-1,RTSH 1 HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/15632
-#EXTINF:-1,RTSH 2 AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/19480
-#EXTINF:-1,RTSH 3 AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/20168
-#EXTINF:-1,TV Mitrovica AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/12037
-#EXTINF:-1,TV Prizreni AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/43387
-#EXTINF:-1,RTV 21 Plus FHD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8455
-#EXTINF:-1,RTV 21 Popullore AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/6257
-#EXTINF:-1,RTV 21 Popullore FHD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9452
-#EXTINF:-1,RTV Zeri Kosoves HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/17183
-#EXTINF:-1,RTV Fontana FHD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/24860
-#EXTINF:-1,X Çifteli HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22802
-#EXTINF:-1,X music hits HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22800
-#EXTINF:-1,X popullore HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22801
-#EXTINF:-1,TV Opoja AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/16475
-#EXTINF:-1,Dasma TV AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/7076
-#EXTINF:-1,My Music AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/7070
-#EXTINF:-1,Folk + AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/6260
-#EXTINF:-1,BBF Music AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/6261
-#EXTINF:-1,Zjarr TV AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9372
-#EXTINF:-1,Besa TV AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9395
-#EXTINF:-1,TV Sharri AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9368
-#EXTINF:-1,Top Estrada AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/12046
-#EXTINF:-1,Zico TV AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23854
-#EXTINF:-1,RTSH Muzike AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/20172
-#EXTINF:-1,Elrodi Music AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4235
-#EXTINF:-1,MTV Kosova AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/12051
-#EXTINF:-1,Q Stupcat AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/19545
-#EXTINF:-1,X humor HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22803
-#EXTINF:-1,Q Premium 1 HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/12031
-#EXTINF:-1,Q Premium 2 HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/12030
-#EXTINF:-1,Q Premium 3 HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/12029
-#EXTINF:-1,X premium 1 HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22784
-#EXTINF:-1,X premium 2 HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22785
-#EXTINF:-1,X premium 3 HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22786
-#EXTINF:-1,X premium 4 HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22787
-#EXTINF:-1,Digi Gold 1 HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/15778
-#EXTINF:-1,Digi Gold 2 HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/15779
-#EXTINF:-1,Digi Gold 3 AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/16814
-#EXTINF:-1,Digi Gold 4 AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/16815
-#EXTINF:-1,Art Kino 1 FHD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/28175
-#EXTINF:-1,Art Kino 3 FHD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/28177
-#EXTINF:-1,Film Nje HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/3815
-#EXTINF:-1,Film Dy HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/3816
-#EXTINF:-1,Film Hits AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/3818
-#EXTINF:-1,Film Aksion AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/3820
-#EXTINF:-1,Film Komedi AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/3821
-#EXTINF:-1,Film Autor AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/3803
-#EXTINF:-1,Film Thriller AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4193
-#EXTINF:-1,Film Dramë AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4194
-#EXTINF:-1,Euro Channel AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/20180
-#EXTINF:-1,Eurofilm AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/20191
-#EXTINF:-1,Sky Komedy AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9878
-#EXTINF:-1,Sky Drame AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8772
-#EXTINF:-1,Sky Aksion AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9134
-#EXTINF:-1,Star Plus AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8774
-#EXTINF:-1,RTSH film AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/17168
-#EXTINF:-1,Stinët AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/17171
-#EXTINF:-1,T HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/7055
-#EXTINF:-1,Tring 3+ AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4237
-#EXTINF:-1,Tring Tring AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4215
-#EXTINF:-1,Tring Life HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4224
-#EXTINF:-1,Tring Jolly HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4227
-#EXTINF:-1,Tring Smile AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/6258
-#EXTINF:-1,Tring Super AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4218
-#EXTINF:-1,Tring Shqip AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4219
-#EXTINF:-1,Tring Action AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4223
-#EXTINF:-1,Tring Comedy AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/2054
-#EXTINF:-1,Tring Planet AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/6088
-#EXTINF:-1,Tring World AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4213
-#EXTINF:-1,Tring History AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4228
-#EXTINF:-1,Tring Fantasy AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4230
-#EXTINF:-1,X action HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22788
-#EXTINF:-1,X comedy HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22789
-#EXTINF:-1,X dark HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22792
-#EXTINF:-1,X histori HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22798
-#EXTINF:-1,X family HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22799
-#EXTINF:-1,X natyra HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22797
-#EXTINF:-1,X romance HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22794
-#EXTINF:-1,X drama HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22791
-#EXTINF:-1,X scyfy HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22793
-#EXTINF:-1,X shkenca HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22796
-#EXTINF:-1,X thriller HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22790
-#EXTINF:-1,X western HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22795
-#EXTINF:-1,X filma24 HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22815
-#EXTINF:-1,Q Action HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/12047
-#EXTINF:-1,ALBUK HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/12053
-#EXTINF:-1,Sky Planet AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/20189
-#EXTINF:-1,FOX Crime AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/3814
-#EXTINF:-1,Bang Bang AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/7062
-#EXTINF:-1,Çufo AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4208
-#EXTINF:-1,Baby TV AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8410
-#EXTINF:-1,Tring Kids AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8773
-#EXTINF:-1,RTV 21 Junior AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/16804
-#EXTINF:-1,Junior TV AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/17182
-#EXTINF:-1,Top News AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4209
-#EXTINF:-1,ABC News AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/6263
-#EXTINF:-1,News 24 HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/3795
-#EXTINF:-1,Ora News AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/7066
-#EXTINF:-1,Kanali 7 News AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8777
-#EXTINF:-1,RTSH 24 AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/20173
-#EXTINF:-1,Kanali 7 AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/19544
-#EXTINF:-1,E! AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/7072
-#EXTINF:-1,Art Doku 1 FHD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/28178
-#EXTINF:-1,Discovery HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/11291
-#EXTINF:-1,Explorer Shkencë AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4203
-#EXTINF:-1,Explorer Natyra AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4202
-#EXTINF:-1,Explorer Natyra (Backup) AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9462
-#EXTINF:-1,Explorer Histori AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4204
-#EXTINF:-1,National Geographic AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/3793
-#EXTINF:-1,Travel Channel AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/7060
-#EXTINF:-1,Living HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9370
-#EXTINF:-1,SuperSport Kosova 1 AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/3822
-#EXTINF:-1,SuperSport Kosova 2 AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/3823
-#EXTINF:-1,SuperSport Kosova 3 AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/21627
-#EXTINF:-1,SuperSport News FHD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22807
-#EXTINF:-1,SuperSport 1 HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4198
-#EXTINF:-1,SuperSport 2 FHD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22808
-#EXTINF:-1,SuperSport 2 HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4199
-#EXTINF:-1,SuperSport 3 FHD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22809
-#EXTINF:-1,SuperSport 3 HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4200
-#EXTINF:-1,SuperSport 4 FHD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22810
-#EXTINF:-1,SuperSport 4 HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4201
-#EXTINF:-1,SuperSport 5 FHD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/22811
-#EXTINF:-1,SuperSport 5 HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9373
-#EXTINF:-1,RTSH Sport AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/15635
-#EXTINF:-1,Tring Sport News HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8077
-#EXTINF:-1,Tring Sport 1 FHD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8078
-#EXTINF:-1,Tring Sport 2 FHD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8079
-#EXTINF:-1,Tring Sport 3 HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8080
-#EXTINF:-1,Tring Sport 4 HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8081
-#EXTINF:-1,K-Sport 1 AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9150
-#EXTINF:-1,K-Sport 2 AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9151
-#EXTINF:-1,K-Sport 3 AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9152
-#EXTINF:-1,K-Sport 4 AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9153
-#EXTINF:-1,Art Sport 1 FHD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/28182
-#EXTINF:-1,Art Sport 2 FHD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/28183
-#EXTINF:-1,ALB Thriller AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9143
-#EXTINF:-1,Click AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/12033
-#EXTINF:-1,Era TV AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4231
-#EXTINF:-1,FOX AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9392
-#EXTINF:-1,Klan Macedonia AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/27538
-#EXTINF:-1,Muse AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/6092
-#EXTINF:-1,Novela AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/17181
-#EXTINF:-1,Portokalli HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/19547
-#EXTINF:-1,RTSH Plus AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/15633
-#EXTINF:-1,Report TV AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9366
-#EXTINF:-1,RTV Islam AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/12019
-#EXTINF:-1,Shenja TV AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9399
-#EXTINF:-1,Star Plus Shkodar AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9384
-#EXTINF:-1,Syri TV AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/16571
-#EXTINF:-1,Syri Vision AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/20179
-#EXTINF:-1,TemaTV AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9367
-#EXTINF:-1,Tip TV AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/7063
-#EXTINF:-1,TV Dielli AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/19542
-#EXTINF:-1,TV Kopliku AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/20184
-#EXTINF:-1,Euronews HD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/34755
-#EXTINF:-1,Supersonic TV AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/3810
-#EXTINF:-1,TDC AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/38606
-#EXTINF:-1,Kanal 10 AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/53152
-#EXTINF:-1,Kanal D Drama FHD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/56168
-#EXTINF:-1,First Channel Kosova FHD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/66309
-#EXTINF:-1,A TV FHD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/73298
-#EXTINF:-1,Art Kino 2 FHD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/28176
-#EXTINF:-1,Art Sport 3 FHD AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/28184
-#EXTINF:-1,Blic TV Presheva AL
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/81434
+#EXTINF:-1,AL: Top Channel FHD
+http://103.125.219.246/clientline/play.php?chID=4031
+#EXTINF:-1,AL: Top Channel HD
+http://103.125.219.246/clientline/play.php?chID=4055
+#EXTINF:-1,AL: Klan FHD
+http://103.125.219.246/clientline/play.php?chID=41201
+#EXTINF:-1,AL: Klan HD
+http://103.125.219.246/clientline/play.php?chID=4052
+#EXTINF:-1,AL: Klan
+http://103.125.219.246/clientline/play.php?chID=10212
+#EXTINF:-1,AL: Klan Plus FHD
+http://103.125.219.246/clientline/play.php?chID=22406
+#EXTINF:-1,AL: Klan Plus HD
+http://103.125.219.246/clientline/play.php?chID=10211
+#EXTINF:-1,AL: Vizion Plus FHD
+http://103.125.219.246/clientline/play.php?chID=10041
+#EXTINF:-1,AL: Vizion Plus HD
+http://103.125.219.246/clientline/play.php?chID=4074
+#EXTINF:-1,AL: Alsat M HD
+http://103.125.219.246/clientline/play.php?chID=14761
+#EXTINF:-1,AL: Alsat M
+http://103.125.219.246/clientline/play.php?chID=4067
+#EXTINF:-1,AL: First Channel FHD
+http://103.125.219.246/clientline/play.php?chID=10043
+#EXTINF:-1,AL: First Channel
+http://103.125.219.246/clientline/play.php?chID=4054
+#EXTINF:-1,AL: Living FHD
+http://103.125.219.246/clientline/play.php?chID=42126
+#EXTINF:-1,AL: Living HD
+http://103.125.219.246/clientline/play.php?chID=4093
+#EXTINF:-1,[AL] BCTV Europe
+http://103.125.219.246/clientline/play.php?chID=5620
+#EXTINF:-1,AL: Shenja TV
+http://103.125.219.246/clientline/play.php?chID=5548
+#EXTINF:-1,AL: Zjarr TV HD
+http://103.125.219.246/clientline/play.php?chID=5746
+#EXTINF:-1,AL: TV 2 Gostivar
+http://103.125.219.246/clientline/play.php?chID=5750
+#EXTINF:-1,AL: TV Koha
+http://103.125.219.246/clientline/play.php?chID=5744
+#EXTINF:-1,AL: MRTV 2
+http://103.125.219.246/clientline/play.php?chID=4058
+#EXTINF:-1,[AL] RTK 1
+http://103.125.219.246/clientline/play.php?chID=4050
+#EXTINF:-1,AL: RTK 2
+http://103.125.219.246/clientline/play.php?chID=4048
+#EXTINF:-1,AL: RTK 3
+http://103.125.219.246/clientline/play.php?chID=5617
+#EXTINF:-1,AL: RTK 4
+http://103.125.219.246/clientline/play.php?chID=5618
+#EXTINF:-1,AL: RTV 21 HD
+http://103.125.219.246/clientline/play.php?chID=4044
+#EXTINF:-1,AL: RTV 21 Macedonia
+http://103.125.219.246/clientline/play.php?chID=5747
+#EXTINF:-1,AL: RTV21 Popullore HD
+http://103.125.219.246/clientline/play.php?chID=165796
+#EXTINF:-1,AL: 21 HD Popullore
+http://103.125.219.246/clientline/play.php?chID=4075
+#EXTINF:-1,AL: RTV 21 Mix HD
+http://103.125.219.246/clientline/play.php?chID=4046
+#EXTINF:-1,AL: RTV 21 plus HD
+http://103.125.219.246/clientline/play.php?chID=4045
+#EXTINF:-1,AL: Klan Kosova
+http://103.125.219.246/clientline/play.php?chID=4051
+#EXTINF:-1,MK: Klan Maqedonia
+http://103.125.219.246/clientline/play.php?chID=5633
+#EXTINF:-1,AL: KTV
+http://103.125.219.246/clientline/play.php?chID=4043
+#EXTINF:-1,AL: Syri Vision
+http://103.125.219.246/clientline/play.php?chID=4102
+#EXTINF:-1,AL: ART Prime HD
+http://103.125.219.246/clientline/play.php?chID=4069
+#EXTINF:-1,AL: Tema TV
+http://103.125.219.246/clientline/play.php?chID=5625
+#EXTINF:-1,AL: Dukagjini TV
+http://103.125.219.246/clientline/play.php?chID=6326
+#EXTINF:-1,AL: Globi TV
+http://103.125.219.246/clientline/play.php?chID=6346
+#EXTINF:-1,AL: TV Mitrovica
+http://103.125.219.246/clientline/play.php?chID=6325
+#EXTINF:-1,AL: TV Kopliku
+http://103.125.219.246/clientline/play.php?chID=6341
+#EXTINF:-1,AL: Channel One
+http://103.125.219.246/clientline/play.php?chID=10058
+#EXTINF:-1,AL: RTSH HD
+http://103.125.219.246/clientline/play.php?chID=10242
+#EXTINF:-1,AL: RTSH 1 HD
+http://103.125.219.246/clientline/play.php?chID=10243
+#EXTINF:-1,AL: RTSH 2 HD
+http://103.125.219.246/clientline/play.php?chID=77008
+#EXTINF:-1,AL: RTSH 3 HD
+http://103.125.219.246/clientline/play.php?chID=77011
+#EXTINF:-1,AL: RTSH Femije
+http://103.125.219.246/clientline/play.php?chID=77009
+#EXTINF:-1,AL: RTSH Film
+http://103.125.219.246/clientline/play.php?chID=70441
+#EXTINF:-1,AL: RTSH Gjirokastra
+http://103.125.219.246/clientline/play.php?chID=10038
+#EXTINF:-1,AL: RTSH Kuvend
+http://103.125.219.246/clientline/play.php?chID=77013
+#EXTINF:-1,AL: RTSH Shqip
+http://103.125.219.246/clientline/play.php?chID=77012
+#EXTINF:-1,AL: RTSH Korca
+http://103.125.219.246/clientline/play.php?chID=10059
+#EXTINF:-1,AL: RTSH Plus
+http://103.125.219.246/clientline/play.php?chID=10050
+#EXTINF:-1,AL: Syri Blue HD
+http://103.125.219.246/clientline/play.php?chID=10051
+#EXTINF:-1,AL: ART Episode HD
+http://103.125.219.246/clientline/play.php?chID=68457
+#EXTINF:-1,AL: RTV Pendimi
+http://103.125.219.246/clientline/play.php?chID=68458
+#EXTINF:-1,AL: Muse
+http://103.125.219.246/clientline/play.php?chID=4097
+#EXTINF:-1,AL: ABC Story
+http://103.125.219.246/clientline/play.php?chID=165811
+#EXTINF:-1,AL: Gjurme Shqiptare
+http://103.125.219.246/clientline/play.php?chID=5798
+#EXTINF:-1,AL: Tirana TV
+http://103.125.219.246/clientline/play.php?chID=4029
+#EXTINF:-1,AL: Peace tv
+http://103.125.219.246/clientline/play.php?chID=6349
+#EXTINF:-1,AL: RTV Islam
+http://103.125.219.246/clientline/play.php?chID=10062
+
+#EXTINF:-1,AL: Baby Box TV HD
+http://103.125.219.246/clientline/play.php?chID=68459
+#EXTINF:-1,AL: Baby TV
+http://103.125.219.246/clientline/play.php?chID=3999
+#EXTINF:-1,AL: Bang Bang
+http://103.125.219.246/clientline/play.php?chID=4062
+#EXTINF:-1,AL: Bubrreci TV HD
+http://103.125.219.246/clientline/play.php?chID=165821
+#EXTINF:-1,AL: Cufo
+http://103.125.219.246/clientline/play.php?chID=4063
+#EXTINF:-1,[AL] Duck TV
+http://103.125.219.246/clientline/play.php?chID=165797
+#EXTINF:-1,AL: Film Junior
+http://103.125.219.246/clientline/play.php?chID=110872
+#EXTINF:-1,AL: Film Kids
+http://103.125.219.246/clientline/play.php?chID=122510
+#EXTINF:-1,AL: Filmbox Stars
+http://103.125.219.246/clientline/play.php?chID=165810
+#EXTINF:-1,AL: Junior TV
+http://103.125.219.246/clientline/play.php?chID=4064
+#EXTINF:-1,AL: RTV Fontana
+http://103.125.219.246/clientline/play.php?chID=122495
+#EXTINF:-1,AL: RTV 21 Junior
+http://103.125.219.246/clientline/play.php?chID=4047
+#EXTINF:-1,AL: Sofia
+http://103.125.219.246/clientline/play.php?chID=4079
+#EXTINF:-1,AL: Sole TV
+http://103.125.219.246/clientline/play.php?chID=68456
+#EXTINF:-1,AL: Tip TV
+http://103.125.219.246/clientline/play.php?chID=4092
+#EXTINF:-1,AL: Tring Kids
+http://103.125.219.246/clientline/play.php?chID=17952
+#EXTINF:-1,AL: Tring Tring
+http://103.125.219.246/clientline/play.php?chID=3464
+
+#EXTINF:-1,AL: 24 Kitchen
+http://103.125.219.246/clientline/play.php?chID=38937
+#EXTINF:-1,AL: Art Doku 1 HD
+http://103.125.219.246/clientline/play.php?chID=122471
+#EXTINF:-1,AL: Art Doku 2 HD
+http://103.125.219.246/clientline/play.php?chID=122470
+#EXTINF:-1,AL: Discovery
+http://103.125.219.246/clientline/play.php?chID=5638
+#EXTINF:-1,AL: Entertainment
+http://103.125.219.246/clientline/play.php?chID=3986
+#EXTINF:-1,AL: Explorer Histori
+http://103.125.219.246/clientline/play.php?chID=4071
+#EXTINF:-1,AL: Explorer Natyra
+http://103.125.219.246/clientline/play.php?chID=4072
+#EXTINF:-1,[AL] Explorer Shkence
+http://103.125.219.246/clientline/play.php?chID=4070
+#EXTINF:-1,AL: National Geo Wild
+http://103.125.219.246/clientline/play.php?chID=6342
+#EXTINF:-1,AL: National Geographic Channel
+http://103.125.219.246/clientline/play.php?chID=4099
+#EXTINF:-1,AL: Sky Histori
+http://103.125.219.246/clientline/play.php?chID=4105
+#EXTINF:-1,AL: Sky Shkence
+http://103.125.219.246/clientline/play.php?chID=4108
+#EXTINF:-1,AL: Tring History
+http://103.125.219.246/clientline/play.php?chID=4089
+#EXTINF:-1,AL: Tring Planet
+http://103.125.219.246/clientline/play.php?chID=4085
+#EXTINF:-1,AL: Tring World
+http://103.125.219.246/clientline/play.php?chID=4088
+
+#EXTINF:-1,AL: Filmi Umeri r.a
+http://103.125.219.246/clientline/play.php?chID=10060
+#EXTINF:-1,AL: Digi Gold 1 HD
+http://103.125.219.246/clientline/play.php?chID=136001
+#EXTINF:-1,AL: Digi Gold 2 HD
+http://103.125.219.246/clientline/play.php?chID=4107
+#EXTINF:-1,AL: Digi Gold 3 HD
+http://103.125.219.246/clientline/play.php?chID=10057
+#EXTINF:-1,AL: Digi Gold 4 HD
+http://103.125.219.246/clientline/play.php?chID=10056
+#EXTINF:-1,AL: Film Aksion
+http://103.125.219.246/clientline/play.php?chID=4036
+#EXTINF:-1,AL: Film Dy HD
+http://103.125.219.246/clientline/play.php?chID=4033
+#EXTINF:-1,AL: Film Nje HD
+http://103.125.219.246/clientline/play.php?chID=18405
+#EXTINF:-1,AL: Film Nje FHD
+http://103.125.219.246/clientline/play.php?chID=4032
+#EXTINF:-1,AL: Film Thriller
+http://103.125.219.246/clientline/play.php?chID=4037
+#EXTINF:-1,AL: Film Stinet
+http://103.125.219.246/clientline/play.php?chID=10042
+#EXTINF:-1,AL: Film Autor
+http://103.125.219.246/clientline/play.php?chID=4039
+#EXTINF:-1,AL: Film Komedi
+http://103.125.219.246/clientline/play.php?chID=4038
+#EXTINF:-1,AL: Film Drame
+http://103.125.219.246/clientline/play.php?chID=4035
+#EXTINF:-1,AL: Film Family HD
+http://103.125.219.246/clientline/play.php?chID=10037
+#EXTINF:-1,AL: Film Hits
+http://103.125.219.246/clientline/play.php?chID=4034
+#EXTINF:-1,AL: Film Family FHD
+http://103.125.219.246/clientline/play.php?chID=5823
+#EXTINF:-1,AL: Film Family
+http://103.125.219.246/clientline/play.php?chID=4057
+#EXTINF:-1,AL: T HD
+http://103.125.219.246/clientline/play.php?chID=5549
+#EXTINF:-1,AL: Tring Fantasy
+http://103.125.219.246/clientline/play.php?chID=4090
+#EXTINF:-1,AL: Fox
+http://103.125.219.246/clientline/play.php?chID=4080
+#EXTINF:-1,AL: Tring Super HD
+http://103.125.219.246/clientline/play.php?chID=4087
+#EXTINF:-1,AL: Tring Shqip
+http://103.125.219.246/clientline/play.php?chID=4086
+#EXTINF:-1,AL: Tring action
+http://103.125.219.246/clientline/play.php?chID=4084
+#EXTINF:-1,AL: Tring Life
+http://103.125.219.246/clientline/play.php?chID=4083
+#EXTINF:-1,AL: Tring Comedy
+http://103.125.219.246/clientline/play.php?chID=4082
+#EXTINF:-1,AL: Tring 3+
+http://103.125.219.246/clientline/play.php?chID=4091
+#EXTINF:-1,AL: Tring Smile
+http://103.125.219.246/clientline/play.php?chID=4106
+#EXTINF:-1,AL: Smile HD
+http://103.125.219.246/clientline/play.php?chID=4095
+#EXTINF:-1,AL: Jolly
+http://103.125.219.246/clientline/play.php?chID=4081
+#EXTINF:-1,AL: Jolly HD
+http://103.125.219.246/clientline/play.php?chID=4073
+#EXTINF:-1,AL: Fox Movies
+http://103.125.219.246/clientline/play.php?chID=4111
+#EXTINF:-1,AL: Fox Crime
+http://103.125.219.246/clientline/play.php?chID=3188
+#EXTINF:-1,AL: Fox Life
+http://103.125.219.246/clientline/play.php?chID=3391
+#EXTINF:-1,AL: Sky Aksion
+http://103.125.219.246/clientline/play.php?chID=4104
+#EXTINF:-1,AL: Sky Drame
+http://103.125.219.246/clientline/play.php?chID=4109
+#EXTINF:-1,AL: Sky Komedi
+http://103.125.219.246/clientline/play.php?chID=4110
+#EXTINF:-1,AL: Sky Max
+http://103.125.219.246/clientline/play.php?chID=4103
+#EXTINF:-1,AL: Sky Novela
+http://103.125.219.246/clientline/play.php?chID=10054
+#EXTINF:-1,AL: Sky Planet
+http://103.125.219.246/clientline/play.php?chID=5745
+#EXTINF:-1,AL: Sky Movies HD
+http://103.125.219.246/clientline/play.php?chID=165794
+#EXTINF:-1,AL: Sky Movies Premiere HD
+http://103.125.219.246/clientline/play.php?chID=165793
+#EXTINF:-1,AL: Sky Movies Action HD
+http://103.125.219.246/clientline/play.php?chID=165795
+#EXTINF:-1,AL: Euro Film
+http://103.125.219.246/clientline/play.php?chID=6332
+#EXTINF:-1,AL: Euro Film 1
+http://103.125.219.246/clientline/play.php?chID=37304
+#EXTINF:-1,AL: Euro Film 2
+http://103.125.219.246/clientline/play.php?chID=6333
+#EXTINF:-1,AL: Euro Film 3
+http://103.125.219.246/clientline/play.php?chID=4117
+#EXTINF:-1,AL: Euro Film 4
+http://103.125.219.246/clientline/play.php?chID=5623
+#EXTINF:-1,AL: Filmbox Arthouse
+http://103.125.219.246/clientline/play.php?chID=10039
+#EXTINF:-1,AL: Filmbox Extra
+http://103.125.219.246/clientline/play.php?chID=5635
+#EXTINF:-1,AL: Filmbox Plus
+http://103.125.219.246/clientline/play.php?chID=4094
+#EXTINF:-1,AL: Filmbox Premium
+http://103.125.219.246/clientline/play.php?chID=68460
+#EXTINF:-1,AL: T7 FHD
+http://103.125.219.246/clientline/play.php?chID=10055
+#EXTINF:-1,AL: TDC
+http://103.125.219.246/clientline/play.php?chID=146795
+
+#EXTINF:-1,AL: ALB Comedy HD
+http://103.125.219.246/clientline/play.php?chID=10044
+#EXTINF:-1,AL: Art Kino 1 HD
+http://103.125.219.246/clientline/play.php?chID=122469
+#EXTINF:-1,AL: Art Kino 2 HD
+http://103.125.219.246/clientline/play.php?chID=122468
+#EXTINF:-1,AL: Art Kino 3 HD
+http://103.125.219.246/clientline/play.php?chID=122467
+#EXTINF:-1,AL: KS Action
+http://103.125.219.246/clientline/play.php?chID=122505
+#EXTINF:-1,AL: KS Horror HD
+http://103.125.219.246/clientline/play.php?chID=122503
+#EXTINF:-1,AL: KS Histori HD
+http://103.125.219.246/clientline/play.php?chID=122502
+#EXTINF:-1,AL: KS Epic HD
+http://103.125.219.246/clientline/play.php?chID=122501
+#EXTINF:-1,AL: KS Humor HD
+http://103.125.219.246/clientline/play.php?chID=122499
+#EXTINF:-1,AL: KS Premier 1 HD
+http://103.125.219.246/clientline/play.php?chID=36436
+#EXTINF:-1,AL: KS Premier 2 HD
+http://103.125.219.246/clientline/play.php?chID=36437
+#EXTINF:-1,AL: KS Premier 3 HD
+http://103.125.219.246/clientline/play.php?chID=36438
+#EXTINF:-1,AL: KS Premier 4 HD
+http://103.125.219.246/clientline/play.php?chID=36439
+#EXTINF:-1,AL: KS Stupcat HD
+http://103.125.219.246/clientline/play.php?chID=110867
+#EXTINF:-1,AL: Netflix Aksion
+http://103.125.219.246/clientline/play.php?chID=165812
+#EXTINF:-1,AL: Netflix Aventure
+http://103.125.219.246/clientline/play.php?chID=165815
+#EXTINF:-1,AL: Netflix Epik
+http://103.125.219.246/clientline/play.php?chID=165816
+#EXTINF:-1,AL: Netflix Femije
+http://103.125.219.246/clientline/play.php?chID=165818
+#EXTINF:-1,AL: Netflix Komedi
+http://103.125.219.246/clientline/play.php?chID=165813
+#EXTINF:-1,AL: Netflix Relaks FHD
+http://103.125.219.246/clientline/play.php?chID=165819
+#EXTINF:-1,AL: Netflix Romance
+http://103.125.219.246/clientline/play.php?chID=165814
+#EXTINF:-1,AL: Q Action
+http://103.125.219.246/clientline/play.php?chID=5742
+#EXTINF:-1,AL: Q Drama
+http://103.125.219.246/clientline/play.php?chID=122507
+#EXTINF:-1,AL: Q Hindi 1
+http://103.125.219.246/clientline/play.php?chID=122506
+#EXTINF:-1,AL: Q Komedy
+http://103.125.219.246/clientline/play.php?chID=122497
+#EXTINF:-1,AL: Q Humor
+http://103.125.219.246/clientline/play.php?chID=122498
+#EXTINF:-1,AL: Q Hindi 2
+http://103.125.219.246/clientline/play.php?chID=122496
+#EXTINF:-1,AL: Q Popullore
+http://103.125.219.246/clientline/play.php?chID=122732
+#EXTINF:-1,AL: Q Premium 1
+http://103.125.219.246/clientline/play.php?chID=122494
+#EXTINF:-1,AL: Q Premium 2
+http://103.125.219.246/clientline/play.php?chID=122731
+#EXTINF:-1,AL: Q Premium 3
+http://103.125.219.246/clientline/play.php?chID=122493
+#EXTINF:-1,AL: Q Premium 4
+http://103.125.219.246/clientline/play.php?chID=122492
+#EXTINF:-1,AL: Q Premium 5
+http://103.125.219.246/clientline/play.php?chID=110858
+#EXTINF:-1,AL: Q Stupcat
+http://103.125.219.246/clientline/play.php?chID=122500
+#EXTINF:-1,AL: Q Thriller
+http://103.125.219.246/clientline/play.php?chID=4040
+#EXTINF:-1,AL: Q Western
+http://103.125.219.246/clientline/play.php?chID=4030
+#EXTINF:-1,AL: Shqip TV Komedi HD
+http://103.125.219.246/clientline/play.php?chID=5636
+#EXTINF:-1,AL: TV Plisi Action HD
+http://103.125.219.246/clientline/play.php?chID=165792
+#EXTINF:-1,AL: TV Plisi Comedy HD
+http://103.125.219.246/clientline/play.php?chID=165791
+#EXTINF:-1,AL: TV Plisi Fantasy HD
+http://103.125.219.246/clientline/play.php?chID=165790
+#EXTINF:-1,AL: TV Plisi HD
+http://103.125.219.246/clientline/play.php?chID=165789
+#EXTINF:-1,AL: TV Plisi Horror HD
+http://103.125.219.246/clientline/play.php?chID=165788
+#EXTINF:-1,AL: TV Plisi Humor HD
+http://103.125.219.246/clientline/play.php?chID=165787
+#EXTINF:-1,AL: TV Plisi Qifteli HD
+http://103.125.219.246/clientline/play.php?chID=165786
+#EXTINF:-1,AL: TV Plisi Thriller HD
+http://103.125.219.246/clientline/play.php?chID=165785
+#EXTINF:-1,AL: X Action HD
+http://103.125.219.246/clientline/play.php?chID=122491
+#EXTINF:-1,AL: X Cifteli HD
+http://103.125.219.246/clientline/play.php?chID=122490
+#EXTINF:-1,AL: X Comedy HD
+http://103.125.219.246/clientline/play.php?chID=122489
+#EXTINF:-1,AL: X Dark HD
+http://103.125.219.246/clientline/play.php?chID=122488
+#EXTINF:-1,AL: X Filma 24 HD
+http://103.125.219.246/clientline/play.php?chID=122508
+#EXTINF:-1,AL: X Histori HD
+http://103.125.219.246/clientline/play.php?chID=122485
+#EXTINF:-1,AL: X Humor HD
+http://103.125.219.246/clientline/play.php?chID=122484
+#EXTINF:-1,AL: X Natyra HD
+http://103.125.219.246/clientline/play.php?chID=122482
+#EXTINF:-1,AL: X Popullore HD
+http://103.125.219.246/clientline/play.php?chID=122481
+#EXTINF:-1,AL: X Premium 1 HD
+http://103.125.219.246/clientline/play.php?chID=122480
+#EXTINF:-1,AL: X Premium 2 HD
+http://103.125.219.246/clientline/play.php?chID=122479
+#EXTINF:-1,AL: X Premium 3 HD
+http://103.125.219.246/clientline/play.php?chID=122478
+#EXTINF:-1,AL: X Premium 4 HD
+http://103.125.219.246/clientline/play.php?chID=122477
+#EXTINF:-1,AL: X Romance HD
+http://103.125.219.246/clientline/play.php?chID=122476
+#EXTINF:-1,AL: X Sci-Fi HD
+http://103.125.219.246/clientline/play.php?chID=122475
+#EXTINF:-1,AL: X Shkenca HD
+http://103.125.219.246/clientline/play.php?chID=122474
+#EXTINF:-1,AL: X Thriller HD
+http://103.125.219.246/clientline/play.php?chID=122473
+#EXTINF:-1,AL: X Western HD
+http://103.125.219.246/clientline/play.php?chID=122472
+
+#EXTINF:-1,AL: Amol TV
+http://103.125.219.246/clientline/play.php?chID=10049
+#EXTINF:-1,AL: Besa
+http://103.125.219.246/clientline/play.php?chID=4114
+#EXTINF:-1,AL: BBF Music
+http://103.125.219.246/clientline/play.php?chID=5628
+#EXTINF:-1,AL: BN Music
+http://103.125.219.246/clientline/play.php?chID=6336
+#EXTINF:-1,AL: Click HD
+http://103.125.219.246/clientline/play.php?chID=165805
+#EXTINF:-1,AL: Dasma TV
+http://103.125.219.246/clientline/play.php?chID=4098
+#EXTINF:-1,AL: Diaspora
+http://103.125.219.246/clientline/play.php?chID=6340
+#EXTINF:-1,AL: Elrodi TV
+http://103.125.219.246/clientline/play.php?chID=3931
+#EXTINF:-1,AL: Folk Plus
+http://103.125.219.246/clientline/play.php?chID=4065
+#EXTINF:-1,AL: Folklorit
+http://103.125.219.246/clientline/play.php?chID=4066
+#EXTINF:-1,AL: IN TV
+http://103.125.219.246/clientline/play.php?chID=5626
+#EXTINF:-1,AL: MTV Kosova
+http://103.125.219.246/clientline/play.php?chID=5820
+#EXTINF:-1,AL: My Music
+http://103.125.219.246/clientline/play.php?chID=5619
+#EXTINF:-1,AL: RTSH Muzik
+http://103.125.219.246/clientline/play.php?chID=77010
+#EXTINF:-1,AL: RTV Bujanovc
+http://103.125.219.246/clientline/play.php?chID=6345
+#EXTINF:-1,AL: Scan TV
+http://103.125.219.246/clientline/play.php?chID=165806
+#EXTINF:-1,AL: Shota TV HD
+http://103.125.219.246/clientline/play.php?chID=110870
+#EXTINF:-1,AL: Star Plus HD
+http://103.125.219.246/clientline/play.php?chID=22413
+#EXTINF:-1,AL: Supersonic TV
+http://103.125.219.246/clientline/play.php?chID=4068
+#EXTINF:-1,AL: Top Estrada TV
+http://103.125.219.246/clientline/play.php?chID=10244
+#EXTINF:-1,AL: TV Liria
+http://103.125.219.246/clientline/play.php?chID=10053
+#EXTINF:-1,AL: TV Opoja
+http://103.125.219.246/clientline/play.php?chID=4053
+#EXTINF:-1,AL: TV SHARRI HD
+http://103.125.219.246/clientline/play.php?chID=6343
+
+#EXTINF:-1,AL: A2 CNN
+http://103.125.219.246/clientline/play.php?chID=165798
+#EXTINF:-1,AL: ABC News
+http://103.125.219.246/clientline/play.php?chID=4120
+#EXTINF:-1,[AL] Apollon News TV
+http://103.125.219.246/clientline/play.php?chID=5795
+#EXTINF:-1,AL: Arta News
+http://103.125.219.246/clientline/play.php?chID=10047
+#EXTINF:-1,AL: City TV
+http://103.125.219.246/clientline/play.php?chID=4119
+#EXTINF:-1,AL: Euronews FHD
+http://103.125.219.246/clientline/play.php?chID=165807
+#EXTINF:-1,AL: Fax News
+http://103.125.219.246/clientline/play.php?chID=30205
+#EXTINF:-1,AL: Kanali 7 News
+http://103.125.219.246/clientline/play.php?chID=10048
+#EXTINF:-1,AL: News 24
+http://103.125.219.246/clientline/play.php?chID=4078
+#EXTINF:-1,AL: Ora News
+http://103.125.219.246/clientline/play.php?chID=87051
+#EXTINF:-1,AL: Ora News HD
+http://103.125.219.246/clientline/play.php?chID=4076
+#EXTINF:-1,AL: Report TV
+http://103.125.219.246/clientline/play.php?chID=4041
+#EXTINF:-1,AL: RTSH 24 HD
+http://103.125.219.246/clientline/play.php?chID=10052
+#EXTINF:-1,AL: RTV 21 News Biz
+http://103.125.219.246/clientline/play.php?chID=5927
+#EXTINF:-1,AL: T7 HD
+http://103.125.219.246/clientline/play.php?chID=42859
+#EXTINF:-1,[AL] Top News
+http://103.125.219.246/clientline/play.php?chID=5621
+#EXTINF:-1,AL: TV Red
+http://103.125.219.246/clientline/play.php?chID=165784
+
+#EXTINF:-1,AL: Super Sport News FHD
+http://103.125.219.246/clientline/play.php?chID=20990
+#EXTINF:-1,AL: Super Sport News HD
+http://103.125.219.246/clientline/play.php?chID=17954
+#EXTINF:-1,AL: Super Sport 2 FHD
+http://103.125.219.246/clientline/play.php?chID=20989
+#EXTINF:-1,AL: Super Sport 2 HD
+http://103.125.219.246/clientline/play.php?chID=17337
+#EXTINF:-1,AL: Super Sport 2
+http://103.125.219.246/clientline/play.php?chID=3074
+#EXTINF:-1,AL: Super Sport 3 FHD
+http://103.125.219.246/clientline/play.php?chID=20988
+#EXTINF:-1,AL: Super Sport 3 HD
+http://103.125.219.246/clientline/play.php?chID=17955
+#EXTINF:-1,AL: Super Sport 3
+http://103.125.219.246/clientline/play.php?chID=3076
+#EXTINF:-1,AL: Super Sport 4 FHD
+http://103.125.219.246/clientline/play.php?chID=20987
+#EXTINF:-1,AL: Super Sport 4 HD
+http://103.125.219.246/clientline/play.php?chID=17956
+#EXTINF:-1,AL: Super Sport 4
+http://103.125.219.246/clientline/play.php?chID=3075
+#EXTINF:-1,AL: Super Sport 5 FHD
+http://103.125.219.246/clientline/play.php?chID=112597
+#EXTINF:-1,AL: Super Sport 5 HD
+http://103.125.219.246/clientline/play.php?chID=4060
+#EXTINF:-1,AL: Super Sport 6 HD
+http://103.125.219.246/clientline/play.php?chID=17957
+#EXTINF:-1,AL: Super Sport 7 HD
+http://103.125.219.246/clientline/play.php?chID=111984
+#EXTINF:-1,AL: Tring Sport News FHD
+http://103.125.219.246/clientline/play.php?chID=20982
+#EXTINF:-1,AL: Tring Sport News HD
+http://103.125.219.246/clientline/play.php?chID=3932
+#EXTINF:-1,AL: Tring Sport 1 FHD
+http://103.125.219.246/clientline/play.php?chID=20986
+#EXTINF:-1,AL: Tring Sport 1 HD
+http://103.125.219.246/clientline/play.php?chID=4123
+#EXTINF:-1,AL: Tring Sport 2 FHD
+http://103.125.219.246/clientline/play.php?chID=20985
+#EXTINF:-1,AL: Tring Sport 2 HD
+http://103.125.219.246/clientline/play.php?chID=4124
+#EXTINF:-1,AL: Tring Sport 3 FHD
+http://103.125.219.246/clientline/play.php?chID=20984
+#EXTINF:-1,AL: Tring Sport 3 HD
+http://103.125.219.246/clientline/play.php?chID=4125
+#EXTINF:-1,AL: Tring Sport 4 FHD
+http://103.125.219.246/clientline/play.php?chID=20983
+#EXTINF:-1,AL: Tring Sport 4 HD
+http://103.125.219.246/clientline/play.php?chID=4126
+#EXTINF:-1,AL: Super Sport Kosova HD 1
+http://103.125.219.246/clientline/play.php?chID=4121
+#EXTINF:-1,AL: Super Sport Kosova HD 2
+http://103.125.219.246/clientline/play.php?chID=4122
+#EXTINF:-1,AL: K Sport 1
+http://103.125.219.246/clientline/play.php?chID=5748
+#EXTINF:-1,AL: K Sport 2
+http://103.125.219.246/clientline/play.php?chID=5749
+#EXTINF:-1,AL: K Sport 3
+http://103.125.219.246/clientline/play.php?chID=6383
+#EXTINF:-1,AL: K Sport 4
+http://103.125.219.246/clientline/play.php?chID=6384
+#EXTINF:-1,AL: K Sport 5
+http://103.125.219.246/clientline/play.php?chID=129281
+#EXTINF:-1,AL: Art Sport 1 FHD
+http://103.125.219.246/clientline/play.php?chID=122466
+#EXTINF:-1,AL: Art Sport 2 FHD
+http://103.125.219.246/clientline/play.php?chID=122465
+#EXTINF:-1,AL: Art Sport 3 FHD
+http://103.125.219.246/clientline/play.php?chID=122464
+#EXTINF:-1,AL: RTSH Sport FHD
+http://103.125.219.246/clientline/play.php?chID=10241
+#EXTINF:-1,AL: Eurosport 1 HD
+http://103.125.219.246/clientline/play.php?chID=17958
+#EXTINF:-1,AL: Eurosport 2 HD
+http://103.125.219.246/clientline/play.php?chID=136003
+#EXTINF:-1,AL: Tele Sport
+http://103.125.219.246/clientline/play.php?chID=4100
 
 
 
