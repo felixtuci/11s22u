@@ -3116,16 +3116,7 @@ http://93.157.62.180/KSport4/mpegts
 
 
 
-#EXTINF:-1,SUPER_SPORT_1
-http://38.91.57.31:80/ALBANIA_Super_Sport_News_HD/index.m3u8?token=test            
-#EXTINF:-1,SUPER_SPORT_2
-http://38.91.57.31:80/ALBANIA_Super_Sport_2_HD/index.m3u8?token=test              
-#EXTINF:-1,SUPER_SPORT_3
-http://38.91.57.31:80/ALBANIA_Super_Sport_3_HD/index.m3u8?token=test
-#EXTINF:-1,SUPER_SPORT_4
-http://38.91.57.31:80/ALBANIA_Super_Sport_4_HD/index.m3u8?token=test
-#EXTINF:-1,SUPER_SPORT_5
-http://38.91.57.31:80/ALBANIA_Super_Sport_5_HD/index.m3u8?token=test
+
 
 #EXTINF:-1,SUPER SPORT 1 HD
 http://ran.no-ips.net:8888/StS/276568/index.m3u8?token=test
@@ -3135,10 +3126,66 @@ http://ran.no-ips.net:8888/StS/3128/index.m3u8?token=test
 http://ran.no-ips.net:8888/StS/3129/index.m3u8?token=test
 #EXTINF:-1,SUPER SPORT 4 HD
 http://ran.no-ips.net:8888/StS/209433/index.m3u8?token=test
+
+
+#EXTINF:-1,MAIN EVENT 1 HD
+http://sp2.no-ips.net:8080/events1/index.m3u8?token=test
+#EXTINF:-1,MAIN EVENT 2 HD
+http://sp1.no-ips.net:8080/events2/index.m3u8?token=test
+#EXTINF:-1,MAIN EVENT 3 HD
+http://sp1.no-ips.net:8080/events3/index.m3u8?token=test
+#EXTINF:-1,MAIN EVENT 4 HD
+http://sp2.no-ips.net:8080/events4/index.m3u8?token=test
+#EXTINF:-1,MAIN EVENT 5 HD
+http://rs.x24hr.info:443/bgcf/Sport5/index.m3u8?token=test
+
+#EXTINF:-1,LaLiga-HD
+http://spy.noips.org:8080/LaLiga-HD/index.m3u8?token=test
+#EXTINF:-1,LaLiga-2-HD
+http://spy.noips.org:8080/LaLiga-2-HD/index.m3u8?token=test
+
+#EXTINF:-1,LaLiga-3-HD
+http://spy.noips.org:8080/LaLiga-3-HD/index.m3u8?token=test
+
+#EXTINF:-1,ArenaSport 1
+http://spy.noips.org:8080/RSArenaSport1/index.m3u8?token=test
+#EXTINF:-1,ArenaSport 2
+http://spy.noips.org:8080/RSArenaSport2/index.m3u8?token=test
+#EXTINF:-1,ArenaSport 3
+http://spy.noips.org:8080/RSArenaSport3/index.m3u8?token=test
+#EXTINF:-1,ArenaSport 4
+http://spy.noips.org:8080/RSArenaSport4/index.m3u8?token=test
+#EXTINF:-1,ArenaSport 5
+http://spy.noips.org:8080/RSArenaSport5/index.m3u8?token=test
+#EXTINF:-1,ArenaSport 6
+http://spy.noips.org:8080/HRArenaSport6/index.m3u8?token=test
+
+
+
+
+
+#EXTINF:-1,IL SPORT 1 HD
+http://k2.no-ips.org:8080/issport1/mpegts?token=test
+
+#EXTINF:-1,IL SPORT 2 HD
+http://k2.no-ips.org:8080/issport2/mpegts?token=test
+
+#EXTINF:-1,IL SPORT 4 HD
+http://k2.no-ips.org:8080/issport3/mpegts?token=test
+
+#EXTINF:-1,IL SPORT 1 HD
+http://k2.no-ips.org:8080/issport4/mpegts?token=test
+
+#EXTINF:-1,IL SPORT 5 HD
+http://k2.no-ips.org:8080/issport5/mpegts?token=test
+
+
+
 #EXTINF:-1,DE_SKY_SPORTS_1 HD
-http://k3.no-ips.org:8080/StS/30036/index.m3u8?token=test
+http://k3.no-ips.org:8080/StS/30036/mpegts?token=test
 #EXTINF:-1,DE_SKY_SPORTS_2 HD
-http://k4.no-ips.org:8080/StS/30039/index.m3u8?token=test
+http://k4http://k4.no-ips.org:8080/StS/30039/mpegts?token=test
+
 #EXTINF:-1,DE_SKY_SPORTS_3 HD
 http://ath1.no-ips.org:8080/SportStreamS/123018/index.m3u8?token=test
 #EXTINF:-1,DE_SKY_SPORTS_4 HD
@@ -3156,6 +3203,10 @@ http://ath1.no-ips.org:8080/SportStreamS/3412/index.m3u8?token=test
 http://ath1.no-ips.org:8080/SportStreamS/123115/index.m3u8?token=test
 #EXTINF:-1,DE_Sky_BUNDESLIGA_5_HD
 http://ath1.no-ips.org:8080/SportStreamS/3410/index.m3u8?token=test
+#EXTINF:-1,SPORT 1 DE
+http://k1.no-ips.org:8080/StS/246365/mpegts?token=test
+
+
 
 #EXTINF:-1,ASTRO_SUPERSPORT_1
 http://185.246.209.209:80/ASTRO_SUPERSPORT_1/index.m3u8?token=test
@@ -3166,7 +3217,8 @@ http://185.246.209.209:80/ASTRO_SUPERSPORT_3/index.m3u8?token=test
 #EXTINF:-1,ASTRO_SUPERSPORT_4
 http://185.246.209.209:80/ASTRO_SUPERSPORT_4/index.m3u8?token=test
 #EXTINF:-1,UK_BT_SPORTS_1
-http://fun6.xyz:2052/UK_BT_SPORTS_1/index.m3u8?token=test
+http://185.246.209.209/UK_BT_SPORTS_1/index.m3u8?token=test
+
 #EXTINF:-1,UK_BT_SPORTS_2
 http://fun6.xyz:2052/UK_BT_SPORTS_2/index.m3u8?token=test
 #EXTINF:-1,UK_BT_SPORTS_3
