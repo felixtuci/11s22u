@@ -1914,6 +1914,30 @@ http://portal.geniptv.com:8080/tomasiptv2021/cRz463k8PYuMY2gx568/1364
 http://portal.geniptv.com:8080/tomasiptv2021/cRz463k8PYuMY2gx568/1161
 
 #EXTINF:-1   group-title="-IPTV SPORT 2-",
+#EXTINF:-1,UK: Sky Sports Football HD
+http://uk.x24hr.info:8080/UK/179085/mpegts
+#EXTINF:-1,UK: Sky Sports MainEvents HD
+http://uk.x24hr.info:8080/UK/1308/mpegts
+#EXTINF:-1,UK: Sky Sports Mix HD
+http://uk.x24hr.info:8080/UK/204171/mpegts
+#EXTINF:-1,UK: Sky Sports PremierLeague HD
+http://uk.x24hr.info:8080/UK/1312/mpegts
+#EXTINF:-1,UK: Sky Sports F1 HD
+http://uk.x24hr.info:8080/UK/1313/mpegts
+#EXTINF:-1,UK: BT Sports 1 HD
+http://uk.x24hr.info:8080/UK/179086/mpegts
+#EXTINF:-1,UK: BT Sports 2 HD
+http://uk.x24hr.info:8080/UK/179087/mpegts
+#EXTINF:-1,UK: BT Sports 3 HD
+http://uk.x24hr.info:8080/UK/179088/mpegts
+#EXTINF:-1,UK: Premier Sports 1 HD
+http://uk.x24hr.info:8080/UK/198458/mpegts
+#EXTINF:-1,UK: Premier Sports 2 HD
+http://uk.x24hr.info:8080/UK/198459/mpegts
+#EXTINF:-1,UK: box Nation  HD
+http://uk.x24hr.info:8080/UK/1296/mpegts
+
+
 #EXTINF:-1,AR: Bein Sport premium 1 HD
 http://iptvportuguese.live:8010/TreeT20ex/CuEwSQEMrL6BsmNs/257
 #EXTINF:-1,AR: Bein Sport premium 2 HD
@@ -5716,6 +5740,41 @@ http://portal.geniptv.com:8080/tomasiptv2021/cRz463k8PYuMY2gx568/89975
 http://portal.geniptv.com:8080/tomasiptv2021/cRz463k8PYuMY2gx568/89976
 #EXTINF:-1,MTA 2 FHD UK
 http://portal.geniptv.com:8080/tomasiptv2021/cRz463k8PYuMY2gx568/90059
+
+#EXTINF:-1,Sky Movies Hits
+http://uk.x24hr.info:8080/UK/226528/mpegts
+#EXTINF:-1,Sky Movies Action
+http://uk.x24hr.info:8080/UK/177565/mpegts
+#EXTINF:-1,Sky Movies Comedy
+http://uk.x24hr.info:8080/UK/177560/mpegts
+#EXTINF:-1,Sky Movies Drama
+http://uk.x24hr.info:8080/UK/15016/mpegts
+#EXTINF:-1,Sky Movies Family
+http://uk.x24hr.info:8080/UK/1332/mpegts
+#EXTINF:-1,Sky Movies Greats
+http://uk.x24hr.info:8080/UK/177554/mpegts
+#EXTINF:-1,Sky Movies Premiere
+http://uk.x24hr.info:8080/UK/177556/mpegts
+#EXTINF:-1,Sky Movies Fantasy
+http://uk.x24hr.info:8080/UK/177550/mpegts
+#EXTINF:-1,Sky Movies Thriller
+http://uk.x24hr.info:8080/UK/177551/mpegts
+#EXTINF:-1,Sony Movies
+http://uk.x24hr.info:8080/UK/177540/mpegts
+#EXTINF:-1,TCM Movies
+http://uk.x24hr.info:8080/UK/177538/mpegts
+#EXTINF:-1,ITV 1
+http://uk.x24hr.info:8080/UK/1263/mpegts
+
+http://uk.x24hr.info:8080/UK/1280/mpegts
+http://uk.x24hr.info:8080/UK/177506/mpegts
+http://uk.x24hr.info:8080/UK/177505/mpegts
+http://uk.x24hr.info:8080/UK/177519/mpegts
+http://uk.x24hr.info:8080/UK/177481/mpegts
+http://uk.x24hr.info:8080/UK/177477/mpegts
+http://uk.x24hr.info:8080/UK/1295/mpegts
+http://uk.x24hr.info:8080/UK/177389/mpegts
+
 
 
 #EXTINF:-1  group-title="-IPTV GERMANY-",
