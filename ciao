@@ -1191,6 +1191,9 @@ http://dunya.moppie.info:7444/Vczx990H7yMLP/5FgtHnbSAwQ1we/2955
 http://al.noips.org:8080/AL/3102/mpegts
 #EXTINF:-1,AL: Klan TV HD
 http://dunya.moppie.info:7444/Vczx990H7yMLP/5FgtHnbSAwQ1we/2956
+#EXTINF:-1,AL: Klan TV HD local
+http://tvim.app:8080/KlanHD/tracks-v1a1/mono.m3u8?token=test
+
 #EXTINF:-1,AL: VISION PLUS HD
 http://dunya.moppie.info:7444/Vczx990H7yMLP/5FgtHnbSAwQ1we/2966
 #EXTINF:-1,AL: Klan Plus HD
@@ -2107,10 +2110,7 @@ http://iptvportuguese.live:8010/TreeT20ex/CuEwSQEMrL6BsmNs/326
 #EXTINF:-1,FR: FOOT+ 24/24
 http://iptvportuguese.live:8010/TreeT20ex/CuEwSQEMrL6BsmNs/1539
 
-#EXTINF:-1,IT: Sky MotoGP HD
-http://xtream.team:8080/iptvtree/AU3vErG73h/5084
-#EXTINF:-1,IT: Sky Sport F1 HD
-http://xtream.team:8080/iptvtree/AU3vErG73h/4056
+
 #EXTINF:-1,AL: Super Sport 1 HD 
 http://iptvportuguese.live:8010/TreeT20ex/CuEwSQEMrL6BsmNs/11418
 #EXTINF:-1,AL: Super Sport 2 HD 
