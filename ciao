@@ -2033,6 +2033,28 @@ http://portal.geniptv.com:8080/tomasiptv2021/cRz463k8PYuMY2gx568/1364
 http://portal.geniptv.com:8080/tomasiptv2021/cRz463k8PYuMY2gx568/1161
 
 #EXTINF:-1   group-title="-IPTV SPORT 2-",
+#EXTINF:-1,AL: Super Sport 1 HD
+http://51.178.133.59:8080/SS2-HD/video.m3u8?token=test
+#EXTINF:-1,AL: Super Sport 2 HD
+http://51.178.133.59:8080/SS2-HD/video.m3u8?token=test
+#EXTINF:-1,AL: Super Sport 3 HD
+http://51.178.133.59:8080/SS3-HD/video.m3u8?token=test
+#EXTINF:-1,AL: Super Sport 4 HD
+http://51.178.133.59:8080/SS4-HD/video.m3u8?token=test
+#EXTINF:-1,AL: Super Sport 5 HD
+http://51.178.133.59:8080/SS5-HD/video.m3u8?token=test
+#EXTINF:-1,AL: Super Sport 6 HD
+http://51.178.133.59:8080/SS6-HD/video.m3u8?token=test
+#EXTINF:-1,AL: Super Sport 7 HD
+http://51.178.133.59:8080/SS7-HD/video.m3u8?token=test
+#EXTINF:-1,AL: Tring Sport 1 HD
+http://stbm.tk:8080/TringSport1HD/video.m3u8?token=test
+#EXTINF:-1,AL: Tring Sport 2 HD
+http://stbm.tk:8080/TringSport2HD/video.m3u8?token=test
+#EXTINF:-1,AL: Tring Sport 3 HD
+http://stbm.tk:8080/TringSport3HD/video.m3u8?token=test
+#EXTINF:-1,AL: Tring Sport 4 HD
+http://stbm.tk:8080/TringSport4HD/video.m3u8?token=test
 #EXTINF:-1,UK: Sky Sports Football HD
 http://uk.x24hr.info:8080/UK/179085/mpegts
 #EXTINF:-1,UK: Sky Sports MainEvents HD
