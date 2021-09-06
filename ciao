@@ -2034,7 +2034,7 @@ http://portal.geniptv.com:8080/tomasiptv2021/cRz463k8PYuMY2gx568/1161
 
 #EXTINF:-1   group-title="-IPTV SPORT 2-",
 #EXTINF:-1,AL: Super Sport 1 HD
-http://51.178.133.59:8080/SS2-HD/video.m3u8?token=test
+http://51.178.133.59:8080/SS1-HD/video.m3u8?token=test
 #EXTINF:-1,AL: Super Sport 2 HD
 http://51.178.133.59:8080/SS2-HD/video.m3u8?token=test
 #EXTINF:-1,AL: Super Sport 3 HD
