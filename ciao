@@ -3311,339 +3311,394 @@ http://103.125.219.246/sltv/play.php?chID=310366
 
 
 #EXTINF:-1   group-title="-IPTV ITALIA 3- ",
-#EXTINF:-1,Rai_1_HD
-http://168.119.38.56:86/Rai_1_HD/index.m3u8?token=test
-#EXTINF:-1,Rai_2_HD
-http://168.119.38.56:86/Rai_2_HD/index.m3u8?token=test
-#EXTINF:-1,Rai_4
-http://str.smartip-tv.net:8888/Rai_4/index.m3u8?token=test
-#EXTINF:-1,Italia_Uno
-http://168.119.38.56:86/Italia_Uno/index.m3u8?token=test
-#EXTINF:-1,Canale_5
-http://168.119.38.56:86/Canale_5/index.m3u8?token=test
-#EXTINF:-1,Rete_4
-http://str.smartip-tv.net:8888/Rete_4/index.m3u8?token=test
+#EXTINF:-1,IT➤ Rai 4K
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38483
+#EXTINF:-1,IT➤ Rai 1 HD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38484
+#EXTINF:-1,IT➤ Rai 1 FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38485
+#EXTINF:-1,IT➤ Rai 2 HD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38486
+#EXTINF:-1,IT➤ Rai 2 FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38487
+#EXTINF:-1,IT➤ Rai 3 FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38488
+#EXTINF:-1,IT➤ Rai 4 FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38489
+#EXTINF:-1,IT➤ Rai 5 FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38490
+#EXTINF:-1,IT➤ Rete 4 FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38491
+#EXTINF:-1,IT➤ Mediaset Canale  5 FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38492
+#EXTINF:-1,IT➤ Italia 1 FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38493
+#EXTINF:-1,IT➤ 20 Mediaset FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38494
+#EXTINF:-1,IT➤ Rai Movie FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38495
+#EXTINF:-1,IT➤ Rai Yoyo FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38496
+#EXTINF:-1,IT➤ Rai News 24 FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38497
+#EXTINF:-1,IT➤ Rai Premium FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38498
+#EXTINF:-1,IT➤ RaiGulp FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38499
+#EXTINF:-1,IT➤ RaiGulp HD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38500
+#EXTINF:-1,IT➤ Rai Premium HD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38501
+#EXTINF:-1,IT➤ Cielo FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38502
+#EXTINF:-1,IT➤ Mediaset Cine34
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38503
+#EXTINF:-1,IT➤ Mediaset Iris
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38504
+#EXTINF:-1,IT➤ La7d FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38505
+#EXTINF:-1,IT➤ Mediaset La 5
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38506
+#EXTINF:-1,IT➤ Mediaset Extra
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38507
+#EXTINF:-1,IT➤ Mediaset Italia 2
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38508
+#EXTINF:-1,IT➤ Rsı La 1 FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38509
+#EXTINF:-1,IT➤ Rsı La 2 FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38510
+#EXTINF:-1,IT➤ Spike FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38511
+#EXTINF:-1,IT➤ Super!
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38512
+#EXTINF:-1,IT➤ Tv8 FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38513
+#EXTINF:-1,IT➤ Mediaset TgCom24
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38514
+#EXTINF:-1,IT➤ Mediaset Canale  5 HD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38515
+#EXTINF:-1,IT➤ Rsı La 1 HD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38516
+#EXTINF:-1,IT➤ Rsı La 2 HD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38517
+#EXTINF:-1,IT➤ La 7 FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38518
+#EXTINF:-1,IT➤ Tv 2000
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38519
 
 
-#EXTINF:-1,Rai 4K IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/24698
-#EXTINF:-1,Rai 1 HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14207
-#EXTINF:-1,Rai 1 IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/1662
-#EXTINF:-1,Rai 2 HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14206
-#EXTINF:-1,Rai 2 IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/1663
-#EXTINF:-1,Rai 3 HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14205
-#EXTINF:-1,Rai 3 IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/1664
-#EXTINF:-1,Rai 4 HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14204
-#EXTINF:-1,Rai 4 IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/1709
-#EXTINF:-1,Rai 5 HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14203
-#EXTINF:-1,Rai Movie HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14100
-#EXTINF:-1,Rai Movie IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4108
-#EXTINF:-1,Rai News 24 HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8996
-#EXTINF:-1,Rai Premium HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14098
-#EXTINF:-1,Rai Scuola HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8998
-#EXTINF:-1,Rai Sport + HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14202
-#EXTINF:-1,Rai Sport IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14201
-#EXTINF:-1,Rai Yoyo HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8994
-#EXTINF:-1,Real Time HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14199
-#EXTINF:-1,Rete Quattro IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14200
-#EXTINF:-1,Sky Atlantic HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/1682
-#EXTINF:-1,Sky Cinema Uno HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4077
-#EXTINF:-1,Sky Cinema Drama HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14083
-#EXTINF:-1,Sky Cinema Comedy HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/2011
-#EXTINF:-1,Sky Cinema Family HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/2010
-#EXTINF:-1,Sky Sport NBA HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14069
-#EXTINF:-1,Sky Sport Uno HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14073
-#EXTINF:-1,Sky Sport 24 HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/1686
-#EXTINF:-1,Sky Sport Arena HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/1689
-#EXTINF:-1,Sky Sport F1 HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/1691
-#EXTINF:-1,Sky Sport MotoGP HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/3639
-#EXTINF:-1,Sky Uno HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/1681
-#EXTINF:-1,SportItalia IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14120
-#EXTINF:-1,Super Tennis HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4084
-#EXTINF:-1,Super! HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14066
-#EXTINF:-1,TV2000 IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9002
-#EXTINF:-1,Top Crime IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8241
-#EXTINF:-1,La 7 d IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/16568
-#EXTINF:-1,La 7 HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/16567
-#EXTINF:-1,Milan TV IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/17244
-#EXTINF:-1,Baby TV IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/17330
-#EXTINF:-1,Lazio Style TV IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/17332
-#EXTINF:-1,Radio Freccia HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/17326
-#EXTINF:-1,Radionorba TV IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/17327
-#EXTINF:-1,RTL 102.5 HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/17328
-#EXTINF:-1,Sky Sport Football HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/17371
-#EXTINF:-1,Radio Italia HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/18102
-#EXTINF:-1,Radio Italia Trend HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/28335
-#EXTINF:-1,Sky Sport Collection HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23265
-#EXTINF:-1,Motor Trend FHD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23275
-#EXTINF:-1,Sky Cinema Uno +24 HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/7011
-#EXTINF:-1,Sky Arte HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/21544
-#EXTINF:-1,Rai Storia HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23367
-#EXTINF:-1,Rete Quattro HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23368
-#EXTINF:-1,20 Mediaset  FHD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23371
-#EXTINF:-1,Spike Italia HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23373
-#EXTINF:-1,National Geographic Wild HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23376
-#EXTINF:-1,Pesca HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23377
-#EXTINF:-1,Italian Fishing TV IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23391
-#EXTINF:-1,Crime + Investigation HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23392
-#EXTINF:-1,History HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23397
-#EXTINF:-1,Paramount Channel IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23398
-#EXTINF:-1,Unire Sat HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23399
-#EXTINF:-1,Italia 1 FHD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23939
-#EXTINF:-1,Rai Premium IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23933
-#EXTINF:-1,Rai Gulp HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23932
-#EXTINF:-1,Sky Cinema Due HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/26904
-#EXTINF:-1,Sky Cinema Collection HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/26903
-#EXTINF:-1,Sky Cinema Romance HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/26902
-#EXTINF:-1,Sky Cinema Action HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/26901
-#EXTINF:-1,Sky Cinema Suspense HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/26900
-#EXTINF:-1,Premium Action HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14137
-#EXTINF:-1,Premium Cinema 2 Comedy HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/6902
-#EXTINF:-1,Premium Cinema 3 Energy HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/6904
-#EXTINF:-1,Premium Cinema 1 HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14124
-#EXTINF:-1,Premium Crime IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14114
-#EXTINF:-1,Premium Stories HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14103
-#EXTINF:-1,Sky Primafila 1 HD Live IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/1998
-#EXTINF:-1,Sky Primafila 2 HD Live IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/1999
-#EXTINF:-1,Sky Primafila 3 HD Live IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/2000
-#EXTINF:-1,Sky Primafila 4 HD Live IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/2001
-#EXTINF:-1,Sky Primafila 5 HD Live IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/2002
-#EXTINF:-1,Sky Primafila 6 HD Live IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/2003
-#EXTINF:-1,Sky Primafila 7 HD Live IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/2004
-#EXTINF:-1,Sky Primafila 8 HD Live IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/2005
-#EXTINF:-1,Sky Primafila 9 HD Live IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/2006
-#EXTINF:-1,Sky Primafila 10 HD Live IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/2007
-#EXTINF:-1,Sportitalia SoloCalcio HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14131
-#EXTINF:-1,Eagle Cinema Prima HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23381
-#EXTINF:-1,Eagle Cinema Thriller HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23382
-#EXTINF:-1,Eagle Cinema Fantastico HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23383
-#EXTINF:-1,Eagle Cinema Azione HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23384
-#EXTINF:-1,Eagle Cinema Commedia HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23385
-#EXTINF:-1,Eagle Cinema Collection HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23386
-#EXTINF:-1,Eagle Cinema Horror HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23387
-#EXTINF:-1,Eagle Cinema Avventura HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23388
-#EXTINF:-1,Eagle Cinema Passione HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23389
-#EXTINF:-1,Eagle Cinema Storico HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23390
-#EXTINF:-1,Eagle Cinema Comico Cult HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/26905
-#EXTINF:-1,Eagle Cinema Drammatico HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/27227
-#EXTINF:-1,Eagle Cinema Sorriso FHD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/26886
-#EXTINF:-1,Eagle Cinema Mitologia IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/26888
-#EXTINF:-1,Eagle Cinema Religion HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/26889
-#EXTINF:-1,Eagle Cinema Western HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/26890
-#EXTINF:-1,Eagle Cinema Animazione HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/26887
-#EXTINF:-1,Top Calcio 24 IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/28203
-#EXTINF:-1,Sky Sport 5 HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8969
-#EXTINF:-1,Sky Sport 4 HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8968
-#EXTINF:-1,Sky Sport 3 HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8967
-#EXTINF:-1,Sky Sport 2 HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/1694
-#EXTINF:-1,Sky Sport 1 HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/1693
-#EXTINF:-1,Sky Sport HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23266
-#EXTINF:-1,Euronews IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/34753
-#EXTINF:-1,Food Network HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/51401
-#EXTINF:-1,Boomerang  IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23403
-#EXTINF:-1,Cine 34 IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/70826
-#EXTINF:-1,Gambero Rosso IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8982
-#EXTINF:-1,TV 8 HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14179
-#EXTINF:-1,Roma TV HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/21529
-#EXTINF:-1,Sky SuperCalcio HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/1692
-#EXTINF:-1,Radio Monte Carlo IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/73263
-#EXTINF:-1,Senato TV IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/73264
-#EXTINF:-1,Camera dei Deputati IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/73265
-#EXTINF:-1,DeA Kids IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14076
+
+#EXTINF:-1,IT➤ Super Tennis
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38633
+#EXTINF:-1,IT➤ Rai Sport +1 FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38634
+#EXTINF:-1,IT➤ Rai Sport+
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38635
+#EXTINF:-1,IT➤ Sky Sport 24 HD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38636
+#EXTINF:-1,IT➤ Sky Sport Uno HD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38637
+#EXTINF:-1,IT➤ Sky Sport Collection FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38638
+#EXTINF:-1,IT➤ Sky Sport Collection  HD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38639
+#EXTINF:-1,IT➤ Sky Sport Football HD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38640
+#EXTINF:-1,IT➤ Sky Sport F1 HD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38641
+#EXTINF:-1,IT➤ Sky Sport Arena HD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38642
+#EXTINF:-1,IT➤ Sky Sport NBA FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38643
+#EXTINF:-1,IT➤ Sky Sport Moto GP HD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38644
+#EXTINF:-1,IT➤ Sky Sport Serie A  HD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38645
+#EXTINF:-1,IT➤ Lazio Channel
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38646
+#EXTINF:-1,IT➤ Dazn 1 Sport FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38647
+#EXTINF:-1,IT➤ Dazn 2 Sport FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38648
+#EXTINF:-1,IT➤ Eurosport 1 HD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38649
+#EXTINF:-1,IT➤ Eurosport 2 HD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38650
+#EXTINF:-1,IT➤ Sport Italia
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38651
+#EXTINF:-1,IT➤ Sky Sport 251 HD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38652
+#EXTINF:-1,IT➤ Sky Sport 252 HD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38653
+#EXTINF:-1,UK➤ Bein Sports FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/37358
+#EXTINF:-1,UK➤ Beinsport 11 FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/37359
+#EXTINF:-1,UK➤ Beinsport 11 HD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/37360
+#EXTINF:-1,UK➤ Beinsport 12 FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/37361
+#EXTINF:-1,UK➤ Beinsport 12 HD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/37362
+#EXTINF:-1,UK➤ Beinsport 13 FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/37363
+#EXTINF:-1,AR➤ BEINSPORTS 1 FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/93351
+#EXTINF:-1,AR➤ BEINSPORTS 2 FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/93352
+#EXTINF:-1,AR➤ BEINSPORTS 3 FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/93353
+#EXTINF:-1,AR➤ BEINSPORTS 4 FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/93354
+#EXTINF:-1,AR➤ BEINSPORTS 5 FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/93355
+#EXTINF:-1,AR➤ BEINSPORTS 6 FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/93356
+#EXTINF:-1,AR➤ BEINSPORTS 7 FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/93357
+#EXTINF:-1,AR➤ BEIN SPORTS 1 Premium FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/93358
+#EXTINF:-1,AR➤ BEIN SPORTS 2 Premium FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/93359
+#EXTINF:-1,AR➤ BEIN SPORTS 3 Premium FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/93360
+#EXTINF:-1,AR➤ BEINSPORTS 1 HEVC
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/93361
+#EXTINF:-1,AR➤ BEINSPORTS 2 HEVC
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/93362
+#EXTINF:-1,AR➤ BEINSPORTS 3 HEVC
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/93363
+#EXTINF:-1,AR➤ BEINSPORTS 4 HEVC
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/93364
+#EXTINF:-1,AR➤ BEINSPORTS 5 HEVC
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/93365
+#EXTINF:-1,AR➤ BEINSPORTS 6 HEVC
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/93366
+#EXTINF:-1,AR➤ BEINSPORTS 7 HEVC
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/93367
+#EXTINF:-1,AR➤ BEINSPORTS 9 HEVC
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/93368
+#EXTINF:-1,AR➤ BEINSPORTS 10 HEVC
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/93369
 
 
-#EXTINF:-1,Alice IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8986
-#EXTINF:-1,MS Motor TV IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14210
-#EXTINF:-1,Boing IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14182
-#EXTINF:-1,Caccia HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8984
-#EXTINF:-1,Canale 5 IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14209
-#EXTINF:-1,Canale 5 FHD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/1666
-#EXTINF:-1,Cartoon Network IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14176
-#EXTINF:-1,Cartoonito IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/7030
-#EXTINF:-1,Cielo IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/1671
-#EXTINF:-1,DMAX HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/5231
-#EXTINF:-1,NOVE HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14174
-#EXTINF:-1,Discovery Channel HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14171
-#EXTINF:-1,Discovery Science HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8980
-#EXTINF:-1,Disney + Film HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4377
-#EXTINF:-1,Disney+ Animation IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/20119
-#EXTINF:-1,Eurosport 1 HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14188
-#EXTINF:-1,Eurosport 2 HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14156
-#EXTINF:-1,FOX HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/3713
-#EXTINF:-1,Focus IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8981
-#EXTINF:-1,FOX Crime HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14163
-#EXTINF:-1,Frisbee IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/7031
-#EXTINF:-1,Giallo FHD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9006
-#EXTINF:-1,Inter Channel IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14192
-#EXTINF:-1,Iris HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14157
-#EXTINF:-1,Italia 1 IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/5234
-#EXTINF:-1,K2 IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14155
-#EXTINF:-1,LA 5 IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14189
-#EXTINF:-1,m2o tv IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9005
-#EXTINF:-1,Mediaset Extra IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14194
-#EXTINF:-1,Italia 2 IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14193
-#EXTINF:-1,Nick IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/20120
-#EXTINF:-1,TGCom 24 IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8238
-#EXTINF:-1,National Geographic HD IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14141
+#EXTINF:-1,IT➤ National Geo HD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38668
+#EXTINF:-1,IT➤ Nat Geo Wild HD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38669
+#EXTINF:-1,IT➤ Discovery HD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38670
+#EXTINF:-1,IT➤ Discovery Sci HD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38671
+#EXTINF:-1,IT➤ History HD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38672
+#EXTINF:-1,IT➤ Sky Uno HD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38673
+#EXTINF:-1,IT➤ Dove HD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38674
+#EXTINF:-1,IT➤ Cielo HD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38675
+#EXTINF:-1,IT➤ Mediaset Focus
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38676
+#EXTINF:-1,IT➤ Real Time HD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38677
+#EXTINF:-1,IT➤ Gambero Rosso FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38678
+#EXTINF:-1,IT➤ Sky Tg 24 HD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38679
+#EXTINF:-1,IT➤ Mediaset tgcom 24
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38680
+#EXTINF:-1,IT➤ Dmax FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38681
+#EXTINF:-1,IT➤ Dmax HD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38682
+#EXTINF:-1,IT➤ Dmax+1
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38683
+#EXTINF:-1,IT➤ Food Network FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38684
+#EXTINF:-1,IT➤ Rai Storia FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38685
+#EXTINF:-1,IT➤Rai Scuola HD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38686
+#EXTINF:-1,IT➤Rai Scuola FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38687
+#EXTINF:-1,IT➤ Nove FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38688
+#EXTINF:-1,IT➤ Giallo FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38689
+#EXTINF:-1,IT➤ Real Time FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38690
+#EXTINF:-1,IT➤ Fm italia Tv
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38691
+#EXTINF:-1,IT➤ Radio Bruno Tv
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38692
+#EXTINF:-1,IT➤ Mtv FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38693
+#EXTINF:-1,IT➤ Mtv 8 Musica
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38694
+#EXTINF:-1,IT➤ Mtv Rocks HD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38695
+#EXTINF:-1,IT➤ Mtv Hits
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38696
+#EXTINF:-1,IT➤ Mtv Classic
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38697
+#EXTINF:-1,IT➤ Video Brescia
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38698
+#EXTINF:-1,IT➤ Vh1
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38699
+#EXTINF:-1,IT➤ Vh1 Classic
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38700
+#EXTINF:-1,IT➤ Radio Italia Tv FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38701
+#EXTINF:-1,IT➤ Radio Italia Trend FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38702
+#EXTINF:-1,IT➤ Radio Montecarlo Tv
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38703
+#EXTINF:-1,IT➤ Radio Norbia Tv
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38704
+#EXTINF:-1,IT➤ Radio Tv 105
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38705
+#EXTINF:-1,IT➤ Rtl Tv
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38706
+#EXTINF:-1,IT➤ Euronews HD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38707
+#EXTINF:-1,IT➤ R101 Tv
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38708
+#EXTINF:-1,IT➤ Radio 24FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38709
+#EXTINF:-1,IT➤ Radio Capital Tv
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38710
+#EXTINF:-1,IT➤ Fox HD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38879
+#EXTINF:-1,IT➤ Fox Life HD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38880
+#EXTINF:-1,IT➤ Fox Crime HD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38881
+#EXTINF:-1,IT➤ Paramount Network
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38882
+#EXTINF:-1,IT➤ Premium Cinema HD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38720
+#EXTINF:-1,IT➤ Premium Cinema 2 HD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38721
+#EXTINF:-1,IT➤ Premium Cinema 3 HD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38722
+#EXTINF:-1,IT➤ Premium Action HD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38723
+#EXTINF:-1,IT➤ Premium Crime HD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38724
+#EXTINF:-1,IT➤ Premium Top Crime
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38725
+#EXTINF:-1,IT➤ Premium Stories HD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38726
+#EXTINF:-1,IT➤ Paramount Channel FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38727
+#EXTINF:-1,IT➤ Sky Atlantic HD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38520
+#EXTINF:-1,IT➤ Sky Cinema Uno HD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38728
+#EXTINF:-1,IT➤ Sky Cinema Due HD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38729
+#EXTINF:-1,IT➤ Sky Cinema Drama
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38730
+#EXTINF:-1,IT➤ Sky Cinema Family
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38731
+#EXTINF:-1,IT➤ Sky Cinema Comedy HD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38732
+#EXTINF:-1,IT➤ Sky Cinema Colection
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38733
+#EXTINF:-1,IT➤ Sky Cinema Romance
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38734
+#EXTINF:-1,IT➤ Sky Cinema Suspense HD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38735
+#EXTINF:-1,IT➤ Vetrina Sky Primafila HD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38736
+#EXTINF:-1,IT➤ Sky Primafila 1 FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38737
+#EXTINF:-1,IT➤ Sky Primafila 2 FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38738
+#EXTINF:-1,IT➤ Sky Primafila 3 FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38739
+#EXTINF:-1,IT➤ Sky Primafila 4 FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38740
+#EXTINF:-1,IT➤ Sky Primafila 5 FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38741
+#EXTINF:-1,IT➤ Sky Primafila 6 FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38742
+#EXTINF:-1,IT➤ Sky Primafila 7 FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38743
+#EXTINF:-1,IT➤ Sky Primafila 8 FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38744
+#EXTINF:-1,IT➤ Sky Primafila 9 FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38745
+#EXTINF:-1,IT➤ Sky Primafila 10 FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38746
+#EXTINF:-1,IT➤ True 4K Cinema➤Fibra
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38747
+#EXTINF:-1,IT➤ Eagle Cinema Film in Sala  HD (qualita camera)
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38748
+#EXTINF:-1,IT➤ Eagle Cinema Western FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38749
+#EXTINF:-1,IT➤ Eagle Cinema 007 HD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38750
+#EXTINF:-1,IT➤ Eagle Cinema Mitologia HD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38751
+#EXTINF:-1,IT➤ Eagle Cinema Biografico FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38752
+#EXTINF:-1,IT➤ Eagle Cinema Horror FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38753
+#EXTINF:-1,IT➤ Eagle Cinema Drammatico FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38754
+#EXTINF:-1,IT➤ Eagle Cinema Passione FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38755
+#EXTINF:-1,IT➤ Eagle Cinema Thriller FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38756
+#EXTINF:-1,IT➤ Eagle Cinema Avventura FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38757
+#EXTINF:-1,IT➤ Eagle Cinema Fantastico FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38758
+#EXTINF:-1,IT➤ Eagle Cinema Commedia FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38759
+#EXTINF:-1,IT➤ Eagle Cinema Sorriso FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38760
+#EXTINF:-1,IT➤ Eagle Cinema Comico Cult FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38761
+#EXTINF:-1,IT➤ Eagle Cinema Storico FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38762
+#EXTINF:-1,IT➤ Eagle Cinema Azione FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38763
+#EXTINF:-1,IT➤ Eagle Cinema Prima Visione FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38764
+#EXTINF:-1,IT➤ Eagle Cinema Animazione FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38765
+#EXTINF:-1,IT➤ Eagle Nature Explorer FHD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38766
+#EXTINF:-1,IT➤ Eagle  Anonymous™ Masha e Orso-Stag 1
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38767
+#EXTINF:-1,IT➤ Eagle Anonymous™ Masha e Orso-Stag 2
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38768
+#EXTINF:-1,IT➤ Eagle Anonymous™ Alessandro Siani Channel
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38769
 
-#EXTINF:-1,Radio 105 TV IT
-http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/5240
+#EXTINF:-1,IT➤ Cartoon Network
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38869
+#EXTINF:-1,IT➤ Frisbee
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38870
+#EXTINF:-1,IT➤ K2
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38871
+#EXTINF:-1,IT➤ Cartoonito
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38872
+#EXTINF:-1,IT➤ Disney Jr. HD
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38873
+#EXTINF:-1,IT➤ Supertoon Tv
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38874
+#EXTINF:-1,IT➤ Boing
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38875
+#EXTINF:-1,IT➤ Baby TV
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38876
+#EXTINF:-1,IT➤ Mondo Kids
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38877
+#EXTINF:-1,IT➤ Teletubbies
+http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/38878
 
 
 #EXTINF:-1  group-title="-IPTV EXYUGO-",
