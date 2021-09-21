@@ -2149,347 +2149,462 @@ http://dvb2mhd.com:2082/live/kuchini.site/TfUjeuXg78/96078.ts
 http://dvb2mhd.com:2082/live/kuchini.site/TfUjeuXg78/96079.ts
 
 #EXTINF:-1   group-title="-IPTV ITALIA 1- ",
-#EXTINF:-1,Rai 1 HD IT
-http://185.247.117.212/portalgen/play.php?chID=43328
-#EXTINF:-1,Rai 1 IT
-http://185.247.117.212/portalgen/play.php?chID=325
-#EXTINF:-1,Rai 2 FHD IT
-http://185.247.117.212/portalgen/play.php?chID=43558
-#EXTINF:-1,Rai 2 HD IT
-http://185.247.117.212/portalgen/play.php?chID=15204
-#EXTINF:-1,Rai 2 IT
-http://185.247.117.212/portalgen/play.php?chID=324
-#EXTINF:-1,Rai 3 FHD IT
-http://185.247.117.212/portalgen/play.php?chID=323
-#EXTINF:-1,Rai 3 HD IT
-http://185.247.117.212/portalgen/play.php?chID=15203
-#EXTINF:-1,Rai 4 HD IT
-http://185.247.117.212/portalgen/play.php?chID=15202
-#EXTINF:-1,Rai 4 IT
-http://185.247.117.212/portalgen/play.php?chID=5240
-#EXTINF:-1,Rai 5 FHD IT
-http://185.247.117.212/portalgen/play.php?chID=15201
-#EXTINF:-1,Rai 5 HD IT
-http://185.247.117.212/portalgen/play.php?chID=43560
-#EXTINF:-1,Rai 5 IT
-http://185.247.117.212/portalgen/play.php?chID=5239
-#EXTINF:-1,Rai Gulp FHD IT
-http://185.247.117.212/portalgen/play.php?chID=15200
-#EXTINF:-1,Rai Gulp IT
-http://185.247.117.212/portalgen/play.php?chID=5191
-#EXTINF:-1,Rai Movie HD IT
-http://185.247.117.212/portalgen/play.php?chID=15199
-#EXTINF:-1,Rai Movie IT
-http://185.247.117.212/portalgen/play.php?chID=5237
-#EXTINF:-1,Rai News 24 FHD IT VIP
-http://185.247.117.212/portalgen/play.php?chID=15198
-#EXTINF:-1,Rai News 24 IT
-http://185.247.117.212/portalgen/play.php?chID=5195
-#EXTINF:-1,Rai Premium IT
-http://185.247.117.212/portalgen/play.php?chID=5236
-#EXTINF:-1,Rai Scuola IT
-http://185.247.117.212/portalgen/play.php?chID=5234
-#EXTINF:-1,Rai Sport 1 HD IT
-http://185.247.117.212/portalgen/play.php?chID=1264
-#EXTINF:-1,Rai Sport 2 IT
-http://185.247.117.212/portalgen/play.php?chID=1263
-#EXTINF:-1,Rai Storia IT
-http://185.247.117.212/portalgen/play.php?chID=5235
-#EXTINF:-1,Real Giallo IT
-http://185.247.117.212/portalgen/play.php?chID=1270
-#EXTINF:-1,Real Time FHD IT
-http://185.247.117.212/portalgen/play.php?chID=1283
-#EXTINF:-1,Real Time HD VIP IT
-http://185.247.117.212/portalgen/play.php?chID=15174
-#EXTINF:-1,Rete 4 IT
-http://185.247.117.212/portalgen/play.php?chID=1314
-#EXTINF:-1,Rete 4 VIP IT
-http://185.247.117.212/portalgen/play.php?chID=15192
-#EXTINF:-1,Italia Uno IT
-http://185.247.117.212/portalgen/play.php?chID=327
-#EXTINF:-1,Italia 2 HD IT
-http://185.247.117.212/portalgen/play.php?chID=328
-#EXTINF:-1,Canale 5 FHD IT
-http://185.247.117.212/portalgen/play.php?chID=330
-#EXTINF:-1,Canale 5 HD IT
-http://185.247.117.212/portalgen/play.php?chID=7686
-#EXTINF:-1,Canale 5 IT
-http://185.247.117.212/portalgen/play.php?chID=7685
-#EXTINF:-1,RSI La 1 HD IT
-http://185.247.117.212/portalgen/play.php?chID=1313
-#EXTINF:-1,RSI La 2 HD IT
-http://185.247.117.212/portalgen/play.php?chID=1312
-#EXTINF:-1,Mediaset Extra IT
-http://185.247.117.212/portalgen/play.php?chID=5238
-#EXTINF:-1,Mediaset TGCOM24 IT
-http://185.247.117.212/portalgen/play.php?chID=5196
-#EXTINF:-1,Mediaset TGCOM24 VIP IT
-http://185.247.117.212/portalgen/play.php?chID=15293
-#EXTINF:-1,Cine34 IT
-http://185.247.117.212/portalgen/play.php?chID=80958
-#EXTINF:-1,S Cinema Uno HD IT
-http://185.247.117.212/portalgen/play.php?chID=1311
-#EXTINF:-1,S Cinema Uno FHD IT
-http://185.247.117.212/portalgen/play.php?chID=322
-#EXTINF:-1,S Cinema Uno +24 HD IT
-http://185.247.117.212/portalgen/play.php?chID=1310
-#EXTINF:-1,S Cinema Comedy HD IT
-http://185.247.117.212/portalgen/play.php?chID=320
-#EXTINF:-1,S Cinema Drama HD IT
-http://185.247.117.212/portalgen/play.php?chID=15151
-#EXTINF:-1,S Cinema Drama FHD IT
-http://185.247.117.212/portalgen/play.php?chID=15144
-#EXTINF:-1,S Cinema Due HD IT
-http://185.247.117.212/portalgen/play.php?chID=1309
-#EXTINF:-1,S Cinema Family HD IT
-http://185.247.117.212/portalgen/play.php?chID=319
-#EXTINF:-1,S Cinema Action HD IT
-http://185.247.117.212/portalgen/play.php?chID=318
-#EXTINF:-1,S Cinema Romance HD IT
-http://185.247.117.212/portalgen/play.php?chID=317
-#EXTINF:-1,S Cinema Romance FHD IT
-http://185.247.117.212/portalgen/play.php?chID=48660
-#EXTINF:-1,S Cinema Suspense HD IT
-http://185.247.117.212/portalgen/play.php?chID=48357
-#EXTINF:-1,S Arte HD IT
-http://185.247.117.212/portalgen/play.php?chID=5198
-#EXTINF:-1,S Atlantic HD IT
-http://185.247.117.212/portalgen/play.php?chID=1291
-#EXTINF:-1,FOX HD IT
-http://185.247.117.212/portalgen/play.php?chID=1290
-#EXTINF:-1,Fox Crime HD IT
-http://185.247.117.212/portalgen/play.php?chID=1289
-#EXTINF:-1,Fox Crime VIP IT
-http://185.247.117.212/portalgen/play.php?chID=15232
 
-#EXTINF:-1,PrimaFila 1 HD 1080P
-http://185.247.117.212/portalgen/play.php?chID=2195
-#EXTINF:-1,PrimaFila 2 HD 1080P
-http://185.247.117.212/portalgen/play.php?chID=2194
-#EXTINF:-1,PrimaFila 3 HD 1080P
-http://185.247.117.212/portalgen/play.php?chID=2193
-#EXTINF:-1,PrimaFila 4 HD 1080P
-http://185.247.117.212/portalgen/play.php?chID=2192
-#EXTINF:-1,PrimaFila 5 HD 1080P
-http://185.247.117.212/portalgen/play.php?chID=2191
-#EXTINF:-1,PrimaFila 6 HD 1080P
-http://185.247.117.212/portalgen/play.php?chID=2190
-#EXTINF:-1,PrimaFila 7 HD 1080P
-http://185.247.117.212/portalgen/play.php?chID=2189
-#EXTINF:-1,PrimaFila 8 HD 1080P
-http://185.247.117.212/portalgen/play.php?chID=2188
-#EXTINF:-1,PrimaFila 9 HD 1080P
-http://185.247.117.212/portalgen/play.php?chID=2187
+#EXTINF:-1,IT - RAI 1 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/3
+#EXTINF:-1,IT - Rai 2 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/5
+#EXTINF:-1,IT - Rai 3 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/7
+#EXTINF:-1,IT - Rete 4 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/9
+#EXTINF:-1,IT - Canale 5 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/11
+#EXTINF:-1,IT - Italia 1 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/13
+#EXTINF:-1,IT - LA 7 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/14
+#EXTINF:-1,IT - LA 7d HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/15
 
-#EXTINF:-1,Premium Cinema +24 IT
-http://185.247.117.212/portalgen/play.php?chID=1305
-#EXTINF:-1,Premium Cinema Comedy IT
-http://185.247.117.212/portalgen/play.php?chID=1302
-#EXTINF:-1,Premium Cinema Energy IT
-http://185.247.117.212/portalgen/play.php?chID=1301
-#EXTINF:-1,Premium Cinema HD IT
-http://185.247.117.212/portalgen/play.php?chID=1306
-#EXTINF:-1,Premium Crime IT
-http://185.247.117.212/portalgen/play.php?chID=1293
-#EXTINF:-1,Premium Crime HD IT
-http://185.247.117.212/portalgen/play.php?chID=1294
-#EXTINF:-1,Premium Emotion IT
-http://185.247.117.212/portalgen/play.php?chID=1297
-#EXTINF:-1,Premium Stories IT
-http://185.247.117.212/portalgen/play.php?chID=1295
-#EXTINF:-1,Premium Studio Universal IT
-http://185.247.117.212/portalgen/play.php?chID=1296
-#EXTINF:-1,Premium Action IT
-http://185.247.117.212/portalgen/play.php?chID=1299
+#EXTINF:-1,IT - TV 8
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/16
+#EXTINF:-1,IT - RSI La2 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/30
+#EXTINF:-1,IT - RSI La1 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/29
 
-#EXTINF:-1,S Calcio 1 IT
-http://185.247.117.212/portalgen/play.php?chID=307
-#EXTINF:-1,S Calcio 2 IT
-http://185.247.117.212/portalgen/play.php?chID=306
-#EXTINF:-1,S Calcio 3 HD IT
-http://185.247.117.212/portalgen/play.php?chID=5210
-#EXTINF:-1,S Calcio 4 HD IT
-http://185.247.117.212/portalgen/play.php?chID=5209
-#EXTINF:-1,S Calcio 5 HD IT
-http://185.247.117.212/portalgen/play.php?chID=5208
-#EXTINF:-1,S Calcio 6 HD IT
-http://185.247.117.212/portalgen/play.php?chID=5207
-#EXTINF:-1,S Supercalcio Serie A HD VIP IT
-http://185.247.117.212/portalgen/play.php?chID=15097
-#EXTINF:-1,S Supercalcio Serie A VIP IT
-http://185.247.117.212/portalgen/play.php?chID=15096
-#EXTINF:-1,S Sport Serie A FHD IT
-http://185.247.117.212/portalgen/play.php?chID=15077
+#EXTINF:-1,IT - 20 Mediaset HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/31
+#EXTINF:-1,IT - Paramount Network HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/32
+#EXTINF:-1,IT - Iris
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/33
+#EXTINF:-1,IT - Rai Movie HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/34
+#EXTINF:-1,IT - Topcrime
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/35
+#EXTINF:-1,IT - Giallo HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/36
+#EXTINF:-1,IT - Mediaset Extra
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/37
+#EXTINF:-1,IT - Mediaset Extra 2
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/757
+#EXTINF:-1,IT - Mediaset Italia 2
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/38
+#EXTINF:-1,IT - Cielo
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/756
+#EXTINF:-1,IT - Real Time HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/39
+#EXTINF:-1,IT - TV 2000 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/40
+#EXTINF:-1,IT - Padre Pio TV HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/41
+#EXTINF:-1,IT - La 5
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/42
+#EXTINF:-1,IT - Rai Premium HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/43
+#EXTINF:-1,IT - Rai 4
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/44
+#EXTINF:-1,IT - Rai 5 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/45
+#EXTINF:-1,IT - TV Luna
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/46
+#EXTINF:-1,IT - Canale 8
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/47
+#EXTINF:-1,IT - Canale 21
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/48
+#EXTINF:-1,IT - Televomero
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/49
+#EXTINF:-1,IT - Videolina
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/50
+#EXTINF:-1,IT - Sportitalia
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/51
+#EXTINF:-1,IT - Super Tennis HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/55
+#EXTINF:-1,IT - Automoto Tv
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/56
+#EXTINF:-1,IT - Uniresat HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/57
+#EXTINF:-1,IT - Telelombardia
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/58
+#EXTINF:-1,IT - Antenna 3
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/59
+#EXTINF:-1,IT - Top Calcio 24
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/760
+#EXTINF:-1,IT - Spike HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/60
+#EXTINF:-1,IT - Focus
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/62
+#EXTINF:-1,IT - Dmax HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/63
+#EXTINF:-1,IT - Rai Scuola HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/65
+#EXTINF:-1,IT - Food Network HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/66
+#EXTINF:-1,IT - Italian Fishing Tv
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/68
+#EXTINF:-1,IT - Marco Polo
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/69
+#EXTINF:-1,IT - Super!
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/70
+#EXTINF:-1,IT - K2
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/71
+#EXTINF:-1,IT - Frisbee
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/72
+#EXTINF:-1,IT - Rai YoYo HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/73
+#EXTINF:-1,IT - Rai Gulp HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/74
+#EXTINF:-1,IT - Baby TV
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/75
+#EXTINF:-1,IT - Boing
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/76
+#EXTINF:-1,IT - Cartoonito
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/77
+#EXTINF:-1,IT - SKY TG 24
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/78
+#EXTINF:-1,IT - Rai News 24 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/79
+#EXTINF:-1,IT - TGCom 24
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/80
+#EXTINF:-1,IT - TG NORBA 24
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/81
+#EXTINF:-1,IT - Euronews
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/82
+#EXTINF:-1,IT - Nove Deejay TV HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/17
+#EXTINF:-1,IT - Radio 105
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/20
+#EXTINF:-1,IT - Radio Monte Carlo TV
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/21
+#EXTINF:-1,IT - RTL 102.5 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/22
+#EXTINF:-1,IT - Radio Italia Trend TV HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/23
+#EXTINF:-1,IT - Radio Freccia HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/25
+#EXTINF:-1,IT - Radio Italia TV HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/26
+#EXTINF:-1,IT - Radio Norba TV
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/27
+#EXTINF:-1,IT - VH1 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/28
 
-#EXTINF:-1,S Sport F1 HD IT
-http://185.247.117.212/portalgen/play.php?chID=308
-#EXTINF:-1,S Sport MotoGP HD IT
-http://185.247.117.212/portalgen/play.php?chID=310
-#EXTINF:-1,S Sport 24 HD IT
-http://185.247.117.212/portalgen/play.php?chID=309
-#EXTINF:-1,S Sport Football HD IT
-http://185.247.117.212/portalgen/play.php?chID=315
-#EXTINF:-1,S Sport NBA HD IT
-http://185.247.117.212/portalgen/play.php?chID=1265
-#EXTINF:-1,S Sport Uno FHD IT
-http://185.247.117.212/portalgen/play.php?chID=316
-#EXTINF:-1,Sport Italia IT
-http://185.247.117.212/portalgen/play.php?chID=1261
-#EXTINF:-1,Super TV IT
-http://185.247.117.212/portalgen/play.php?chID=5211
-#EXTINF:-1,Super Tennis HD IT
-http://185.247.117.212/portalgen/play.php?chID=1262
-#EXTINF:-1,SuperTennis VIP IT
-http://185.247.117.212/portalgen/play.php?chID=15086
-#EXTINF:-1,Inter Channel IT
-http://185.247.117.212/portalgen/play.php?chID=329
-#EXTINF:-1,Juventus Channel VIP IT
-http://185.247.117.212/portalgen/play.php?chID=15189
-#EXTINF:-1,Lazio Style Channel IT
-http://185.247.117.212/portalgen/play.php?chID=1258
-#EXTINF:-1,Milan Channel IT
-http://185.247.117.212/portalgen/play.php?chID=326
-#EXTINF:-1,Roma Channel IT
-http://185.247.117.212/portalgen/play.php?chID=1256
-#EXTINF:-1,Wrestling IT
-http://185.247.117.212/portalgen/play.php?chID=5212
-#EXTINF:-1,Pesca e Caccia IT
-http://185.247.117.212/portalgen/play.php?chID=1253
-#EXTINF:-1,Caccia e Pesca IT
-http://185.247.117.212/portalgen/play.php?chID=1254
-#EXTINF:-1,EuroSport 1 HD IT
-http://185.247.117.212/portalgen/play.php?chID=1260
-#EXTINF:-1,EuroSport 2 HD IT
-http://185.247.117.212/portalgen/play.php?chID=1259
-#EXTINF:-1,AutoMoto TV IT
-http://185.247.117.212/portalgen/play.php?chID=5213
-#EXTINF:-1,Disney Plus Nature HD VIP IT
-http://185.247.117.212/portalgen/play.php?chID=90842
-#EXTINF:-1,Disney Plus Film 2 HD VIP IT
-http://185.247.117.212/portalgen/play.php?chID=90841
-#EXTINF:-1,Disney Plus Film HD VIP IT
-http://185.247.117.212/portalgen/play.php?chID=90840
-#EXTINF:-1,Disney Plus Animation HD VIP IT
-http://185.247.117.212/portalgen/play.php?chID=90839
-#EXTINF:-1,Disney Channel  1 HD VIP IT
-http://185.247.117.212/portalgen/play.php?chID=15250
-#EXTINF:-1,Disney Channel HD IT
-http://185.247.117.212/portalgen/play.php?chID=5185
-#EXTINF:-1,Disney Junior IT
-http://185.247.117.212/portalgen/play.php?chID=5184
-#EXTINF:-1,Nick Junior IT
-http://185.247.117.212/portalgen/play.php?chID=5178
-#EXTINF:-1,Nickelodeon VIP IT
-http://185.247.117.212/portalgen/play.php?chID=15179
-#EXTINF:-1,Cartoonito IT
-http://185.247.117.212/portalgen/play.php?chID=5188
-#EXTINF:-1,Cartoonito VIP IT
-http://185.247.117.212/portalgen/play.php?chID=15268
-#EXTINF:-1,Rai YoYo HD IT
-http://185.247.117.212/portalgen/play.php?chID=5190
-#EXTINF:-1,Boing IT
-http://185.247.117.212/portalgen/play.php?chID=1282
-#EXTINF:-1,K2 IT
-http://185.247.117.212/portalgen/play.php?chID=5179
-#EXTINF:-1,K2 VIP IT
-http://185.247.117.212/portalgen/play.php?chID=15188
-#EXTINF:-1,Fox Crime FHD IT
-http://185.247.117.212/portalgen/play.php?chID=15242
-#EXTINF:-1,Frisbee IT
-http://185.247.117.212/portalgen/play.php?chID=5180
-#EXTINF:-1,Super! IT
-http://185.247.117.212/portalgen/play.php?chID=5189
 
-#EXTINF:-1,Alice IT
-http://185.247.117.212/portalgen/play.php?chID=5216
-#EXTINF:-1,Baby TV IT
-http://185.247.117.212/portalgen/play.php?chID=5192
-#EXTINF:-1,Blaze +1 VIP IT
-http://185.247.117.212/portalgen/play.php?chID=15274
-#EXTINF:-1,Blaze VIP IT
-http://185.247.117.212/portalgen/play.php?chID=15272
-#EXTINF:-1,CLASSICA HD VIP IT
-http://185.247.117.212/portalgen/play.php?chID=15261
-#EXTINF:-1,Canale 8 IT
-http://185.247.117.212/portalgen/play.php?chID=5228
-#EXTINF:-1,Canale Otto IT
-http://185.247.117.212/portalgen/play.php?chID=26939
-#EXTINF:-1,Cielo HD IT
-http://185.247.117.212/portalgen/play.php?chID=5217
-#EXTINF:-1,Crime Investigation HD IT
-http://185.247.117.212/portalgen/play.php?chID=1267
-#EXTINF:-1,Discovery Channel HD IT
-http://185.247.117.212/portalgen/play.php?chID=1276
-#EXTINF:-1,Discovery Science FHD VIP IT
-http://185.247.117.212/portalgen/play.php?chID=15215
-#EXTINF:-1,Discovery Science HD IT
-http://185.247.117.212/portalgen/play.php?chID=1277
-#EXTINF:-1,Dmax  1 VIP IT
-http://185.247.117.212/portalgen/play.php?chID=15247
-#EXTINF:-1,Dmax IT
-http://185.247.117.212/portalgen/play.php?chID=1274
-#EXTINF:-1,Focus IT
-http://185.247.117.212/portalgen/play.php?chID=1273
-#EXTINF:-1,Gambero Rosso HD IT
-http://185.247.117.212/portalgen/play.php?chID=1272
-#EXTINF:-1,History FHD VIP IT
-http://185.247.117.212/portalgen/play.php?chID=15214
-#EXTINF:-1,History HD IT
-http://185.247.117.212/portalgen/play.php?chID=1275
-#EXTINF:-1,Iris IT
-http://185.247.117.212/portalgen/play.php?chID=5233
-#EXTINF:-1,Italian Fishing IT
-http://185.247.117.212/portalgen/play.php?chID=1251
-#EXTINF:-1,Italian Fishing VIP IT
-http://185.247.117.212/portalgen/play.php?chID=15190
-#EXTINF:-1,La 5 IT
-http://185.247.117.212/portalgen/play.php?chID=5232
-#EXTINF:-1,La 7D FHD IT
-http://185.247.117.212/portalgen/play.php?chID=6539
-#EXTINF:-1,La7 IT
-http://185.247.117.212/portalgen/play.php?chID=5231
-#EXTINF:-1,La7d HD IT
-http://185.247.117.212/portalgen/play.php?chID=5230
-#EXTINF:-1,Marco Polo IT
-http://185.247.117.212/portalgen/play.php?chID=5199
-#EXTINF:-1,Nat Geo HD IT
-http://185.247.117.212/portalgen/play.php?chID=1280
-#EXTINF:-1,Nat Geo Wild HD IT
-http://185.247.117.212/portalgen/play.php?chID=1279
-#EXTINF:-1,Padre Pio TV VIP IT
-http://185.247.117.212/portalgen/play.php?chID=15279
-#EXTINF:-1,Paramount HD IT
-http://185.247.117.212/portalgen/play.php?chID=5218
-#EXTINF:-1,Pescare e Cacciare IT
-http://185.247.117.212/portalgen/play.php?chID=1252
-#EXTINF:-1,QVC VIP IT
-http://185.247.117.212/portalgen/play.php?chID=15177
-#EXTINF:-1,S  TG 24 HD IT
-http://185.247.117.212/portalgen/play.php?chID=5197
-#EXTINF:-1,S Uno +1 HD IT
-http://185.247.117.212/portalgen/play.php?chID=1292
-#EXTINF:-1,S Virgin Music TV IT
-http://185.247.117.212/portalgen/play.php?chID=5172
-#EXTINF:-1,TG Norba 24 VIP IT
-http://185.247.117.212/portalgen/play.php?chID=15292
-#EXTINF:-1,TV2000 VIP IT
-http://185.247.117.212/portalgen/play.php?chID=15287
-#EXTINF:-1,TV2000 HD IT
-http://185.247.117.212/portalgen/play.php?chID=1268
-#EXTINF:-1,TV8 IT
-http://185.247.117.212/portalgen/play.php?chID=5229
-#EXTINF:-1,TV8 VIP IT
-http://185.247.117.212/portalgen/play.php?chID=15269
-#EXTINF:-1,TelePavia VIP IT
-http://185.247.117.212/portalgen/play.php?chID=15294
-#EXTINF:-1,Top Crime IT
-http://185.247.117.212/portalgen/play.php?chID=1269
-#EXTINF:-1,UnireSat VIP IT
-http://185.247.117.212/portalgen/play.php?chID=15285
-#EXTINF:-1,Video Brescia VIP IT
-http://185.247.117.212/portalgen/play.php?chID=15284
-#EXTINF:-1,Videolina VIP IT
-http://185.247.117.212/portalgen/play.php?chID=15283
+#EXTINF:-1,IT - Premium Action
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/85
+#EXTINF:-1,IT - Mediasport Channel
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/919
+#EXTINF:-1,IT - Motor Trend HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1341
+#EXTINF:-1,IT - Radio 101 TV
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1343
+#EXTINF:-1,IT - Virgin Radio Tv
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1344
+#EXTINF:-1,IT - Rai Storia
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/64
+#EXTINF:-1,IT - Alice
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/67
+#EXTINF:-1,IT - Boing Plus
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/542
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,Sky Cinema Uno HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1348
+#EXTINF:-1,Sky Cinema Uno +1 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1349
+#EXTINF:-1,Sky Cinema Uno +24 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1350
+#EXTINF:-1,Sky Cinema Due HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1351
+#EXTINF:-1,Sky Cinema Due +1 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1352
+#EXTINF:-1,Sky Cinema Due +24 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1353
+#EXTINF:-1,Sky Cinema Collection  HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1354
+#EXTINF:-1,Sky Cinema Family HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1355
+#EXTINF:-1,Sky Cinema Action HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1356
+#EXTINF:-1,Sky Cinema Suspense HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1357
+#EXTINF:-1,Sky Cinema Drama HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1358
+#EXTINF:-1,Sky Cinema Romance HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1359
+#EXTINF:-1,Sky Cinema Comedy HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1360
+
+#EXTINF:-1,Sky Uno HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1362
+#EXTINF:-1,Sky Uno +1 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1363
+#EXTINF:-1,Sky Atlantic HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1364
+#EXTINF:-1,Sky Atlantic +1 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1365
+#EXTINF:-1,Fox HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1366
+#EXTINF:-1,Fox +1 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1367
+#EXTINF:-1,Fox Crime HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1368
+#EXTINF:-1,Fox Crime +1 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1369
+#EXTINF:-1,Fox Crime +2 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1370
+#EXTINF:-1,Crime Investigation HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1371
+#EXTINF:-1,Blaze HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1372
+#EXTINF:-1,Comedy Central
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1373
+#EXTINF:-1,Premium Cinema 1
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1735
+#EXTINF:-1,Premium Cinema 1 +24 Full HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1736
+#EXTINF:-1,Premium Cinema 2
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1737
+#EXTINF:-1,Premium Cinema 3
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1738
+#EXTINF:-1,Premium Action
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1739
+#EXTINF:-1,Premium Crime
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1740
+#EXTINF:-1,Premium Stories
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1741
+
+#EXTINF:-1,Sky Sport 24 Full HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1699
+#EXTINF:-1,Sky Sport Uno Full HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1700
+#EXTINF:-1,Sky Sport Football Full HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1701
+#EXTINF:-1,Sky Sport Arena Full HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1702
+#EXTINF:-1,Sky Sport Collection Full HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1703
+#EXTINF:-1,Sky Sport Formula 1 Full HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1705
+#EXTINF:-1,Sky Sport Moto Gp Full HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1706
+#EXTINF:-1,Supertennis Full HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1709
+#EXTINF:-1,Moto Trend Full HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1710
+
+#EXTINF:-1,Sky Sport Serie A Full HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1712
+#EXTINF:-1,Sky Sport 254 Full HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1717
+#EXTINF:-1,Sky Sport 255 Full HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1718
+#EXTINF:-1,Sky Sport 256 Full HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1719
+#EXTINF:-1,Dazn One Full HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1720
+#EXTINF:-1,Dazn One +1 Full HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1721
+
+#EXTINF:-1,Sky Sport 24 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1375
+#EXTINF:-1,Sky Sport Uno HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1376
+#EXTINF:-1,Sky Sport Football HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1377
+#EXTINF:-1,Sky Sport Arena HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1378
+#EXTINF:-1,Sky Sport Collection HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1379
+#EXTINF:-1,Sky Sport NBA HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1380
+#EXTINF:-1,IT : Eurosport 1 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1381
+#EXTINF:-1,IT : Eurosport 2 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1382
+#EXTINF:-1,Sky Sport Formula 1 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1384
+#EXTINF:-1,Sky Sport Moto GP HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1396
+#EXTINF:-1,Sky Sport Serie A HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1436
+#EXTINF:-1,Sky Sport 251 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1437
+#EXTINF:-1,Sky Sport 252 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1439
+#EXTINF:-1,Sky Sport 253 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1440
+#EXTINF:-1,Sky Sport 254 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1441
+#EXTINF:-1,Sky Sport 255 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1442
+#EXTINF:-1,Sky Sport 256 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1443
+#EXTINF:-1,Sky Sport 257 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1444
+#EXTINF:-1,Sky Sport 258 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1445
+#EXTINF:-1,IT - Dazn Calcio 10
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1175
+#EXTINF:-1,IT - Dazn Calcio 9
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1174
+#EXTINF:-1,IT - Dazn Calcio 8
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1173
+#EXTINF:-1,IT - Dazn Calcio 7
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1172
+#EXTINF:-1,IT - Dazn Calcio 6
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1171
+#EXTINF:-1,IT - Dazn Calcio 5
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1170
+#EXTINF:-1,IT - Dazn Calcio 4
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1169
+#EXTINF:-1,IT - Dazn Calcio 3
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1168
+#EXTINF:-1,IT - Dazn Calcio 2
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1167
+#EXTINF:-1,IT - Dazn calcio 1
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1166
+
+#EXTINF:-1,Vetrina Dazn (solo per vedere le partite che faccio)
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1744
+#EXTINF:-1,National Geo HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1531
+#EXTINF:-1,National Geo Wild HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1532
+#EXTINF:-1,Discovery Channel HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1533
+#EXTINF:-1,Discovery Sci HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1534
+#EXTINF:-1,History HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1535
+#EXTINF:-1,Sky Arte HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1536
+#EXTINF:-1,Gambero Rosso HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1537
+#EXTINF:-1,Caccia
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1538
+#EXTINF:-1,Pesca
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1539
+
+#EXTINF:-1,Cartoon Network
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1543
+#EXTINF:-1,Boomerang
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1544
+#EXTINF:-1,Nickelodeon
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1545
+#EXTINF:-1,Nick Junior
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1546
+#EXTINF:-1,DeA Junior
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1547
+#EXTINF:-1,DeA Kids
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1548
+#EXTINF:-1,Baby TV
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1549
+
+#EXTINF:-1,Tv 8 Full HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1663
+#EXTINF:-1,Rsi La 1 Full HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1664
+#EXTINF:-1,Rsi La 2 Full HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1665
+#EXTINF:-1,Crime Investigation Full HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1689
+
+
+#EXTINF:-1,National Geo Full HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1723
+#EXTINF:-1,National Geo Wild Full HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1724
+#EXTINF:-1,Discovery Channel Full HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1725
+#EXTINF:-1,History Full HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1727
+
+#EXTINF:-1,IT - Rai Sport   HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/54
+#EXTINF:-1,MTV HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1743
+#EXTINF:-1,Bike TV 
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1756
+#EXTINF:-1,Dazn One Locale transcodificato 2500
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1794
+#EXTINF:-1,WWE USA H24
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1795
+#EXTINF:-1,Nove Tv HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2243
+#EXTINF:-1,solocalcio
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2245
+#EXTINF:-1,Si live 24
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2246
+#EXTINF:-1,Napoli nel cuore tv
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2247
+#EXTINF:-1,20 Mediaset Diretto
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1769
+#EXTINF:-1,Radio Montecarlo TV Diretto
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1786
+#EXTINF:-1,Radio Virgin Tv Diretto
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1785
+#EXTINF:-1,Radio 101 TV Diretto
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1784
+#EXTINF:-1,Radio 105 TV Diretto
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1783
+#EXTINF:-1,TgCom 24 Diretto
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1782
+#EXTINF:-1,Boing Diretto
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1780
+#EXTINF:-1,Top Crime Diretto
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1779
+#EXTINF:-1,Iris Diretto
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1778
+#EXTINF:-1,La 5 Diretto
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1773
+#EXTINF:-1,Italia 2 Diretto
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1774
+#EXTINF:-1,Cine 34 Diretto
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1775
+#EXTINF:-1,Mediaset Extra Diretto
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1776
+#EXTINF:-1,Focus Diretto
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1777
+#EXTINF:-1,Cartoonito Diretto 
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1781
+#EXTINF:-1,Top Planet Juventus
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1790
+
+
+#EXTINF:-1,CH - MySports ONE HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/121
+#EXTINF:-1,CH - MySports 9 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/113
+#EXTINF:-1,CH - MySports 8 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/114
+#EXTINF:-1,CH - MySports 7 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/115
+#EXTINF:-1,CH - MySports 6 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/116
+#EXTINF:-1,CH - MySports 5 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/117
+#EXTINF:-1,CH - MySports 4 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/118
+#EXTINF:-1,CH - MySports 3 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/119
+#EXTINF:-1,CH - MySports 2 HD
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/120
+
 
 
 
