@@ -1670,6 +1670,575 @@ http://tvim.app:8080/SS6-HD/video.m3u8?token=ef2a6a71d4469bbd4d337b43bec2d634
 http://51.178.133.145:8080/SS1/video.m3u8?token=9a81f00e90fef2cb0525a2118e1fe758
 
 
+#EXTINF:-1   group-title="-IPTV SHQIP 4-",
+#EXTINF:-1,Top Channel
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/15.ts
+#EXTINF:-1,Top Channel HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/16.ts
+#EXTINF:-1,Klan TV
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/17.ts
+#EXTINF:-1,Klan TV HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/18.ts
+#EXTINF:-1,Klan Plus HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/19.ts
+#EXTINF:-1,Vizion Plus
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/20.ts
+#EXTINF:-1,Vizion Plus HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/21.ts
+#EXTINF:-1,RTSH 1 HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/22.ts
+#EXTINF:-1,RTSH 2 HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/23.ts
+#EXTINF:-1,RTSH 3
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/24.ts
+#EXTINF:-1,RTSH Plus
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/26.ts
+#EXTINF:-1,RTSH 24
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/25.ts
+#EXTINF:-1,RTSH Shqip
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/27.ts
+#EXTINF:-1,RTSH Film
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/28.ts
+#EXTINF:-1,RTSH Shkolle
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/33.ts
+#EXTINF:-1,RTK 1
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/2.ts
+#EXTINF:-1,RTK 1 HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/3.ts
+#EXTINF:-1,RTK 3
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/4.ts
+#EXTINF:-1,RTK 4
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/5.ts
+#EXTINF:-1,KTV
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/7.ts
+#EXTINF:-1,KTV HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/8.ts
+#EXTINF:-1,RTV 21
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/9.ts
+#EXTINF:-1,RTV 21 HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/10.ts
+#EXTINF:-1,Klan Kosova
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/11.ts
+#EXTINF:-1,Klan Kosova HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/12.ts
+#EXTINF:-1,T7
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/13.ts
+#EXTINF:-1,TV Dukagjini
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/14.ts
+
+#EXTINF:-1,MRT 2
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/32.ts
+#EXTINF:-1,Alsat M HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/30.ts
+#EXTINF:-1,Klan Macedonia
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/31.ts
+#EXTINF:-1,TV Shenja
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/34.ts
+#EXTINF:-1,TV Tema
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/36.ts
+#EXTINF:-1,TV Liria Ferizaj
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/37.ts
+#EXTINF:-1,TV Vali
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/38.ts
+#EXTINF:-1,TV Mitrovica
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/43.ts
+#EXTINF:-1,TV Opinion
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/42.ts
+#EXTINF:-1,Syri TV Kosova
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/41.ts
+#EXTINF:-1,TV BESA
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/39.ts
+#EXTINF:-1,TV Prizreni
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/40.ts
+#EXTINF:-1,RTV Aldi
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/65.ts
+#EXTINF:-1,TV Dielli HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/44.ts
+#EXTINF:-1,First Channel AL
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/45.ts
+#EXTINF:-1,American TV of Dardania
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/47.ts
+#EXTINF:-1,TV Uskana
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/48.ts
+#EXTINF:-1,Star Plus Shkoder
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/54.ts
+#EXTINF:-1,TV Opoja
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/57.ts
+#EXTINF:-1,Channel 1 Shkoder
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/55.ts
+#EXTINF:-1,DTV Kosova
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/56.ts
+#EXTINF:-1,Apollon TV
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/63.ts
+#EXTINF:-1,Alpo TV Gjirokaster
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/59.ts
+#EXTINF:-1,TV Rozafa Shkoder
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/58.ts
+#EXTINF:-1,TV Kopliku
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/62.ts
+#EXTINF:-1,Kanal 10 Kosova
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/35.ts
+#EXTINF:-1,TV Koha
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/50.ts
+
+
+#EXTINF:-1,Euronews Albania
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/68.ts
+#EXTINF:-1,RTV Ora HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/29.ts
+#EXTINF:-1,Syri TV
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/73.ts
+#EXTINF:-1,ABC News HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/72.ts
+#EXTINF:-1,A2 CNN AL
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/71.ts
+#EXTINF:-1,Top News
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/69.ts
+#EXTINF:-1,7 News AL
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/70.ts
+#EXTINF:-1,Ora News
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/76.ts
+#EXTINF:-1,News 24
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/75.ts
+#EXTINF:-1,Report TV
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/77.ts
+#EXTINF:-1,Fax News
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/74.ts
+#EXTINF:-1,Arta News
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/67.ts
+
+#EXTINF:-1,Kanal D Drama HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/86.ts
+#EXTINF:-1,Jolly HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/134.ts
+#EXTINF:-1,Tring 3 Plus
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/81.ts
+#EXTINF:-1,Stinet
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/83.ts
+#EXTINF:-1,FOX AL
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/82.ts
+#EXTINF:-1,Sky AL Novela
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/84.ts
+#EXTINF:-1,Living AL
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/85.ts
+#EXTINF:-1,Muse
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/89.ts
+#EXTINF:-1,US: Nickelodeon
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/94.ts
+#EXTINF:-1,FOX Life AL
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/95.ts
+#EXTINF:-1,24 Kitchen AL
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/87.ts
+
+#EXTINF:-1,Tring Tring
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/100.ts
+#EXTINF:-1,Tring Kids
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/101.ts
+#EXTINF:-1,Tip TV
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/102.ts
+#EXTINF:-1,Sofia HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/106.ts
+#EXTINF:-1,RTSH Femije
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/108.ts
+#EXTINF:-1,Cartoon Network US
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/110.ts
+#EXTINF:-1,Boomerang US
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/111.ts
+#EXTINF:-1,Nick Junior English
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/114.ts
+#EXTINF:-1,Tom & Jerry HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/118.ts
+#EXTINF:-1,First Kids HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/120.ts
+#EXTINF:-1,21 Junior
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/119.ts
+
+#EXTINF:-1,T HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/123.ts
+#EXTINF:-1,Family HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/124.ts
+#EXTINF:-1,Film Nje HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/125.ts
+#EXTINF:-1,Film Dy HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/126.ts
+#EXTINF:-1,Film Hits
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/127.ts
+#EXTINF:-1,Film Aksion
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/128.ts
+#EXTINF:-1,Film Komedi
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/129.ts
+#EXTINF:-1,Film Drame
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/131.ts
+#EXTINF:-1,Film Autor
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/130.ts
+#EXTINF:-1,Euro Film
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/132.ts
+#EXTINF:-1,Film Thriller
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/133.ts
+#EXTINF:-1,Tring Super
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/135.ts
+#EXTINF:-1,Tring Action
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/136.ts
+#EXTINF:-1,Tring Comedy
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/137.ts
+#EXTINF:-1,Tring Life
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/138.ts
+#EXTINF:-1,Tring Fantasy
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/139.ts
+#EXTINF:-1,Tring Shqip
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/140.ts
+#EXTINF:-1,Tring Smile
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/88.ts
+#EXTINF:-1,Tring International
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/141.ts
+#EXTINF:-1,Sky AL 7HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/174.ts
+#EXTINF:-1,Sky AL Star HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/175.ts
+#EXTINF:-1,Sky AL Max
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/176.ts
+#EXTINF:-1,Sky AL Aksion
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/177.ts
+#EXTINF:-1,Sky AL Komedi
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/178.ts
+#EXTINF:-1,Sky AL Drame
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/179.ts
+#EXTINF:-1,Antena TV Shkoder
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/46.ts
+#EXTINF:-1,8OVA Thriller HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/1516.ts
+#EXTINF:-1,8OVA Komedi HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/1514.ts
+#EXTINF:-1,8OVA Gjurme Shqipetare TV
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/203.ts
+#EXTINF:-1,8OVA Drame HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/1515.ts
+#EXTINF:-1,8OVA Action HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/1513.ts
+#EXTINF:-1,TeleOne Cinema 4 HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/1335.ts
+#EXTINF:-1,TeleOne Cinema 3 HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/1334.ts
+#EXTINF:-1,TeleOne Cinema 2 HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/1333.ts
+#EXTINF:-1,TeleOne Cinema 1 HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/1332.ts
+#EXTINF:-1,First Thriller HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/1304.ts
+#EXTINF:-1,TeleOne Action
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/162.ts
+#EXTINF:-1,TeleOne Thriller
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/1303.ts
+#EXTINF:-1,TeleOne Aventure
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/163.ts
+#EXTINF:-1,TeleOne Drame
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/1302.ts
+#EXTINF:-1,TeleOne Fantazi
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/170.ts
+#EXTINF:-1,TeleOne Crime
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/1301.ts
+#EXTINF:-1,TeleOne Gold Collection
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/164.ts
+
+
+#EXTINF:-1,Tring World
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/186.ts
+#EXTINF:-1,Tring Planet
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/187.ts
+#EXTINF:-1,Tring History
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/188.ts
+#EXTINF:-1,Galaxy AL HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/195.ts
+#EXTINF:-1,Sky AL Planet
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/196.ts
+#EXTINF:-1,Sky AL GEOHD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/194.ts
+#EXTINF:-1,X Shkenca HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/191.ts
+#EXTINF:-1,X Natyra HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/192.ts
+#EXTINF:-1,X Histori HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/193.ts
+#EXTINF:-1,Discovery Channel AL
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/197.ts
+#EXTINF:-1,History Channel BG
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/200.ts
+#EXTINF:-1,National Geographic
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/201.ts
+#EXTINF:-1,Animal Planet AL
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/204.ts
+
+
+
+
+
+#EXTINF:-1,Drita TV
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/1329.ts
+#EXTINF:-1,Globi TV
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/53.ts
+#EXTINF:-1,TV2 Gostivar
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/1359.ts
+#EXTINF:-1,TV Sharri HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/1327.ts
+#EXTINF:-1,TV Era
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/1326.ts
+#EXTINF:-1,TV Lezha
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/1325.ts
+#EXTINF:-1,Turbo Channel
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/244.ts
+#EXTINF:-1,Boin TV
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/51.ts
+#EXTINF:-1,OnTV AL
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/226.ts
+#EXTINF:-1,MTV Kosova
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/225.ts
+#EXTINF:-1,Zico TV
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/234.ts
+#EXTINF:-1,RTSH Muzike
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/224.ts
+#EXTINF:-1,BBF Music TV
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/227.ts
+#EXTINF:-1,HIT TV
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/235.ts
+#EXTINF:-1,Trace Hits
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/236.ts
+#EXTINF:-1,One Music HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/237.ts
+#EXTINF:-1,Folk+
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/233.ts
+#EXTINF:-1,Elrodi
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/232.ts
+#EXTINF:-1,IT: Radio 105
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/231.ts
+#EXTINF:-1,STV Folk
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/229.ts
+#EXTINF:-1,SuperSonic TV
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/228.ts
+#EXTINF:-1,21 Popullore
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/239.ts
+#EXTINF:-1,21 Plus
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/238.ts
+#EXTINF:-1,MTV Germany
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/210.ts
+#EXTINF:-1,INTV AL
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/213.ts
+#EXTINF:-1,MTV Hits RU
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/214.ts
+#EXTINF:-1,Club MTV
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/215.ts
+#EXTINF:-1,MTV 90s
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/216.ts
+#EXTINF:-1,US: MTV Live
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/217.ts
+#EXTINF:-1,MTV 00s
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/220.ts
+#EXTINF:-1,US: MTV Classic
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/221.ts
+#EXTINF:-1,My Music
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/222.ts
+#EXTINF:-1,MTV Base
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/212.ts
+#EXTINF:-1,MTV 80s
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/243.ts
+#EXTINF:-1,Positive Gold TV
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/223.ts
+
+#EXTINF:-1,Peace TV
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/247.ts
+#EXTINF:-1,Xhamia e Tabakeve
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/248.ts
+
+#EXTINF:-1,Tring Sport News HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/267.ts
+#EXTINF:-1,Tring Sport 1 HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/268.ts
+#EXTINF:-1,Tring Sport 2 HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/269.ts
+#EXTINF:-1,Tring Sport 3 HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/270.ts
+#EXTINF:-1,Tring Sport 4 HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/271.ts
+#EXTINF:-1,RTSH Sport
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/280.ts
+#EXTINF:-1,SuperSport 5 SD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/263.ts
+#EXTINF:-1,SuperSport 4 SD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/261.ts
+#EXTINF:-1,SuperSport 3 SD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/259.ts
+#EXTINF:-1,SuperSport 2 SD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/257.ts
+#EXTINF:-1,SuperSport 1 SD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/255.ts
+#EXTINF:-1,Extreme Sports Channel
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/281.ts
+#EXTINF:-1,FreeSports
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/284.ts
+#EXTINF:-1,Premier Sports
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/285.ts
+#EXTINF:-1,Premier Sports 2
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/286.ts
+#EXTINF:-1,UK: Sky Sports News
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/287.ts
+#EXTINF:-1,UK: Sky Sports Main Event
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/288.ts
+#EXTINF:-1,UK: Sky Sports Premier League
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/291.ts
+#EXTINF:-1,UK: Sky Sports Football
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/290.ts
+#EXTINF:-1,UK: Sky Sports Mix
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/289.ts
+#EXTINF:-1,UK: Sky Sports Arena
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/292.ts
+#EXTINF:-1,UK: Sky Sports NFL
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/293.ts
+#EXTINF:-1,UK: Sky Sports Golf
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/294.ts
+#EXTINF:-1,UK: Sky Sports Cricket
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/295.ts
+#EXTINF:-1,UK: BT Sport 1
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/298.ts
+#EXTINF:-1,UK: BT Sport 2
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/299.ts
+#EXTINF:-1,UK: BT Sport 3
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/300.ts
+#EXTINF:-1,UK: BT Sport ESPN
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/301.ts
+#EXTINF:-1,ES: Barça TV
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/336.ts
+#EXTINF:-1,ES: Movistar LaLiga
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/339.ts
+#EXTINF:-1,ES: Movistar Liga De Campeones
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/343.ts
+#EXTINF:-1,ES: Movistar+ F1
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/346.ts
+#EXTINF:-1,ES: Gol HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/342.ts
+#EXTINF:-1,ES: Esport3
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/348.ts
+#EXTINF:-1,beIN Sports News
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/349.ts
+#EXTINF:-1,beIN Sports Premium 1 HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/350.ts
+#EXTINF:-1,beIN Sports Premium 2 HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/351.ts
+#EXTINF:-1,beIN Sports Premium 3 HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/352.ts
+#EXTINF:-1,beIN Sports 1 HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/353.ts
+#EXTINF:-1,beIN Sports 2 HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/354.ts
+#EXTINF:-1,beIN Sports 3 HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/355.ts
+#EXTINF:-1,beIN Sports 4 HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/356.ts
+#EXTINF:-1,beIN Sports 5 HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/357.ts
+#EXTINF:-1,beIN Sports 1 English HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/358.ts
+#EXTINF:-1,beIN Sports 2 English
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/359.ts
+#EXTINF:-1,beIN Sports 3 English
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/360.ts
+#EXTINF:-1,beIN Sports Global HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/361.ts
+#EXTINF:-1,Tivibu Spor
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/362.ts
+#EXTINF:-1,Tivibu Spor 2
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/363.ts
+#EXTINF:-1,S Sport HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/364.ts
+#EXTINF:-1,Tivibu Spor 3
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/365.ts
+#EXTINF:-1,beIN Sports Haber HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/389.ts
+#EXTINF:-1,beIN SPORTS 1 TR
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/390.ts
+#EXTINF:-1,beIN SPORTS 2 TR
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/391.ts
+#EXTINF:-1,beIN SPORTS 3 TR
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/392.ts
+#EXTINF:-1,beIN SPORTS 4 TR
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/393.ts
+#EXTINF:-1,beIN SPORTS MAX 1 TR
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/394.ts
+#EXTINF:-1,beIN SPORTS MAX 2 TR
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/395.ts
+#EXTINF:-1,TRT Spor HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/397.ts
+#EXTINF:-1,TRT Spor 2 HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/396.ts
+#EXTINF:-1,S Sport 2 HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/398.ts
+#EXTINF:-1,PT: SPORT TV 1
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/378.ts
+#EXTINF:-1,PT: SPORT TV 2
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/379.ts
+#EXTINF:-1,PT: SPORT TV 3
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/380.ts
+#EXTINF:-1,PT: SPORT TV 4
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/381.ts
+#EXTINF:-1,PT: SPORT TV 5
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/382.ts
+#EXTINF:-1,NL: FOX Sports 1
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/383.ts
+#EXTINF:-1,NL: FOX Sports 2
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/384.ts
+#EXTINF:-1,NL: FOX Sports 3
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/385.ts
+#EXTINF:-1,NL: FOX Sports 4
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/386.ts
+#EXTINF:-1,NL: FOX Sports 5
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/387.ts
+#EXTINF:-1,NL: FOX Sports 6
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/388.ts
+#EXTINF:-1,Canal+ Sport PL
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/399.ts
+#EXTINF:-1,Canal+ Sport 2 HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/400.ts
+#EXTINF:-1,Eleven Sports 1
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/401.ts
+#EXTINF:-1,Eleven Sports 2
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/402.ts
+#EXTINF:-1,Eleven Sports 3
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/403.ts
+#EXTINF:-1,Eleven Sports 4 PL
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/404.ts
+#EXTINF:-1,Sport Klub 1
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/412.ts
+#EXTINF:-1,Sport Klub 2
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/413.ts
+#EXTINF:-1,Sport Klub 3
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/414.ts
+#EXTINF:-1,Sport Klub 6
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/417.ts
+#EXTINF:-1,Sport Klub 5
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/416.ts
+#EXTINF:-1,Sport Klub 4
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/415.ts
+#EXTINF:-1,Sportklub 10
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/410.ts
+#EXTINF:-1,Sportklub 9
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/409.ts
+#EXTINF:-1,Sportklub 8
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/408.ts
+#EXTINF:-1,Sportklub 7
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/407.ts
+#EXTINF:-1,Arena Sport 1 HR
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/421.ts
+#EXTINF:-1,Arena Sport 2 HR
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/422.ts
+#EXTINF:-1,Arena Sport 3 HR
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/423.ts
+#EXTINF:-1,Arena Sport 4 HR
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/424.ts
+#EXTINF:-1,Arena Sport 5 HR
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/425.ts
+#EXTINF:-1,Arena Sport 6 HR
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/420.ts
+
+
+
 
 #EXTINF:-1   group-title="-IPTV SPORT 1-",
 #EXTINF:-1,Super Sport Kosova 1 FHD VIP AL
