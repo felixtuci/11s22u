@@ -2078,30 +2078,98 @@ http://uk.x24hr.info:8080/UK/198459/mpegts
 #EXTINF:-1,UK: box Nation  HD
 http://uk.x24hr.info:8080/UK/1296/mpegts
 
-
-#EXTINF:-1,AR: BeIN Sports Premium 1 HD
-http://hscg.moppie.info:7444/AlhGif6a556aCartt/CartUi89987fRR/17660
-#EXTINF:-1,AR: BeIN Sports Premium 2 HD
-http://hscg.moppie.info:7444/AlhGif6a556aCartt/CartUi89987fRR/17659
-#EXTINF:-1,AR: BeIN Sports Premium 3 HD
-http://hscg.moppie.info:7444/AlhGif6a556aCartt/CartUi89987fRR/17658
-#EXTINF:-1,AR: Bein Sports 1 HD
-http://hscg.moppie.info:7444/AlhGif6a556aCartt/CartUi89987fRR/10566
-#EXTINF:-1,AR: Bein Sports 2 HD
-http://hscg.moppie.info:7444/AlhGif6a556aCartt/CartUi89987fRR/10565
-#EXTINF:-1,AR: Bein Sports 3 HD
-http://hscg.moppie.info:7444/AlhGif6a556aCartt/CartUi89987fRR/10564
-#EXTINF:-1,AR: Bein Sports 5 HD
-http://hscg.moppie.info:7444/AlhGif6a556aCartt/CartUi89987fRR/10563
-#EXTINF:-1,AR: Bein Sports 6 HD
-http://hscg.moppie.info:7444/AlhGif6a556aCartt/CartUi89987fRR/10562
-#EXTINF:-1,AR: Bein Sports 7 HD
-http://hscg.moppie.info:7444/AlhGif6a556aCartt/CartUi89987fRR/10561
-
-#EXTINF:-1,AR: BeIN Sports 1 EN HD
-http://hscg.moppie.info:7444/AlhGif6a556aCartt/CartUi89987fRR/10555
-#EXTINF:-1,AR: BeIN Sports 2 EN HD
-http://hscg.moppie.info:7444/AlhGif6a556aCartt/CartUi89987fRR/10554
+#EXTINF:-1,AR_BEIN.SPORTS.1.HD
+http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/653
+#EXTINF:-1,AR_BEIN.SPORTS.2.HD
+http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/651
+#EXTINF:-1,AR_BEIN.SPORTS.3.HD
+http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/649
+#EXTINF:-1,AR_BEIN.SPORTS.4.HD
+http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/647
+#EXTINF:-1,AR_BEIN.SPORTS.5.HD
+http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/645
+#EXTINF:-1,AR_BEIN.SPORTS.6.HD
+http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/643
+#EXTINF:-1,AR_BEIN.SPORTS.7.HD
+http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/641
+#EXTINF:-1,AR_BEIN.SPORTS.8.HD
+http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/639
+#EXTINF:-1,AR_BEIN.SPORTS.9.HD
+http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/637
+#EXTINF:-1,AR_BEIN.SPORTS.10.HD
+http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/635
+#EXTINF:-1,AR_BEIN.Max.1.HD
+http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/7515
+#EXTINF:-1,AR_BEIN.Max.2.HD
+http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/7514
+#EXTINF:-1,AR_BEIN.Max.3.HD
+http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/7513
+#EXTINF:-1,AR_BEIN.Max.4.HD
+http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/7512
+#EXTINF:-1,AR_BEIN.Max.5.HD
+http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/22667
+#EXTINF:-1,AR_BEIN.Max.6.HD
+http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/22666
+#EXTINF:-1,AR_BEIN.SPORTS.1.SD
+http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/652
+#EXTINF:-1,AR_BEIN.SPORTS.2.SD
+http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/650
+#EXTINF:-1,AR_BEIN.SPORTS.3.SD
+http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/648
+#EXTINF:-1,AR_BEIN.SPORTS.4.SD
+http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/646
+#EXTINF:-1,AR_BEIN.SPORTS.5.SD
+http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/644
+#EXTINF:-1,AR_BEIN.SPORTS.6.SD
+http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/642
+#EXTINF:-1,AR_BEIN.SPORTS.7.SD
+http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/640
+#EXTINF:-1,AR_BEIN.SPORTS.8.SD
+http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/638
+#EXTINF:-1,AR_BEIN.SPORTS.9.SD
+http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/636
+#EXTINF:-1,AR_BEIN.SPORTS.10.SD
+http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/634
+#EXTINF:-1,AR_BEIN.SPORTS.11.SD
+http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/633
+#EXTINF:-1,AR_BEIN.SPORTS.12.SD
+http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/632
+#EXTINF:-1,AR_BEIN.SPORTS.13.SD
+http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/631
+#EXTINF:-1,AR_BEIN.SPORTS.14.SD
+http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/630
+#EXTINF:-1,AR_BEIN.SPORTS.15.SD
+http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/629
+#EXTINF:-1,AR_BEIN.SPORTS.16.SD
+http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/628
+#EXTINF:-1,AR_BEIN.Max.1.SD
+http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/7511
+#EXTINF:-1,AR_BEIN.Max.2.SD
+http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/7510
+#EXTINF:-1,AR_BEIN.Max.3.SD
+http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/7509
+#EXTINF:-1,AR_BEIN.Max.4.SD
+http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/7508
+#EXTINF:-1,FR_BEIN.SPORTS.1
+http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/399
+#EXTINF:-1,FR_BEIN.SPORTS.2
+http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/396
+#EXTINF:-1,FR_BEIN.SPORTS.3
+http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/393
+#EXTINF:-1,FR_BEIN.SPORTS.MAX.4
+http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/363
+#EXTINF:-1,FR_BEIN.SPORTS.MAX.5
+http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/361
+#EXTINF:-1,FR_BEIN.SPORTS.MAX.6
+http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/359
+#EXTINF:-1,FR_BEIN.SPORTS.MAX.7
+http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/357
+#EXTINF:-1,FR_BEIN.SPORTS.MAX.8
+http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/355
+#EXTINF:-1,FR_BEIN.SPORTS.MAX.9
+http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/353
+#EXTINF:-1,FR_BEIN.SPORTS.MAX.10
+http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/351
 
 #EXTINF:-1,FR: BEIN SPORTS 1 HD
 http://dvb2mhd.com:2082/live/kuchini.site/TfUjeuXg78/10056.ts
