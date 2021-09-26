@@ -2624,28 +2624,73 @@ http://stbm.tk:8080/TringSport2HD/video.m3u8?token=test
 http://stbm.tk:8080/TringSport3HD/video.m3u8?token=test
 #EXTINF:-1,AL: Tring Sport 4 HD
 http://stbm.tk:8080/TringSport4HD/video.m3u8?token=test
-#EXTINF:-1,UK: Sky Sports Football HD
-http://uk.x24hr.info:8080/UK/179085/mpegts
-#EXTINF:-1,UK: Sky Sports MainEvents HD
-http://uk.x24hr.info:8080/UK/1308/mpegts
-#EXTINF:-1,UK: Sky Sports Mix HD
-http://uk.x24hr.info:8080/UK/204171/mpegts
-#EXTINF:-1,UK: Sky Sports PremierLeague HD
-http://uk.x24hr.info:8080/UK/1312/mpegts
-#EXTINF:-1,UK: Sky Sports F1 HD
-http://uk.x24hr.info:8080/UK/1313/mpegts
-#EXTINF:-1,UK: BT Sports 1 HD
-http://uk.x24hr.info:8080/UK/179086/mpegts
-#EXTINF:-1,UK: BT Sports 2 HD
-http://uk.x24hr.info:8080/UK/179087/mpegts
-#EXTINF:-1,UK: BT Sports 3 HD
-http://uk.x24hr.info:8080/UK/179088/mpegts
-#EXTINF:-1,UK: Premier Sports 1 HD
-http://uk.x24hr.info:8080/UK/198458/mpegts
-#EXTINF:-1,UK: Premier Sports 2 HD
-http://uk.x24hr.info:8080/UK/198459/mpegts
-#EXTINF:-1,UK: box Nation  HD
-http://uk.x24hr.info:8080/UK/1296/mpegts
+
+#EXTINF:-1,UK: Sky Sports Main Event
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/288.ts
+#EXTINF:-1,UK: Sky Sports Premier League
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/291.ts
+#EXTINF:-1,UK: Sky Sports Football
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/290.ts
+#EXTINF:-1,UK: Sky Sports Mix
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/289.ts
+#EXTINF:-1,UK: Sky Sports Arena
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/292.ts
+#EXTINF:-1,UK: Sky Sports NFL
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/293.ts
+#EXTINF:-1,UK: Sky Sports Golf
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/294.ts
+#EXTINF:-1,UK: Sky Sports Cricket
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/295.ts
+#EXTINF:-1,UK: BT Sport 1
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/298.ts
+#EXTINF:-1,UK: BT Sport 2
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/299.ts
+#EXTINF:-1,UK: BT Sport 3
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/300.ts
+#EXTINF:-1,UK: BT Sport ESPN
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/301.ts
+#EXTINF:-1,NL: FOX Sports 1
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/383.ts
+#EXTINF:-1,NL: FOX Sports 2
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/384.ts
+#EXTINF:-1,NL: FOX Sports 3
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/385.ts
+#EXTINF:-1,NL: FOX Sports 4
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/386.ts
+#EXTINF:-1,NL: FOX Sports 5
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/387.ts
+#EXTINF:-1,NL: FOX Sports 6
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/388.ts
+#EXTINF:-1,Canal+ Sport PL
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/399.ts
+#EXTINF:-1,Canal+ Sport 2 HD
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/400.ts
+#EXTINF:-1,Eleven Sports 1
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/401.ts
+#EXTINF:-1,Eleven Sports 2
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/402.ts
+#EXTINF:-1,Eleven Sports 3
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/403.ts
+#EXTINF:-1,Eleven Sports 4 PL
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/404.ts
+#EXTINF:-1,Sport Klub 1
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/412.ts
+#EXTINF:-1,Sport Klub 2
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/413.ts
+#EXTINF:-1,Sport Klub 3
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/414.ts
+#EXTINF:-1,Arena Sport 1 HR
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/421.ts
+#EXTINF:-1,Arena Sport 2 HR
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/422.ts
+#EXTINF:-1,Arena Sport 3 HR
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/423.ts
+#EXTINF:-1,Arena Sport 4 HR
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/424.ts
+#EXTINF:-1,Arena Sport 5 HR
+http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/425.ts
+
+
 
 #EXTINF:-1,AR_BEIN.SPORTS.1.HD
 http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/653
