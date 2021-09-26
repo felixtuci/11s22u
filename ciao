@@ -2625,71 +2625,58 @@ http://stbm.tk:8080/TringSport3HD/video.m3u8?token=test
 #EXTINF:-1,AL: Tring Sport 4 HD
 http://stbm.tk:8080/TringSport4HD/video.m3u8?token=test
 
-#EXTINF:-1,UK: Sky Sports Main Event
-http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/288.ts
-#EXTINF:-1,UK: Sky Sports Premier League
-http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/291.ts
-#EXTINF:-1,UK: Sky Sports Football
-http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/290.ts
-#EXTINF:-1,UK: Sky Sports Mix
-http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/289.ts
-#EXTINF:-1,UK: Sky Sports Arena
-http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/292.ts
-#EXTINF:-1,UK: Sky Sports NFL
-http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/293.ts
-#EXTINF:-1,UK: Sky Sports Golf
-http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/294.ts
-#EXTINF:-1,UK: Sky Sports Cricket
-http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/295.ts
-#EXTINF:-1,UK: BT Sport 1
-http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/298.ts
-#EXTINF:-1,UK: BT Sport 2
-http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/299.ts
-#EXTINF:-1,UK: BT Sport 3
-http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/300.ts
-#EXTINF:-1,UK: BT Sport ESPN
-http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/301.ts
-#EXTINF:-1,NL: FOX Sports 1
-http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/383.ts
-#EXTINF:-1,NL: FOX Sports 2
-http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/384.ts
-#EXTINF:-1,NL: FOX Sports 3
-http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/385.ts
-#EXTINF:-1,NL: FOX Sports 4
-http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/386.ts
-#EXTINF:-1,NL: FOX Sports 5
-http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/387.ts
-#EXTINF:-1,NL: FOX Sports 6
-http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/388.ts
-#EXTINF:-1,Canal+ Sport PL
-http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/399.ts
-#EXTINF:-1,Canal+ Sport 2 HD
-http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/400.ts
-#EXTINF:-1,Eleven Sports 1
-http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/401.ts
-#EXTINF:-1,Eleven Sports 2
-http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/402.ts
-#EXTINF:-1,Eleven Sports 3
-http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/403.ts
-#EXTINF:-1,Eleven Sports 4 PL
-http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/404.ts
-#EXTINF:-1,Sport Klub 1
-http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/412.ts
-#EXTINF:-1,Sport Klub 2
-http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/413.ts
-#EXTINF:-1,Sport Klub 3
-http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/414.ts
-#EXTINF:-1,Arena Sport 1 HR
-http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/421.ts
-#EXTINF:-1,Arena Sport 2 HR
-http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/422.ts
-#EXTINF:-1,Arena Sport 3 HR
-http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/423.ts
-#EXTINF:-1,Arena Sport 4 HR
-http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/424.ts
-#EXTINF:-1,Arena Sport 5 HR
-http://superiptvhd.ddns.me:81/live/iptvTREE/wushdhamma1y1738r0amamq6q7s93mmeava/425.ts
-
+#EXTINF:-1,|UK| Sky Sports Action FHD
+http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8657
+#EXTINF:-1,|UK| Sky Sports Action SD
+http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8658
+#EXTINF:-1,|UK| Sky Sports Arena FHD
+http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8659
+#EXTINF:-1,|UK| Sky Sports Arena SD
+http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8660
+#EXTINF:-1,|UK| Sky Sports Cricket FHD
+http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8661
+#EXTINF:-1,|UK| Sky Sports Cricket SD
+http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8662
+#EXTINF:-1,|UK| Sky Sports F1 FHD
+http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8663
+#EXTINF:-1,|UK| Sky Sports F1 SD
+http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8664
+#EXTINF:-1,|UK| Sky Sports Football FHD
+http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8665
+#EXTINF:-1,|UK| Sky Sports Football SD
+http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8666
+#EXTINF:-1,|UK| Sky Sports Golf FHD
+http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8667
+#EXTINF:-1,|UK| Sky Sports Golf SD
+http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8668
+#EXTINF:-1,|UK| Sky Sports Main Event FHD
+http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8669
+#EXTINF:-1,|UK| Sky Sports Main Event SD
+http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8670
+#EXTINF:-1,|UK| Sky Sports Mix SD
+http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8671
+#EXTINF:-1,|UK| Sky Sports News HD
+http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8672
+#EXTINF:-1,|UK| Sky Sports News SD
+http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8673
+#EXTINF:-1,|UK| Sky Sports Premiere League FHD
+http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8674
+#EXTINF:-1,|UK| Sky Sports Premiere League SD
+http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8675
+#EXTINF:-1,|UK| BT Sport 1 FHD
+http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8564
+#EXTINF:-1,|UK| BT Sport 1 HD
+http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8565
+#EXTINF:-1,|UK| BT Sport 2 FHD
+http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8566
+#EXTINF:-1,|UK| BT Sport 2 HD
+http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8567
+#EXTINF:-1,|UK| BT Sport 3 FHD
+http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8568
+#EXTINF:-1,|UK| BT Sport 3 HD
+http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8569
+#EXTINF:-1,|UK| BT Sport ESPN HD
+http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8570
 
 
 #EXTINF:-1,AR_BEIN.SPORTS.1.HD
