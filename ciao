@@ -760,130 +760,136 @@ http://stbm.ddns.net:8080/TopChannelHD/index.m3u8?token=test
 #EXTINF:-1,AL: TOP Channel SD
 http://al.noips.org:8080/AL/3102/mpegts
 #EXTINF:-1,AL: Klan TV HD local
-http://tvim.app:8080/KlanHD/tracks-v1a1/mono.m3u8?token=test
+http://51.178.133.59:8080/KlanHD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,AL: VISION PLUS HD
-http://tvim.app:8080/VizionPlusHD/index.m3u8?token=test
+http://51.178.133.59:8080/VizionPlusHD/index.m3u8?token=test
 #EXTINF:-1,AL: Klan Plus HD
-http://tvim.app:8080/Klanplus/video.m3u8?token=test
+http://51.178.133.59:8080/Klanplus/video.m3u8?token=test
 #EXTINF:-1,AL: RTSH 1 HD
-http://stbm.ddns.net:8080/rtshfhd/tracks-v1a1/mono.m3u8?token=test
+http://51.178.133.59:8080/rtshfhd/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,AL: RTSH 2 HD
-http://tvim.app:8080/RTSH2HD/index.m3u8?token=test
+http://51.178.133.59:8080/RTSH2HD/index.m3u8?token=test
 #EXTINF:-1,AL: RTSH 3 HD
-http://tvim.app:8080/RTSH3HD/index.m3u8?token=test
+http://51.178.133.59:8080/RTSH3HD/index.m3u8?token=test
 #EXTINF:-1,AL: RTSH KORCA HD
-http://tvim.app:8080/RTSHKorca/index.m3u8?token=test
+http://51.178.133.59:8080/RTSHKorca/index.m3u8?token=test
 
 #EXTINF:-1,AL: RTSH Plus HD
-http://tvim.app:8080/RTSHPlus/tracks-v1a1/mono.m3u8?token=test
+http://51.178.133.59:8080/RTSHPlus/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,AL: RTSH Shqip HD
-http://tvim.app:8080/RTSHSHQIP/index.m3u8?token=test
+http://51.178.133.59:8080/RTSHSHQIP/index.m3u8?token=test
 #EXTINF:-1,AL: RTSH Sports HD
-http://tvim.app:8080/RTSHSport/tracks-v1a1/mono.m3u8?token=test
+http://51.178.133.59:8080/RTSHSport/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,AL: MCNTV
-http://tvim.app:8080/MCNTV/tracks-v1a1/mono.m3u8?token=test
+http://51.178.133.59:8080/MCNTV/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,AL: OraHD
-http://tvim.app:8080/OraHD/video.m3u8?token=test
+http://51.178.133.59:8080/OraHD/video.m3u8?token=test
 
 
 #EXTINF:-1,AL: News 24 HD
-http://tvim.app:8080/News24/index.m3u8?token=test
+http://51.178.133.59:8080/News24/index.m3u8?token=test
 #EXTINF:-1,AL: News 24 SD
 http://al.noips.org:8080/AL/3101/mpegts
 #EXTINF:-1,AL: ABC News HD
-http://tvim.app:8080/ABCNews/tracks-v1a1/mono.m3u8?token=test
+http://51.178.133.59:8080/ABCNews/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,AL: ABC News SD
 http://al.noips.org:8080/AL/3100/mpegts
 #EXTINF:-1,AL: RTK 1 HD
-http://tvim.app:8080/RTK1/index.m3u8?token=test
+http://51.178.133.59:8080/RTK1/index.m3u8?token=test
 #EXTINF:-1,AL: RTK 2 HD
-http://tvim.app:8080/RTK2/index.m3u8?token=test
+http://51.178.133.59:8080/RTK2/index.m3u8?token=test
 #EXTINF:-1,AL: RTK 3 HD
-http://tvim.app:8080/RTK3/index.m3u8?token=test
+http://51.178.133.59:8080/RTK3/index.m3u8?token=test
 #EXTINF:-1,AL: RTK 4 HD
-http://tvim.app:8080/RTK4/index.m3u8?token=test
-#EXTINF:-1,AL: RTV 21 MIX HD
-http://dunya.moppie.info:7444/Art56gVasqwe321imOO/aamamna77sgRRqwa9/2945
-#EXTINF:-1,AL: RTV 21 PLUS HD
-http://dunya.moppie.info:7444/Art56gVasqwe321imOO/aamamna77sgRRqwa9/2946
-#EXTINF:-1,AL: RTV21 Popullore
-http://dunya.moppie.info:7444/Art56gVasqwe321imOO/aamamna77sgRRqwa9/2947
-#EXTINF:-1,AL: RTV Magedoni HD
-http://dunya.moppie.info:7444/Art56gVasqwe321imOO/aamamna77sgRRqwa9/2948
-#EXTINF:-1,AL: RTV Pendimi HD
-http://dunya.moppie.info:7444/Art56gVasqwe321imOO/aamamna77sgRRqwa9/2949
-#EXTINF:-1,AL: RTV21 JUNIOR HD
-http://dunya.moppie.info:7444/Art56gVasqwe321imOO/aamamna77sgRRqwa9/2950
-#EXTINF:-1,AL: RTV 21 MK HD
-http://dunya.moppie.info:7444/Art56gVasqwe321imOO/aamamna77sgRRqwa9/2951
+http://51.178.133.59:8080/RTK4/index.m3u8?token=test
 #EXTINF:-1,AL: KTV HD
-http://tvim.app:8080/KTVHD/index.m3u8?token=test
+http://51.178.133.59:8080/KTVHD/index.m3u8?token=test
 #EXTINF:-1,AL: Klan Kosova HD
-http://tvim.app:8080/KlanKosovaHD/tracks-v1a1/mono.m3u8?token=test
+http://51.178.133.59:8080/KlanKosovaHD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,AL: Klan MACEDONIA
-http://tvim.app:8080/KLANMACEDONIA/index.m3u8?token=test
+http://51.178.133.59:8080/KLANMACEDONIA/index.m3u8?token=test
 #EXTINF:-1,AL: Alsat M HD
-http://tvim.app:8080/AlsatM/tracks-v1a1/mono.m3u8?token=test
+http://51.178.133.59:8080/AlsatM/tracks-v1a1/mono.m3u8?token=test
 
 
+#EXTINF:-1,AL: ART Kino 1 HD
+http://51.178.133.59:8080/ARTKino1/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,AL: ART Kino 2 HD
+http://51.178.133.59:8080/ARTKino2/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,AL: ART Kino 3 HD
+http://51.178.133.59:8080/ARTKino3/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,AL: T HD
+http://51.178.133.59:8080/THD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,AL: Film Një HD
-http://tvim.app:8080/FilmNjeHD/index.m3u8?token=test
+http://51.178.133.59:8080/FilmNjeHD/index.m3u8?token=test
 #EXTINF:-1,AL: Film Dy HD
-http://tvim.app:8080/FilmDyHD/tracks-v1a1/mono.m3u8?token=test
+http://51.178.133.59:8080/FilmDyHD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,AL: Film Stinet
-http://tvim.app:8080/Stinet/video.m3u8?token=test
+http://51.178.133.59:8080/Stinet/video.m3u8?token=test
 #EXTINF:-1,AL: Film Hits HD
-http://tvim.app:8080/FilmHitsHD/tracks-v1a1/mono.m3u8?token=test
+http://51.178.133.59:8080/FilmHitsHD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,AL: Film Aksion HD
-http://tvim.app:8080/FilmAksionHD/tracks-v1a1/mono.m3u8?token=test
+http://51.178.133.59:8080/FilmAksionHD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,AL: Film Autor HD
-http://tvim.app:8080/FilmAutorHD/tracks-v1a1/mono.m3u8?token=test
+http://51.178.133.59:8080/FilmAutorHD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,AL: Film Komedi HD
-http://tvim.app:8080/FilmKomediHD/tracks-v1a1/mono.m3u8?token=test
+http://51.178.133.59:8080/FilmKomediHD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,AL: Film Drame HD
-http://tvim.app:8080/FilmDrameHD/tracks-v1a1/mono.m3u8?token=test
+http://51.178.133.59:8080/FilmDrameHD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,AL: Film Thriller HD
-http://tvim.app:8080/FilmThrillerHD/tracks-v1a1/mono.m3u8?token=test
+http://51.178.133.59:8080/FilmThrillerHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,AL: Euro Film
+http://51.178.133.59:8080/EuroFilm/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:-1,AL: Tring Family HD
+http://51.178.133.59:8080/TringFamilyHD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,AL: Tring Action HD
-http://tvim.app:8080/TringAction/tracks-v1a1/mono.m3u8?token=test
-
-#EXTINF:-1,AL: Tring Komedi HD
-http://dunya.moppie.info:7444/Art56gVasqwe321imOO/aamamna77sgRRqwa9/2980
-#EXTINF:-1,AL: Tring Life HD
-http://dunya.moppie.info:7444/Art56gVasqwe321imOO/aamamna77sgRRqwa9/2981
-#EXTINF:-1,AL: Tring Histori HD
-http://tvim.app:8080/TringHistory/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1,AL: Tring Planet HD
-http://tvim.app:8080/TringPlanet/video.m3u8?token=test
-#EXTINF:-1,AL: Tring World HD
-http://tvim.app:8080/TringWorld/video.m3u8?token=test
-
+http://51.178.133.59:8080/TringAction/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,AL: Tring Super HD
-http://tvim.app:8080/TringSuper/tracks-v1a1/mono.m3u8?token=test
+http://51.178.133.59:8080/TringSuper/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,AL: Tring Fantasy
+http://51.178.133.59:8080/TringFantasy/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,AL: Tring Comedy
+http://51.178.133.59:8080/TringComedy/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,AL: Tring Life
+http://51.178.133.59:8080/TringLife/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,AL: Tring Shqip
+http://51.178.133.59:8080/TringShqip/tracks-v1a1/mono.m3u8?token=test
+
+
+
+#EXTINF:-1,AL: Tring Histori HD
+http://51.178.133.59:8080/TringHistory/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,AL: Tring Planet HD
+http://51.178.133.59:8080/TringPlanet/video.m3u8?token=test
+#EXTINF:-1,AL: Tring World HD
+http://51.178.133.59:8080/TringWorld/video.m3u8?token=test
+
+
 #EXTINF:-1,AL: Tring Tring
-http://tvim.app:8080/TringTring/tracks-v1a1/mono.m3u8?token=test
+http://51.178.133.59:8080/TringTring/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,AL: Tring TipTV
-http://tvim.app:8080/TringTiptv/tracks-v1a1/mono.m3u8?token=test
+http://51.178.133.59:8080/TringTiptv/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,AL: Tring Kids
-http://tvim.app:8080/TringJunior/index.m3u8?token=test
+http://51.178.133.59:8080/TringJunior/index.m3u8?token=test
 #EXTINF:-1,AL: Bang Bang
-http://tvim.app:8080/BangBang/video.m3u8?token=test
+http://51.178.133.59:8080/BangBang/video.m3u8?token=test
 #EXTINF:-1,AL: Cufo TV
-http://tvim.app:8080/CufoTV/video.m3u8?token=test
+http://51.178.133.59:8080/CufoTV/video.m3u8?token=test
 #EXTINF:-1,AL: Junior TV
-http://tvim.app:8080/JuniorTV/video.m3u8?token=test
+http://51.178.133.59:8080/JuniorTV/video.m3u8?token=test
 #EXTINF:-1,AL: RTSH Femije
-http://tvim.app:8080/RTSHFemije/tracks-v1a1/mono.m3u8?token=test
+http://51.178.133.59:8080/RTSHFemije/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,AL: Tom and Jerry
-http://tvim.app:8080/TomJerryHD/mpegts?token=test
+http://51.178.133.59:8080/TomJerryHD/mpegts?token=test
 
 
 #EXTINF:-1,AL: Explorer Histori HD
-http://tvim.app:8080/EXPHistori/video.m3u8?token=test
+http://51.178.133.59:8080/EXPHistori/video.m3u8?token=test
 #EXTINF:-1,AL: Explorer Natyra HD
-http://tvim.app:8080/EXPNatyra/video.m3u8?token=test
+http://51.178.133.59:8080/EXPNatyra/video.m3u8?token=test
 #EXTINF:-1,AL: Explorer Shkence HD
-http://tvim.app:8080/EXPShkence/video.m3u8?token=test
+http://51.178.133.59:8080/EXPShkence/video.m3u8?token=test
 
 
 
