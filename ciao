@@ -804,6 +804,10 @@ http://51.178.133.59:8080/RTK3/index.m3u8?token=test
 http://51.178.133.59:8080/RTK4/index.m3u8?token=test
 #EXTINF:-1,AL: KTV HD
 http://51.178.133.59:8080/KTVHD/index.m3u8?token=test
+#EXTINF:-1,AL: RTV 21 HD
+http://51.178.133.59:8080/RTV21HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,AL: RTV 21 MACEDONIA 
+http://51.178.133.59:8080/RTV21HDM/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,AL: Klan Kosova HD
 http://51.178.133.59:8080/KlanKosovaHD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,AL: Klan MACEDONIA
@@ -841,8 +845,14 @@ http://51.178.133.59:8080/FilmThrillerHD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,AL: Euro Film
 http://51.178.133.59:8080/EuroFilm/tracks-v1a1/mono.m3u8?token=test
 
+#EXTINF:-1,AL: Tring Jolly HD
+http://51.178.133.59:8080/JollyHD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,AL: Tring Family HD
 http://51.178.133.59:8080/TringFamilyHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,AL: Tring Collection HD
+http://51.178.133.59:8080/TringCollectionHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,AL: Tring Classic HD
+http://51.178.133.59:8080/TringClassichd/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,AL: Tring Action HD
 http://51.178.133.59:8080/TringAction/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,AL: Tring Super HD
@@ -855,6 +865,19 @@ http://51.178.133.59:8080/TringComedy/tracks-v1a1/mono.m3u8?token=test
 http://51.178.133.59:8080/TringLife/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,AL: Tring Shqip
 http://51.178.133.59:8080/TringShqip/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:-1,AL: TELEONE 1 HD
+http://51.178.133.59:8080/TELEONE1/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,AL: TELEONE 2 HD
+http://51.178.133.59:8080/TELEONE2/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,AL: TELEONE 3 HD
+http://51.178.133.59:8080/TELEONE3/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,AL: TELEONE 4 HD
+http://51.178.133.59:8080/TELEONE4/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,AL: TELEONE 5 HD
+http://51.178.133.59:8080/TELEONE5/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,AL: TELEONE 6 HD
+http://51.178.133.59:8080/TELEONE6/tracks-v1a1/mono.m3u8?token=test
 
 
 
@@ -883,15 +906,19 @@ http://51.178.133.59:8080/RTSHFemije/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,AL: Tom and Jerry
 http://51.178.133.59:8080/TomJerryHD/mpegts?token=test
 
-
 #EXTINF:-1,AL: Explorer Histori HD
 http://51.178.133.59:8080/EXPHistori/video.m3u8?token=test
 #EXTINF:-1,AL: Explorer Natyra HD
 http://51.178.133.59:8080/EXPNatyra/video.m3u8?token=test
 #EXTINF:-1,AL: Explorer Shkence HD
 http://51.178.133.59:8080/EXPShkence/video.m3u8?token=test
+#EXTINF:-1,AL: RTV 21 Popullore
+http://51.178.133.59:8080/RTV21Popullore/tracks-v1a1/mono.m3u8?token=test
 
-
+#EXTINF:-1,AL: MELODY TV
+http://51.178.133.59:8080/MELODYTV/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,AL: BBF Music
+http://51.178.133.59:8080/BBFMusic/mpegts?token=test
 
 #EXTINF:-1   group-title="-IPTV SPORT 1-",
 #EXTINF:-1,beIN SPORTS premium 1 FHD 
