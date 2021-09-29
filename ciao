@@ -691,6 +691,31 @@ http://51.178.133.59:8080/MELODYTV/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,AL: BBF Music
 http://51.178.133.59:8080/BBFMusic/mpegts?token=test
 
+#EXTINF:-1,AL: Super Sport 1 HD
+http://51.178.133.59:8080/SS1-HD/video.m3u8?token=test
+#EXTINF:-1,AL: Super Sport 2 HD
+http://51.178.133.59:8080/SS2-HD/video.m3u8?token=test
+#EXTINF:-1,AL: Super Sport 3 HD
+http://51.178.133.59:8080/SS3-HD/video.m3u8?token=test
+#EXTINF:-1,AL: Super Sport 4 HD
+http://51.178.133.59:8080/SS4-HD/video.m3u8?token=test
+#EXTINF:-1,AL: Super Sport 5 HD
+http://51.178.133.59:8080/SS5-HD/video.m3u8?token=test
+#EXTINF:-1,AL: Super Sport 6 HD
+http://51.178.133.59:8080/SS6-HD/video.m3u8?token=test
+#EXTINF:-1,AL: Super Sport 7 HD
+http://51.178.133.59:8080/SS7-HD/video.m3u8?token=test
+#EXTINF:-1,AL: Tring Sport 1 HD
+http://stbm.tk:8080/TringSport1HD/video.m3u8?token=test
+#EXTINF:-1,AL: Tring Sport 2 HD
+http://stbm.tk:8080/TringSport2HD/video.m3u8?token=test
+#EXTINF:-1,AL: Tring Sport 3 HD
+http://stbm.tk:8080/TringSport3HD/video.m3u8?token=test
+#EXTINF:-1,AL: Tring Sport 4 HD
+http://stbm.tk:8080/TringSport4HD/video.m3u8?token=test
+
+
+
 #EXTINF:-1   group-title="-IPTV SPORT 1-",
 #EXTINF:-1,beIN SPORTS premium 1 FHD 
 http://2022tv.co:80/iptvtreeex2021/2Ct3eyhnkkcmJLKd/69026
@@ -1070,28 +1095,40 @@ http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/37435
 
 
 #EXTINF:-1   group-title="-IPTV SPORT 2-",
-#EXTINF:-1,AL: Super Sport 1 HD
-http://51.178.133.59:8080/SS1-HD/video.m3u8?token=test
-#EXTINF:-1,AL: Super Sport 2 HD
-http://51.178.133.59:8080/SS2-HD/video.m3u8?token=test
-#EXTINF:-1,AL: Super Sport 3 HD
-http://51.178.133.59:8080/SS3-HD/video.m3u8?token=test
-#EXTINF:-1,AL: Super Sport 4 HD
-http://51.178.133.59:8080/SS4-HD/video.m3u8?token=test
-#EXTINF:-1,AL: Super Sport 5 HD
-http://51.178.133.59:8080/SS5-HD/video.m3u8?token=test
-#EXTINF:-1,AL: Super Sport 6 HD
-http://51.178.133.59:8080/SS6-HD/video.m3u8?token=test
-#EXTINF:-1,AL: Super Sport 7 HD
-http://51.178.133.59:8080/SS7-HD/video.m3u8?token=test
 #EXTINF:-1,AL: Tring Sport 1 HD
-http://stbm.tk:8080/TringSport1HD/video.m3u8?token=test
+http://ran.no-ips.net:8888/StS/3133/mpegts?token=test
 #EXTINF:-1,AL: Tring Sport 2 HD
-http://stbm.tk:8080/TringSport2HD/video.m3u8?token=test
+http://ran.no-ips.net:8888/StS/3134/mpegts?token=test
 #EXTINF:-1,AL: Tring Sport 3 HD
-http://stbm.tk:8080/TringSport3HD/video.m3u8?token=test
-#EXTINF:-1,AL: Tring Sport 4 HD
-http://stbm.tk:8080/TringSport4HD/video.m3u8?token=test
+http://ran.no-ips.net:8888/StS/211451/mpegts?token=test
+#EXTINF:-1,AL: Super Sport 1 HD
+http://al.noips.org:8080/AL/276568/mpegts
+#EXTINF:-1,AL: Super Sport 2 HD
+http://ran.no-ips.net:8888/StS/3128/mpegts?token=test
+#EXTINF:-1,AL: Super Sport 3 HD
+http://ran.no-ips.net:8888/StS/3129/mpegts?token=test
+#EXTINF:-1,AL: Super Sport 4 HD
+http://ran.no-ips.net:8888/StS/209433/mpegts?token=test
+
+#EXTINF:-1,SP: Sky Sport MotoGP
+http://ath1.no-ips.org:8080/SportStreamS/7799/mpegts?token=test
+#EXTINF:-1,SP: Sky Sport f1
+http://ys.no-ips.net:8888/SportStreamS/7800/mpegts?token=test
+#EXTINF:-1,SP: Sky Sport tenis
+http://ys.no-ips.net:8888/SportStreamS/7801/mpegts?token=test
+#EXTINF:-1,SP: Espn Sports 1
+http://skei.x24hr.info:8080/skysports/21482/mpegts?token=test
+#EXTINF:-1,SP: Espn Sports 2
+http://skei.x24hr.info:8080/skysports/21483/mpegts?token=test
+#EXTINF:-1,SP: Espn Sports 3
+http://skei.x24hr.info:8080/skysports/21484/mpegts?token=test
+#EXTINF:-1,SP: Espn Sports 4
+http://skei.x24hr.info:8080/skysports/21485/mpegts?token=test
+#EXTINF:-1,SP: Espn Sports 5
+http://skei.x24hr.info:8080/skysports/21486/mpegts?token=test
+#EXTINF:-1,SP: Espn Sports 6
+http://nl.noips.org:8080/NL/511/mpegts?token=test
+
 
 #EXTINF:-1,|UK| Sky Sports Action FHD
 http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8657
