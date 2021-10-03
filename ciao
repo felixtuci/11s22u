@@ -1993,6 +1993,12 @@ http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/37435
 
 
 #EXTINF:-1   group-title="-IPTV SPORT 2-",
+#EXTINF:-1,UK: BT Sport 1 HD
+http://54.36.123.36:8080/UK:BTSPORT1HD/index.m3u8?token=test
+#EXTINF:-1,UK: BT Sport 2 HD
+http://54.36.123.36:8080/UK:BTSPORT2HD/index.m3u8?token=test
+#EXTINF:-1,UK: BT Sport 3 HD
+http://54.36.123.36:8080/UK:BTSPORT3HD/index.m3u8?token=test
 #EXTINF:-1,AL: Tring Sport 1 HD
 http://ran.no-ips.net:8888/StS/3133/mpegts?token=test
 #EXTINF:-1,AL: Tring Sport 2 HD
