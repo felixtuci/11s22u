@@ -526,6 +526,10 @@ http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/6909
 
 
 #EXTINF:-1   group-title="-IPTV SHQIP 3-",
+#EXTINF:-1,AL: Big Brother 1 
+http://51.158.144.144:25461/MetiTV-telegram/Falas-Shqiptare/463
+
+
 #EXTINF:-1,AL: TOP Channel HD
 http://stbm.ddns.net:8080/TopChannelHD/index.m3u8?token=test
 #EXTINF:-1,AL: TOP Channel SD
