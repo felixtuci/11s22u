@@ -532,65 +532,62 @@ http://51.158.144.144:25461/MetiTV-telegram/Falas-Shqiptare/463
 http://eu-ams.bestvideostreaming.is/8803/mpegts
 #EXTINF:-1,AL: Big Brother 2 HD
 http://eu-ams.bestvideostreaming.is/8804/mpegts
-#EXTINF:-1,AL: TOP Channel HD
-http://stbm.ddns.net:8080/TopChannelHD/index.m3u8?token=test
-#EXTINF:-1,AL: TOP Channel SD
-http://al.noips.org:8080/AL/3102/mpegts
-#EXTINF:-1,AL: Klan TV HD local
-http://51.178.133.59:8080/KlanHD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1,AL: VISION PLUS HD
-http://51.178.133.59:8080/VizionPlusHD/index.m3u8?token=test
-#EXTINF:-1,AL: Klan Plus HD
-http://51.178.133.59:8080/Klanplus/video.m3u8?token=test
-#EXTINF:-1,AL: RTSH 1 HD
-http://51.178.133.59:8080/rtshfhd/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1,AL: RTSH 2 HD
-http://51.178.133.59:8080/RTSH2HD/index.m3u8?token=test
-#EXTINF:-1,AL: RTSH 3 HD
-http://51.178.133.59:8080/RTSH3HD/index.m3u8?token=test
-#EXTINF:-1,AL: RTSH KORCA HD
-http://51.178.133.59:8080/RTSHKorca/index.m3u8?token=test
 
+#EXTINF:-1,AL: TOP Channel HD
+http://al.noips.org:8080/AL/3102/mpegts
+#EXTINF:-1,AL: Klan TV HD
+http://al.noips.org:8080/AL/3085/mpegts
+#EXTINF:-1,AL: VISION PLUS HD
+http://al.noips.org:8080/AL/3162/mpegts 
+#EXTINF:-1,AL: Klan Plus HD
+http://al.noips.org:8080/AL/137465/mpegts 
+#EXTINF:-1,AL: RTSH 1 HD
+http://al.noips.org:8080/AL/203510/mpegts
+#EXTINF:-1,AL: RTSH 2 HD
+http://al.noips.org:8080/AL/20351/mpegts?token=test
+#EXTINF:-1,AL: RTSH 3 HD
+http://al.noips.org:8080/AL/209392/mpegts?token=test
 #EXTINF:-1,AL: RTSH Plus HD
-http://51.178.133.59:8080/RTSHPlus/tracks-v1a1/mono.m3u8?token=test
+http://al.noips.org:8080/AL/209508/mpegts?token=test
 #EXTINF:-1,AL: RTSH Shqip HD
-http://51.178.133.59:8080/RTSHSHQIP/index.m3u8?token=test
+http://al.noips.org:8080/AL/209507/mpegts?token=test
+#EXTINF:-1,AL: RTSH Korca HD
+http://al.noips.org:8080/AL/211385/mpegts?token=test
+
 #EXTINF:-1,AL: RTSH Sports HD
-http://51.178.133.59:8080/RTSHSport/tracks-v1a1/mono.m3u8?token=test
+http://al.noips.org:8080/AL/209506/mpegts?token=test
 #EXTINF:-1,AL: MCNTV
 http://51.178.133.59:8080/MCNTV/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,AL: OraHD
 http://51.178.133.59:8080/OraHD/video.m3u8?token=test
 
 
-#EXTINF:-1,AL: News 24 HD
-http://51.178.133.59:8080/News24/index.m3u8?token=test
+
 #EXTINF:-1,AL: News 24 SD
 http://al.noips.org:8080/AL/3101/mpegts
-#EXTINF:-1,AL: ABC News HD
-http://51.178.133.59:8080/ABCNews/tracks-v1a1/mono.m3u8?token=test
+
 #EXTINF:-1,AL: ABC News SD
 http://al.noips.org:8080/AL/3100/mpegts
 #EXTINF:-1,AL: RTK 1 HD
-http://51.178.133.59:8080/RTK1/index.m3u8?token=test
+http://al.noips.org:8080/AL/3101209389/mpegts
 #EXTINF:-1,AL: RTK 2 HD
-http://51.178.133.59:8080/RTK2/index.m3u8?token=test
+http://al.noips.org:8080/AL/3101209391/mpegts
 #EXTINF:-1,AL: RTK 3 HD
-http://51.178.133.59:8080/RTK3/index.m3u8?token=test
+http://al.noips.org:8080/AL/3091/mpegts
 #EXTINF:-1,AL: RTK 4 HD
-http://51.178.133.59:8080/RTK4/index.m3u8?token=test
+http://al.noips.org:8080/AL/3092/mpegts
 #EXTINF:-1,AL: KTV HD
-http://51.178.133.59:8080/KTVHD/index.m3u8?token=test
+http://al.noips.org:8080/AL/3087/mpegts
 #EXTINF:-1,AL: RTV 21 HD
-http://51.178.133.59:8080/RTV21HD/tracks-v1a1/mono.m3u8?token=test
+http://al.noips.org:8080/AL/3094/mpegts
 #EXTINF:-1,AL: RTV 21 MACEDONIA 
-http://51.178.133.59:8080/RTV21HDM/tracks-v1a1/mono.m3u8?token=test
+http://al.noips.org:8080/AL/209388/mpegts
 #EXTINF:-1,AL: Klan Kosova HD
-http://51.178.133.59:8080/KlanKosovaHD/tracks-v1a1/mono.m3u8?token=test
+http://al.noips.org:8080/AL/209384/mpegts
 #EXTINF:-1,AL: Klan MACEDONIA
-http://51.178.133.59:8080/KLANMACEDONIA/index.m3u8?token=test
+http://al.noips.org:8080/AL/290209/mpegts
 #EXTINF:-1,AL: Alsat M HD
-http://51.178.133.59:8080/AlsatM/tracks-v1a1/mono.m3u8?token=test
+http://al.noips.org:8080/AL/3173/mpegts
 
 
 #EXTINF:-1,AL: ART Kino 1 HD
