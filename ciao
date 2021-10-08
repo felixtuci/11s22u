@@ -580,6 +580,8 @@ http://al.noips.org:8080/AL/3092/mpegts
 http://al.noips.org:8080/AL/3087/mpegts
 #EXTINF:-1,AL: RTV 21 HD
 http://al.noips.org:8080/AL/3094/mpegts
+#EXTINF:-1,AL: RTV 21 Mix HD
+http://al.noips.org:8080/AL/135665/mpegts
 #EXTINF:-1,AL: RTV 21 MACEDONIA 
 http://al.noips.org:8080/AL/209388/mpegts
 #EXTINF:-1,AL: Klan Kosova HD
@@ -588,107 +590,90 @@ http://al.noips.org:8080/AL/209384/mpegts
 http://al.noips.org:8080/AL/290209/mpegts
 #EXTINF:-1,AL: Alsat M HD
 http://al.noips.org:8080/AL/3173/mpegts
+#EXTINF:-1,AL: Kanal 10
+http://al.noips.org:8080/AL/299235/mpegts
+#EXTINF:-1,AL: First Channel 
+http://al.noips.org:8080/AL/134667/mpegts
 
-
-#EXTINF:-1,AL: ART Kino 1 HD
-http://51.178.133.59:8080/ARTKino1/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1,AL: ART Kino 2 HD
-http://51.178.133.59:8080/ARTKino2/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1,AL: ART Kino 3 HD
-http://51.178.133.59:8080/ARTKino3/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,AL: T HD
-http://al.noips.org:8080/AL/3087/mpegts
+http://al.noips.org:8080/AL/3161/mpegts
+#EXTINF:-1,AL: Family HD
+http://al.noips.org:8080/AL/298634/mpegts
 #EXTINF:-1,AL: Film Një HD
-http://51.178.133.59:8080/FilmNjeHD/index.m3u8?token=test
+http://al.noips.org:8080/AL/3148/mpegts
 #EXTINF:-1,AL: Film Dy HD
-http://51.178.133.59:8080/FilmDyHD/tracks-v1a1/mono.m3u8?token=test
+http://al.noips.org:8080/AL/3144/mpegts
 #EXTINF:-1,AL: Film Stinet
-http://51.178.133.59:8080/Stinet/video.m3u8?token=test
+http://al.noips.org:8080/AL/162358/mpegts
 #EXTINF:-1,AL: Film Hits HD
-http://51.178.133.59:8080/FilmHitsHD/tracks-v1a1/mono.m3u8?token=test
+http://al.noips.org:8080/AL/3145/mpegts
 #EXTINF:-1,AL: Film Aksion HD
 http://al.noips.org:8080/AL/3141/mpegts
 #EXTINF:-1,AL: Film Autor HD
 http://al.noips.org:8080/AL/3142/mpegts
 #EXTINF:-1,AL: Film Komedi HD
-http://51.178.133.59:8080/FilmKomediHD/tracks-v1a1/mono.m3u8?token=test
+http://al.noips.org:8080/AL/3147/mpegts
 #EXTINF:-1,AL: Film Drame HD
-http://51.178.133.59:8080/FilmDrameHD/tracks-v1a1/mono.m3u8?token=test
+http://al.noips.org:8080/AL/3143/mpegts
 #EXTINF:-1,AL: Film Thriller HD
-http://51.178.133.59:8080/FilmThrillerHD/tracks-v1a1/mono.m3u8?token=test
+http://al.noips.org:8080/AL/3149/mpegts
+#EXTINF:-1,AL: Film Gold HD
+http://al.noips.org:8080/AL/3158/mpegts
 #EXTINF:-1,AL: Euro Film
 http://51.178.133.59:8080/EuroFilm/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-1,AL: Tring Jolly HD
-http://51.178.133.59:8080/JollyHD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1,AL: Tring Family HD
-http://51.178.133.59:8080/TringFamilyHD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1,AL: Tring Collection HD
-http://51.178.133.59:8080/TringCollectionHD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1,AL: Tring Classic HD
-http://51.178.133.59:8080/TringClassichd/tracks-v1a1/mono.m3u8?token=test
+http://al.noips.org:8080/AL/209416/mpegts
+
 #EXTINF:-1,AL: Tring Action HD
-http://51.178.133.59:8080/TringAction/tracks-v1a1/mono.m3u8?token=test
+http://al.noips.org:8080/AL/209415/mpegts
 #EXTINF:-1,AL: Tring Super HD
-http://51.178.133.59:8080/TringSuper/tracks-v1a1/mono.m3u8?token=test
+http://al.noips.org:8080/AL/3170/mpegts
 #EXTINF:-1,AL: Tring Fantasy
-http://51.178.133.59:8080/TringFantasy/tracks-v1a1/mono.m3u8?token=test
+http://al.noips.org:8080/AL/3165/mpegts
 #EXTINF:-1,AL: Tring Comedy
-http://51.178.133.59:8080/TringComedy/tracks-v1a1/mono.m3u8?token=test
+http://al.noips.org:8080/AL/3164/mpegts
 #EXTINF:-1,AL: Tring Life
-http://51.178.133.59:8080/TringLife/tracks-v1a1/mono.m3u8?token=test
+http://al.noips.org:8080/AL/3166/mpegts
 #EXTINF:-1,AL: Tring Shqip
-http://51.178.133.59:8080/TringShqip/tracks-v1a1/mono.m3u8?token=test
-
-#EXTINF:-1,AL: TELEONE 1 HD
-http://51.178.133.59:8080/TELEONE1/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1,AL: TELEONE 2 HD
-http://51.178.133.59:8080/TELEONE2/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1,AL: TELEONE 3 HD
-http://51.178.133.59:8080/TELEONE3/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1,AL: TELEONE 4 HD
-http://51.178.133.59:8080/TELEONE4/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1,AL: TELEONE 5 HD
-http://51.178.133.59:8080/TELEONE5/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1,AL: TELEONE 6 HD
-http://51.178.133.59:8080/TELEONE6/tracks-v1a1/mono.m3u8?token=test
-
-
-
+http://al.noips.org:8080/AL/3168/mpegts
+#EXTINF:-1,AL: Tring 3 Plus
+http://al.noips.org:8080/AL/3163/mpegts
 #EXTINF:-1,AL: Tring Histori HD
-http://51.178.133.59:8080/TringHistory/tracks-v1a1/mono.m3u8?token=test
+http://al.noips.org:8080/AL/3121/mpegts
 #EXTINF:-1,AL: Tring Planet HD
-http://51.178.133.59:8080/TringPlanet/video.m3u8?token=test
+http://al.noips.org:8080/AL/3122/mpegts
 #EXTINF:-1,AL: Tring World HD
-http://51.178.133.59:8080/TringWorld/video.m3u8?token=test
+http://al.noips.org:8080/AL/3123/mpegts
 
 
 #EXTINF:-1,AL: Tring Tring
-http://51.178.133.59:8080/TringTring/tracks-v1a1/mono.m3u8?token=test
+http://al.noips.org:8080/AL/3107/mpegts
 #EXTINF:-1,AL: Tring TipTV
-http://51.178.133.59:8080/TringTiptv/tracks-v1a1/mono.m3u8?token=test
+http://al.noips.org:8080/AL/3108/mpegts
 #EXTINF:-1,AL: Tring Kids
-http://51.178.133.59:8080/TringJunior/index.m3u8?token=test
+http://al.noips.org:8080/AL/211399/mpegts
 #EXTINF:-1,AL: Bang Bang
-http://51.178.133.59:8080/BangBang/video.m3u8?token=test
+http://al.noips.org:8080/AL/3106/mpegts
 #EXTINF:-1,AL: Cufo TV
-http://51.178.133.59:8080/CufoTV/video.m3u8?token=test
+http://al.noips.org:8080/AL/3079/mpegts
 #EXTINF:-1,AL: Junior TV
-http://51.178.133.59:8080/JuniorTV/video.m3u8?token=test
+http://al.noips.org:8080/AL/209420/mpegts
 #EXTINF:-1,AL: RTSH Femije
-http://51.178.133.59:8080/RTSHFemije/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1,AL: Tom and Jerry
-http://51.178.133.59:8080/TomJerryHD/mpegts?token=test
+http://al.noips.org:8080/AL/211400/mpegts
+#EXTINF:-1,AL: RTV21 Femije
+http://al.noips.org:8080/AL/3097/mpegts
 
 #EXTINF:-1,AL: Explorer Histori HD
-http://51.178.133.59:8080/EXPHistori/video.m3u8?token=test
+http://al.noips.org:8080/AL/3118/mpegts
 #EXTINF:-1,AL: Explorer Natyra HD
-http://51.178.133.59:8080/EXPNatyra/video.m3u8?token=test
+http://al.noips.org:8080/AL/3119/mpegts
 #EXTINF:-1,AL: Explorer Shkence HD
-http://51.178.133.59:8080/EXPShkence/video.m3u8?token=test
+http://al.noips.org:8080/AL/3120/mpegts
 #EXTINF:-1,AL: RTV 21 Popullore
-http://51.178.133.59:8080/RTV21Popullore/tracks-v1a1/mono.m3u8?token=test
-
+http://al.noips.org:8080/AL/3096/mpegts
+#EXTINF:-1,AL: RTV 21 Plus
+http://al.noips.org:8080/AL/3095/mpegts
 #EXTINF:-1,AL: MELODY TV
 http://51.178.133.59:8080/MELODYTV/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,AL: BBF Music
