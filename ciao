@@ -597,7 +597,7 @@ http://51.178.133.59:8080/ARTKino2/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,AL: ART Kino 3 HD
 http://51.178.133.59:8080/ARTKino3/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,AL: T HD
-http://51.178.133.59:8080/THD/tracks-v1a1/mono.m3u8?token=test
+http://al.noips.org:8080/AL/3087/mpegts
 #EXTINF:-1,AL: Film Një HD
 http://51.178.133.59:8080/FilmNjeHD/index.m3u8?token=test
 #EXTINF:-1,AL: Film Dy HD
@@ -607,9 +607,9 @@ http://51.178.133.59:8080/Stinet/video.m3u8?token=test
 #EXTINF:-1,AL: Film Hits HD
 http://51.178.133.59:8080/FilmHitsHD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,AL: Film Aksion HD
-http://51.178.133.59:8080/FilmAksionHD/tracks-v1a1/mono.m3u8?token=test
+http://al.noips.org:8080/AL/3141/mpegts
 #EXTINF:-1,AL: Film Autor HD
-http://51.178.133.59:8080/FilmAutorHD/tracks-v1a1/mono.m3u8?token=test
+http://al.noips.org:8080/AL/3142/mpegts
 #EXTINF:-1,AL: Film Komedi HD
 http://51.178.133.59:8080/FilmKomediHD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,AL: Film Drame HD
