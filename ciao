@@ -1,4 +1,8 @@
 #EXTINF:-1   group-title="-IPTV SHQIP 1-",
+#EXTINF:-1,AL: Big Brother 1 HD
+http://93.115.20.208/dna/play.php?chID=102407
+#EXTINF:-1,AL: Big Brother 2 HD
+http://93.115.20.208/dna/play.php?chID=102408
 #EXTINF:-1,AL: Top Channel HD
 http://93.115.20.208/dna/play.php?chID=4352
 #EXTINF:-1,AL: Top Channel
@@ -125,8 +129,10 @@ http://93.115.20.208/dna/play.php?chID=4405
 #EXTINF:-1,AL: Tring Sport 1 HD
 http://93.115.20.208/dna/play.php?chID=4404
 
-
-
+#EXTINF:-1,AL: Over Sport 1 HD
+http://93.115.20.208/dna/play.php?chID=102492
+#EXTINF:-1,AL: Over Sport 2 HD
+http://93.115.20.208/dna/play.php?chID=102493
 #EXTINF:-1,AL: Smile
 http://93.115.20.208/dna/play.php?chID=4360
 #EXTINF:-1,AL: Rrokum HD
