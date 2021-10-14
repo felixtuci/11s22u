@@ -1,8 +1,4 @@
 #EXTINF:-1   group-title="-IPTV SHQIP 1-",
-#EXTINF:-1,AL: Big Brother 1 HD
-http://93.115.20.208/dna/play.php?chID=102407
-#EXTINF:-1,AL: Big Brother 2 HD
-http://93.115.20.208/dna/play.php?chID=102408
 #EXTINF:-1,AL: Top Channel HD
 http://93.115.20.208/dna/play.php?chID=4352
 #EXTINF:-1,AL: Top Channel
@@ -715,6 +711,10 @@ http://stbm.tk:8080/TringSport4HD/video.m3u8?token=test
 
 
 #EXTINF:-1   group-title="-IPTV SHQIP 4-",
+#EXTINF:-1,AL: Big Brother 1 HD VIP AL
+http://93.115.20.208/portalgen/play.php?chID=102407
+#EXTINF:-1,AL: Big Brother 2 HD VIP AL
+http://93.115.20.208/portalgen/play.php?chID=102408
 #EXTINF:-1,Top Channel FHD VIP AL
 http://93.115.20.208/portalgen/play.php?chID=19486
 #EXTINF:-1,Top Channel AL
