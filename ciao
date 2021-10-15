@@ -2032,6 +2032,16 @@ http://skei.x24hr.info:8080/skysports/21486/mpegts?token=test
 #EXTINF:-1,SP: Espn Sports 6
 http://nl.noips.org:8080/NL/511/mpegts?token=test
 
+#EXTINF:-1,IT: Sky Sport Uno HD
+http://54.36.106.156:8080/SkySportUnoHD/index.m3u8?token=test
+#EXTINF:-1,IT: Sky Sport SeriaA HD
+http://54.36.106.156:8080/SkySportSeriaAHD/index.m3u8?token=test
+#EXTINF:-1,IT: Sky Sport F1 FHD
+http://54.36.106.156:8080/SkySportF1FHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,IT: Sky Sport MOTO GP HD
+http://54.36.106.156:8080/SkySportMotoGPHD/index.m3u8?token=test
+
+
 
 #EXTINF:-1,|UK| Sky Sports Action FHD
 http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8657
@@ -2388,14 +2398,20 @@ http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/542
 
 
 
-
-
-
-
-
-
-
-
+#EXTINF:-1,Sky Cinema Uno FHD
+http://54.36.106.156:8080/SkyCinemaUnoHD/index.m3u8?token=test
+#EXTINF:-1,Sky Cinema Suspense FHD
+http://54.36.106.156:8080/SkyCinemaSuspenseFullHD/index.m3u8?token=test
+#EXTINF:-1,Sky Cinema Action FHD
+http://54.36.106.156:8080/SkyCinemaActionHD/index.m3u8?token=test
+#EXTINF:-1,Sky Cinema Due FHD
+http://54.36.106.156:8080/SkyCinemaDueHD/index.m3u8?token=test
+#EXTINF:-1,Sky Cinema Comedy FHD
+http://54.36.106.156:8080/SkyCinemaComedyHD/index.m3u8?token=test
+#EXTINF:-1,Sky Cinema Family FHD
+http://54.36.106.156:8080/SkyCinemaFamilyHD/index.m3u8?token=test
+#EXTINF:-1,Sky Cinema Romance FHD
+http://54.36.106.156:8080/SkyCinemaRomanceHD/index.m3u8?token=test
 
 
 
