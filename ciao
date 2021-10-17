@@ -2015,21 +2015,21 @@ http://ran.no-ips.net:8888/StS/209433/mpegts?token=test
 
 #EXTINF:-1,SP: Sky Sport MotoGP
 http://ath1.no-ips.org:8080/SportStreamS/7799/mpegts?token=test
-#EXTINF:-1,SP: Sky Sport f1
+#EXTINF:-1,SP: Sky Sport F1 HD
 http://ys.no-ips.net:8888/SportStreamS/7800/mpegts?token=test
-#EXTINF:-1,SP: Sky Sport tenis
+#EXTINF:-1,SP: Sky Sport Tenis
 http://ys.no-ips.net:8888/SportStreamS/7801/mpegts?token=test
-#EXTINF:-1,SP: Espn Sports 1
+#EXTINF:-1,SP: ESPN Sports 1
 http://skei.x24hr.info:8080/skysports/21482/mpegts?token=test
-#EXTINF:-1,SP: Espn Sports 2
+#EXTINF:-1,SP: ESPN Sports 2
 http://skei.x24hr.info:8080/skysports/21483/mpegts?token=test
-#EXTINF:-1,SP: Espn Sports 3
+#EXTINF:-1,SP: ESPN Sports 3
 http://skei.x24hr.info:8080/skysports/21484/mpegts?token=test
-#EXTINF:-1,SP: Espn Sports 4
+#EXTINF:-1,SP: ESPN Sports 4
 http://skei.x24hr.info:8080/skysports/21485/mpegts?token=test
-#EXTINF:-1,SP: Espn Sports 5
+#EXTINF:-1,SP: ESPN Sports 5
 http://skei.x24hr.info:8080/skysports/21486/mpegts?token=test
-#EXTINF:-1,SP: Espn Sports 6
+#EXTINF:-1,SP: ESPN Sports 6
 http://nl.noips.org:8080/NL/511/mpegts?token=test
 
 #EXTINF:-1,IT: Sky Sport Uno HD
@@ -2042,59 +2042,6 @@ http://54.36.106.156:8080/SkySportF1FHD/tracks-v1a1/mono.m3u8?token=test
 http://54.36.106.156:8080/SkySportMotoGPHD/index.m3u8?token=test
 
 
-
-#EXTINF:-1,|UK| Sky Sports Action FHD
-http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8657
-#EXTINF:-1,|UK| Sky Sports Action SD
-http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8658
-#EXTINF:-1,|UK| Sky Sports Arena FHD
-http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8659
-#EXTINF:-1,|UK| Sky Sports Arena SD
-http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8660
-#EXTINF:-1,|UK| Sky Sports Cricket FHD
-http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8661
-#EXTINF:-1,|UK| Sky Sports Cricket SD
-http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8662
-#EXTINF:-1,|UK| Sky Sports F1 FHD
-http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8663
-#EXTINF:-1,|UK| Sky Sports F1 SD
-http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8664
-#EXTINF:-1,|UK| Sky Sports Football FHD
-http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8665
-#EXTINF:-1,|UK| Sky Sports Football SD
-http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8666
-#EXTINF:-1,|UK| Sky Sports Golf FHD
-http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8667
-#EXTINF:-1,|UK| Sky Sports Golf SD
-http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8668
-#EXTINF:-1,|UK| Sky Sports Main Event FHD
-http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8669
-#EXTINF:-1,|UK| Sky Sports Main Event SD
-http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8670
-#EXTINF:-1,|UK| Sky Sports Mix SD
-http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8671
-#EXTINF:-1,|UK| Sky Sports News HD
-http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8672
-#EXTINF:-1,|UK| Sky Sports News SD
-http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8673
-#EXTINF:-1,|UK| Sky Sports Premiere League FHD
-http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8674
-#EXTINF:-1,|UK| Sky Sports Premiere League SD
-http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8675
-#EXTINF:-1,|UK| BT Sport 1 FHD
-http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8564
-#EXTINF:-1,|UK| BT Sport 1 HD
-http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8565
-#EXTINF:-1,|UK| BT Sport 2 FHD
-http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8566
-#EXTINF:-1,|UK| BT Sport 2 HD
-http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8567
-#EXTINF:-1,|UK| BT Sport 3 FHD
-http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8568
-#EXTINF:-1,|UK| BT Sport 3 HD
-http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8569
-#EXTINF:-1,|UK| BT Sport ESPN HD
-http://goldhd.golffan.us:8000/restream1/peyFGuXc7n/8570
 
 
 #EXTINF:-1,AR_BEIN.SPORTS.1.HD
