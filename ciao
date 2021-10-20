@@ -564,12 +564,13 @@ http://ran.no-ips.net:8888/AL/211385/mpegts?token=test
 #EXTINF:-1,AL: RTSH Sports HD
 http://ran.no-ips.net:8888/AL/209506/mpegts?token=test
 #EXTINF:-1,AL: MCNTV
-http://51.178.133.59:8080/MCNTV/tracks-v1a1/mono.m3u8?token=test
+http://edge01eu.ekranet.com/mcntv/index.m3u8?e=018accae745180337768e41d11cc1580&c=mcntv&medium=websocket
 #EXTINF:-1,AL: OraHD
-http://51.178.133.59:8080/OraHD/video.m3u8?token=test
+http://live1.mediadesk.al/oratv.m3u8
 
 
-
+#EXTINF:-1,AL: Ora News HD
+https://live1.mediadesk.al/oranews.m3u8
 #EXTINF:-1,AL: News 24 SD
 http://ran.no-ips.net:8888/AL/3101/mpegts
 
