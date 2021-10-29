@@ -240,12 +240,16 @@ http://93.115.20.208/dna/play.php?chID=4412
 
 
 #EXTINF:-1   group-title="-IPTV SHQIP 2-",
-#EXTINF:-1,AL: TOP Channel FHD
+#EXTINF:-1,AL: Big Brother 1 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/282050
+#EXTINF:-1,AL: Big Brother 2 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/282051
+
+
+#EXTINF:-1,AL: Top Channel FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1311
 #EXTINF:-1,AL: Vizion Plus FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1299
-#EXTINF:-1,AL: Klan TV HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/280118
 #EXTINF:-1,AL: TV Klan FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1853
 #EXTINF:-1,AL: Klan Plus FHD
@@ -298,6 +302,9 @@ http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1346
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/6762
 #EXTINF:-1,AL: Kanal 10 HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/280141
+
+#EXTINF:-1,AL: A TV HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/171891
 #EXTINF:-1,AL: Ulqini TV HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/278582
 #EXTINF:-1,AL: Tema TV FHD
@@ -1864,22 +1871,18 @@ http://reseller.stream.tf:9876/cid.94e0d35e7ae40219/5576103371/13487
 
 #EXTINF:-1   group-title="-IPTV SPORT 2-",
 #EXTINF:-1,AR: BEIN SPORTS Premium 1 HD
-http://str.smartip-tv.net:8888/BEIN_SPORT_8_HD/index.m3u8?token=test
+http://88.barouhn.xyz.global.prod.fastly.net:80/live/6161655/index.m3u8
 #EXTINF:-1,AR: BEIN SPORTS Premium 2 HD
-http://str.smartip-tv.net:8888/ssc98/index.m3u8?token=test
+http://88.barouhn.xyz.global.prod.fastly.net:80/live/616194987/index.m3u8
 #EXTINF:-1,AR: BEIN SPORTS Premium 3 HD
-http://217.23.4.81:86/BEINSPORT_10_HD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1,AR: BEIN SPORTS 1 HD
-http://217.23.4.81:86/BEINSPORT_1_HD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1,AR: BEIN SPORTS 2 HD
-http://217.23.4.81:86/BEINSPORT_2_HD/tracks-v1a1/mono.m3u8?token=test
+http://88.barouhn.xyz.global.prod.fastly.net:80/live/6151278887/index.m3u8
+#EXTINF:-1,AR: BEIN SPORTS Extra 1 HD
+http://88.barouhn.xyz.global.prod.fastly.net:80/live/9962564400/index.m3u8
+#EXTINF:-1,AR: BEIN SPORTS Extra 2 HD
+http://88.barouhn.xyz.global.prod.fastly.net:80/live/880025552/index.m3u8
 
-#EXTINF:-1,UK: BT Sport 1 HD
-http://54.36.123.36:8080/UK:BTSPORT1HD/index.m3u8?token=test
-#EXTINF:-1,UK: BT Sport 2 HD
-http://54.36.123.36:8080/UK:BTSPORT2HD/index.m3u8?token=test
-#EXTINF:-1,UK: BT Sport 3 HD
-http://54.36.123.36:8080/UK:BTSPORT3HD/index.m3u8?token=test
+
+
 #EXTINF:-1,AL: Tring Sport 1 HD
 http://ran.no-ips.net:8888/StS/3133/mpegts?token=test
 #EXTINF:-1,AL: Tring Sport 2 HD
