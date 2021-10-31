@@ -1871,15 +1871,16 @@ http://reseller.stream.tf:9876/cid.94e0d35e7ae40219/5576103371/13487
 
 #EXTINF:-1   group-title="-IPTV SPORT 2-",
 #EXTINF:-1,AR: BEIN SPORTS Premium 1 HD
-http://88.barouhn.xyz.global.prod.fastly.net:80/live/6161655/index.m3u8
+
+http://88.barouhn.xyz.global.prod.fastly.net:80/live/616165500/index.m3u8
+
 #EXTINF:-1,AR: BEIN SPORTS Premium 2 HD
-http://88.barouhn.xyz.global.prod.fastly.net:80/live/616194987/index.m3u8
+
+http://88.barouhn.xyz.global.prod.fastly.net:80/live/61619498700/index.m3u8
+
 #EXTINF:-1,AR: BEIN SPORTS Premium 3 HD
-http://88.barouhn.xyz.global.prod.fastly.net:80/live/6151278887/index.m3u8
-#EXTINF:-1,AR: BEIN SPORTS Extra 1 HD
-http://88.barouhn.xyz.global.prod.fastly.net:80/live/9962564400/index.m3u8
-#EXTINF:-1,AR: BEIN SPORTS Extra 2 HD
-http://88.barouhn.xyz.global.prod.fastly.net:80/live/880025552/index.m3u8
+http://88.barouhn.xyz.global.prod.fastly.net:80/live/615127888700/index.m3u8
+
 
 
 
