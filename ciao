@@ -548,25 +548,16 @@ http://us.bestvideostreaming.is/8803/index.m3u8
 http://us.bestvideostreaming.is/8804/index.m3u8
 
 #EXTINF:-1,AL: TOP Channel HD
-http://ran.no-ips.net:8888/AL/3102/mpegts
+http://stream.com-iptv.com:8080/TopChannelHD/index.m3u8?token=test
 #EXTINF:-1,AL: Klan TV HD
-http://ran.no-ips.net:8888/AL/3085/mpegts
+http://stream.com-iptv.com:8080/KlanHd/index.m3u8?token=test
 #EXTINF:-1,AL: VISION PLUS HD
-http://ran.no-ips.net:8888/AL/3162/mpegts 
+http://stream.com-iptv.com:8080/VizionPlus/index.m3u8?token=test
 #EXTINF:-1,AL: Klan Plus HD
-http://ran.no-ips.net:8888/AL/137465/mpegts 
+http://stream.com-iptv.com:8080/KlanPlusHd/index.m3u8?token=test
 #EXTINF:-1,AL: RTSH 1 HD
-http://ran.no-ips.net:8888/AL/203510/mpegts
-#EXTINF:-1,AL: RTSH 2 HD
-http://ran.no-ips.net:8888/AL/20351/mpegts?token=test
-#EXTINF:-1,AL: RTSH 3 HD
-http://ran.no-ips.net:8888/AL/209392/mpegts?token=test
-#EXTINF:-1,AL: RTSH Plus HD
-http://ran.no-ips.net:8888/AL/209508/mpegts?token=test
-#EXTINF:-1,AL: RTSH Shqip HD
-http://ran.no-ips.net:8888/AL/209507/mpegts?token=test
-#EXTINF:-1,AL: RTSH Korca HD
-http://ran.no-ips.net:8888/AL/211385/mpegts?token=test
+http://stream.com-iptv.com:8080/TVSHHD/index.m3u8?token=test
+
 
 #EXTINF:-1,AL: RTSH Sports HD
 http://ran.no-ips.net:8888/AL/209506/mpegts?token=test
@@ -600,60 +591,63 @@ http://ran.no-ips.net:8888/AL/135665/mpegts
 #EXTINF:-1,AL: RTV 21 MACEDONIA 
 http://ran.no-ips.net:8888/AL/209388/mpegts
 #EXTINF:-1,AL: Klan Kosova HD
-http://ran.no-ips.net:8888/AL/209384/mpegts
+http://stream.com-iptv.com:8080/KlanKosova/index.m3u8?token=test
 #EXTINF:-1,AL: Klan MACEDONIA
-http://ran.no-ips.net:8888/AL/290209/mpegts
+http://stream.com-iptv.com:8080/KlanMacedonia/index.m3u8?token=test
 #EXTINF:-1,AL: Alsat M HD
-http://ran.no-ips.net:8888/AL/3173/mpegts
+http://stream.com-iptv.com:8080/AlsatM/index.m3u8?token=test
 #EXTINF:-1,AL: Kanal 10
 http://ran.no-ips.net:8888/AL/299235/mpegts
 #EXTINF:-1,AL: First Channel 
 http://ran.no-ips.net:8888/AL/134667/mpegts
 
 #EXTINF:-1,AL: T HD
-http://ran.no-ips.net:8888/AL/3161/mpegts
+http://stream.com-iptv.com:8080/THD/index.m3u8?token=test
 #EXTINF:-1,AL: Family HD
-http://ran.no-ips.net:8888/AL/298634/mpegts
-#EXTINF:-1,AL: Film Një HD
-http://ran.no-ips.net:8888/AL/3148/mpegts
-#EXTINF:-1,AL: Film Dy HD
-http://ran.no-ips.net:8888/AL/3144/mpegts
-#EXTINF:-1,AL: Film Stinet
-http://ran.no-ips.net:8888/AL/162358/mpegts
-#EXTINF:-1,AL: Film Hits HD
-http://ran.no-ips.net:8888/AL/3145/mpegts
-#EXTINF:-1,AL: Film Aksion HD
-http://ran.no-ips.net:8888/AL/3141/mpegts
-#EXTINF:-1,AL: Film Autor HD
-http://ran.no-ips.net:8888/AL/3142/mpegts
-#EXTINF:-1,AL: Film Komedi HD
-http://ran.no-ips.net:8888/AL/3147/mpegts
-#EXTINF:-1,AL: Film Drame HD
-http://ran.no-ips.net:8888/AL/3143/mpegts
-#EXTINF:-1,AL: Film Thriller HD
-http://ran.no-ips.net:8888/AL/3149/mpegts
+http://stream.com-iptv.com:8080/FamilyHD/index.m3u8?token=test
 #EXTINF:-1,AL: Film Gold HD
-http://ran.no-ips.net:8888/AL/3158/mpegts
+http://stream.com-iptv.com:8080/FilmNjeHD/index.m3u8?token=test
+#EXTINF:-1,AL: Film Max HD
+http://stream.com-iptv.com:8080/FilmDyHD/index.m3u8?token=test
+#EXTINF:-1,AL: Film Stinet
+http://stream.com-iptv.com:8080/Stinet/index.m3u8?token=test
+#EXTINF:-1,AL: Film Hits HD
+http://stream.com-iptv.com:8080/FilmHitsHD/index.m3u8?token=test
+
+#EXTINF:-1,AL: Film Aksion HD
+http://stream.com-iptv.com:8080/FilmAksionHD/index.m3u8?token=test
+
+#EXTINF:-1,AL: Film Autor HD
+http://stream.com-iptv.com:8080/FilmAutor/index.m3u8?token=test
+
+#EXTINF:-1,AL: Film Komedi HD
+http://stream.com-iptv.com:8080/Filmkomedi/index.m3u8?token=test
+#EXTINF:-1,AL: Film Drame HD
+http://stream.com-iptv.com:8080/FilmDrame/index.m3u8?token=test
+#EXTINF:-1,AL: Film Thriller HD
+http://stream.com-iptv.com:8080/FilmThriller/index.m3u8?token=test
 #EXTINF:-1,AL: Euro Film
-http://51.178.133.59:8080/EuroFilm/tracks-v1a1/mono.m3u8?token=test
+http://stream.com-iptv.com:8080/Eurofilm/index.m3u8?token=test
 
 #EXTINF:-1,AL: Tring Jolly HD
-http://ran.no-ips.net:8888/AL/209416/mpegts
+http://stream.com-iptv.com:8080/JollyHD/index.m3u8?token=test
 
 #EXTINF:-1,AL: Tring Action HD
-http://ran.no-ips.net:8888/AL/209415/mpegts
+http://stream.com-iptv.com:8080/TringAction/index.m3u8?token=test
 #EXTINF:-1,AL: Tring Super HD
-http://ran.no-ips.net:8888/AL/3170/mpegts
+http://stream.com-iptv.com:8080/TringSuperHD/index.m3u8?token=test
 #EXTINF:-1,AL: Tring Fantasy
-http://ran.no-ips.net:8888/AL/3165/mpegts
+http://stream.com-iptv.com:8080/TringFantasy/index.m3u8?token=test
 #EXTINF:-1,AL: Tring Comedy
-http://ran.no-ips.net:8888/AL/3164/mpegts
+http://stream.com-iptv.com:8080/TringComedy/index.m3u8?token=test
 #EXTINF:-1,AL: Tring Life
-http://ran.no-ips.net:8888/AL/3166/mpegts
+http://stream.com-iptv.com:8080/TringLife/index.m3u8?token=test
 #EXTINF:-1,AL: Tring Shqip
-http://ran.no-ips.net:8888/AL/3168/mpegts
+http://stream.com-iptv.com:8080/TringShqip/index.m3u8?token=test
 #EXTINF:-1,AL: Tring 3 Plus
-http://ran.no-ips.net:8888/AL/3163/mpegts
+http://stream.com-iptv.com:8080/Tring3Plus/index.m3u8?token=test
+#EXTINF:-1,AL: Tring D Drama HD
+http://stream.com-iptv.com:8080/KanalDDramaHD/index.m3u8?token=test
 #EXTINF:-1,AL: Tring Histori HD
 http://ran.no-ips.net:8888/AL/3121/mpegts
 #EXTINF:-1,AL: Tring Planet HD
@@ -661,17 +655,17 @@ http://ran.no-ips.net:8888/AL/3122/mpegts
 #EXTINF:-1,AL: Tring World HD
 http://ran.no-ips.net:8888/AL/3123/mpegts
 
-
+#EXTINF:-1,AL: Bang Bang
+http://stream.com-iptv.com:8080/BangBang/index.m3u8?token=test
+#EXTINF:-1,AL: Cufo TV
+http://stream.com-iptv.com:8080/CufoTV/index.m3u8?token=test
 #EXTINF:-1,AL: Tring Tring
 http://ran.no-ips.net:8888/AL/3107/mpegts
 #EXTINF:-1,AL: Tring TipTV
 http://ran.no-ips.net:8888/AL/3108/mpegts
 #EXTINF:-1,AL: Tring Kids
 http://ran.no-ips.net:8888/AL/211399/mpegts
-#EXTINF:-1,AL: Bang Bang
-http://ran.no-ips.net:8888/AL/3106/mpegts
-#EXTINF:-1,AL: Cufo TV
-http://ran.no-ips.net:8888/AL/3079/mpegts
+
 #EXTINF:-1,AL: Junior TV
 http://ran.no-ips.net:8888/AL/209420/mpegts
 #EXTINF:-1,AL: RTSH Femije
