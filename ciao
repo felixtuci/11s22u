@@ -1869,53 +1869,204 @@ http://reseller.stream.tf:9876/cid.94e0d35e7ae40219/5576103371/13487
 
 
 #EXTINF:-1   group-title="-IPTV SPORT 2-",
-#EXTINF:-1,AR: BEIN SPORTS Premium 1 HD
+#EXTINF:-1,Bein Premium HD1
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/329310
+#EXTINF:-1,Bein Premium HD2
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/329311
+#EXTINF:-1,Bein Premium HD3
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/329312
+#EXTINF:-1,Bein Sport HD1
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/329313
+#EXTINF:-1,Bein Sport HD 1
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/393338
+#EXTINF:-1,Bein Sport HD2
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/329314
+#EXTINF:-1,Bein Sports HD3
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/329315
+#EXTINF:-1,Bein Sports HD4
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/329316
+#EXTINF:-1,Bein Sports HD5
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/329317
+#EXTINF:-1,Bein Sports HD6
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/329318
+#EXTINF:-1,Bein Sports HD7
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/329319
+#EXTINF:-1,Bein Sports English HD1
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/329325
+#EXTINF:-1,Bein Sports English HD2
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/329321
+#EXTINF:-1,Bein Sports English HD3
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/329322
+#EXTINF:-1,BeIN Sport XTRA HD 1 
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/393752
+#EXTINF:-1,BeIN Sport XTRA HD 2
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/393753
+#EXTINF:-1,Bein Premium 4K 1
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/329343
+#EXTINF:-1,Bein Premium 4K 2
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/329344
+#EXTINF:-1,Bein Premium 4K 3
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/329345
+#EXTINF:-1,beIN SPORTS 4K 1
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/329346
+#EXTINF:-1,beIN SPORTS 4K 2
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/329347
+#EXTINF:-1,beIN SPORTS 4K 3
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/329348
+#EXTINF:-1,beIN SPORTS 4K 4
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/329349
+#EXTINF:-1,beIN SPORTS 4K 5
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/329350
+#EXTINF:-1,beIN SPORTS 4K 6
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/329351
+#EXTINF:-1,beIN SPORTS 4K 7
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/329352
+#EXTINF:-1,beIN Sport English 4k 1
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/329358
+#EXTINF:-1,beIN Sport English 4k 2
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/329354
+#EXTINF:-1,beIN Sport English 4k 3
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/329355
+#EXTINF:-1,Bein Sports Premium 1 FHD
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/355817
+#EXTINF:-1,Bein Sports Premium 2 FHD
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/355818
+#EXTINF:-1,Bein Sports Premium 3 FHD
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/355819
+#EXTINF:-1,Bein Sports 1 FHD
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/355822
+#EXTINF:-1,Bein Sports 2 FHD
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/355823
+#EXTINF:-1,Bein Sports 3 FHD
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/355824
+#EXTINF:-1,Bein Sports 4 FHD
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/355825
+#EXTINF:-1,Bein Sports 5 FHD
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/355826
+#EXTINF:-1,Bein Sports 6 FHD
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/355827
+#EXTINF:-1,Bein Sports 7 FHD
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/355828
+#EXTINF:-1,Bein Sports 1 FHD EN
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/355829
+#EXTINF:-1,Bein Sports 2 FHD EN
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/355830
 
-http://88.barouhn.xyz.global.prod.fastly.net:80/live/616165500/index.m3u8
-
-#EXTINF:-1,AR: BEIN SPORTS Premium 2 HD
-
-http://88.barouhn.xyz.global.prod.fastly.net:80/live/61619498700/index.m3u8
-
-#EXTINF:-1,AR: BEIN SPORTS Premium 3 HD
-http://88.barouhn.xyz.global.prod.fastly.net:80/live/615127888700/index.m3u8
 
 
 
 
-#EXTINF:-1,AL: Tring Sport 1 HD
-http://ran.no-ips.net:8888/StS/3133/mpegts?token=test
-#EXTINF:-1,AL: Tring Sport 2 HD
-http://ran.no-ips.net:8888/StS/3134/mpegts?token=test
-#EXTINF:-1,AL: Tring Sport 3 HD
-http://ran.no-ips.net:8888/StS/211451/mpegts?token=test
-#EXTINF:-1,AL: Super Sport 1 HD
-http://al.noips.org:8080/AL/276568/mpegts
-#EXTINF:-1,AL: Super Sport 2 HD
-http://ran.no-ips.net:8888/StS/3128/mpegts?token=test
-#EXTINF:-1,AL: Super Sport 3 HD
-http://ran.no-ips.net:8888/StS/3129/mpegts?token=test
-#EXTINF:-1,AL: Super Sport 4 HD
-http://ran.no-ips.net:8888/StS/209433/mpegts?token=test
+#EXTINF:-1,beIN.Premium.1 VIP
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/393741
+#EXTINF:-1,beIN.Premium.2 VIP
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/393742
+#EXTINF:-1,beIN Premium 3 VIP
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/393743
+#EXTINF:-1,beIN.SPORT.1 VIP
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/393744
+#EXTINF:-1,beIN.SPORT.2 VIP
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/393750
+#EXTINF:-1,beIN.SPORT 3 VIP
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/393745
+#EXTINF:-1,beIN.SPORT.4 VIP
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/393746
+#EXTINF:-1,beIN.SPORT.5 VIP
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/393747
+#EXTINF:-1,beIN.SPORT.6 VIP
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/393748
+#EXTINF:-1,beIN.SPORT.7 VIP
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/393749
+#EXTINF:-1,beIN.SPORT 1 EN VIP
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/393812
+#EXTINF:-1,beIN.SPORT 2 EN VIP 
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/393813
+#EXTINF:-1,bein sport 3 EN VIP
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/393814
+#EXTINF:-1,BeIN Sport XTRA 1 VIP
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/393755
+#EXTINF:-1,BeIN Sport XTRA 2 VIP
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/393754
+#EXTINF:-1,Bein Global SD
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/330708
+#EXTINF:-1,Bein News SD
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/330709
+#EXTINF:-1,Bein Premium SD1
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/329327
+#EXTINF:-1,Bein Premium SD2
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/329328
+#EXTINF:-1,Bein Premium SD3
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/329329
+#EXTINF:-1,Bein Sport SD1
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/329330
+#EXTINF:-1,Bein Sport SD2
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/329331
+#EXTINF:-1,Bein Sport SD3
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/329332
+#EXTINF:-1,Bein Sport SD4
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/329333
+#EXTINF:-1,Bein Sport SD5
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/329334
+#EXTINF:-1,Bein Sport SD6
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/329335
+#EXTINF:-1,Bein Sport SD7
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/329336
 
-#EXTINF:-1,SP: Sky Sport MotoGP
-http://ath1.no-ips.org:8080/SportStreamS/7799/mpegts?token=test
-#EXTINF:-1,SP: Sky Sport F1 HD
-http://ys.no-ips.net:8888/SportStreamS/7800/mpegts?token=test
-#EXTINF:-1,SP: Sky Sport Tenis
-http://ys.no-ips.net:8888/SportStreamS/7801/mpegts?token=test
-#EXTINF:-1,SP: ESPN Sports 1
-http://skei.x24hr.info:8080/skysports/21482/mpegts?token=test
-#EXTINF:-1,SP: ESPN Sports 2
-http://skei.x24hr.info:8080/skysports/21483/mpegts?token=test
-#EXTINF:-1,SP: ESPN Sports 3
-http://skei.x24hr.info:8080/skysports/21484/mpegts?token=test
-#EXTINF:-1,SP: ESPN Sports 4
-http://skei.x24hr.info:8080/skysports/21485/mpegts?token=test
-#EXTINF:-1,SP: ESPN Sports 5
-http://skei.x24hr.info:8080/skysports/21486/mpegts?token=test
-#EXTINF:-1,SP: ESPN Sports 6
-http://nl.noips.org:8080/NL/511/mpegts?token=test
+
+
+
+#EXTINF:-1,BEIN SPORT 1 HD
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/36207
+#EXTINF:-1,BEIN SPORTS 1 SD
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/36345
+#EXTINF:-1,BEIN SPORT 2 FHD
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/35521
+#EXTINF:-1,BEIN 2 H265
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/9296
+#EXTINF:-1,BEIN SPORT 2 HD
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/36208
+#EXTINF:-1,BEIN SPORTS 2 SD
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/36346
+#EXTINF:-1,BEIN SPORT 3 FHD
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/35522
+#EXTINF:-1,BEIN 3 H265
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/9297
+#EXTINF:-1,BEIN SPORT 3 HD
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/36209
+#EXTINF:-1,BEIN SPORTS 3 SD
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/36347
+#EXTINF:-1,BEIN SPORTS MAX 4 FHD
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/36110
+#EXTINF:-1,BEIN SPORT MAX 4 HD
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/36210
+#EXTINF:-1,BEIN SPORTS MAX 5 FHD
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/36111
+#EXTINF:-1,BEIN SPORT MAX 5 HD
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/36211
+#EXTINF:-1,BEIN SPORTS MAX 6 FHD
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/36112
+#EXTINF:-1,BEIN SPORT MAX 6 HD
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/36212
+#EXTINF:-1,BEIN SPORTS MAX 7 FHD
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/36113
+#EXTINF:-1,BEIN SPORT MAX 7 HD
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/36213
+#EXTINF:-1,BEIN SPORTS MAX 8 FHD
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/36114
+#EXTINF:-1,BEIN SPORT MAX 8 HD
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/36214
+#EXTINF:-1,BEIN SPORTS MAX 9 FHD
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/36115
+#EXTINF:-1, BEIN SPORT MAX 9 HD
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/36215
+#EXTINF:-1,BEIN SPORTS MAX 10 FHD
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/36109
+#EXTINF:-1, BEIN SPORT MAX 10 HD
+http://11121314.org:2086/Exchange/Vjkfdbbnfdd/36216
+
+
+
+
+
 
 #EXTINF:-1,IT: Sky Sport Uno HD
 http://54.36.106.156:8080/SkySportUnoHD/index.m3u8?token=test
@@ -1929,143 +2080,7 @@ http://54.36.106.156:8080/SkySportMotoGPHD/index.m3u8?token=test
 
 
 
-#EXTINF:-1,AR_BEIN.SPORTS.1.HD
-http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/653
-#EXTINF:-1,AR_BEIN.SPORTS.2.HD
-http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/651
-#EXTINF:-1,AR_BEIN.SPORTS.3.HD
-http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/649
-#EXTINF:-1,AR_BEIN.SPORTS.4.HD
-http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/647
-#EXTINF:-1,AR_BEIN.SPORTS.5.HD
-http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/645
-#EXTINF:-1,AR_BEIN.SPORTS.6.HD
-http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/643
-#EXTINF:-1,AR_BEIN.SPORTS.7.HD
-http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/641
-#EXTINF:-1,AR_BEIN.SPORTS.8.HD
-http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/639
-#EXTINF:-1,AR_BEIN.SPORTS.9.HD
-http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/637
-#EXTINF:-1,AR_BEIN.SPORTS.10.HD
-http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/635
-#EXTINF:-1,AR_BEIN.Max.1.HD
-http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/7515
-#EXTINF:-1,AR_BEIN.Max.2.HD
-http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/7514
-#EXTINF:-1,AR_BEIN.Max.3.HD
-http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/7513
-#EXTINF:-1,AR_BEIN.Max.4.HD
-http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/7512
-#EXTINF:-1,AR_BEIN.Max.5.HD
-http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/22667
-#EXTINF:-1,AR_BEIN.Max.6.HD
-http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/22666
-#EXTINF:-1,AR_BEIN.SPORTS.1.SD
-http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/652
-#EXTINF:-1,AR_BEIN.SPORTS.2.SD
-http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/650
-#EXTINF:-1,AR_BEIN.SPORTS.3.SD
-http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/648
-#EXTINF:-1,AR_BEIN.SPORTS.4.SD
-http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/646
-#EXTINF:-1,AR_BEIN.SPORTS.5.SD
-http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/644
-#EXTINF:-1,AR_BEIN.SPORTS.6.SD
-http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/642
-#EXTINF:-1,AR_BEIN.SPORTS.7.SD
-http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/640
-#EXTINF:-1,AR_BEIN.SPORTS.8.SD
-http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/638
-#EXTINF:-1,AR_BEIN.SPORTS.9.SD
-http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/636
-#EXTINF:-1,AR_BEIN.SPORTS.10.SD
-http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/634
-#EXTINF:-1,AR_BEIN.SPORTS.11.SD
-http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/633
-#EXTINF:-1,AR_BEIN.SPORTS.12.SD
-http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/632
-#EXTINF:-1,AR_BEIN.SPORTS.13.SD
-http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/631
-#EXTINF:-1,AR_BEIN.SPORTS.14.SD
-http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/630
-#EXTINF:-1,AR_BEIN.SPORTS.15.SD
-http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/629
-#EXTINF:-1,AR_BEIN.SPORTS.16.SD
-http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/628
-#EXTINF:-1,AR_BEIN.Max.1.SD
-http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/7511
-#EXTINF:-1,AR_BEIN.Max.2.SD
-http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/7510
-#EXTINF:-1,AR_BEIN.Max.3.SD
-http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/7509
-#EXTINF:-1,AR_BEIN.Max.4.SD
-http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/7508
-#EXTINF:-1,FR_BEIN.SPORTS.1
-http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/399
-#EXTINF:-1,FR_BEIN.SPORTS.2
-http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/396
-#EXTINF:-1,FR_BEIN.SPORTS.3
-http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/393
-#EXTINF:-1,FR_BEIN.SPORTS.MAX.4
-http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/363
-#EXTINF:-1,FR_BEIN.SPORTS.MAX.5
-http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/361
-#EXTINF:-1,FR_BEIN.SPORTS.MAX.6
-http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/359
-#EXTINF:-1,FR_BEIN.SPORTS.MAX.7
-http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/357
-#EXTINF:-1,FR_BEIN.SPORTS.MAX.8
-http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/355
-#EXTINF:-1,FR_BEIN.SPORTS.MAX.9
-http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/353
-#EXTINF:-1,FR_BEIN.SPORTS.MAX.10
-http://x.itv-premium.com:7355/pascaltvskype/Tgyy2d2WCxRe3VgB@/351
 
-#EXTINF:-1,FR: BEIN SPORTS 1 HD
-http://dvb2mhd.com:2082/live/kuchini.site/TfUjeuXg78/10056.ts
-#EXTINF:-1,FR: BEIN SPORTS 2 HD
-http://dvb2mhd.com:2082/live/kuchini.site/TfUjeuXg78/10054.ts
-#EXTINF:-1,FR: BEIN SPORTS 3 HD
-http://dvb2mhd.com:2082/live/kuchini.site/TfUjeuXg78/10052.ts
-
-#EXTINF:-1,FR: BEIN SPORTS MAX 4 HD
-http://dvb2mhd.com:2082/live/kuchini.site/TfUjeuXg78/10049.ts
-#EXTINF:-1,FR: BEIN SPORTS MAX 5 HD
-http://dvb2mhd.com:2082/live/kuchini.site/TfUjeuXg78/10048.ts
-#EXTINF:-1,FR: BEIN SPORTS MAX 6 HD
-http://dvb2mhd.com:2082/live/kuchini.site/TfUjeuXg78/10047.ts
-#EXTINF:-1,FR: BEIN SPORTS MAX 7 HD
-http://dvb2mhd.com:2082/live/kuchini.site/TfUjeuXg78/10046.ts
-#EXTINF:-1,FR: BEIN SPORTS MAX 8 HD
-http://dvb2mhd.com:2082/live/kuchini.site/TfUjeuXg78/10045.ts
-#EXTINF:-1,FR: BEIN SPORTS MAX 9 HD
-http://dvb2mhd.com:2082/live/kuchini.site/TfUjeuXg78/10044.ts
-#EXTINF:-1,FR: BEIN SPORTS MAX 10 HD
-http://dvb2mhd.com:2082/live/kuchini.site/TfUjeuXg78/10050.ts
-
-#EXTINF:-1,PL: ELEVEN SPORTS 1 HD
-http://dvb2mhd.com:2082/live/kuchini.site/TfUjeuXg78/41702.ts
-#EXTINF:-1,PL: ELEVEN SPORTS 2 HD
-http://dvb2mhd.com:2082/live/kuchini.site/TfUjeuXg78/41701.ts
-#EXTINF:-1,PL: ELEVEN SPORTS 3 HD
-http://dvb2mhd.com:2082/live/kuchini.site/TfUjeuXg78/124881.ts
-#EXTINF:-1,PL: ELEVEN SPORTS 4 HD
-http://dvb2mhd.com:2082/live/kuchini.site/TfUjeuXg78/124882.ts
-#EXTINF:-1,PL: ELEVEN SPORTS 5 HD
-http://dvb2mhd.com:2082/live/kuchini.site/TfUjeuXg78/96067.ts
-#EXTINF:-1,PL: ELEVEN SPORTS 6 HD
-http://dvb2mhd.com:2082/live/kuchini.site/TfUjeuXg78/96068.ts
-#EXTINF:-1,PL: SPORT TV 1 HD
-http://dvb2mhd.com:2082/live/kuchini.site/TfUjeuXg78/96075.ts
-#EXTINF:-1,PL: SPORT TV 2 HD
-http://dvb2mhd.com:2082/live/kuchini.site/TfUjeuXg78/96076.ts
-#EXTINF:-1,PL: SPORT TV 3 HD
-http://dvb2mhd.com:2082/live/kuchini.site/TfUjeuXg78/96077.ts
-#EXTINF:-1,PL: SPORT TV 4 HD
-http://dvb2mhd.com:2082/live/kuchini.site/TfUjeuXg78/96078.ts
-#EXTINF:-1,PL: SPORT TV 5 HD
-http://dvb2mhd.com:2082/live/kuchini.site/TfUjeuXg78/96079.ts
 
 #EXTINF:-1   group-title="-IPTV ITALIA 1- ",
 
