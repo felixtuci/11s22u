@@ -549,16 +549,29 @@ http://us.bestvideostreaming.is/8804/index.m3u8
 
 #EXTINF:-1,AL: TOP Channel HD
 http://stream.com-iptv.com:8080/TopChannelHD/index.m3u8?token=test
+#EXTINF:-1,Top Channel HD
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/131.ts
 #EXTINF:-1,AL: Klan TV HD
 http://stream.com-iptv.com:8080/KlanHd/index.m3u8?token=test
-#EXTINF:-1,AL: VISION PLUS HD
-http://stream.com-iptv.com:8080/VizionPlus/index.m3u8?token=test
+#EXTINF:-1,Klan HD
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/106.ts
 #EXTINF:-1,AL: Klan Plus HD
 http://stream.com-iptv.com:8080/KlanPlusHd/index.m3u8?token=test
+#EXTINF:-1,Klan Plus
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/107.ts
+#EXTINF:-1,AL: VISION PLUS HD
+http://stream.com-iptv.com:8080/VizionPlus/index.m3u8?token=test
+#EXTINF:-1,Vizion Plus HD
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/111.ts
+
 #EXTINF:-1,AL: RTSH 1 HD
 http://stream.com-iptv.com:8080/TVSHHD/index.m3u8?token=test
-
-
+#EXTINF:-1,RTSH2 HD
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/119.ts
+#EXTINF:-1,RTSH3 HD
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/120.ts
+#EXTINF:-1,RTSH Plus
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/121.ts
 #EXTINF:-1,AL: RTSH Sports HD
 http://ran.no-ips.net:8888/AL/209506/mpegts?token=test
 #EXTINF:-1,AL: MCNTV
@@ -569,31 +582,39 @@ http://live1.mediadesk.al/oratv.m3u8
 
 #EXTINF:-1,AL: Ora News HD
 https://live1.mediadesk.al/oranews.m3u8
-#EXTINF:-1,AL: News 24 SD
-http://ran.no-ips.net:8888/AL/3101/mpegts
-
-#EXTINF:-1,AL: ABC News SD
-http://ran.no-ips.net:8888/AL/3100/mpegts
-#EXTINF:-1,AL: RTK 1 HD
-http://ran.no-ips.net:8888/AL/3101209389/mpegts
+#EXTINF:-1,News 24
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/159.ts
+#EXTINF:-1,Euronews Albania
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/175.ts
+#EXTINF:-1,Klan News
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/167.ts
+#EXTINF:-1,Abc News
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/160.ts
+#EXTINF:-1,A2 News
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/141.ts
+#EXTINF:-1,RTK 1 HD
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/135.ts
 #EXTINF:-1,AL: RTK 2 HD
 http://ran.no-ips.net:8888/AL/3101209391/mpegts
 #EXTINF:-1,AL: RTK 3 HD
 http://ran.no-ips.net:8888/AL/3091/mpegts
 #EXTINF:-1,AL: RTK 4 HD
 http://ran.no-ips.net:8888/AL/3092/mpegts
-#EXTINF:-1,AL: KTV HD
-http://ran.no-ips.net:8888/AL/3087/mpegts
+#EXTINF:-1,KTV 
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/136.ts
 #EXTINF:-1,AL: RTV 21 HD
 http://ran.no-ips.net:8888/AL/3094/mpegts
 #EXTINF:-1,AL: RTV 21 Mix HD
 http://ran.no-ips.net:8888/AL/135665/mpegts
-#EXTINF:-1,AL: RTV 21 MACEDONIA 
-http://ran.no-ips.net:8888/AL/209388/mpegts
+
 #EXTINF:-1,AL: Klan Kosova HD
 http://stream.com-iptv.com:8080/KlanKosova/index.m3u8?token=test
+#EXTINF:-1,Klan Kosova
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/110.ts
 #EXTINF:-1,AL: Klan MACEDONIA
 http://stream.com-iptv.com:8080/KlanMacedonia/index.m3u8?token=test
+#EXTINF:-1,Klan Macedonia
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/109.ts
 #EXTINF:-1,AL: Alsat M HD
 http://stream.com-iptv.com:8080/AlsatM/index.m3u8?token=test
 #EXTINF:-1,AL: Kanal 10
@@ -628,10 +649,12 @@ http://stream.com-iptv.com:8080/FilmDrame/index.m3u8?token=test
 http://stream.com-iptv.com:8080/FilmThriller/index.m3u8?token=test
 #EXTINF:-1,AL: Euro Film
 http://stream.com-iptv.com:8080/Eurofilm/index.m3u8?token=test
-
+#EXTINF:-1,Tring Family HD
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/176.ts
 #EXTINF:-1,AL: Tring Jolly HD
 http://stream.com-iptv.com:8080/JollyHD/index.m3u8?token=test
-
+#EXTINF:-1,Jolly HD
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/75.ts
 #EXTINF:-1,AL: Tring Action HD
 http://stream.com-iptv.com:8080/TringAction/index.m3u8?token=test
 #EXTINF:-1,AL: Tring Super HD
@@ -646,30 +669,34 @@ http://stream.com-iptv.com:8080/TringLife/index.m3u8?token=test
 http://stream.com-iptv.com:8080/TringShqip/index.m3u8?token=test
 #EXTINF:-1,AL: Tring 3 Plus
 http://stream.com-iptv.com:8080/Tring3Plus/index.m3u8?token=test
+#EXTINF:-1,3 Plus
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/76.ts
+
 #EXTINF:-1,AL: Tring D Drama HD
 http://stream.com-iptv.com:8080/KanalDDramaHD/index.m3u8?token=test
-#EXTINF:-1,AL: Tring Histori HD
-http://ran.no-ips.net:8888/AL/3121/mpegts
-#EXTINF:-1,AL: Tring Planet HD
-http://ran.no-ips.net:8888/AL/3122/mpegts
-#EXTINF:-1,AL: Tring World HD
-http://ran.no-ips.net:8888/AL/3123/mpegts
+#EXTINF:-1,Tring History
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/68.ts
+#EXTINF:-1,Tring Planet
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/67.ts
+#EXTINF:-1,Tring World
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/66.ts
 
 #EXTINF:-1,AL: Bang Bang
 http://stream.com-iptv.com:8080/BangBang/index.m3u8?token=test
 #EXTINF:-1,AL: Cufo TV
 http://stream.com-iptv.com:8080/CufoTV/index.m3u8?token=test
-#EXTINF:-1,AL: Tring Tring
-http://ran.no-ips.net:8888/AL/3107/mpegts
-#EXTINF:-1,AL: Tring TipTV
-http://ran.no-ips.net:8888/AL/3108/mpegts
-#EXTINF:-1,AL: Tring Kids
-http://ran.no-ips.net:8888/AL/211399/mpegts
-
+#EXTINF:-1,Tring Tring
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/78.ts
+#EXTINF:-1,Tip TV
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/77.ts
+#EXTINF:-1,Tring Kids
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/79.ts
+#EXTINF:-1,RTV 21 Junior
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/55.ts
 #EXTINF:-1,AL: Junior TV
 http://ran.no-ips.net:8888/AL/209420/mpegts
-#EXTINF:-1,AL: RTSH Femije
-http://ran.no-ips.net:8888/AL/211400/mpegts
+#EXTINF:-1,RTSH Femije
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/129.ts
 #EXTINF:-1,AL: RTV21 Femije
 http://ran.no-ips.net:8888/AL/3097/mpegts
 
@@ -700,7 +727,22 @@ http://stream.com-iptv.com:8080/SS4HD/index.m3u8?token=test
 http://stream.com-iptv.com:8080/SS5HD/index.m3u8?token=test
 #EXTINF:-1,AL: Super Sport 6 HD
 http://stream.com-iptv.com:8080/SS6HD/index.m3u8?token=test
-
+#EXTINF:-1,Tring Sport 1 HD
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/63.ts
+#EXTINF:-1,Tring Sport 2 HD
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/62.ts
+#EXTINF:-1,Tring Sport 3 HD
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/61.ts
+#EXTINF:-1,Tring Sport 4 HD
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/60.ts
+#EXTINF:-1,RTSH Sport
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/124.ts
+#EXTINF:-1,SS3 HD
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/180.ts
+#EXTINF:-1,SS2 HD
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/179.ts
+#EXTINF:-1,SS1 HD
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/178.ts
 
 
 #EXTINF:-1   group-title="-IPTV SHQIP 4-",
