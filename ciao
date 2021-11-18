@@ -535,8 +535,6 @@ http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/6909
 
 
 #EXTINF:-1   group-title="-IPTV SHQIP 3-",
-#EXTINF:-1,AL: Big Brother 1 
-http://51.158.144.144:25461/MetiTV-telegram/Falas-Shqiptare/463
 #EXTINF:-1,AL: B B 1 HD 
 https://srv1.iptviliria.com/BigBrother1/index.m3u8
 #EXTINF:-1,AL: B B 2 HD
@@ -594,18 +592,20 @@ http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/160.ts
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/141.ts
 #EXTINF:-1,RTK 1 HD
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/135.ts
-#EXTINF:-1,AL: RTK 2 HD
-http://ran.no-ips.net:8888/AL/3101209391/mpegts
+
 #EXTINF:-1,AL: RTK 3 HD
-http://ran.no-ips.net:8888/AL/3091/mpegts
+http://za.zanofi.xyz:80/play/tX_lQ_n0LA91Kq-kvGwCbors7nqKZIjYvcVyFdChebpsZ3_TPipN1giUAhJ1Dt9z/ts
 #EXTINF:-1,AL: RTK 4 HD
-http://ran.no-ips.net:8888/AL/3092/mpegts
+http://za.zanofi.xyz:80/play/tX_lQ_n0LA91Kq-kvGwCbors7nqKZIjYvcVyFdChebqt26XVBzvLzJ_tN9aRmnj-/ts
 #EXTINF:-1,KTV 
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/136.ts
+#EXTINF:-1,KTV HD
+http://amexblack.team/KTV/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,AL: RTV 21 HD
-http://ran.no-ips.net:8888/AL/3094/mpegts
-#EXTINF:-1,AL: RTV 21 Mix HD
-http://ran.no-ips.net:8888/AL/135665/mpegts
+http://za.zanofi.xyz:80/play/tX_lQ_n0LA91Kq-kvGwCbors7nqKZIjYvcVyFdChebq4SZi97GAOBoYtO7GY56zq/ts
+#EXTINF:-1,AL: A TV FHD
+http://za.zanofi.xyz:80/play/tX_lQ_n0LA91Kq-kvGwCbors7nqKZIjYvcVyFdChebogB5GwKrxXfWbWMYfH5rlR/ts
 
 #EXTINF:-1,AL: Klan Kosova HD
 http://stream.com-iptv.com:8080/KlanKosova/index.m3u8?token=test
@@ -618,7 +618,7 @@ http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/109.ts
 #EXTINF:-1,AL: Alsat M HD
 http://stream.com-iptv.com:8080/AlsatM/index.m3u8?token=test
 #EXTINF:-1,AL: Kanal 10
-http://ran.no-ips.net:8888/AL/299235/mpegts
+http://za.zanofi.xyz:80/play/tX_lQ_n0LA91Kq-kvGwCbors7nqKZIjYvcVyFdChebrzMTe02-Poaf5ePXjXtUH4/ts
 #EXTINF:-1,AL: First Channel 
 http://ran.no-ips.net:8888/AL/134667/mpegts
 
@@ -671,7 +671,8 @@ http://stream.com-iptv.com:8080/TringShqip/index.m3u8?token=test
 http://stream.com-iptv.com:8080/Tring3Plus/index.m3u8?token=test
 #EXTINF:-1,3 Plus
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/76.ts
-
+#EXTINF:-1,AL: Kinema Aksion HD
+http://za.zanofi.xyz:80/play/tX_lQ_n0LA91Kq-kvGwCbors7nqKZIjYvcVyFdChebrHFZzd09k9UA1GcW8d2NYo/ts
 #EXTINF:-1,AL: Tring D Drama HD
 http://stream.com-iptv.com:8080/KanalDDramaHD/index.m3u8?token=test
 #EXTINF:-1,Tring History
@@ -697,23 +698,30 @@ http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/55.ts
 http://ran.no-ips.net:8888/AL/209420/mpegts
 #EXTINF:-1,RTSH Femije
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/129.ts
-#EXTINF:-1,AL: RTV21 Femije
-http://ran.no-ips.net:8888/AL/3097/mpegts
+
+#EXTINF:-1,AL: Tring World
+http://za.zanofi.xyz:80/play/tX_lQ_n0LA91Kq-kvGwCbors7nqKZIjYvcVyFdChebqxlew-2nzcosp12L5M0Xr0/ts
+#EXTINF:-1,AL: Tring Planet
+http://za.zanofi.xyz:80/play/tX_lQ_n0LA91Kq-kvGwCbors7nqKZIjYvcVyFdChebpk6y7zA31u5BiP6FP2LwKL/ts
 
 #EXTINF:-1,AL: Explorer Histori HD
-http://ran.no-ips.net:8888/AL/3118/mpegts
+http://za.zanofi.xyz:80/play/tX_lQ_n0LA91Kq-kvGwCbors7nqKZIjYvcVyFdCheboIPcr1SZLCPFmglgjG8tUT/ts
 #EXTINF:-1,AL: Explorer Natyra HD
-http://ran.no-ips.net:8888/AL/3119/mpegts
+http://za.zanofi.xyz:80/play/tX_lQ_n0LA91Kq-kvGwCbors7nqKZIjYvcVyFdChebrPcu0GPkW8nlplAg6ryisM/ts
 #EXTINF:-1,AL: Explorer Shkence HD
-http://ran.no-ips.net:8888/AL/3120/mpegts
-#EXTINF:-1,AL: RTV 21 Popullore
-http://ran.no-ips.net:8888/AL/3096/mpegts
+http://za.zanofi.xyz:80/play/tX_lQ_n0LA91Kq-kvGwCbors7nqKZIjYvcVyFdChebrnLQ3kIq37zJoPk7iNcmDX/ts
+#EXTINF:-1,AL: Folk +
+http://za.zanofi.xyz:80/play/tX_lQ_n0LA91Kq-kvGwCbors7nqKZIjYvcVyFdChebrJVaZwZTsSCkRHvzCkE3sw/ts
 #EXTINF:-1,AL: RTV 21 Plus
-http://ran.no-ips.net:8888/AL/3095/mpegts
+http://za.zanofi.xyz:80/play/tX_lQ_n0LA91Kq-kvGwCbors7nqKZIjYvcVyFdChebpkHo-7G_wjtigpmGqz9w5g/ts
 #EXTINF:-1,AL: MELODY TV
-http://51.178.133.59:8080/MELODYTV/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1,AL: BBF Music
-http://51.178.133.59:8080/BBFMusic/mpegts?token=test
+http://za.zanofi.xyz:80/play/tX_lQ_n0LA91Kq-kvGwCbors7nqKZIjYvcVyFdChebryFzg_qcR2gmAljhpekHjm/ts
+#EXTINF:-1,AL: MY Music
+http://za.zanofi.xyz:80/play/tX_lQ_n0LA91Kq-kvGwCbors7nqKZIjYvcVyFdChebpIMKZv2aY_j-ALTkdpFArj/ts
+#EXTINF:-1,AL: Blue Sky TV
+http://za.zanofi.xyz:80/play/tX_lQ_n0LA91Kq-kvGwCbors7nqKZIjYvcVyFdChebo2J8JQ0zaA3_xppTF5gJjN/ts
+#EXTINF:-1,AL BBF Music HD
+http://za.zanofi.xyz:80/play/tX_lQ_n0LA91Kq-kvGwCbors7nqKZIjYvcVyFdChebr_pitGOFcUndwRUsMAPtb2/ts
 
 #EXTINF:-1,AL: Super Sport 1 HD
 http://stream.com-iptv.com:8080/SS1HD/index.m3u8?token=test
@@ -1912,13 +1920,17 @@ http://reseller.stream.tf:9876/cid.94e0d35e7ae40219/5576103371/13487
 
 #EXTINF:-1   group-title="-IPTV SPORT 2-",
 #EXTINF:-1,SuperSport HD 1
-http://za.zanofi.xyz:80/play/tX_lQ_n0LA91Kq-kvGwCbors7nqKZIjYvcVyFdChebpIRNpjm1wX88rr41FvCrqJ/ts
+http://93.157.62.180/Supersport1/index.m3u8
 #EXTINF:-1,SuperSport HD 2
-http://za.zanofi.xyz:80/play/tX_lQ_n0LA91Kq-kvGwCbors7nqKZIjYvcVyFdChebpohfLg5QTmtY2dxavEjEAG/ts
+http://93.157.62.180/Supersport2/index.m3u8
 #EXTINF:-1,SuperSport HD 3
-http://za.zanofi.xyz:80/play/tX_lQ_n0LA91Kq-kvGwCbors7nqKZIjYvcVyFdChebpde3YS30KmH5YCY9_COaB7/ts
+http://93.157.62.180/Supersport3/index.m3u8
 #EXTINF:-1,SuperSport HD 4
-http://za.zanofi.xyz:80/play/tX_lQ_n0LA91Kq-kvGwCbors7nqKZIjYvcVyFdChebqgAnS_BvUHM_XRlYIcX9rM/ts
+http://93.157.62.180/Supersport5/index.m3u8
+#EXTINF:-1,SuperSport HD 5
+http://93.157.62.180/Supersport5/index.m3u8
+
+
 #EXTINF:-1,AL: K Sport 1 HD
 http://za.zanofi.xyz:80/play/tX_lQ_n0LA91Kq-kvGwCbors7nqKZIjYvcVyFdChebqySu5OUADJ2C8zHBRUK8kg/ts
 #EXTINF:-1,AL: K Sport 2 HD
