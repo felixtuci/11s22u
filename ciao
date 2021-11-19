@@ -546,14 +546,14 @@ http://us.bestvideostreaming.is/8803/index.m3u8
 http://us.bestvideostreaming.is/8804/index.m3u8
 
 #EXTINF:-1,AL: TOP Channel FHD 
-http://amexblack.team/TopChannel_HD/index.m3u8
+https://srv1.iptviliria.com/TopChannel/index.m3u8
 #EXTINF:-1,AL: TOP Channel HD
 http://stream.com-iptv.com:8080/TopChannelHD/index.m3u8?token=test
 #EXTINF:-1,Top Channel HD
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/131.ts
 
 #EXTINF:-1,AL: Klan TV FHD
-http://amexblack.team/KlanHD/tracks-v1a1/mono.m3u8
+https://srv1.iptviliria.com/TVKlanHD/tracks-v1a1/index-1630911540-now.m3u8
 #EXTINF:-1,AL: Klan TV HD
 http://stream.com-iptv.com:8080/KlanHd/index.m3u8?token=test
 #EXTINF:-1,Klan HD
@@ -599,19 +599,21 @@ http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/141.ts
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/135.ts
 
 #EXTINF:-1,AL: RTK 3 HD
-http://za.zanofi.xyz:80/play/tX_lQ_n0LA91Kq-kvGwCbors7nqKZIjYvcVyFdChebpsZ3_TPipN1giUAhJ1Dt9z/ts
+https://srv1.iptviliria.com/RTK3/index.m3u8
 #EXTINF:-1,AL: RTK 4 HD
-http://za.zanofi.xyz:80/play/tX_lQ_n0LA91Kq-kvGwCbors7nqKZIjYvcVyFdChebqt26XVBzvLzJ_tN9aRmnj-/ts
+https://srv1.iptviliria.com/RTK4/index.m3u8
 #EXTINF:-1,KTV 
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/136.ts
 #EXTINF:-1,KTV HD
-http://amexblack.team/KTV/tracks-v1a1/mono.m3u8
-
+https://srv1.iptviliria.com/KTV/index.m3u8
+#EXTINF:-1,T7 Kosova HD
+https://srv1.iptviliria.com/T7/index.m3u8
 #EXTINF:-1,AL: RTV 21 HD
-http://za.zanofi.xyz:80/play/tX_lQ_n0LA91Kq-kvGwCbors7nqKZIjYvcVyFdChebq4SZi97GAOBoYtO7GY56zq/ts
+https://srv1.iptviliria.com/RTV21/index.m3u8
 #EXTINF:-1,AL: A TV FHD
 http://za.zanofi.xyz:80/play/tX_lQ_n0LA91Kq-kvGwCbors7nqKZIjYvcVyFdChebogB5GwKrxXfWbWMYfH5rlR/ts
-
+#EXTINF:-1,TV  Shenja 
+https://srv1.iptviliria.com/ShenjaTV/index.m3u8
 #EXTINF:-1,AL: Klan Kosova HD
 http://stream.com-iptv.com:8080/KlanKosova/index.m3u8?token=test
 #EXTINF:-1,Klan Kosova
@@ -623,9 +625,9 @@ http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/109.ts
 #EXTINF:-1,AL: Alsat M HD
 http://stream.com-iptv.com:8080/AlsatM/index.m3u8?token=test
 #EXTINF:-1,AL: Kanal 10
-http://za.zanofi.xyz:80/play/tX_lQ_n0LA91Kq-kvGwCbors7nqKZIjYvcVyFdChebrzMTe02-Poaf5ePXjXtUH4/ts
-#EXTINF:-1,AL: First Channel 
-http://ran.no-ips.net:8888/AL/134667/mpegts
+https://5.254.81.2:7090/8709/index.m3u8
+#EXTINF:-1,Dukagjini TV
+https://srv1.iptviliria.com/TVDukagjini/index.m3u8
 
 #EXTINF:-1,AL: T HD
 http://stream.com-iptv.com:8080/THD/index.m3u8?token=test
