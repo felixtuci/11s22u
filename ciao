@@ -535,13 +535,8 @@ http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/6909
 
 
 #EXTINF:-1   group-title="-IPTV SHQIP 3-",
-#EXTINF:-1,AL: B B 1 HD 
-https://srv1.iptviliria.com/BigBrother1/index.m3u8
-#EXTINF:-1,AL: B B 2 HD
-https://srv1.iptviliria.com/BigBrother2/index.m3u8
-
-#EXTINF:-1,AL: Big Brother 1 HD
-http://us.bestvideostreaming.is/8803/index.m3u8
+#EXTINF:-1,AL: Big Brother 1 VIP
+http://amexblack.team/BigBrother1VIP/index.m3u8?token=test
 #EXTINF:-1,AL: Big Brother 2 HD
 http://us.bestvideostreaming.is/8804/index.m3u8
 
