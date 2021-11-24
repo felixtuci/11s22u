@@ -1655,6 +1655,700 @@ http://93.115.20.208/portalgen/play.php?chID=7121
 #EXTINF:-1,RTV Pendimi
 http://93.115.20.208/portalgen/play.php?chID=13039
 
+#EXTINF:-1   group-title="-IPTV SHQIP 5-",
+#EXTINF:-1,AL: BIG BROTHER VIP 1
+http://93.115.20.208/sltv/play.php?chID=383433
+#EXTINF:-1,AL: BIG BROTHER 1
+http://93.115.20.208/sltv/play.php?chID=383430
+#EXTINF:-1,AL: BIG BROTHER VIP 2
+http://93.115.20.208/sltv/play.php?chID=383434
+#EXTINF:-1,AL: BIG BROTHER 2
+http://93.115.20.208/sltv/play.php?chID=383429
+
+
+
+#EXTINF:-1,AL: RTSH SAT HD
+http://93.115.20.208/sltv/play.php?chID=327295
+#EXTINF:-1,AL: TOP CHANNEL HD
+http://93.115.20.208/sltv/play.php?chID=3102
+#EXTINF:-1,AL: TOP CHANNEL FHD
+http://93.115.20.208/sltv/play.php?chID=227548
+#EXTINF:-1,AL: TOP CHANNEL HEVC
+http://93.115.20.208/sltv/play.php?chID=212401
+#EXTINF:-1,AL: TV KLAN HEVC
+http://93.115.20.208/sltv/play.php?chID=3085
+#EXTINF:-1,AL: TV KLAN HD
+http://93.115.20.208/sltv/play.php?chID=3086
+#EXTINF:-1,AL: TV KLAN FHD
+http://93.115.20.208/sltv/play.php?chID=227596
+#EXTINF:-1,AL: KTV KOHAVISION HEVC
+http://93.115.20.208/sltv/play.php?chID=212402
+#EXTINF:-1,AL: KLAN PLUS HD
+http://93.115.20.208/sltv/play.php?chID=137465
+#EXTINF:-1,AL: KLAN PLUS FHD
+http://93.115.20.208/sltv/play.php?chID=227595
+#EXTINF:-1,AL: VIZION PLUS HEVC
+http://93.115.20.208/sltv/play.php?chID=212403
+#EXTINF:-1,AL: VIZION PLUS HD
+http://93.115.20.208/sltv/play.php?chID=3162
+#EXTINF:-1,AL: VIZION PLUS FHD
+http://93.115.20.208/sltv/play.php?chID=212404
+#EXTINF:-1,AL: KLAN KOSOVA FHD
+http://93.115.20.208/sltv/play.php?chID=209384
+#EXTINF:-1,AL: KLAN KOSOVA HD
+http://93.115.20.208/sltv/play.php?chID=301851
+#EXTINF:-1,AL: RTSH HD
+http://93.115.20.208/sltv/play.php?chID=203510
+#EXTINF:-1,AL: RTSH 1 HD
+http://93.115.20.208/sltv/play.php?chID=203512
+#EXTINF:-1,AL: RTSH 2 HD
+http://93.115.20.208/sltv/play.php?chID=203511
+#EXTINF:-1,AL: RTSH 3 HD
+http://93.115.20.208/sltv/play.php?chID=209392
+#EXTINF:-1,AL: RTSH Muzike
+http://93.115.20.208/sltv/play.php?chID=203509
+#EXTINF:-1,AL: RTSH Shqip
+http://93.115.20.208/sltv/play.php?chID=203507
+#EXTINF:-1,AL: RTSH FILM
+http://93.115.20.208/sltv/play.php?chID=211395
+#EXTINF:-1,AL: RTSH 24 HD
+http://93.115.20.208/sltv/play.php?chID=271762
+#EXTINF:-1,AL: RTSH Plus
+http://93.115.20.208/sltv/play.php?chID=203508
+#EXTINF:-1,AL: RTSH Sport HD
+http://93.115.20.208/sltv/play.php?chID=203506
+#EXTINF:-1,AL: RTK 1 HD
+http://93.115.20.208/sltv/play.php?chID=209389
+#EXTINF:-1,AL: RTK 1
+http://93.115.20.208/sltv/play.php?chID=209390
+#EXTINF:-1,AL: RTK 2
+http://93.115.20.208/sltv/play.php?chID=209391
+#EXTINF:-1,AL: RTK 3
+http://93.115.20.208/sltv/play.php?chID=3091
+#EXTINF:-1,AL: RTK 4
+http://93.115.20.208/sltv/play.php?chID=3092
+#EXTINF:-1,AL: RTV21 FHD
+http://93.115.20.208/sltv/play.php?chID=3093
+#EXTINF:-1,AL: RTV21 HD
+http://93.115.20.208/sltv/play.php?chID=3094
+#EXTINF:-1,AL: RTV 21 MAQEDONI
+http://93.115.20.208/sltv/play.php?chID=135666
+#EXTINF:-1,AL: RTV21 MIX HD
+http://93.115.20.208/sltv/play.php?chID=135665
+#EXTINF:-1,AL: RTV21 PLUS HD
+http://93.115.20.208/sltv/play.php?chID=3095
+#EXTINF:-1,AL: RTV21 NEWSBIZ HD
+http://93.115.20.208/sltv/play.php?chID=211396
+#EXTINF:-1,AL: RTV21 POPULLORE HD
+http://93.115.20.208/sltv/play.php?chID=3096
+#EXTINF:-1,AL: RTV21 MAQEDONIA HD
+http://93.115.20.208/sltv/play.php?chID=209388
+#EXTINF:-1,AL: RTV21 POPULLORE
+http://93.115.20.208/sltv/play.php?chID=135664
+#EXTINF:-1,MK: KTV Kavadarci
+http://93.115.20.208/sltv/play.php?chID=209385
+#EXTINF:-1,AL: TV KOHA
+http://93.115.20.208/sltv/play.php?chID=3124
+#EXTINF:-1,AL: KLAN MACEDONIA HD
+http://93.115.20.208/sltv/play.php?chID=290209
+#EXTINF:-1,AL: ALSAT M
+http://93.115.20.208/sltv/play.php?chID=3173
+#EXTINF:-1,AL: KLAN KOSOVA HD*
+http://93.115.20.208/sltv/play.php?chID=3188
+#EXTINF:-1,AL: KANAL 10
+http://93.115.20.208/sltv/play.php?chID=3189
+#EXTINF:-1,AL: T7 FHD
+http://93.115.20.208/sltv/play.php?chID=361572
+#EXTINF:-1,AL: ATV Kosova HD
+http://93.115.20.208/sltv/play.php?chID=331696
+#EXTINF:-1,AL: ALSAT M FHD
+http://93.115.20.208/sltv/play.php?chID=3172
+#EXTINF:-1,AL: ALSAT M HD
+http://93.115.20.208/sltv/play.php?chID=259709
+#EXTINF:-1,AL: TOP ESTRADA TV HD
+http://93.115.20.208/sltv/play.php?chID=292727
+#EXTINF:-1,AL: T7 HD
+http://93.115.20.208/sltv/play.php?chID=301850
+#EXTINF:-1,AL: KTV KOHAVISION HD
+http://93.115.20.208/sltv/play.php?chID=301852
+#EXTINF:-1,AL: KTV KOHAVISION FHD
+http://93.115.20.208/sltv/play.php?chID=3087
+#EXTINF:-1,AL: TV DUKAGJINI HD
+http://93.115.20.208/sltv/play.php?chID=211387
+#EXTINF:-1,AL: TV DUKAGJINI FHD
+http://93.115.20.208/sltv/play.php?chID=301849
+#EXTINF:-1,AL: FIRST TV HD
+http://93.115.20.208/sltv/play.php?chID=209404
+#EXTINF:-1,AL: TV Mitrovica
+http://93.115.20.208/sltv/play.php?chID=134666
+#EXTINF:-1,AL: SYRI VISION
+http://93.115.20.208/sltv/play.php?chID=211385
+#EXTINF:-1,AL: TV Besa Prizren
+http://93.115.20.208/sltv/play.php?chID=134668
+#EXTINF:-1,AL: MKTV2
+http://93.115.20.208/sltv/play.php?chID=301845
+#EXTINF:-1,AL: ERA TV
+http://93.115.20.208/sltv/play.php?chID=3080
+
+#EXTINF:-1,AL: KANAL 10 HD
+http://93.115.20.208/sltv/play.php?chID=299235
+#EXTINF:-1,AL: TV LIRIA HD
+http://93.115.20.208/sltv/play.php?chID=134669
+#EXTINF:-1,AL: Top News
+http://93.115.20.208/sltv/play.php?chID=3103
+#EXTINF:-1,AL: ABC News 24/7
+http://93.115.20.208/sltv/play.php?chID=3100
+#EXTINF:-1,AL: A2 NEWS HD
+http://93.115.20.208/sltv/play.php?chID=298003
+#EXTINF:-1,AL: ORA NEWS
+http://93.115.20.208/sltv/play.php?chID=211398
+#EXTINF:-1,AL: Arta News
+http://93.115.20.208/sltv/play.php?chID=211445
+#EXTINF:-1,AL: FAX NEWS HD
+http://93.115.20.208/sltv/play.php?chID=211444
+#EXTINF:-1,AL: News 24
+http://93.115.20.208/sltv/play.php?chID=3101
+#EXTINF:-1,AL: Report TV
+http://93.115.20.208/sltv/play.php?chID=209405
+#EXTINF:-1,AL: KANALI 7
+http://93.115.20.208/sltv/play.php?chID=209406
+#EXTINF:-1,AL: Bang Bang
+http://93.115.20.208/sltv/play.php?chID=3106
+#EXTINF:-1,AL: Cufo
+http://93.115.20.208/sltv/play.php?chID=3079
+#EXTINF:-1,AL: Baby TV
+http://93.115.20.208/sltv/play.php?chID=209423
+#EXTINF:-1,AL: RTV21 JUNIOR HD
+http://93.115.20.208/sltv/play.php?chID=3097
+#EXTINF:-1,AL: Junior
+http://93.115.20.208/sltv/play.php?chID=209420
+#EXTINF:-1,AL: TRING KIDS
+http://93.115.20.208/sltv/play.php?chID=211399
+#EXTINF:-1,AL: SOFIA
+http://93.115.20.208/sltv/play.php?chID=211380
+#EXTINF:-1,AL: SOLE TV
+http://93.115.20.208/sltv/play.php?chID=211381
+#EXTINF:-1,AL: RTSH FEMIJE
+http://93.115.20.208/sltv/play.php?chID=211400
+#EXTINF:-1,AL: Tring Tring
+http://93.115.20.208/sltv/play.php?chID=3107
+#EXTINF:-1,AL: TIP TV
+http://93.115.20.208/sltv/play.php?chID=3108
+#EXTINF:-1,AL: TV USKANA
+http://93.115.20.208/sltv/play.php?chID=284042
+#EXTINF:-1,AL: EuroNews
+http://93.115.20.208/sltv/play.php?chID=301147
+#EXTINF:-1,AL: TV Kopliku HD
+http://93.115.20.208/sltv/play.php?chID=301145
+#EXTINF:-1,AL: MTV KOSOVA
+http://93.115.20.208/sltv/play.php?chID=301144
+#EXTINF:-1,AL: AMOL TV
+http://93.115.20.208/sltv/play.php?chID=301142
+#EXTINF:-1,AL: Ashkali Islam
+http://93.115.20.208/sltv/play.php?chID=301140
+#EXTINF:-1,AL: T  HD
+http://93.115.20.208/sltv/play.php?chID=3161
+#EXTINF:-1,AL: FAMILY HD
+http://93.115.20.208/sltv/play.php?chID=298634
+#EXTINF:-1,AL: Film Gold HD
+http://93.115.20.208/sltv/play.php?chID=3148
+#EXTINF:-1,AL: Film Max HD
+http://93.115.20.208/sltv/play.php?chID=3144
+#EXTINF:-1,AL: Film Aksion
+http://93.115.20.208/sltv/play.php?chID=3141
+#EXTINF:-1,AL: Film Autor
+http://93.115.20.208/sltv/play.php?chID=3142
+#EXTINF:-1,AL: Film Drame
+http://93.115.20.208/sltv/play.php?chID=209413
+#EXTINF:-1,AL: Film Thriller
+http://93.115.20.208/sltv/play.php?chID=3149
+#EXTINF:-1,AL: Film Gold 1
+http://93.115.20.208/sltv/play.php?chID=3158
+#EXTINF:-1,AL: Film Stinet
+http://93.115.20.208/sltv/play.php?chID=162358
+#EXTINF:-1,AL: Tring Jolly
+http://93.115.20.208/sltv/play.php?chID=209416
+#EXTINF:-1,AL: Tring Family HD
+http://93.115.20.208/sltv/play.php?chID=301626
+#EXTINF:-1,AL: Tring Action HD
+http://93.115.20.208/sltv/play.php?chID=209415
+#EXTINF:-1,AL: Tring Classic HD
+http://93.115.20.208/sltv/play.php?chID=363553
+#EXTINF:-1,AL: Tring Fantasy
+http://93.115.20.208/sltv/play.php?chID=3165
+#EXTINF:-1,AL: Tring Life HD
+http://93.115.20.208/sltv/play.php?chID=3166
+#EXTINF:-1,AL: Tring Comedy
+http://93.115.20.208/sltv/play.php?chID=3164
+#EXTINF:-1,AL: Tring Shqip
+http://93.115.20.208/sltv/play.php?chID=3168
+#EXTINF:-1,AL: Tring 3
+http://93.115.20.208/sltv/play.php?chID=209417
+#EXTINF:-1,AL: Tring 3 Plus
+http://93.115.20.208/sltv/play.php?chID=3163
+#EXTINF:-1,AL: KANAL D DRAMA HD
+http://93.115.20.208/sltv/play.php?chID=301847
+#EXTINF:-1,AL: TDC
+http://93.115.20.208/sltv/play.php?chID=383760
+#EXTINF:-1,AL: TDC HD
+http://93.115.20.208/sltv/play.php?chID=386186
+#EXTINF:-1,AL: Living FHD
+http://93.115.20.208/sltv/play.php?chID=209432
+#EXTINF:-1,AL: RTV ALDI
+http://93.115.20.208/sltv/play.php?chID=286878
+#EXTINF:-1,AL: SHENJA TV
+http://93.115.20.208/sltv/play.php?chID=210663
+#EXTINF:-1,AL: Gurme Shqip FHD
+http://93.115.20.208/sltv/play.php?chID=301159
+#EXTINF:-1,AL: ART Kino 1 HD
+http://93.115.20.208/sltv/play.php?chID=211405
+#EXTINF:-1,AL: ART Kino 2 HD
+http://93.115.20.208/sltv/play.php?chID=211406
+#EXTINF:-1,AL: ART Kino 3 HD
+http://93.115.20.208/sltv/play.php?chID=211407
+#EXTINF:-1,AL: Zjarr TV
+http://93.115.20.208/sltv/play.php?chID=301377
+#EXTINF:-1,AL: Sky Komedi
+http://93.115.20.208/sltv/play.php?chID=209418
+#EXTINF:-1,AL: Explorer Natyre
+http://93.115.20.208/sltv/play.php?chID=3119
+#EXTINF:-1,AL: Explorer Shkence
+http://93.115.20.208/sltv/play.php?chID=3120
+#EXTINF:-1,AL: Explorer History
+http://93.115.20.208/sltv/play.php?chID=3118
+#EXTINF:-1,AL: Tring World
+http://93.115.20.208/sltv/play.php?chID=3123
+#EXTINF:-1,AL: Tring Planet
+http://93.115.20.208/sltv/play.php?chID=3122
+#EXTINF:-1,AL: Tring History
+http://93.115.20.208/sltv/play.php?chID=3121
+#EXTINF:-1,AL: X HISTORI HD
+http://93.115.20.208/sltv/play.php?chID=211408
+#EXTINF:-1,AL: X NATYRA HD
+http://93.115.20.208/sltv/play.php?chID=211409
+#EXTINF:-1,AL: ART Doku 1 HD
+http://93.115.20.208/sltv/play.php?chID=225144
+#EXTINF:-1,AL: ART Doku 2 HD
+http://93.115.20.208/sltv/play.php?chID=225145
+#EXTINF:-1,AL: SKY SHKENCE
+http://93.115.20.208/sltv/play.php?chID=211412
+#EXTINF:-1,AL: SKY PLANET
+http://93.115.20.208/sltv/play.php?chID=211411
+#EXTINF:-1,AL: 24 KITCHEN
+http://93.115.20.208/sltv/play.php?chID=211415
+
+#EXTINF:-1,AL: ELRODI TV
+http://93.115.20.208/sltv/play.php?chID=295389
+#EXTINF:-1,AL: My Music
+http://93.115.20.208/sltv/play.php?chID=211446
+#EXTINF:-1,AL: Syri Blu Music
+http://93.115.20.208/sltv/play.php?chID=211448
+#EXTINF:-1,AL: Super Sport News HD
+http://93.115.20.208/sltv/play.php?chID=3127
+#EXTINF:-1,AL: SUPER SPORT 1 HD
+http://93.115.20.208/sltv/play.php?chID=276568
+#EXTINF:-1,AL: SUPER SPORT 1 FHD
+http://93.115.20.208/sltv/play.php?chID=276567
+#EXTINF:-1,AL: SUPER SPORT 1 FHD (SPECIAL)
+http://93.115.20.208/sltv/play.php?chID=277923
+#EXTINF:-1,AL: SUPER SPORT 2 HD
+http://93.115.20.208/sltv/play.php?chID=3128
+#EXTINF:-1,AL: SUPER SPORT 2 FHD
+http://93.115.20.208/sltv/play.php?chID=277925
+#EXTINF:-1,AL: SUPER SPORT 2 FHD (SPECIAL)
+http://93.115.20.208/sltv/play.php?chID=227593
+#EXTINF:-1,AL: SUPER SPORT 3 HD
+http://93.115.20.208/sltv/play.php?chID=3129
+#EXTINF:-1,AL: SUPER SPORT 3 FHD
+http://93.115.20.208/sltv/play.php?chID=227594
+#EXTINF:-1,AL: SUPER SPORT 4 HD
+http://93.115.20.208/sltv/play.php?chID=209433
+#EXTINF:-1,AL: SUPER SPORT 4 FHD
+http://93.115.20.208/sltv/play.php?chID=3130
+#EXTINF:-1,AL: SUPER SPORT 5 HD
+http://93.115.20.208/sltv/play.php?chID=209434
+#EXTINF:-1,AL: SUPER SPORT 5 FHD
+http://93.115.20.208/sltv/play.php?chID=277926
+#EXTINF:-1,AL: SUPER SPORT 6 FHD
+http://93.115.20.208/sltv/play.php?chID=211449
+#EXTINF:-1,AL: SUPER SPORT 7 FHD
+http://93.115.20.208/sltv/play.php?chID=211450
+#EXTINF:-1,AL: Tring Sport News HD
+http://93.115.20.208/sltv/play.php?chID=3132
+#EXTINF:-1,AL: Tring Sport 1 HD
+http://93.115.20.208/sltv/play.php?chID=3133
+#EXTINF:-1,AL: TRING SPORT 1 FHD
+http://93.115.20.208/sltv/play.php?chID=277931
+#EXTINF:-1,AL: Tring Sport 2 HD
+http://93.115.20.208/sltv/play.php?chID=3134
+#EXTINF:-1,AL: TRING SPORT 2 FHD
+http://93.115.20.208/sltv/play.php?chID=277930
+#EXTINF:-1,AL: Tring Sport 3 HD
+http://93.115.20.208/sltv/play.php?chID=211451
+#EXTINF:-1,AL: TRING SPORT 3 FHD
+http://93.115.20.208/sltv/play.php?chID=277929
+#EXTINF:-1,AL: Tring Sport 4 HD
+http://93.115.20.208/sltv/play.php?chID=211452
+#EXTINF:-1,AL: TRING SPORT 4 FHD (ONLY MATCH TIME)
+http://93.115.20.208/sltv/play.php?chID=277928
+#EXTINF:-1,AL: Kujtesa Sport 1
+http://93.115.20.208/sltv/play.php?chID=225129
+#EXTINF:-1,AL: Kujtesa Sport 2
+http://93.115.20.208/sltv/play.php?chID=225130
+#EXTINF:-1,AL: Kujtesa Sport 3
+http://93.115.20.208/sltv/play.php?chID=225131
+#EXTINF:-1,AL: Kujtesa Sport 4
+http://93.115.20.208/sltv/play.php?chID=225132
+#EXTINF:-1,AL: K SPORT 1 HD
+http://93.115.20.208/sltv/play.php?chID=211389
+#EXTINF:-1,AL: K SPORT 2 HD
+http://93.115.20.208/sltv/play.php?chID=211390
+#EXTINF:-1,AL: K SPORT 3 HD
+http://93.115.20.208/sltv/play.php?chID=211391
+#EXTINF:-1,AL: K SPORT 4 HD
+http://93.115.20.208/sltv/play.php?chID=211392
+#EXTINF:-1,AL: ART SPORT 1 HD
+http://93.115.20.208/sltv/play.php?chID=211394
+#EXTINF:-1,AL: Eurosport 1
+http://93.115.20.208/sltv/play.php?chID=211453
+#EXTINF:-1,AL: Eurosport 2
+http://93.115.20.208/sltv/play.php?chID=211454
+#EXTINF:-1,AL: VIP SUPER SPORT 1 FHD
+http://93.115.20.208/sltv/play.php?chID=378601
+#EXTINF:-1,AL: VIP SUPER SPORT 2 FHD
+http://93.115.20.208/sltv/play.php?chID=378600
+#EXTINF:-1,AL: VIP SUPER SPORT 3 FHD
+http://93.115.20.208/sltv/play.php?chID=378599
+#EXTINF:-1,AL: VIP SUPER SPORT 4 FHD
+http://93.115.20.208/sltv/play.php?chID=378598
+#EXTINF:-1,AL: VIP SUPER SPORT 5 FHD
+http://93.115.20.208/sltv/play.php?chID=378597
+#EXTINF:-1,AL: VIP SUPER SPORT 6 FHD
+http://93.115.20.208/sltv/play.php?chID=378596
+#EXTINF:-1,AL: VIP SUPER SPORT 7 FHD
+http://93.115.20.208/sltv/play.php?chID=378595
+#EXTINF:-1,AL: VIP SUPER SPORT 1 FHD HEVC
+http://93.115.20.208/sltv/play.php?chID=378594
+#EXTINF:-1,AL: VIP SUPER SPORT 2 FHD HEVC
+http://93.115.20.208/sltv/play.php?chID=378593
+#EXTINF:-1,AL: VIP SUPER SPORT 3 FHD HEVC
+http://93.115.20.208/sltv/play.php?chID=378592
+#EXTINF:-1,AL: VIP SUPER SPORT 4 FHD HEVC
+http://93.115.20.208/sltv/play.php?chID=378591
+#EXTINF:-1,AL: VIP SUPER SPORT 5 FHD HEVC
+http://93.115.20.208/sltv/play.php?chID=378590
+#EXTINF:-1,AL: VIP SUPER SPORT 6 FHD HEVC
+http://93.115.20.208/sltv/play.php?chID=378589
+#EXTINF:-1,AL: VIP SUPER SPORT 7 FHD HEVC
+http://93.115.20.208/sltv/play.php?chID=378588
+#EXTINF:-1,AL: VIP SUPER SPORT 1 HD
+http://93.115.20.208/sltv/play.php?chID=378587
+#EXTINF:-1,AL: VIP SUPER SPORT 2 HD
+http://93.115.20.208/sltv/play.php?chID=378586
+#EXTINF:-1,AL: VIP SUPER SPORT 3 HD
+http://93.115.20.208/sltv/play.php?chID=378585
+#EXTINF:-1,AL: VIP SUPER SPORT 4 HD
+http://93.115.20.208/sltv/play.php?chID=378584
+#EXTINF:-1,AL: VIP SUPER SPORT 5 HD
+http://93.115.20.208/sltv/play.php?chID=378583
+#EXTINF:-1,AL: VIP TRING SPORT NEWS
+http://93.115.20.208/sltv/play.php?chID=378580
+#EXTINF:-1,AL: VIP TRING SPORT 1 FHD
+http://93.115.20.208/sltv/play.php?chID=378579
+#EXTINF:-1,AL: VIP TRING SPORT 2 FHD
+http://93.115.20.208/sltv/play.php?chID=378578
+#EXTINF:-1,AL: VIP TRING SPORT 3 FHD
+http://93.115.20.208/sltv/play.php?chID=378577
+#EXTINF:-1,AL: VIP TRING SPORT 1 HD
+http://93.115.20.208/sltv/play.php?chID=378571
+#EXTINF:-1,AL: VIP TRING SPORT 2 HD
+http://93.115.20.208/sltv/play.php?chID=378570
+#EXTINF:-1,AL: VIP TRING SPORT 3 HD
+http://93.115.20.208/sltv/play.php?chID=378569
+#EXTINF:-1,AL: VIP K SPORT 1 FHD HEVC
+http://93.115.20.208/sltv/play.php?chID=378567
+#EXTINF:-1,AL: VIP K SPORT 4 FHD HEVC
+http://93.115.20.208/sltv/play.php?chID=378564
+#EXTINF:-1,AL: VIP K SPORT 1 HD
+http://93.115.20.208/sltv/play.php?chID=378562
+#EXTINF:-1,AL: VIP K SPORT 2 HD
+http://93.115.20.208/sltv/play.php?chID=378561
+#EXTINF:-1,AL: VIP K SPORT 3 HD
+http://93.115.20.208/sltv/play.php?chID=378560
+#EXTINF:-1,AL: VIP K SPORT 4 HD
+http://93.115.20.208/sltv/play.php?chID=378559
+#EXTINF:-1,AL: VIP ART Sport 1 FHD HEVC
+http://93.115.20.208/sltv/play.php?chID=378557
+#EXTINF:-1,AL: VIP ART Sport 2 FHD HEVC
+http://93.115.20.208/sltv/play.php?chID=378556
+#EXTINF:-1,AL: VIP ART Sport 3 FHD HEVC
+http://93.115.20.208/sltv/play.php?chID=378555
+#EXTINF:-1,AL: VIP ART Sport 1 HD
+http://93.115.20.208/sltv/play.php?chID=378554
+#EXTINF:-1,AL: VIP ART Sport 2 HD
+http://93.115.20.208/sltv/play.php?chID=378553
+#EXTINF:-1,AL: VIP ART Sport 3 HD
+http://93.115.20.208/sltv/play.php?chID=378552
+#EXTINF:-1,AL: OVERSPORT 1 HD
+http://93.115.20.208/sltv/play.php?chID=388799
+#EXTINF:-1,AL: OVERSPORT 2 HD
+http://93.115.20.208/sltv/play.php?chID=388798
+#EXTINF:-1,AL: VIP RTSH Sport FHD
+http://93.115.20.208/sltv/play.php?chID=378551
+
+#EXTINF:-1,AL: Jolly HD
+http://93.115.20.208/sltv/play.php?chID=3139
+#EXTINF:-1,AL: First Channel
+http://93.115.20.208/sltv/play.php?chID=134667
+#EXTINF:-1,AL: KIDS HD
+http://93.115.20.208/sltv/play.php?chID=298635
+#EXTINF:-1,AL: Alb UK
+http://93.115.20.208/sltv/play.php?chID=3078
+#EXTINF:-1,AL: MRT 2
+http://93.115.20.208/sltv/play.php?chID=209382
+#EXTINF:-1,AL: RTSH Gjirokastra
+http://93.115.20.208/sltv/play.php?chID=301844
+#EXTINF:-1,AL: RTSH Korca
+http://93.115.20.208/sltv/play.php?chID=301843
+#EXTINF:-1,AL: RTSH Kuvend
+http://93.115.20.208/sltv/play.php?chID=301842
+#EXTINF:-1,AL: RTSH Sport
+http://93.115.20.208/sltv/play.php?chID=301841
+#EXTINF:-1,AL: SCAN TV
+http://93.115.20.208/sltv/play.php?chID=301840
+#EXTINF:-1,AL: Syri News HD
+http://93.115.20.208/sltv/play.php?chID=301839
+#EXTINF:-1,AL: PORTOKALLI
+http://93.115.20.208/sltv/play.php?chID=301818
+#EXTINF:-1,AL: POLLOGU HD
+http://93.115.20.208/sltv/play.php?chID=301813
+#EXTINF:-1,AL: Dielli TV
+http://93.115.20.208/sltv/play.php?chID=301809
+#EXTINF:-1,AL: Muse TV
+http://93.115.20.208/sltv/play.php?chID=301808
+#EXTINF:-1,AL: RTV21 NEWS BIZ HD
+http://93.115.20.208/sltv/play.php?chID=301806
+#EXTINF:-1,AL: Folk Plus
+http://93.115.20.208/sltv/play.php?chID=3111
+
+#EXTINF:-1,AL: Supersonic TV 1
+http://93.115.20.208/sltv/play.php?chID=3115
+#EXTINF:-1,AL: Sky Max
+http://93.115.20.208/sltv/play.php?chID=3157
+#EXTINF:-1,AL: BLUE SKY TV (Shkoder)
+http://93.115.20.208/sltv/play.php?chID=296011
+#EXTINF:-1,AL: ROZAFA TV
+http://93.115.20.208/sltv/play.php?chID=296010
+#EXTINF:-1,AL: STAR PLUS HD
+http://93.115.20.208/sltv/play.php?chID=296008
+#EXTINF:-1,AL: ISTOGU CHANNEL
+http://93.115.20.208/sltv/play.php?chID=268765
+#EXTINF:-1,AL: RTV FONTANA HD
+http://93.115.20.208/sltv/play.php?chID=268766
+#EXTINF:-1,AL: BBF TV
+http://93.115.20.208/sltv/play.php?chID=298543
+#EXTINF:-1,AL: Zico TV
+http://93.115.20.208/sltv/play.php?chID=209378
+#EXTINF:-1,KS: RTK 1
+http://93.115.20.208/sltv/play.php?chID=3190
+#EXTINF:-1,AL: Animal Planet HD
+http://93.115.20.208/sltv/play.php?chID=301781
+#EXTINF:-1,AL: Discovery Science FHD
+http://93.115.20.208/sltv/play.php?chID=301780
+#EXTINF:-1,AL: Travel Channel
+http://93.115.20.208/sltv/play.php?chID=301777
+#EXTINF:-1,AL: Zëri TV
+http://93.115.20.208/sltv/play.php?chID=301771
+#EXTINF:-1,AL: ON TV
+http://93.115.20.208/sltv/play.php?chID=301767
+#EXTINF:-1,AL: PLISI Qifteli TV HD
+http://93.115.20.208/sltv/play.php?chID=301764
+#EXTINF:-1,AL: Roma Tv
+http://93.115.20.208/sltv/play.php?chID=301760
+#EXTINF:-1,AL: Antena HD
+http://93.115.20.208/sltv/play.php?chID=301758
+#EXTINF:-1,AL: Albania Tv Chicago
+http://93.115.20.208/sltv/play.php?chID=301757
+#EXTINF:-1,AL: Fashion TV HD
+http://93.115.20.208/sltv/play.php?chID=301756
+#EXTINF:-1,AL: Adria Net
+http://93.115.20.208/sltv/play.php?chID=301755
+#EXTINF:-1,AL: Vali TV
+http://93.115.20.208/sltv/play.php?chID=301753
+#EXTINF:-1,AL: PEACE TV
+http://93.115.20.208/sltv/play.php?chID=301737
+#EXTINF:-1,AL: Lugina Islam
+http://93.115.20.208/sltv/play.php?chID=301734
+#EXTINF:-1,AL: RTV ISLAM HD
+http://93.115.20.208/sltv/play.php?chID=301733
+#EXTINF:-1,AL: RTV ISLAM
+http://93.115.20.208/sltv/play.php?chID=301732
+#EXTINF:-1,AL: Peace TV Shqip
+http://93.115.20.208/sltv/play.php?chID=301731
+#EXTINF:-1,AL: TV Meka Live
+http://93.115.20.208/sltv/play.php?chID=301730
+#EXTINF:-1,AL: FIGHT Box
+http://93.115.20.208/sltv/play.php?chID=301729
+#EXTINF:-1,AL: STV Folk
+http://93.115.20.208/sltv/play.php?chID=301728
+#EXTINF:-1,AL: Novela
+http://93.115.20.208/sltv/play.php?chID=301666
+#EXTINF:-1,AL: SKY HISTORY
+http://93.115.20.208/sltv/play.php?chID=301665
+#EXTINF:-1,AL: SKY DRAMA
+http://93.115.20.208/sltv/play.php?chID=301661
+#EXTINF:-1,AL: SKY AKSION
+http://93.115.20.208/sltv/play.php?chID=301647
+#EXTINF:-1,AL: Boomerang
+http://93.115.20.208/sltv/play.php?chID=301627
+
+#EXTINF:-1,AL: Film Kids
+http://93.115.20.208/sltv/play.php?chID=301625
+#EXTINF:-1,AL: Pikaboo
+http://93.115.20.208/sltv/play.php?chID=301624
+#EXTINF:-1,AL: Duck TV
+http://93.115.20.208/sltv/play.php?chID=301619
+#EXTINF:-1,AL: KIDS
+http://93.115.20.208/sltv/play.php?chID=301618
+
+
+
+#EXTINF:-1,KS: Super Sport Kosova 1
+http://93.115.20.208/sltv/play.php?chID=3191
+#EXTINF:-1,KS: Super Sport Kosova 2
+http://93.115.20.208/sltv/play.php?chID=3192
+#EXTINF:-1,AL: RTV PENDEMI HD
+http://93.115.20.208/sltv/play.php?chID=380049
+
+
+#EXTINF:-1,AL: Click TV
+http://93.115.20.208/sltv/play.php?chID=310536
+#EXTINF:-1,AL: Stupcat HD
+http://93.115.20.208/sltv/play.php?chID=386203
+
+
+#EXTINF:-1,AL: SHENJA TV HD
+http://93.115.20.208/sltv/play.php?chID=380351
+#EXTINF:-1,AL: DH TV HD
+http://93.115.20.208/sltv/play.php?chID=380356
+#EXTINF:-1,AL: AL TV HD
+http://93.115.20.208/sltv/play.php?chID=380355
+#EXTINF:-1,AL: KLAN NEWS
+http://93.115.20.208/sltv/play.php?chID=380349
+
+#EXTINF:-1,AL: RTV ILIRIDA
+http://93.115.20.208/sltv/play.php?chID=361829
+#EXTINF:-1,AL: Dasma TV
+http://93.115.20.208/sltv/play.php?chID=321059
+#EXTINF:-1,AL: TV Diaspora
+http://93.115.20.208/sltv/play.php?chID=321048
+#EXTINF:-1,AL: TURBO Channel
+http://93.115.20.208/sltv/play.php?chID=321046
+
+
+#EXTINF:-1,AL: KANAL D DRAMA FHD
+http://93.115.20.208/sltv/play.php?chID=380350
+#EXTINF:-1,AL: Tring International
+http://93.115.20.208/sltv/play.php?chID=310535
+#EXTINF:-1,AL: Film Hits HD
+http://93.115.20.208/sltv/play.php?chID=365899
+#EXTINF:-1,AL: Film Hits 1
+http://93.115.20.208/sltv/play.php?chID=365898
+#EXTINF:-1,AL: Film Komedi
+http://93.115.20.208/sltv/play.php?chID=365897
+
+#EXTINF:-1,AL: X GOLD 1 HD (SLTV)
+http://93.115.20.208/sltv/play.php?chID=367376
+#EXTINF:-1,AL: X GOLD 2 HD (SLTV)
+http://93.115.20.208/sltv/play.php?chID=367375
+#EXTINF:-1,AL: X GOLD 3 HD (SLTV)
+http://93.115.20.208/sltv/play.php?chID=367374
+#EXTINF:-1,AL: X GOLD 4 HD (SLTV)
+http://93.115.20.208/sltv/play.php?chID=372625
+#EXTINF:-1,AL: X GOLD 5 HD
+http://93.115.20.208/sltv/play.php?chID=379723
+#EXTINF:-1,AL: X PREMIERE 1 HD (SLTV)
+http://93.115.20.208/sltv/play.php?chID=367373
+#EXTINF:-1,AL: X PREMIERE 2 HD (SLTV)
+http://93.115.20.208/sltv/play.php?chID=367372
+#EXTINF:-1,AL: X PREMIERE 3 HD (SLTV)
+http://93.115.20.208/sltv/play.php?chID=367371
+#EXTINF:-1,AL: X PREMIERE 4 HD
+http://93.115.20.208/sltv/play.php?chID=372624
+#EXTINF:-1,AL: X PREMIERE 5 HD
+http://93.115.20.208/sltv/play.php?chID=379725
+#EXTINF:-1,AL: X PREMIUM 1 HD (SLTV)
+http://93.115.20.208/sltv/play.php?chID=367370
+#EXTINF:-1,AL: X PREMIUM 2 HD (SLTV)
+http://93.115.20.208/sltv/play.php?chID=367369
+#EXTINF:-1,AL: X PREMIUM 3 HD
+http://93.115.20.208/sltv/play.php?chID=372623
+#EXTINF:-1,AL: X PREMIUM 4 HD
+http://93.115.20.208/sltv/play.php?chID=372622
+#EXTINF:-1,AL: X PREMIUM 5 HD
+http://93.115.20.208/sltv/play.php?chID=379724
+#EXTINF:-1,AL: X DIAMOND 1 HD
+http://93.115.20.208/sltv/play.php?chID=372621
+#EXTINF:-1,AL: X DIAMOND 2 HD
+http://93.115.20.208/sltv/play.php?chID=372620
+#EXTINF:-1,AL: X DIAMOND 3 HD
+http://93.115.20.208/sltv/play.php?chID=372619
+#EXTINF:-1,AL: X DIAMOND 4 HD
+http://93.115.20.208/sltv/play.php?chID=372618
+#EXTINF:-1,AL: FILM PLATINIUM 1 HD
+http://93.115.20.208/sltv/play.php?chID=372617
+#EXTINF:-1,AL: FILM PLATINIUM 2 HD
+http://93.115.20.208/sltv/play.php?chID=372616
+#EXTINF:-1,AL: FILM PLATINIUM 3 HD
+http://93.115.20.208/sltv/play.php?chID=372615
+#EXTINF:-1,AL: FILM PLATINIUM 4 HD
+http://93.115.20.208/sltv/play.php?chID=372614
+#EXTINF:-1,AL: FILM SILVER 1 HD
+http://93.115.20.208/sltv/play.php?chID=379730
+#EXTINF:-1,AL: FILM SILVER 2 HD
+http://93.115.20.208/sltv/play.php?chID=379729
+#EXTINF:-1,AL: FILM SILVER 3 HD
+http://93.115.20.208/sltv/play.php?chID=379728
+#EXTINF:-1,AL: FILM SILVER 4 HD
+http://93.115.20.208/sltv/play.php?chID=379727
+#EXTINF:-1,AL: FILM SILVER 5 HD
+http://93.115.20.208/sltv/play.php?chID=379726
+#EXTINF:-1,AL: TV Plisi HD
+http://93.115.20.208/sltv/play.php?chID=365896
+#EXTINF:-1,AL: TV Plisi Humor HD
+http://93.115.20.208/sltv/play.php?chID=365895
+#EXTINF:-1,AL: TV Plisi Qifteli HD
+http://93.115.20.208/sltv/play.php?chID=365894
+#EXTINF:-1,AL: TV Plisi Thriller HD
+http://93.115.20.208/sltv/play.php?chID=365893
+#EXTINF:-1,AL: TV Plisi Horror HD
+http://93.115.20.208/sltv/play.php?chID=365892
+#EXTINF:-1,AL: TV Plisi Fantasy HD
+http://93.115.20.208/sltv/play.php?chID=365891
+#EXTINF:-1,AL: TV Plisi Comedy HD
+http://93.115.20.208/sltv/play.php?chID=365890
+#EXTINF:-1,AL: TV Plisi Action HD
+http://93.115.20.208/sltv/play.php?chID=365889
+#EXTINF:-1,AL: Digi Gold 1 HD
+http://93.115.20.208/sltv/play.php?chID=365888
+#EXTINF:-1,AL: Digi Gold 2 HD
+http://93.115.20.208/sltv/play.php?chID=365887
+#EXTINF:-1,AL: FILMBOX PREMIUM
+http://93.115.20.208/sltv/play.php?chID=365886
+#EXTINF:-1,AL: FILMBOX ARTHOUSE
+http://93.115.20.208/sltv/play.php?chID=365885
+#EXTINF:-1,AL: FILMBOX EXTRA
+http://93.115.20.208/sltv/play.php?chID=365884
+#EXTINF:-1,AL: FILMBOX PLUS
+http://93.115.20.208/sltv/play.php?chID=365883
+
+#EXTINF:-1,AL: National Geographic HD
+http://93.115.20.208/sltv/play.php?chID=329381
+#EXTINF:-1,AL: Discovery Channel HD
+http://93.115.20.208/sltv/play.php?chID=331250
+#EXTINF:-1,AL: Discovery Turbo Xtra
+http://93.115.20.208/sltv/play.php?chID=334275
+
 
 
 
