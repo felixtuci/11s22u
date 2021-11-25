@@ -538,6 +538,10 @@ http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/6909
 #EXTINF:-1,BIG BROTHER VIP 1
 #EXTVLCOPT:http-user-agent=t0pka3ale.o3tt/4.0 Linux;Android 10 ExoPlayerLib/2.8.4
 http://home.fastnews24.net/new.localhost/akamaicdn-64/bb1.m3u8
+#EXTINF:-1,BIG BROTHER VIP 1 ch
+https://akamaicdn64-1.fastnews24.net:2083/clients/YCZFBTZMXBZFHAHVWSXPEMJCUJYMDLVRJJCPHSGR/165.ch
+
+
 #EXTINF:-1,BIG BROTHER VIP 2
 #EXTVLCOPT:http-user-agent=t0pka3ale.o3tt/4.0 Linux;Android 10 ExoPlayerLib/2.8.4
 http://home.fastnews24.net/new.localhost/akamaicdn-64/bb2.m3u8
