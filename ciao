@@ -548,7 +548,7 @@ http://stream.com-iptv.com:8080/TopChannelHD/index.m3u8?token=test
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/131.ts
 
 #EXTINF:-1,TV KLAN SD
-http://akamaicdn64-1.fastnews24.net:2082/clients/YCZFBTZMXBZFHAHVWSXPEMJCUJYMDLVRJJCPHSGR/2
+http://95.107.132.106/out/u/773_1.m3u8
 #EXTINF:-1,AL: Klan TV HD
 http://stream.com-iptv.com:8080/KlanHd/index.m3u8?token=test
 #EXTINF:-1,Klan HD
@@ -558,7 +558,7 @@ http://stream.com-iptv.com:8080/KlanPlusHd/index.m3u8?token=test
 #EXTINF:-1,Klan Plus
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/107.ts
 #EXTINF:-1,VIZION PLUS SD
-http://akamaicdn64-1.fastnews24.net:2082/clients/YCZFBTZMXBZFHAHVWSXPEMJCUJYMDLVRJJCPHSGR/4
+http://95.107.132.106/out/u/810_1.m3u8
 #EXTINF:-1,AL: VISION PLUS HD
 http://stream.com-iptv.com:8080/VizionPlus/index.m3u8?token=test
 #EXTINF:-1,Vizion Plus HD
@@ -678,10 +678,17 @@ http://stream.com-iptv.com:8080/TringLife/index.m3u8?token=test
 http://stream.com-iptv.com:8080/TringShqip/index.m3u8?token=test
 #EXTINF:-1,AL: Tring 3 Plus
 http://stream.com-iptv.com:8080/Tring3Plus/index.m3u8?token=test
+#EXTINF:-1,AL: Tring Novelas
+http://95.107.132.106/out/u/858_1.m3u8
+
 #EXTINF:-1,3 Plus
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/76.ts
 #EXTINF:-1,AL: Tring D Drama HD
 http://stream.com-iptv.com:8080/KanalDDramaHD/index.m3u8?token=test
+#EXTINF:-1,AL: Tring Euro Channel
+http://95.107.132.106/out/u/356_1.m3u8
+
+
 #EXTINF:-1,Tring History
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/68.ts
 #EXTINF:-1,Tring Planet
@@ -739,12 +746,14 @@ http://stream.com-iptv.com:8080/SS4HD/index.m3u8?token=test
 http://stream.com-iptv.com:8080/SS5HD/index.m3u8?token=test
 #EXTINF:-1,AL: Super Sport 6 HD
 http://stream.com-iptv.com:8080/SS6HD/index.m3u8?token=test
+#EXTINF:-1,Tring Sport News
+http://95.107.132.106/out/u/811_1.m3u8
 #EXTINF:-1,Tring Sport 1 HD
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/63.ts
+http://95.107.132.106/out/u/683_1.m3u8
 #EXTINF:-1,Tring Sport 2 HD
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/62.ts
+http://95.107.132.106/out/u/691_1.m3u8
 #EXTINF:-1,Tring Sport 3 HD
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/61.ts
+http://95.107.132.106/out/u/699_1.m3u8
 #EXTINF:-1,Tring Sport 4 HD
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/60.ts
 #EXTINF:-1,RTSH Sport
