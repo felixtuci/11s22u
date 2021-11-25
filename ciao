@@ -535,20 +535,24 @@ http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/6909
 
 
 #EXTINF:-1   group-title="-IPTV SHQIP 3-",
-#EXTINF:-1,AL: Big Brother 1 VIP
-http://amexblack.team/BigBrother1VIP/index.m3u8?token=test
-#EXTINF:-1,AL: Big Brother 2 HD
-http://us.bestvideostreaming.is/8804/index.m3u8
+#EXTINF:-1,BIG BROTHER VIP 1
+#EXTVLCOPT:http-user-agent=t0pka3ale.o3tt/4.0 Linux;Android 10 ExoPlayerLib/2.8.4
+https://home.fastnews24.net/new.localhost/akamaicdn-64/bb1.m3u8
+#EXTINF:-1,BIG BROTHER VIP 2
+#EXTVLCOPT:http-user-agent=t0pka3ale.o3tt/4.0 Linux;Android 10 ExoPlayerLib/2.8.4
+https://home.fastnews24.net/new.localhost/akamaicdn-64/bb2.m3u8
 
-#EXTINF:-1,AL: TOP Channel FHD 
-https://srv1.iptviliria.com/TopChannel/index.m3u8
+#EXTINF:-1,TOP CHANNEL SD
+#EXTVLCOPT:http-user-agent=t0pka3ale.o3tt/4.0 Linux;Android 10 ExoPlayerLib/2.8.4
+https://home.fastnews24.net/new.localhost/akamaicdn-171/topchannel.m3u8
 #EXTINF:-1,AL: TOP Channel HD
 http://stream.com-iptv.com:8080/TopChannelHD/index.m3u8?token=test
 #EXTINF:-1,Top Channel HD
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/131.ts
 
-#EXTINF:-1,AL: Klan TV FHD
-https://srv1.iptviliria.com/TVKlanHD/tracks-v1a1/index-1630911540-now.m3u8
+#EXTINF:-1,TV KLAN SD
+#EXTVLCOPT:http-user-agent=t0pka3ale.o3tt/4.0 Linux;Android 10 ExoPlayerLib/2.8.4
+https://home.fastnews24.net/new.localhost/akamaicdn-171/tvklan.m3u8
 #EXTINF:-1,AL: Klan TV HD
 http://stream.com-iptv.com:8080/KlanHd/index.m3u8?token=test
 #EXTINF:-1,Klan HD
@@ -557,6 +561,9 @@ http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/106.ts
 http://stream.com-iptv.com:8080/KlanPlusHd/index.m3u8?token=test
 #EXTINF:-1,Klan Plus
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/107.ts
+#EXTINF:-1,VIZION PLUS SD
+#EXTVLCOPT:http-user-agent=t0pka3ale.o3tt/4.0 Linux;Android 10 ExoPlayerLib/2.8.4
+https://home.fastnews24.net/new.localhost/akamaicdn-171/vizionplus.m3u8
 #EXTINF:-1,AL: VISION PLUS HD
 http://stream.com-iptv.com:8080/VizionPlus/index.m3u8?token=test
 #EXTINF:-1,Vizion Plus HD
@@ -597,6 +604,9 @@ http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/135.ts
 https://srv1.iptviliria.com/RTK3/index.m3u8
 #EXTINF:-1,AL: RTK 4 HD
 https://srv1.iptviliria.com/RTK4/index.m3u8
+#EXTINF:-1,RTV 21 SD
+#EXTVLCOPT:http-user-agent=t0pka3ale.o3tt/4.0 Linux;Android 10 ExoPlayerLib/2.8.4
+https://home.fastnews24.net/new.localhost/akamaicdn-83/rtv21.m3u8
 #EXTINF:-1,KTV 
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/136.ts
 #EXTINF:-1,KTV HD
@@ -605,8 +615,9 @@ https://srv1.iptviliria.com/KTV/index.m3u8
 https://srv1.iptviliria.com/T7/index.m3u8
 #EXTINF:-1,AL: RTV 21 HD
 https://srv1.iptviliria.com/RTV21/index.m3u8
-#EXTINF:-1,AL: A TV FHD
-http://za.zanofi.xyz:80/play/tX_lQ_n0LA91Kq-kvGwCbors7nqKZIjYvcVyFdChebogB5GwKrxXfWbWMYfH5rlR/ts
+#EXTINF:-1,ATV
+#EXTVLCOPT:http-user-agent=t0pka3ale.o3tt/4.0 Linux;Android 10 ExoPlayerLib/2.8.4
+https://home.fastnews24.net/new.localhost/akamaicdn-83/atv.m3u8
 #EXTINF:-1,TV  Shenja 
 https://srv1.iptviliria.com/ShenjaTV/index.m3u8
 #EXTINF:-1,AL: Klan Kosova HD
@@ -619,8 +630,9 @@ http://stream.com-iptv.com:8080/KlanMacedonia/index.m3u8?token=test
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/109.ts
 #EXTINF:-1,AL: Alsat M HD
 http://stream.com-iptv.com:8080/AlsatM/index.m3u8?token=test
-#EXTINF:-1,AL: Kanal 10
-https://5.254.81.2:7090/8709/index.m3u8
+#EXTINF:-1,KANAL 10
+#EXTVLCOPT:http-user-agent=t0pka3ale.o3tt/4.0 Linux;Android 10 ExoPlayerLib/2.8.4
+https://home.fastnews24.net/new.localhost/akamaicdn-171/kanal10.m3u8
 #EXTINF:-1,Dukagjini TV
 https://srv1.iptviliria.com/TVDukagjini/index.m3u8
 
@@ -2353,178 +2365,6 @@ http://93.115.20.208/sltv/play.php?chID=334275
 
 
 #EXTINF:-1   group-title="-IPTV SPORT 1-",
-#EXTINF:-1,AR➤ BEINSPORTS 1 FHD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/93351
-#EXTINF:-1,AR➤ BEINSPORTS 2 FHD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/93352
-#EXTINF:-1,AR➤ BEINSPORTS 3 FHD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/93353
-#EXTINF:-1,AR➤ BEINSPORTS 4 FHD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/93354
-#EXTINF:-1,AR➤ BEINSPORTS 5 FHD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/93355
-#EXTINF:-1,AR➤ BEINSPORTS 6 FHD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/93356
-#EXTINF:-1,AR➤ BEINSPORTS 7 FHD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/93357
-#EXTINF:-1,AR➤ BEIN SPORTS 1 Premium FHD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/93358
-#EXTINF:-1,AR➤ BEIN SPORTS 2 Premium FHD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/93359
-#EXTINF:-1,AR➤ BEIN SPORTS 3 Premium FHD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/93360
-
-
-#EXTINF:-1,FR➤ beIN Sports 1 FHD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/34654
-#EXTINF:-1,FR➤ beIN Sports 1 HD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/34655
-#EXTINF:-1,FR➤ beIN Sports 2 FHD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/34656
-#EXTINF:-1,FR➤ beIN Sports 2 HD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/34657
-#EXTINF:-1,FR➤ beIN Sports 3 FHD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/34658
-#EXTINF:-1,FR➤ beIN Sports 3 HD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/34659
-#EXTINF:-1,FR➤ beIN Sports 4 Max FHD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/34660
-#EXTINF:-1,FR➤ beIN Sports 5 Max FHD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/34661
-#EXTINF:-1,FR➤ beIN Sports 6 Max FHD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/34662
-#EXTINF:-1,FR➤ beIN Sports 7 Max FHD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/34663
-#EXTINF:-1,FR➤ beIN Sports 8 Max FHD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/34664
-#EXTINF:-1,FR➤ beIN Sports 9 Max FHD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/34665
-#EXTINF:-1,FR➤ beIN Sports 10 Max FHD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/34666
-
-
-
-#EXTINF:-1,UK➤ Beinsport 3 HD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/37360
-#EXTINF:-1,UK➤ Beinsport 2 FHD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/37361
-#EXTINF:-1,UK➤ Beinsport 2 HD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/37362
-#EXTINF:-1,UK➤ Bein Sport 1 FHD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/37363
-
-#EXTINF:-1,UK➤ Sky Sports Football HD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/37365
-
-#EXTINF:-1,UK➤ Sky Sports Main Event HD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/37367
-
-#EXTINF:-1,UK➤  Sky Sports Premier League HD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/37369
-#EXTINF:-1,UK➤ Sky Sports Mix HD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/37372
-#EXTINF:-1,UK➤ Sky Sports Arena HD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/37384
-#EXTINF:-1,UK➤ Bt Sport 1 HD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/37426
-#EXTINF:-1,UK➤ Bt Sport 2 HD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/37428
-#EXTINF:-1,UK➤ Bt Sport 3 HD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/37430
-
-#EXTINF:-1,EX-YU➤ Arena Sport 1 HR FHD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/136544
-#EXTINF:-1,EX-YU➤ Arena Sport 2 HR FHD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/136545
-#EXTINF:-1,EX-YU➤ Arena Sport 3 HR FHD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/136546
-#EXTINF:-1,EX-YU➤ Arena Sport 4 HR FHD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/136547
-#EXTINF:-1,EX-YU➤ Arena Sport 5 HR FHD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/136548
-#EXTINF:-1,EX-YU➤ Arena Sport 6 HR FHD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/136549
-#EXTINF:-1,EX-YU➤ Arena Sport 1 SR FHD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/136560
-#EXTINF:-1,EX-YU➤ Arena Sport 2 SR FHD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/136561
-#EXTINF:-1,EX-YU➤ Arena Sport 3 SR FHD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/136562
-#EXTINF:-1,EX-YU➤ Arena Sport 4 SR FHD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/136563
-#EXTINF:-1,EX-YU➤ Arena Sport 5 SR FHD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/136564
-
-#EXTINF:-1,EX-YU➤ Sport Klub 1 HR FHD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/136610
-#EXTINF:-1,EX-YU➤ Sport Klub 2 HR FHD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/136609
-#EXTINF:-1,EX-YU➤ Sport Klub 3 HR FHD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/136556
-#EXTINF:-1,EX-YU➤ Sport Klub 4 HR FHD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/136557
-#EXTINF:-1,EX-YU➤ Sport Klub 5 HR FHD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/136558
-#EXTINF:-1,EX-YU➤ Sport Klub 6 HR FHD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/136559
-#EXTINF:-1,EX-YU➤ Sport Klub 1 SR HD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/136570
-#EXTINF:-1,EX-YU➤ Sport Klub 2 SR HD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/136571
-#EXTINF:-1,EX-YU➤ Sport Klub 3 SR HD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/136572
-#EXTINF:-1,EX-YU➤ Sport Klub 4  SR HD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/136611
-#EXTINF:-1,EX-YU➤ Sport Klub 5 SR HD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/136573
-#EXTINF:-1,EX-YU➤ Sport Klub 6 SR HD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/136574
-#EXTINF:-1,EX-YU➤ Sport Klub Golf FHD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/136575
-#EXTINF:-1,EX-YU➤ Sport Klub 1 Slovenia HD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/136584
-#EXTINF:-1,EX-YU➤ Sport Klub 2 Slovenia HD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/136585
-#EXTINF:-1,EX-YU➤ Sport Klub 3 Slovenia HD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/136586
-#EXTINF:-1,EX-YU➤ Sport TV 1 Slovenia HD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/136587
-#EXTINF:-1,EX-YU➤ Sport TV 2 Slovenia HD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/136588
-#EXTINF:-1,EX-YU➤ Sport TV 3 Slovenia HD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/136589
-#EXTINF:-1,EX-YU➤ Super Sport 1 HD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/136594
-#EXTINF:-1,EX-YU➤ Super Sport 2 HD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/136595
-#EXTINF:-1,EX-YU➤ Super Sport 3 HD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/136596
-#EXTINF:-1,EX-YU➤ Super Sport 4 HD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/136597
-#EXTINF:-1,EX-YU➤ Super Sport 5 HD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/136598
-#EXTINF:-1,EX-YU➤ Super Sport 6 HD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/136599
-#EXTINF:-1,EX-YU➤ Tring Sport News HD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/136600
-#EXTINF:-1,EX-YU➤ Tring Sport 1 HD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/136601
-#EXTINF:-1,EX-YU➤ Tring Sport 2 HD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/136602
-#EXTINF:-1,EX-YU➤ Tring Sport 3 HD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/136603
-#EXTINF:-1,EX-YU➤ Tring Sport 4 HD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/136604
-#EXTINF:-1,EX-YU➤ K Sport 1 HD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/136605
-#EXTINF:-1,EX-YU➤ K Sport 2 HD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/136606
-#EXTINF:-1,EX-YU➤ K Sport 3 HD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/136607
-#EXTINF:-1,EX-YU➤ K Sport 4 HD
-http://vip.cms-xtream.com:8080/DreamSkype2021/hP2LTZ2TV8/136608
-
-
 #EXTINF:-1,: BeinSport_1
 http://reseller.stream.tf:9876/cid.94e0d35e7ae40219/5576103371/13432
 #EXTINF:-1, BeinSport_2_
