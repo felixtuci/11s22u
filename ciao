@@ -543,7 +543,8 @@ https://akamaicdn142-1.fastnews24.net:2083/clients/YCZFBTZMXBZFHAHVWSXPEMJCUJYMD
 
 
 #EXTINF:-1,AL| TOP CHANNEL SD
-http://akamaicdn64-1.fastnews24.net:2082/clients/YCZFBTZMXBZFHAHVWSXPEMJCUJYMDLVRJJCPHSGR/1
+https://akamaicdn171-2.fastnews24.net:2083/client(topkanale.com)/QCVQVDNETAJSJSPNVDZSWQJYKRSLBJRCQCQPRPRB/1.ch
+
 #EXTINF:-1,AL: TOP Channel HD
 http://stream.com-iptv.com:8080/TopChannelHD/index.m3u8?token=test
 #EXTINF:-1,Top Channel HD
@@ -718,11 +719,14 @@ http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/129.ts
 
 
 #EXTINF:-1,AL: Explorer Histori HD
-http://za.zanofi.xyz:80/play/tX_lQ_n0LA91Kq-kvGwCbors7nqKZIjYvcVyFdCheboIPcr1SZLCPFmglgjG8tUT/ts
+https://akamaicdn115-1.fastnews24.net:2083/client(albkanale.com)/BHLFNNRJCDELSHQHCCKXKQWFMBNNEGQTEJDYFABS/33.ch
+
 #EXTINF:-1,AL: Explorer Natyra HD
-http://za.zanofi.xyz:80/play/tX_lQ_n0LA91Kq-kvGwCbors7nqKZIjYvcVyFdChebrPcu0GPkW8nlplAg6ryisM/ts
+https://akamaicdn115-2.fastnews24.net:2083/client(albkanale.com)/BHLFNNRJCDELSHQHCCKXKQWFMBNNEGQTEJDYFABS/32.ch
+
 #EXTINF:-1,AL: Explorer Shkence HD
-http://za.zanofi.xyz:80/play/tX_lQ_n0LA91Kq-kvGwCbors7nqKZIjYvcVyFdChebrnLQ3kIq37zJoPk7iNcmDX/ts
+https://akamaicdn115-1.fastnews24.net:2083/client(albkanale.com)/BHLFNNRJCDELSHQHCCKXKQWFMBNNEGQTEJDYFABS/31.ch
+
 #EXTINF:-1,AL: Folk +
 http://za.zanofi.xyz:80/play/tX_lQ_n0LA91Kq-kvGwCbors7nqKZIjYvcVyFdChebrJVaZwZTsSCkRHvzCkE3sw/ts
 #EXTINF:-1,AL: RTV 21 Plus
