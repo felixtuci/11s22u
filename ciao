@@ -649,6 +649,8 @@ http://stream.com-iptv.com:8080/FamilyHD/index.m3u8?token=test
 http://stream.com-iptv.com:8080/FilmNjeHD/index.m3u8?token=test
 #EXTINF:-1,AL: Film Max HD
 http://stream.com-iptv.com:8080/FilmDyHD/index.m3u8?token=test
+#EXTINF:-1,AL: Film Max S
+https://akamaicdn115-1.fastnews24.net:2083/client(albkanale.com)/BHLFNNRJCDELSHQHCCKXKQWFMBNNEGQTEJDYFABS/20.ch
 #EXTINF:-1,AL: Film Stinet
 http://stream.com-iptv.com:8080/Stinet/index.m3u8?token=test
 #EXTINF:-1,AL: Film Hits HD
@@ -656,6 +658,9 @@ http://stream.com-iptv.com:8080/FilmHitsHD/index.m3u8?token=test
 
 #EXTINF:-1,AL: Film Aksion HD
 http://stream.com-iptv.com:8080/FilmAksionHD/index.m3u8?token=test
+
+#EXTINF:-1,AL: Film Aksion S
+https://akamaicdn115-2.fastnews24.net:2083/client(albkanale.com)/BHLFNNRJCDELSHQHCCKXKQWFMBNNEGQTEJDYFABS/18.ch
 
 #EXTINF:-1,AL: Film Autor HD
 http://stream.com-iptv.com:8080/FilmAutor/index.m3u8?token=test
@@ -674,6 +679,10 @@ http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/176.ts
 http://stream.com-iptv.com:8080/JollyHD/index.m3u8?token=test
 #EXTINF:-1,Jolly HD
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/75.ts
+#EXTINF:-1,Jolly HD S
+https://akamaicdn115-2.fastnews24.net:2083/client(albkanale.com)/BHLFNNRJCDELSHQHCCKXKQWFMBNNEGQTEJDYFABS/25.ch
+#EXTINF:-1,Episode TV
+https://akamaicdn83-2.fastnews24.net:8443/client(topkanale.com)/QPYHVCCYVSSDBZJJHKSYTBYPRSXUQTJSBMTRGYPR/13.ch
 #EXTINF:-1,AL: Tring Family HD
 http://95.107.132.106/out/u/672_1.m3u8
 #EXTINF:-1,AL: Tring Action HD
@@ -704,6 +713,15 @@ http://stream.com-iptv.com:8080/KanalDDramaHD/index.m3u8?token=test
 http://95.107.132.106/out/u/356_1.m3u8
 
 
+#EXTINF:-1,Art Kino 1 HD S
+https://akamaicdn115-2.fastnews24.net:2083/client(albkanale.com)/BHLFNNRJCDELSHQHCCKXKQWFMBNNEGQTEJDYFABS/28.ch
+#EXTINF:-1,Art Kino 2 HD S
+https://akamaicdn115-1.fastnews24.net:2083/client(albkanale.com)/BHLFNNRJCDELSHQHCCKXKQWFMBNNEGQTEJDYFABS/29.ch
+#EXTINF:-1,Art Kino 3 HD S
+https://akamaicdn115-2.fastnews24.net:2083/client(albkanale.com)/BHLFNNRJCDELSHQHCCKXKQWFMBNNEGQTEJDYFABS/30.ch
+
+
+
 #EXTINF:-1,Tring History
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/68.ts
 #EXTINF:-1,Tring Planet
@@ -713,6 +731,9 @@ http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/66.ts
 
 #EXTINF:-1,AL: Bang Bang
 http://stream.com-iptv.com:8080/BangBang/index.m3u8?token=test
+#EXTINF:-1,AL: Bang Bang S
+https://akamaicdn115-1.fastnews24.net:2083/client(albkanale.com)/BHLFNNRJCDELSHQHCCKXKQWFMBNNEGQTEJDYFABS/35.ch
+
 #EXTINF:-1,AL: Cufo TV
 http://stream.com-iptv.com:8080/CufoTV/index.m3u8?token=test
 #EXTINF:-1,Tring Tring
