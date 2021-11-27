@@ -2413,95 +2413,151 @@ http://93.115.20.208/sltv/play.php?chID=334275
 
 
 #EXTINF:-1   group-title="-IPTV SPORT 1-",
-#EXTINF:-1,: BeinSport_1
-http://reseller.stream.tf:9876/cid.94e0d35e7ae40219/5576103371/13432
-#EXTINF:-1, BeinSport_2_
-http://reseller.stream.tf:9876/cid.94e0d35e7ae40219/5576103371/13433
-#EXTINF:-1, BeinSport_3_
-http://reseller.stream.tf:9876/cid.94e0d35e7ae40219/5576103371/13434
-#EXTINF:-1,:BeinSport_4_
-http://reseller.stream.tf:9876/cid.94e0d35e7ae40219/5576103371/13435
-#EXTINF:-1, BeinSport_5_
-http://reseller.stream.tf:9876/cid.94e0d35e7ae40219/5576103371/13436
-#EXTINF:-1, BeinSport_6
-http://reseller.stream.tf:9876/cid.94e0d35e7ae40219/5576103371/13437
-#EXTINF:-1, BeinSport_7_
-http://reseller.stream.tf:9876/cid.94e0d35e7ae40219/5576103371/13438
-#EXTINF:-1,beiN Sports Premium 1 HD
-http://reseller.stream.tf:9876/cid.94e0d35e7ae40219/5576103371/15079
-#EXTINF:-1,beIN Sports 2 Premium HD
-http://reseller.stream.tf:9876/cid.94e0d35e7ae40219/5576103371/14378
-#EXTINF:-1,beIN Sports 3 Premium HD
-http://reseller.stream.tf:9876/cid.94e0d35e7ae40219/5576103371/14379
-#EXTINF:-1,BeinSportHD1.
-http://reseller.stream.tf:9876/cid.94e0d35e7ae40219/5576103371/25246
-#EXTINF:-1,BeinSportHD3.
-http://reseller.stream.tf:9876/cid.94e0d35e7ae40219/5576103371/26712
-#EXTINF:-1,BeinSportHD2.
-http://reseller.stream.tf:9876/cid.94e0d35e7ae40219/5576103371/14386
-#EXTINF:-1,BeinSportHD4
-http://reseller.stream.tf:9876/cid.94e0d35e7ae40219/5576103371/14380
-#EXTINF:-1,BeinSportHD5
-http://reseller.stream.tf:9876/cid.94e0d35e7ae40219/5576103371/14381
-#EXTINF:-1,BeinSportHD6
-http://reseller.stream.tf:9876/cid.94e0d35e7ae40219/5576103371/14382
-#EXTINF:-1,BeinSportHD7
-http://reseller.stream.tf:9876/cid.94e0d35e7ae40219/5576103371/14383
-#EXTINF:-1,beIN Sports Xtra 1 HD
-http://reseller.stream.tf:9876/cid.94e0d35e7ae40219/5576103371/30597
-#EXTINF:-1,beIN Sports Xtra 2 HD
-http://reseller.stream.tf:9876/cid.94e0d35e7ae40219/5576103371/30596
-#EXTINF:-1,Bein SD1+
-http://reseller.stream.tf:9876/cid.94e0d35e7ae40219/5576103371/24816
-#EXTINF:-1, beinSPORTS NEWS HD
-http://reseller.stream.tf:9876/cid.94e0d35e7ae40219/5576103371/13473
-#EXTINF:-1,beiN Sports 1Premium sd
-http://reseller.stream.tf:9876/cid.94e0d35e7ae40219/5576103371/13442
-#EXTINF:-1,beIN Sports 2 Premium sd
-http://reseller.stream.tf:9876/cid.94e0d35e7ae40219/5576103371/13443
-#EXTINF:-1,,beIN Sports 3 Premium sd
-http://reseller.stream.tf:9876/cid.94e0d35e7ae40219/5576103371/13444
-#EXTINF:-1,BeinSport1sd
-http://reseller.stream.tf:9876/cid.94e0d35e7ae40219/5576103371/13446
-#EXTINF:-1,BeinSport2 sd
-http://reseller.stream.tf:9876/cid.94e0d35e7ae40219/5576103371/13447
-#EXTINF:-1,BeinSport3sd
-http://reseller.stream.tf:9876/cid.94e0d35e7ae40219/5576103371/13448
-#EXTINF:-1,BeinSport4sd
-http://reseller.stream.tf:9876/cid.94e0d35e7ae40219/5576103371/13449
-#EXTINF:-1,BeinSport5sd
-http://reseller.stream.tf:9876/cid.94e0d35e7ae40219/5576103371/13450
-#EXTINF:-1,BeinSport6sd
-http://reseller.stream.tf:9876/cid.94e0d35e7ae40219/5576103371/13451
-#EXTINF:-1, BEIN-SPORTS7sd
-http://reseller.stream.tf:9876/cid.94e0d35e7ae40219/5576103371/20728
-#EXTINF:-1, BEIN SPORTS 1 HD
-http://reseller.stream.tf:9876/cid.94e0d35e7ae40219/5576103371/13478
-#EXTINF:-1,BEIN SPORTS 2 HD
-http://reseller.stream.tf:9876/cid.94e0d35e7ae40219/5576103371/13479
-#EXTINF:-1, BEIN SPORTS 3 HD
-http://reseller.stream.tf:9876/cid.94e0d35e7ae40219/5576103371/13480
-#EXTINF:-1, BEIN MAX 4 HD
-http://reseller.stream.tf:9876/cid.94e0d35e7ae40219/5576103371/13481
-#EXTINF:-1, BEIN MAX 5 HD
-http://reseller.stream.tf:9876/cid.94e0d35e7ae40219/5576103371/13482
-#EXTINF:-1, BEIN MAX 6 HD
-http://reseller.stream.tf:9876/cid.94e0d35e7ae40219/5576103371/13483
-#EXTINF:-1,SPO: |FR| BEIN MAX 7 HD
-http://reseller.stream.tf:9876/cid.94e0d35e7ae40219/5576103371/13484
-#EXTINF:-1,SPO: |FR| BEIN MAX 8 HD
-http://reseller.stream.tf:9876/cid.94e0d35e7ae40219/5576103371/13485
-#EXTINF:-1, BEIN MAX 9 HD
-http://reseller.stream.tf:9876/cid.94e0d35e7ae40219/5576103371/13486
-#EXTINF:-1,BEIN MAX 10 HD
-http://reseller.stream.tf:9876/cid.94e0d35e7ae40219/5576103371/13487
+#EXTINF:-1,|FR| BEIN SPORT  1 HD 
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49493
+#EXTINF:-1,|FR| BEIN SPORT  2 HD 
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49494
+#EXTINF:-1,|FR| BEIN SPORT  3 HD 
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49495
+
+#EXTINF:-1,|FR| BEIN SPORT MAX 4
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49500
+#EXTINF:-1,|FR| BEIN SPORT MAX 5
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49501
+#EXTINF:-1,|FR| BEIN SPORT MAX 6
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49502
+#EXTINF:-1,|FR| BEIN SPORT MAX 7
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49503
+#EXTINF:-1,|FR|: BEIN SPORT MAX 8
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49504
+#EXTINF:-1,|FR| BEIN SPORT MAX 9
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49505
+#EXTINF:-1,|FR| INFOSPORT HD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49496
+#EXTINF:-1,|FR| CANAL+ SPORTS HD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49497
+#EXTINF:-1,|FR| CANAL+ LIGUE 1 FHD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49498
+#EXTINF:-1,|UK| beIN SPORTS
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416
+#EXTINF:-1,|UK| BOX NATION
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61417
+#EXTINF:-1,|UK| BT SPORT 1
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61418
+#EXTINF:-1,|UK| BT SPORT 2
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61419
+#EXTINF:-1,|UK| BT SPORT 3
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61420
+#EXTINF:-1,|UK| BT SPORT ESPN
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61421
+#EXTINF:-1,|UK| Eir Sport 1
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61422
+#EXTINF:-1,|UK| Eir Sport 2
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61423
+#EXTINF:-1,|UK| Eurosport 1
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61424
+#EXTINF:-1,|UK| Eurosport 2
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61425
+
+#EXTINF:-1,|UK| SKY SPORTS ARENA
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61431
+#EXTINF:-1,|UK| SKY SPORTS BOX OFFICE
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61432
+#EXTINF:-1,|UK| SKY SPORTS CRICKET
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61433
+#EXTINF:-1,|UK| SKY SPORTS F1
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61434
+#EXTINF:-1,|UK| SKY SPORTS FOOTBALL
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61435
+#EXTINF:-1,|UK| SKY SPORTS GOLF
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61436
+#EXTINF:-1,|UK| SKY SPORTS MAIN EVENT
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61437
+#EXTINF:-1,|UK| SKY SPORTS MIX
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61438
+#EXTINF:-1,|UK| SKY SPORTS NFL
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61439
+#EXTINF:-1,|UK| SKY SPORTS RACING
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61440
+#EXTINF:-1,|UK| UFC Fight Pass
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61441
+#EXTINF:-1,|UK| WWE PPV
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61442
+#EXTINF:-1,|UK| beIN SPORTS 2
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
+#EXTINF:-1,|UK| beIN SPORTS 3
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61444
+#EXTINF:-1,|PL| CANAL+ SPORT HD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/63756
+#EXTINF:-1,|PL| CANAL+ SPORT 2 HD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/63757
+#EXTINF:-1,|PL| CANAL+ SPORT 3 HD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/63758
+#EXTINF:-1,|PL| CANAL+ SPORT 4 HD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/63759
+#EXTINF:-1,|PL| ELEVEN Sport HD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/63760
+#EXTINF:-1,|PL| Eleven Sports 1 HD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/63761
+#EXTINF:-1,|PL| Eleven Sports 2 HD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/63762
+#EXTINF:-1,|PL| Eleven Sports 3 HD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/63763
+#EXTINF:-1,|PL| Eleven Sports 4 HD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/63764
+#EXTINF:-1,|PT| ELEVEN SPORTS 1
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64346
+#EXTINF:-1,|PT| ELEVEN SPORTS 2
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64347
+#EXTINF:-1,|PT| ELEVEN SPORTS 3
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64348
+#EXTINF:-1,|PT| ELEVEN SPORTS 4
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64349
+#EXTINF:-1,|PT| ELEVEN SPORTS 5 LOW
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64350
+#EXTINF:-1,|PT|  ELEVEN SPORTS 6
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64351
+#EXTINF:-1,|PT| SPORT TV +
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64352
+#EXTINF:-1,|PT| SPORT TV 1
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64353
+#EXTINF:-1,|PT|  SPORT TV 2
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64354
+#EXTINF:-1,|PT|  SPORT TV 4
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64355
+#EXTINF:-1,|PT|  SPORT TV 3
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64356
+#EXTINF:-1,SPORT TV 5
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64357
+#EXTINF:-1,|NL| Ziggo Sport ᴴ²⁵⁶ ᴴᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26606
+#EXTINF:-1,|NL| Ziggo Sport Select ᴴ²⁵⁶ ᴴᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26607
+#EXTINF:-1,|NL| Ziggo Sport Voetbal ᴴ²⁵⁶ ᴴᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26608
+#EXTINF:-1,|NL| Ziggo Sport Golf ᴴ²⁵⁶ ᴴᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26609
+#EXTINF:-1,|NL| Ziggo Sport Racing ᴴ²⁵⁶ ᴴᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26610
+#EXTINF:-1,|NL| Fox Sports 1 ᴴ²⁵⁶ ᴴᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26611
+#EXTINF:-1,|NL| Fox Sports 2 ᴴ²⁵⁶ ᴴᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26612
+#EXTINF:-1,|NL| Fox Sports 3 ᴴ²⁵⁶ ᴴᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26613
+#EXTINF:-1,|NL| Fox Sports 4 ᴴ²⁵⁶ ᴴᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26614
+#EXTINF:-1,|NL| FOX Sports 5 ᴴ²⁵⁶ ᴴᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26615
+#EXTINF:-1,|NL| FOX Sports 6 ᴴ²⁵⁶ ᴴᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26616
 
 
 #EXTINF:-1   group-title="-IPTV SPORT 2-",
 #EXTINF:-1,SuperSport HD 1
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/178.ts
 #EXTINF:-1,SuperSport HD 2
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/178.ts
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/179.ts
 #EXTINF:-1,SuperSport HD 3
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/180.ts
 #EXTINF:-1,SuperSport HD 4
