@@ -2432,6 +2432,15 @@ http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49503
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49504
 #EXTINF:-1,|FR| BEIN SPORT MAX 9
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49505
+
+#EXTINF:-1,|AR| BEIN P SPORT  1 HD 
+http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
+#EXTINF:-1,|AR| BEIN P SPORT  2 HD 
+http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
+#EXTINF:-1,|AR| BEIN P SPORT  3 HD 
+http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
+
+
 #EXTINF:-1,|FR| INFOSPORT HD
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49496
 #EXTINF:-1,|FR| CANAL+ SPORTS HD
