@@ -536,9 +536,9 @@ http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/6909
 
 #EXTINF:-1   group-title="-IPTV SHQIP 3-",
 #EXTINF:-1,AL| BIG BROTHER VIP 1
-http://akamaicdn64-1.fastnews24.net:2082/clients/YCZFBTZMXBZFHAHVWSXPEMJCUJYMDLVRJJCPHSGR/165
+https://akamaicdn64-1.fastnews24.net:2083/client(albkanale.com)/EnXZ3GFphk6CmgLZT5CdSqc7pd9tYtxb6dtgNFNT/165.ch
 #EXTINF:-1,AL| BIG BROTHER VIP 2
-https://akamaicdn142-1.fastnews24.net:2083/clients/YCZFBTZMXBZFHAHVWSXPEMJCUJYMDLVRJJCPHSGR/2.ch
+https://akamaicdn142-1.fastnews24.net:2083/client(albkanale.com)/ZS7P44xptMVFqXAv8PQEMcrPTjKQKDcAc8YUQpHA/2.ch
 
 
 
@@ -650,7 +650,7 @@ http://stream.com-iptv.com:8080/FilmNjeHD/index.m3u8?token=test
 #EXTINF:-1,AL: Film Max HD
 http://stream.com-iptv.com:8080/FilmDyHD/index.m3u8?token=test
 #EXTINF:-1,AL: Film Max S
-https://akamaicdn115-1.fastnews24.net:2083/client(albkanale.com)/BHLFNNRJCDELSHQHCCKXKQWFMBNNEGQTEJDYFABS/20.ch
+https://akamaicdn115-1.fastnews24.net:2083/client1(albkanale.com)/GNYqdH2U58TaXTJRDrDs8AsRr8yfbzuQTzZMnbfC/20.ch
 #EXTINF:-1,AL: Film Stinet
 http://stream.com-iptv.com:8080/Stinet/index.m3u8?token=test
 #EXTINF:-1,AL: Film Hits HD
@@ -660,7 +660,7 @@ http://stream.com-iptv.com:8080/FilmHitsHD/index.m3u8?token=test
 http://stream.com-iptv.com:8080/FilmAksionHD/index.m3u8?token=test
 
 #EXTINF:-1,AL: Film Aksion S
-https://akamaicdn115-2.fastnews24.net:2083/client(albkanale.com)/BHLFNNRJCDELSHQHCCKXKQWFMBNNEGQTEJDYFABS/18.ch
+https://akamaicdn115-2.fastnews24.net:2083/client1(albkanale.com)/GNYqdH2U58TaXTJRDrDs8AsRr8yfbzuQTzZMnbfC/18.ch
 
 #EXTINF:-1,AL: Film Autor HD
 http://stream.com-iptv.com:8080/FilmAutor/index.m3u8?token=test
@@ -752,10 +752,10 @@ http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/129.ts
 
 
 #EXTINF:-1,AL: Explorer Histori HD
-https://akamaicdn115-1.fastnews24.net:2083/client(albkanale.com)/BHLFNNRJCDELSHQHCCKXKQWFMBNNEGQTEJDYFABS/33.ch
+https://akamaicdn115-1.fastnews24.net:2083/client1(albkanale.com)/GNYqdH2U58TaXTJRDrDs8AsRr8yfbzuQTzZMnbfC/31.ch
 
 #EXTINF:-1,AL: Explorer Natyra HD
-https://akamaicdn115-2.fastnews24.net:2083/client(albkanale.com)/BHLFNNRJCDELSHQHCCKXKQWFMBNNEGQTEJDYFABS/32.ch
+https://akamaicdn115-2.fastnews24.net:2083/client(albkanale.com)/GNYqdH2U58TaXTJRDrDs8AsRr8yfbzuQTzZMnbfC/32.ch
 
 #EXTINF:-1,AL: Explorer Shkence HD
 https://akamaicdn115-1.fastnews24.net:2083/client(albkanale.com)/BHLFNNRJCDELSHQHCCKXKQWFMBNNEGQTEJDYFABS/31.ch
