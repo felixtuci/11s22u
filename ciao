@@ -8,10 +8,16 @@ http://pro-unibox.com:25461/EG/Italy1/147
 http://pro-unibox.com:25461/EG/Italy1/14
 #EXTINF:-1,AL: Top Channel  UHD
 http://pro-unibox.com:25461/EG/Italy1/33
+#EXTINF:-1,AL: Vizion Plus HD
+http://pro-unibox.com:25461/EG/Italy1/262
 #EXTINF:-1,AL: KLAN HD
 http://pro-unibox.com:25461/EG/Italy1/17
 #EXTINF:-1,AL: Klan  SD
 http://pro-unibox.com:25461/EG/Italy1/30
+#EXTINF:-1,AL: Klan Plus HD
+http://pro-unibox.com:25461/EG/Italy1/34
+#EXTINF:-1,AL: Klan Plus FHD
+http://pro-unibox.com:25461/EG/Italy1/31
 #EXTINF:-1,AL: RTK 1 FHD
 http://pro-unibox.com:25461/EG/Italy1/9
 #EXTINF:-1,AL: RTK  SAT  SD
@@ -48,10 +54,7 @@ http://pro-unibox.com:25461/EG/Italy1/24
 http://pro-unibox.com:25461/EG/Italy1/13
 #EXTINF:-1,AL: KTV HD
 http://pro-unibox.com:25461/EG/Italy1/25
-#EXTINF:-1,AL: Klan Plus HD
-http://pro-unibox.com:25461/EG/Italy1/34
-#EXTINF:-1,AL: Klan Plus FHD
-http://pro-unibox.com:25461/EG/Italy1/31
+
 #EXTINF:-1,AL : Klan  Makedonia HD
 http://pro-unibox.com:25461/EG/Italy1/35
 #EXTINF:-1,AL: ATV FHD
@@ -64,8 +67,7 @@ http://pro-unibox.com:25461/EG/Italy1/266
 http://pro-unibox.com:25461/EG/Italy1/269
 #EXTINF:-1,AL: RTSH 3HD
 http://pro-unibox.com:25461/EG/Italy1/270
-#EXTINF:-1,AL: Vizion Plus HD
-http://pro-unibox.com:25461/EG/Italy1/262
+
 #EXTINF:-1,AL: RTK 3 UHD 4K+
 http://pro-unibox.com:25461/EG/Italy1/38
 #EXTINF:-1,AL: Top News FHD
