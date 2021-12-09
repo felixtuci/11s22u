@@ -3921,10 +3921,10 @@ http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/173
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1740
 #EXTINF:-1,Premium Stories
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1741
+#EXTINF:-1,IT: Sky Cinema Uno FHD
+http://fun6.xyz:8080/ITALIAN_SKY_CINEMA_UNO_HD/index.m3u8?token=test
 #EXTINF:-1,Sky Cinema Uno HD
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1348
-#EXTINF:-1,IT: Sky Cinema Action FHD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/913
 #EXTINF:-1,Sky Cinema Uno +1 HD
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1349
 #EXTINF:-1,Sky Cinema Uno +24 HD
@@ -3937,16 +3937,22 @@ http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/135
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1353
 #EXTINF:-1,Sky Cinema Collection  HD
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1354
-#EXTINF:-1,IT: Sky Cinema Collection HD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/9473
+#EXTINF:-1,IT: Sky Cinema Collection FHD
+http://fun6.xyz:8080/ITALIAN_SKY_CINEMA_COLLECTION_HD/index.m3u8?token=test
 #EXTINF:-1,Sky Cinema Family HD
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1355
+#EXTINF:-1,IT: Sky Cinema Action FHD
+http://fun6.xyz:8080/ITALIAN_SKY_CINEMA_ACTION_HD/index.m3u8?token=test
 #EXTINF:-1,Sky Cinema Action HD
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1356
+#EXTINF:-1,Sky Cinema Suspense FHD
+http://fun6.xyz:8080/ITALIAN_Sky_Cinema_Suspense_FHD/index.m3u8?token=test
 #EXTINF:-1,Sky Cinema Suspense HD
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1357
 #EXTINF:-1,Sky Cinema Drama HD
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1358
+#EXTINF:-1,Sky Cinema Romance FHD
+http://fun6.xyz:8080/ITALIAN_Sky_Cinema_Romance_FHD/index.m3u8?token=test
 #EXTINF:-1,Sky Cinema Romance HD
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1359
 #EXTINF:-1,Sky Cinema Comedy HD
