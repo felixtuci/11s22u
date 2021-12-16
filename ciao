@@ -4828,500 +4828,804 @@ http://93.115.20.208/clientline/play.php?chID=154248
 
 
 #EXTINF:-1   group-title="-IPTV ITALIA 3- ",
-#EXTINF:-1,IT: VIP Rai 1 FHD
-http://93.115.20.208/sltv/play.php?chID=379044
-#EXTINF:-1,IT: VIP Rai 1 HD
-http://93.115.20.208/sltv/play.php?chID=379085
-#EXTINF:-1,IT: VIP Rai 2 FHD
-http://93.115.20.208/sltv/play.php?chID=379084
-#EXTINF:-1,IT: VIP Rai 2 HD
-http://93.115.20.208/sltv/play.php?chID=379083
-#EXTINF:-1,IT: VIP Rai 3 FHD
-http://93.115.20.208/sltv/play.php?chID=379082
-#EXTINF:-1,IT: VIP Rai 3 HD
-http://93.115.20.208/sltv/play.php?chID=379081
-#EXTINF:-1,IT: VIP Rai 4 FHD
-http://93.115.20.208/sltv/play.php?chID=379080
-#EXTINF:-1,IT: VIP Rai 4 HD
-http://93.115.20.208/sltv/play.php?chID=379079
-#EXTINF:-1,IT: VIP Rai 5 FHD
-http://93.115.20.208/sltv/play.php?chID=379078
-#EXTINF:-1,IT: VIP Rai 5 HD
-http://93.115.20.208/sltv/play.php?chID=379077
-#EXTINF:-1,IT: VIP Rete 4 FHD
-http://93.115.20.208/sltv/play.php?chID=379076
-#EXTINF:-1,IT: VIP Rete 4 HD
-http://93.115.20.208/sltv/play.php?chID=379075
-#EXTINF:-1,IT: VIP Canale 5 FHD
-http://93.115.20.208/sltv/play.php?chID=379074
-#EXTINF:-1,IT: VIP Canale 5 HD
-http://93.115.20.208/sltv/play.php?chID=379073
-#EXTINF:-1,IT: VIP Italia 1 FHD
-http://93.115.20.208/sltv/play.php?chID=379072
-#EXTINF:-1,IT: VIP Italia 1 HD
-http://93.115.20.208/sltv/play.php?chID=379071
-#EXTINF:-1,IT: VIP Mediaset Italia Due HD
-http://93.115.20.208/sltv/play.php?chID=379321
-#EXTINF:-1,IT: VIP Mediaset EXTRA
-http://93.115.20.208/sltv/play.php?chID=379320
-#EXTINF:-1,IT: VIP Cine34
-http://93.115.20.208/sltv/play.php?chID=379319
-#EXTINF:-1,IT: VIP Paramount Channel
-http://93.115.20.208/sltv/play.php?chID=379318
-#EXTINF:-1,IT: VIP Top Crime
-http://93.115.20.208/sltv/play.php?chID=379317
-#EXTINF:-1,IT: VIP Comedy Central
-http://93.115.20.208/sltv/play.php?chID=379316
-#EXTINF:-1,IT: VIP Iris
-http://93.115.20.208/sltv/play.php?chID=379315
-#EXTINF:-1,IT: VIP Spike
-http://93.115.20.208/sltv/play.php?chID=379314
-#EXTINF:-1,IT: VIP PadrePio TV
-http://93.115.20.208/sltv/play.php?chID=379313
-#EXTINF:-1,IT: VIP Antenna Tre
-http://93.115.20.208/sltv/play.php?chID=379312
-#EXTINF:-1,IT: VIP Rai Premium HD
-http://93.115.20.208/sltv/play.php?chID=379065
-#EXTINF:-1,IT: VIP Rai Movie FHD
-http://93.115.20.208/sltv/play.php?chID=379064
-#EXTINF:-1,IT: VIP Rai Movie HD
-http://93.115.20.208/sltv/play.php?chID=379063
-#EXTINF:-1,IT: VIP 20 Mediaset FHD
-http://93.115.20.208/sltv/play.php?chID=379062
-#EXTINF:-1,IT: VIP 20 Mediaset HD
-http://93.115.20.208/sltv/play.php?chID=379061
-#EXTINF:-1,IT: VIP Cielo FHD
-http://93.115.20.208/sltv/play.php?chID=379060
-#EXTINF:-1,IT: VIP Cielo HD
-http://93.115.20.208/sltv/play.php?chID=379059
-#EXTINF:-1,IT: VIP DMAX
-http://93.115.20.208/sltv/play.php?chID=379058
-#EXTINF:-1,IT: VIP GIALLO
-http://93.115.20.208/sltv/play.php?chID=379057
-#EXTINF:-1,IT: VIP La5
-http://93.115.20.208/sltv/play.php?chID=379056
-#EXTINF:-1,IT: VIP La7 FHD
-http://93.115.20.208/sltv/play.php?chID=379055
-#EXTINF:-1,IT: VIP La7 HD
-http://93.115.20.208/sltv/play.php?chID=379054
-#EXTINF:-1,IT: VIP Nove FHD
-http://93.115.20.208/sltv/play.php?chID=379053
-#EXTINF:-1,IT: VIP Nove HD
-http://93.115.20.208/sltv/play.php?chID=379052
-#EXTINF:-1,IT: VIP Real Time FHD
-http://93.115.20.208/sltv/play.php?chID=379051
-#EXTINF:-1,IT: VIP Real Time HD
-http://93.115.20.208/sltv/play.php?chID=379050
-#EXTINF:-1,IT: VIP RSI La 1 HD
-http://93.115.20.208/sltv/play.php?chID=379049
-#EXTINF:-1,IT: VIP RSI La 2 HD
-http://93.115.20.208/sltv/play.php?chID=379048
-#EXTINF:-1,IT: VIP TV2000
-http://93.115.20.208/sltv/play.php?chID=379047
-#EXTINF:-1,IT: VIP TV8
-http://93.115.20.208/sltv/play.php?chID=379046
-#EXTINF:-1,IT: VIP Italian Fishing
-http://93.115.20.208/sltv/play.php?chID=379521
-#EXTINF:-1,IT: VIP GRANDE FRATELLO DIRETTA  1
-http://93.115.20.208/sltv/play.php?chID=379524
-#EXTINF:-1,IT: VIP GRANDE FRATELLO DIRETTA +1
-http://93.115.20.208/sltv/play.php?chID=379523
-#EXTINF:-1,IT: VIP GRANDE FRATELLO DIRETTA 2
-http://93.115.20.208/sltv/play.php?chID=379522
+#EXTINF:-1,Rai 1 FHD VIP IT
+http://93.115.20.208/portalgen/play.php?chID=15205
+#EXTINF:-1,Rai 1 HD IT
+http://93.115.20.208/portalgen/play.php?chID=43328
+#EXTINF:-1,Rai 1 IT
+http://93.115.20.208/portalgen/play.php?chID=325
+#EXTINF:-1,Rai 2 FHD IT
+http://93.115.20.208/portalgen/play.php?chID=43558
+#EXTINF:-1,Rai 2 HD IT
+http://93.115.20.208/portalgen/play.php?chID=15204
+#EXTINF:-1,Rai 2 IT
+http://93.115.20.208/portalgen/play.php?chID=324
+#EXTINF:-1,Rai 3 HD IT
+http://93.115.20.208/portalgen/play.php?chID=15203
+#EXTINF:-1,Italia 1 FHD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55043
+#EXTINF:-1,Italia 1 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55401
+#EXTINF:-1,Italia Uno IT
+http://93.115.20.208/portalgen/play.php?chID=327
+#EXTINF:-1,Canale 5 FHD IT
+http://93.115.20.208/portalgen/play.php?chID=330
+#EXTINF:-1,Canale 5 FHD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55044
+#EXTINF:-1,Canale 5 HD IT
+http://93.115.20.208/portalgen/play.php?chID=7686
+#EXTINF:-1,Canale 5 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55402
+#EXTINF:-1,Canale 5 IT
+http://93.115.20.208/portalgen/play.php?chID=7685
+#EXTINF:-1,Rete 4 FHD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55045
+#EXTINF:-1,Rete 4 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55403
+#EXTINF:-1,Rete 4 IT
+http://93.115.20.208/portalgen/play.php?chID=1314
+#EXTINF:-1,Rete 4 VIP IT
+http://93.115.20.208/portalgen/play.php?chID=15192
+#EXTINF:-1,TV8 IT
+http://93.115.20.208/portalgen/play.php?chID=5229
+#EXTINF:-1,TV8 VIP IT
+http://93.115.20.208/portalgen/play.php?chID=15269
+#EXTINF:-1,Rai Gulp FHD IT
+http://93.115.20.208/portalgen/play.php?chID=15200
+#EXTINF:-1,Rai Gulp HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55287
+#EXTINF:-1,Rai Gulp IT
+http://93.115.20.208/portalgen/play.php?chID=5191
+#EXTINF:-1,Rai Movie HD IT
+http://93.115.20.208/portalgen/play.php?chID=15199
+#EXTINF:-1,Rai Movie HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55238
+#EXTINF:-1,Rai Movie IT
+http://93.115.20.208/portalgen/play.php?chID=5237
+#EXTINF:-1,Rai News 24 FHD IT VIP
+http://93.115.20.208/portalgen/play.php?chID=15198
+#EXTINF:-1,Rai News 24 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55239
+#EXTINF:-1,Rai News 24 IT
+http://93.115.20.208/portalgen/play.php?chID=5195
+#EXTINF:-1,Rai Premium HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55237
+#EXTINF:-1,Rai Premium IT
+http://93.115.20.208/portalgen/play.php?chID=5236
+#EXTINF:-1,Rai Scuola HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55289
+#EXTINF:-1,Rai Scuola IT
+http://93.115.20.208/portalgen/play.php?chID=5234
+#EXTINF:-1,Rai Sport 1 HD IT
+http://93.115.20.208/portalgen/play.php?chID=1264
+#EXTINF:-1,Rai Sport 2 IT
+http://93.115.20.208/portalgen/play.php?chID=1263
+#EXTINF:-1,Rai Sport Plus HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55323
+#EXTINF:-1,Rai Storia HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55255
+#EXTINF:-1,Rai Storia IT
+http://93.115.20.208/portalgen/play.php?chID=5235
+#EXTINF:-1,Real Giallo IT
+http://93.115.20.208/portalgen/play.php?chID=1270
+#EXTINF:-1,Giallo HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55262
+#EXTINF:-1,Real Time FHD IT
+http://93.115.20.208/portalgen/play.php?chID=1283
+#EXTINF:-1,Real Time FHD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55315
+#EXTINF:-1,Real Time HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55261
+#EXTINF:-1,Real Time HD VIP IT
+http://93.115.20.208/portalgen/play.php?chID=15174
+#EXTINF:-1,Real Time Plus 1 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55260
+#EXTINF:-1,Mediaset Italia 2 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55256
+#EXTINF:-1,Italia 2 HD IT
+http://93.115.20.208/portalgen/play.php?chID=328
+#EXTINF:-1,RSI La 1 HD IT
+http://93.115.20.208/portalgen/play.php?chID=1313
+#EXTINF:-1,RSI La 2 HD IT
+http://93.115.20.208/portalgen/play.php?chID=1312
+#EXTINF:-1,RSI La1 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55394
+#EXTINF:-1,RSI La2 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55393
+#EXTINF:-1,Mediaset Extra HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55257
+#EXTINF:-1,Mediaset Extra IT
+http://93.115.20.208/portalgen/play.php?chID=5238
+#EXTINF:-1,Mediaset TGCOM24 IT
+http://93.115.20.208/portalgen/play.php?chID=5196
+#EXTINF:-1,Mediaset TGCOM24 VIP IT
+http://93.115.20.208/portalgen/play.php?chID=15293
 
-#EXTINF:-1,IT: VIP Sky Sport 24 FHD
-http://93.115.20.208/sltv/play.php?chID=379262
-#EXTINF:-1,IT: VIP Sky Sport 24 HD
-http://93.115.20.208/sltv/play.php?chID=379261
-#EXTINF:-1,IT: VIP Sky Sport Serie A FHD
-http://93.115.20.208/sltv/play.php?chID=379260
-#EXTINF:-1,IT: VIP Sky Sport Serie A HD
-http://93.115.20.208/sltv/play.php?chID=379259
-#EXTINF:-1,IT: VIP Sky Sport Uno FHD
-http://93.115.20.208/sltv/play.php?chID=379258
-#EXTINF:-1,IT: VIP Sky Sport Uno HD
-http://93.115.20.208/sltv/play.php?chID=379539
-#EXTINF:-1,IT: VIP Sky Sport Uno
-http://93.115.20.208/sltv/play.php?chID=379538
-#EXTINF:-1,IT: VIP Sky Sport Action FHD
-http://93.115.20.208/sltv/play.php?chID=379094
-#EXTINF:-1,IT: VIP Sky Sport Action HD
-http://93.115.20.208/sltv/play.php?chID=379093
-#EXTINF:-1,IT: VIP Sky Sport Football FHD
-http://93.115.20.208/sltv/play.php?chID=379257
-#EXTINF:-1,IT: VIP Sky Sport Football HD
-http://93.115.20.208/sltv/play.php?chID=379256
-#EXTINF:-1,IT: VIP Sky Sport Arena FHD
-http://93.115.20.208/sltv/play.php?chID=379255
-#EXTINF:-1,IT: VIP Sky Sport Collection FHD
-http://93.115.20.208/sltv/play.php?chID=379254
-#EXTINF:-1,IT: VIP Sky Sport Collection HD
-http://93.115.20.208/sltv/play.php?chID=379253
-#EXTINF:-1,IT: VIP Sky Sport NBA FHD
-http://93.115.20.208/sltv/play.php?chID=379252
-#EXTINF:-1,IT: VIP Sky Sport NBA HD
-http://93.115.20.208/sltv/play.php?chID=379251
-#EXTINF:-1,IT: VIP Sky Sport F1 FHD
-http://93.115.20.208/sltv/play.php?chID=379250
-#EXTINF:-1,IT: VIP Sky Sport F1 HD
-http://93.115.20.208/sltv/play.php?chID=379249
-#EXTINF:-1,IT: VIP Sky Sport Moto GP FHD
-http://93.115.20.208/sltv/play.php?chID=379248
-#EXTINF:-1,IT: VIP Sky Sport Moto GP HD
-http://93.115.20.208/sltv/play.php?chID=379247
-#EXTINF:-1,IT: VIP SuperTennis
-http://93.115.20.208/sltv/play.php?chID=379246
-#EXTINF:-1,IT: VIP Sky Horse TV
-http://93.115.20.208/sltv/play.php?chID=379245
-#EXTINF:-1,IT: VIP UnireSat HD
-http://93.115.20.208/sltv/play.php?chID=379244
-#EXTINF:-1,IT: SPORTITALIA HD
-http://93.115.20.208/sltv/play.php?chID=381351
-#EXTINF:-1,IT: VIP TOP CALCIO 24
-http://93.115.20.208/sltv/play.php?chID=379243
-#EXTINF:-1,IT: VIP Inter Channel
-http://93.115.20.208/sltv/play.php?chID=379242
-#EXTINF:-1,IT: VIP Lazio Channel
-http://93.115.20.208/sltv/play.php?chID=379241
-#EXTINF:-1,IT: VIP Milan Channel
-http://93.115.20.208/sltv/play.php?chID=379240
-#EXTINF:-1,IT: VIP Roma Channel
-http://93.115.20.208/sltv/play.php?chID=379239
-#EXTINF:-1,IT: VIP Torino Channel
-http://93.115.20.208/sltv/play.php?chID=379238
-#EXTINF:-1,IT: VIP Rai Sport FHD
-http://93.115.20.208/sltv/play.php?chID=379237
-#EXTINF:-1,IT: VIP Eurosport 1 FHD
-http://93.115.20.208/sltv/play.php?chID=379236
-#EXTINF:-1,IT: VIP Eurosport 2 FHD
-http://93.115.20.208/sltv/play.php?chID=379235
-#EXTINF:-1,IT: VIP FishingTV
-http://93.115.20.208/sltv/play.php?chID=379232
+#EXTINF:-1,S Cinema Uno +24 HD IT
+http://93.115.20.208/portalgen/play.php?chID=1310
+#EXTINF:-1,S Cinema Uno FHD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55030
+#EXTINF:-1,S Cinema Uno HD IT
+http://93.115.20.208/portalgen/play.php?chID=1311
+#EXTINF:-1,S Cinema Uno HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55372
+#EXTINF:-1,S Cinema Uno Plus 1 FHD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55029
+#EXTINF:-1,S Cinema Uno Plus 24 FHD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55028
+#EXTINF:-1,S Cinema Uno Plus 24 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55371
+#EXTINF:-1,S Cinema Due FHD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55027
+#EXTINF:-1,S Cinema Due HD IT
+http://93.115.20.208/portalgen/play.php?chID=1309
+#EXTINF:-1,S Cinema Due HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55370
+#EXTINF:-1,S Cinema Comedy FHD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55023
+#EXTINF:-1,S Cinema Comedy HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55366
+#EXTINF:-1,S Cinema Action FHD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55024
+#EXTINF:-1,S Cinema Action HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55367
+#EXTINF:-1,S Cinema Collection FHD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55026
+#EXTINF:-1,S Cinema Collection HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55369
+#EXTINF:-1,S Cinema Drama FHD IT
+http://93.115.20.208/portalgen/play.php?chID=15144
+#EXTINF:-1,S Cinema Drama FHD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55020
+#EXTINF:-1,S Cinema Drama HD IT
+http://93.115.20.208/portalgen/play.php?chID=15151
+#EXTINF:-1,S Cinema Drama HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55363
+#EXTINF:-1,S Cinema Family FHD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55025
+#EXTINF:-1,S Cinema Family HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55368
+#EXTINF:-1,S Cinema Romance FHD IT
+http://93.115.20.208/portalgen/play.php?chID=48660
+#EXTINF:-1,S Cinema Romance FHD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55021
+#EXTINF:-1,S Cinema Romance HD IT
+http://93.115.20.208/portalgen/play.php?chID=317
+#EXTINF:-1,S Cinema Romance HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55364
+#EXTINF:-1,S Cinema Suspense FHD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55022
+#EXTINF:-1,S Cinema Suspense HD IT
+http://93.115.20.208/portalgen/play.php?chID=48357
+#EXTINF:-1,S Cinema Suspense HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55365
+#EXTINF:-1,S Atlantic FHD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55040
+#EXTINF:-1,S Atlantic HD IT
+http://93.115.20.208/portalgen/play.php?chID=1291
+#EXTINF:-1,S Atlantic HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55388
+#EXTINF:-1,S Arte FHD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55031
+#EXTINF:-1,S Arte HD IT
+http://93.115.20.208/portalgen/play.php?chID=5198
+#EXTINF:-1,S Arte HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55379
+#EXTINF:-1,FOX FHD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55037
+#EXTINF:-1,Fox HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55386
+#EXTINF:-1,FOX HD IT
+http://93.115.20.208/portalgen/play.php?chID=1290
 
-#EXTINF:-1,IT: VIP Sky Sport 251 FHD
-http://93.115.20.208/sltv/play.php?chID=379230
-#EXTINF:-1,IT: VIP Sky Sport 251 HD
-http://93.115.20.208/sltv/play.php?chID=379229
-#EXTINF:-1,IT: VIP Sky Sport 252 FHD
-http://93.115.20.208/sltv/play.php?chID=379228
-#EXTINF:-1,IT: VIP Sky Sport 252 HD
-http://93.115.20.208/sltv/play.php?chID=379227
-#EXTINF:-1,IT: VIP Sky Sport 253 FHD
-http://93.115.20.208/sltv/play.php?chID=379226
-#EXTINF:-1,IT: VIP Sky Sport 253 HD
-http://93.115.20.208/sltv/play.php?chID=379225
-#EXTINF:-1,IT: VIP Sky Sport 254 FHD
-http://93.115.20.208/sltv/play.php?chID=379224
-#EXTINF:-1,IT: VIP Sky Sport 255 FHD
-http://93.115.20.208/sltv/play.php?chID=379223
-#EXTINF:-1,IT: VIP Sky Sport 255 HD
-http://93.115.20.208/sltv/play.php?chID=379222
-#EXTINF:-1,IT: VIP Sky Sport 256 FHD
-http://93.115.20.208/sltv/play.php?chID=379221
-#EXTINF:-1,IT: VIP Sky Sport 256 HD
-http://93.115.20.208/sltv/play.php?chID=379220
-#EXTINF:-1,IT: VIP Sky Sport 257 FHD
-http://93.115.20.208/sltv/play.php?chID=379219
-#EXTINF:-1,IT: VIP Sky Sport 257 HD
-http://93.115.20.208/sltv/play.php?chID=379218
-#EXTINF:-1,IT: VIP Sky Sport 258 FHD
-http://93.115.20.208/sltv/play.php?chID=379217
-#EXTINF:-1,IT: VIP Sky Sport 259 FHD
-http://93.115.20.208/sltv/play.php?chID=379216
-#EXTINF:-1,IT: VIP DAZN 1 FHD (SOLO EVENTI)
-http://93.115.20.208/sltv/play.php?chID=379370
-#EXTINF:-1,IT: VIP DAZN 1 HD (SOLO EVENTI)
-http://93.115.20.208/sltv/play.php?chID=379369
-#EXTINF:-1,IT: VIP DAZN 2 FHD (SOLO EVENTI)
-http://93.115.20.208/sltv/play.php?chID=379367
-#EXTINF:-1,IT: VIP DAZN 2 HD (SOLO EVENTI)
-http://93.115.20.208/sltv/play.php?chID=379366
-#EXTINF:-1,IT: VIP DAZN 2 SD (SOLO EVENTI)
-http://93.115.20.208/sltv/play.php?chID=379365
-#EXTINF:-1,IT: VIP DAZN 3 FHD (SOLO EVENTI)
-http://93.115.20.208/sltv/play.php?chID=379364
-#EXTINF:-1,IT: VIP DAZN 3 HD (SOLO EVENTI)
-http://93.115.20.208/sltv/play.php?chID=379363
-#EXTINF:-1,IT: VIP DAZN 4 FHD (SOLO EVENTI)
-http://93.115.20.208/sltv/play.php?chID=379361
-#EXTINF:-1,IT: VIP DAZN 4 HD (SOLO EVENTI)
-http://93.115.20.208/sltv/play.php?chID=379360
-#EXTINF:-1,IT: VIP DAZN 5 FHD (SOLO EVENTI)
-http://93.115.20.208/sltv/play.php?chID=379358
-#EXTINF:-1,IT: VIP DAZN 5 HD (SOLO EVENTI)
-http://93.115.20.208/sltv/play.php?chID=379357
-#EXTINF:-1,IT: VIP DAZN 6 FHD (SOLO EVENTI)
-http://93.115.20.208/sltv/play.php?chID=379355
-#EXTINF:-1,IT: VIP DAZN 6 HD (SOLO EVENTI)
-http://93.115.20.208/sltv/play.php?chID=379354
-#EXTINF:-1,IT: VIP DAZN 7 FHD (SOLO EVENTI)
-http://93.115.20.208/sltv/play.php?chID=379352
-#EXTINF:-1,IT: VIP DAZN 7 HD (SOLO EVENTI)
-http://93.115.20.208/sltv/play.php?chID=379351
-#EXTINF:-1,IT: VIP DAZN 8 FHD (SOLO EVENTI)
-http://93.115.20.208/sltv/play.php?chID=379349
-#EXTINF:-1,IT: VIP DAZN 8 HD (SOLO EVENTI)
-http://93.115.20.208/sltv/play.php?chID=379348
-#EXTINF:-1,IT: VIP DAZN 9 FHD (SOLO EVENTI)
-http://93.115.20.208/sltv/play.php?chID=379346
-#EXTINF:-1,IT: VIP DAZN 9 HD (SOLO EVENTI)
-http://93.115.20.208/sltv/play.php?chID=379345
-#EXTINF:-1,IT: VIP DAZN 10 FHD (SOLO EVENTI)
-http://93.115.20.208/sltv/play.php?chID=379343
-#EXTINF:-1,IT: VIP DAZN 10 HD (SOLO EVENTI)
-http://93.115.20.208/sltv/play.php?chID=379342
-#EXTINF:-1,IT: VIP DAZN 11 FHD (SOLO EVENTI)
-http://93.115.20.208/sltv/play.php?chID=379340
-#EXTINF:-1,IT: VIP DAZN 11 HD (SOLO EVENTI)
-http://93.115.20.208/sltv/play.php?chID=379339
-#EXTINF:-1,IT: VIP DAZN 12 FHD (SOLO EVENTI)
-http://93.115.20.208/sltv/play.php?chID=379337
-#EXTINF:-1,IT: VIP DAZN 12 HD (SOLO EVENTI)
-http://93.115.20.208/sltv/play.php?chID=379336
-#EXTINF:-1,IT: VIP SKY SPORT BAR UNO FULL HD
-http://93.115.20.208/sltv/play.php?chID=379334
-#EXTINF:-1,IT: VIP SKY SPORT BAR UNO HD
-http://93.115.20.208/sltv/play.php?chID=379333
-#EXTINF:-1,IT: VIP SKY SPORT BAR UNO SD
-http://93.115.20.208/sltv/play.php?chID=379332
-#EXTINF:-1,IT: VIP SKY SPORT BAR DUE FULL HD
-http://93.115.20.208/sltv/play.php?chID=379331
-#EXTINF:-1,IT: VIP SKY SPORT BAR DUE HD
-http://93.115.20.208/sltv/play.php?chID=379330
-#EXTINF:-1,IT: VIP SKY SPORT BAR DUE SD
-http://93.115.20.208/sltv/play.php?chID=379329
-#EXTINF:-1,IT: VIP SKY SPORT BAR PRIMEVIDEO FULL HD
-http://93.115.20.208/sltv/play.php?chID=379328
-#EXTINF:-1,IT: VIP SKY SPORT BAR PRIMEVIDEO HD
-http://93.115.20.208/sltv/play.php?chID=379327
-#EXTINF:-1,IT: VIP SKY SPORT BAR PRIMEVIDEO SD
-http://93.115.20.208/sltv/play.php?chID=379326
-#EXTINF:-1,IT: VIP AMAZON LIVE SPORT
-http://93.115.20.208/sltv/play.php?chID=379325
-#EXTINF:-1,IT: VIP AMAZON LIVE SPORT 2
-http://93.115.20.208/sltv/play.php?chID=379324
-#EXTINF:-1,IT: VIP AMAZON LIVE SPORT 3
-http://93.115.20.208/sltv/play.php?chID=379323
+#EXTINF:-1,Vetrina S PrimaFila HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55362
+#EXTINF:-1,S PrimaFila Live 1 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55361
+#EXTINF:-1,S PrimaFila Live 2 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55360
+#EXTINF:-1,S PrimaFila Live 3 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55359
+#EXTINF:-1,S PrimaFila Live 4 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55358
+#EXTINF:-1,S PrimaFila Live 5 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55357
+#EXTINF:-1,S PrimaFila Live 6 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55356
+#EXTINF:-1,S PrimaFila Live 7 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55355
+#EXTINF:-1,S PrimaFila Live 8 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55354
+#EXTINF:-1,S PrimaFila Live 9 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55353
+#EXTINF:-1,S PrimaFila Live 10 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55352
+#EXTINF:-1,S PrimaFila Live 11 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55351
+#EXTINF:-1,S PrimaFila Live 12 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55350
 
-#EXTINF:-1,IT: VIP Mediaset INFINITY 1 (SOLO EVENTI)
-http://93.115.20.208/sltv/play.php?chID=379288
-#EXTINF:-1,IT: VIP Mediaset INFINITY 2 (SOLO EVENTI)
-http://93.115.20.208/sltv/play.php?chID=379287
-#EXTINF:-1,IT: VIP Mediaset INFINITY 3 (SOLO EVENTI)
-http://93.115.20.208/sltv/play.php?chID=379286
-#EXTINF:-1,IT: VIP Mediaset INFINITY 4 (SOLO EVENTI)
-http://93.115.20.208/sltv/play.php?chID=379285
-#EXTINF:-1,IT: VIP Mediaset INFINITY 5 (SOLO EVENTI)
-http://93.115.20.208/sltv/play.php?chID=379284
-#EXTINF:-1,IT: VIP Mediaset INFINITY 6 (SOLO EVENTI)
-http://93.115.20.208/sltv/play.php?chID=379283
-#EXTINF:-1,IT: VIP Mediaset INFINITY 7 (SOLO EVENTI)
-http://93.115.20.208/sltv/play.php?chID=379282
-#EXTINF:-1,IT: VIP Mediaset INFINITY 8 (SOLO EVENTI)
-http://93.115.20.208/sltv/play.php?chID=379281
-#EXTINF:-1,IT: VIP Mediaset INFINITY 9 (SOLO EVENTI)
-http://93.115.20.208/sltv/play.php?chID=379280
-#EXTINF:-1,IT: VIP Mediaset INFINITY 10 (SOLO EVENTI)
-http://93.115.20.208/sltv/play.php?chID=379279
-#EXTINF:-1,IT: VIP Mediaset INFINITY 11 (SOLO EVENTI)
-http://93.115.20.208/sltv/play.php?chID=379278
+#EXTINF:-1,Eagle Cinema Animazione FHD IT
+http://93.115.20.208/portalgen/play.php?chID=31939
+#EXTINF:-1,Eagle Cinema Avventura FHD IT
+http://93.115.20.208/portalgen/play.php?chID=31949
+#EXTINF:-1,Eagle Cinema Azione FHD IT
+http://93.115.20.208/portalgen/play.php?chID=31950
+#EXTINF:-1,Eagle Cinema Comico Cult FHD IT
+http://93.115.20.208/portalgen/play.php?chID=31945
+#EXTINF:-1,Eagle Cinema Commedia FHD IT
+http://93.115.20.208/portalgen/play.php?chID=31947
+#EXTINF:-1,Eagle Cinema Drammatico FHD IT
+http://93.115.20.208/portalgen/play.php?chID=31940
+#EXTINF:-1,Eagle Cinema Fantastico FHD IT
+http://93.115.20.208/portalgen/play.php?chID=31948
+#EXTINF:-1,Eagle Cinema Film in Sala FHD IT
+http://93.115.20.208/portalgen/play.php?chID=31937
+#EXTINF:-1,Eagle Cinema Horror FHD IT
+http://93.115.20.208/portalgen/play.php?chID=31938
+#EXTINF:-1,Eagle Cinema Mitologia HD IT
+http://93.115.20.208/portalgen/play.php?chID=31942
+#EXTINF:-1,Eagle Cinema Passione FHD IT
+http://93.115.20.208/portalgen/play.php?chID=31941
+#EXTINF:-1,Eagle Cinema Prima Visione FHD IT
+http://93.115.20.208/portalgen/play.php?chID=31951
+#EXTINF:-1,Eagle Cinema Sorriso FHD IT
+http://93.115.20.208/portalgen/play.php?chID=31946
+#EXTINF:-1,Eagle Cinema Storico FHD IT
+http://93.115.20.208/portalgen/play.php?chID=31943
+#EXTINF:-1,Eagle Cinema Thriller FHD IT
+http://93.115.20.208/portalgen/play.php?chID=31944
+#EXTINF:-1,Eagle Disney Topolino Paperino e Pippo HD IT
+http://93.115.20.208/portalgen/play.php?chID=31936
+#EXTINF:-1,Eagle Fiabe Magiche HD IT
+http://93.115.20.208/portalgen/play.php?chID=31934
+#EXTINF:-1,Eagle Le Fiabe Disney HD IT
+http://93.115.20.208/portalgen/play.php?chID=31933
+#EXTINF:-1,Eagle Looney Toons HD IT
+http://93.115.20.208/portalgen/play.php?chID=31935
+#EXTINF:-1,Eagle Masha e Orso HD IT
+http://93.115.20.208/portalgen/play.php?chID=31931
+#EXTINF:-1,Eagle Peppa Pig HD IT
+http://93.115.20.208/portalgen/play.php?chID=31932
 
-#EXTINF:-1,IT: VIP Sky Cinema Uno FHD
-http://93.115.20.208/sltv/play.php?chID=379165
-#EXTINF:-1,IT: VIP Sky Cinema Uno HD
-http://93.115.20.208/sltv/play.php?chID=379164
-#EXTINF:-1,IT: VIP Sky Cinema Due FHD
-http://93.115.20.208/sltv/play.php?chID=379163
-#EXTINF:-1,IT: VIP Sky Cinema Due HD
-http://93.115.20.208/sltv/play.php?chID=379162
-#EXTINF:-1,IT: VIP Sky Cinema Collection FHD
-http://93.115.20.208/sltv/play.php?chID=379161
-#EXTINF:-1,IT: VIP Sky Cinema Collection HD
-http://93.115.20.208/sltv/play.php?chID=379160
-#EXTINF:-1,IT: VIP Sky Cinema Family FHD
-http://93.115.20.208/sltv/play.php?chID=379159
-#EXTINF:-1,IT: VIP Sky Cinema Family HD
-http://93.115.20.208/sltv/play.php?chID=379158
-#EXTINF:-1,IT: VIP Sky Cinema Action FHD
-http://93.115.20.208/sltv/play.php?chID=379157
-#EXTINF:-1,IT: VIP Sky Cinema Action HD
-http://93.115.20.208/sltv/play.php?chID=379156
-#EXTINF:-1,IT: VIP Sky Cinema Suspence FHD
-http://93.115.20.208/sltv/play.php?chID=379155
-#EXTINF:-1,IT: VIP Sky Cinema Suspence HD
-http://93.115.20.208/sltv/play.php?chID=379154
-#EXTINF:-1,IT: VIP Sky Cinema Romance FHD
-http://93.115.20.208/sltv/play.php?chID=379153
-#EXTINF:-1,IT: VIP Sky Cinema Romance HD
-http://93.115.20.208/sltv/play.php?chID=379152
-#EXTINF:-1,IT: VIP Sky Cinema Drama FHD
-http://93.115.20.208/sltv/play.php?chID=379151
-#EXTINF:-1,IT: VIP Sky Cinema Drama HD
-http://93.115.20.208/sltv/play.php?chID=379150
-#EXTINF:-1,IT: VIP Sky Cinema Comedy FHD
-http://93.115.20.208/sltv/play.php?chID=379149
-#EXTINF:-1,IT: VIP Sky Cinema Comedy HD
-http://93.115.20.208/sltv/play.php?chID=379148
+#EXTINF:-1,Premium Action FHD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55017
+#EXTINF:-1,Premium Action HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55347
+#EXTINF:-1,Premium Action IT
+http://93.115.20.208/portalgen/play.php?chID=1299
+#EXTINF:-1,Premium Cinema +24 IT
+http://93.115.20.208/portalgen/play.php?chID=1305
+#EXTINF:-1,Premium Cinema Comedy FHD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55015
+#EXTINF:-1,Premium Cinema 1 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55345
+#EXTINF:-1,Premium Cinema Comedy IT
+http://93.115.20.208/portalgen/play.php?chID=1302
+#EXTINF:-1,Premium Cinema Energy FHD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55014
+#EXTINF:-1,Premium Cinema Energy HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55344
+#EXTINF:-1,Premium Cinema Energy IT
+http://93.115.20.208/portalgen/play.php?chID=1301
+#EXTINF:-1,Premium Cinema FHD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55019
+#EXTINF:-1,Premium Cinema HD IT
+http://93.115.20.208/portalgen/play.php?chID=1306
+#EXTINF:-1,Premium Cinema HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55349
+#EXTINF:-1,Premium Cinema +24 FHD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55018
+#EXTINF:-1,Premium Cinema Plus 24 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55348
+#EXTINF:-1,Premium Crime FHD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55016
+#EXTINF:-1,Premium Crime HD IT
+http://93.115.20.208/portalgen/play.php?chID=1294
+#EXTINF:-1,Premium Crime HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55346
+#EXTINF:-1,Premium Crime IT
+http://93.115.20.208/portalgen/play.php?chID=1293
+#EXTINF:-1,Premium Emotion FHD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55013
+#EXTINF:-1,Premium Emotion HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55343
+#EXTINF:-1,Premium Emotion IT
+http://93.115.20.208/portalgen/play.php?chID=1297
+#EXTINF:-1,Premium Stories FHD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55011
+#EXTINF:-1,Premium Stories HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55341
+#EXTINF:-1,Premium Stories IT
+http://93.115.20.208/portalgen/play.php?chID=1295
+#EXTINF:-1,Premium Studio Universal IT
+http://93.115.20.208/portalgen/play.php?chID=1296
+#EXTINF:-1,Canale 20 Mediaset HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55395
+#EXTINF:-1,Top Crime HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55339
+#EXTINF:-1,Top Crime IT
+http://93.115.20.208/portalgen/play.php?chID=1269
+#EXTINF:-1,Cine34 IT
+http://93.115.20.208/portalgen/play.php?chID=80958
+#EXTINF:-1,S Calcio 6 FHD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=54998
+#EXTINF:-1,S Sport 251 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55313
+#EXTINF:-1,S Sport 252 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55312
+#EXTINF:-1,S Calcio 5 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55311
+#EXTINF:-1,S Calcio 1 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55310
+#EXTINF:-1,Sky Calcio 2 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55309
+#EXTINF:-1,S Sport 256 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55308
+#EXTINF:-1,S Calcio 3 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55307
+#EXTINF:-1,S Calcio 4 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55306
+#EXTINF:-1,S Calcio 3 HD IT
+http://93.115.20.208/portalgen/play.php?chID=5210
+#EXTINF:-1,S Calcio 4 HD IT
+http://93.115.20.208/portalgen/play.php?chID=5209
+#EXTINF:-1,S Calcio 5 HD IT
+http://93.115.20.208/portalgen/play.php?chID=5208
+#EXTINF:-1,S Calcio 6 HD IT
+http://93.115.20.208/portalgen/play.php?chID=5207
+#EXTINF:-1,S Sport Serie A FHD IT
+http://93.115.20.208/portalgen/play.php?chID=15077
+#EXTINF:-1,S Sport SerieA FHD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=54999
+#EXTINF:-1,S Sport SerieA HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55314
+#EXTINF:-1,S Sport Football FHD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55008
+#EXTINF:-1,S Sport Football HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55333
+#EXTINF:-1,S Supercalcio Serie A HD VIP IT
+http://93.115.20.208/portalgen/play.php?chID=15097
+#EXTINF:-1,S Supercalcio Serie A VIP IT
+http://93.115.20.208/portalgen/play.php?chID=15096
 
-#EXTINF:-1,IT: VIP Premium Cinema 1 FHD
-http://93.115.20.208/sltv/play.php?chID=379146
-#EXTINF:-1,IT: VIP Premium Cinema 1 HD
-http://93.115.20.208/sltv/play.php?chID=379145
-#EXTINF:-1,IT: VIP Premium Cinema +24
-http://93.115.20.208/sltv/play.php?chID=379144
-#EXTINF:-1,IT: VIP Premium Cinema 2 FHD
-http://93.115.20.208/sltv/play.php?chID=379143
-#EXTINF:-1,IT: VIP Premium Cinema 2 HD
-http://93.115.20.208/sltv/play.php?chID=379142
-#EXTINF:-1,IT: VIP Premium Cinema 3 FHD
-http://93.115.20.208/sltv/play.php?chID=379141
-#EXTINF:-1,IT: VIP Premium Cinema 3 HD
-http://93.115.20.208/sltv/play.php?chID=379140
-#EXTINF:-1,IT: VIP Premium Action FHD
-http://93.115.20.208/sltv/play.php?chID=379139
-#EXTINF:-1,IT: VIP Premium Action HD
-http://93.115.20.208/sltv/play.php?chID=379138
-#EXTINF:-1,IT: VIP Premium Crime FHD
-http://93.115.20.208/sltv/play.php?chID=379137
-#EXTINF:-1,IT: VIP Premium Crime HD
-http://93.115.20.208/sltv/play.php?chID=379136
-#EXTINF:-1,IT: VIP Premium Stories FHD
-http://93.115.20.208/sltv/play.php?chID=379135
-#EXTINF:-1,IT: VIP Premium Stories HD
-http://93.115.20.208/sltv/play.php?chID=379134
+#EXTINF:-1,Dazn Sport 1 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=54986
+#EXTINF:-1,Dazn Sport 2 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=54985
+#EXTINF:-1,Dazn Sport 3 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=54984
+#EXTINF:-1,Dazn Sport 4 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=54983
+#EXTINF:-1,Dazn Sport 5 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=54982
+#EXTINF:-1,Dazn Sport 6 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=54981
+#EXTINF:-1,Dazn Sport 7 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=54980
+#EXTINF:-1,Dazn Sport 8 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=54979
+#EXTINF:-1,Dazn Sport 9 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=54978
+#EXTINF:-1,Dazn Sport 10 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=54977
+#EXTINF:-1,Dazn SerieA 1 FHD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=54988
+#EXTINF:-1,Dazn SerieA 2 FHD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=54987
 
-#EXTINF:-1,IT: VIP Discovery FHD
-http://93.115.20.208/sltv/play.php?chID=379310
-#EXTINF:-1,IT: VIP Discovery HD
-http://93.115.20.208/sltv/play.php?chID=379309
-#EXTINF:-1,IT: VIP Discovery Sci FHD
-http://93.115.20.208/sltv/play.php?chID=379308
-#EXTINF:-1,IT: VIP Discovery Sci HD
-http://93.115.20.208/sltv/play.php?chID=379307
-#EXTINF:-1,IT: VIP Food Network
-http://93.115.20.208/sltv/play.php?chID=379306
-#EXTINF:-1,IT: VIP GamberoRosso
-http://93.115.20.208/sltv/play.php?chID=379305
-#EXTINF:-1,IT: VIP HGTV Home Garden
-http://93.115.20.208/sltv/play.php?chID=379304
-#EXTINF:-1,IT: VIP History HD
-http://93.115.20.208/sltv/play.php?chID=379303
-#EXTINF:-1,IT: VIP Marcopolo
-http://93.115.20.208/sltv/play.php?chID=379302
-#EXTINF:-1,IT: VIP Nat Geo Wild FHD
-http://93.115.20.208/sltv/play.php?chID=379301
-#EXTINF:-1,IT: VIP Nat Geo Wild HD
-http://93.115.20.208/sltv/play.php?chID=379300
-#EXTINF:-1,IT: VIP Nat Geo FHD
-http://93.115.20.208/sltv/play.php?chID=379299
-#EXTINF:-1,IT: VIP Nat Geo HD
-http://93.115.20.208/sltv/play.php?chID=379298
-#EXTINF:-1,IT: VIP Nat Geo +1
-http://93.115.20.208/sltv/play.php?chID=379297
-#EXTINF:-1,IT: VIP Rai Scuola HD
-http://93.115.20.208/sltv/play.php?chID=379296
-#EXTINF:-1,IT: VIP Rai Storia FHD
-http://93.115.20.208/sltv/play.php?chID=379295
-#EXTINF:-1,IT: VIP Rai Storia HD
-http://93.115.20.208/sltv/play.php?chID=379294
-#EXTINF:-1,IT: VIP SkyArte FHD
-http://93.115.20.208/sltv/play.php?chID=379293
-#EXTINF:-1,IT: VIP CACCIAePesca
-http://93.115.20.208/sltv/play.php?chID=379234
-#EXTINF:-1,IT: VIP PESCAeCaccia
-http://93.115.20.208/sltv/play.php?chID=379233
+#EXTINF:-1,S Sport 1 FHD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55009
+#EXTINF:-1,S Sport NBA FHD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55003
+#EXTINF:-1,S Sport NBA HD IT
+http://93.115.20.208/portalgen/play.php?chID=1265
+#EXTINF:-1,S Sport NBA HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55327
+#EXTINF:-1,S Sport Arena FHD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55007
+#EXTINF:-1,S Sport Arena HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55332
+#EXTINF:-1,S Formula 1 FHD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55005
+#EXTINF:-1,S Formula 1 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55329
+#EXTINF:-1,S Moto GP FHD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55004
+#EXTINF:-1,S Moto GP HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55328
+#EXTINF:-1,S Sport 24 FHD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55010
+#EXTINF:-1,S Sport 24 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55335
+#EXTINF:-1,EuroSport 1 FHD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55002
+#EXTINF:-1,EuroSport 1 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55326
+#EXTINF:-1,EuroSport 2 FHD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55001
+#EXTINF:-1,EuroSport 2 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55325
+#EXTINF:-1,Sport Italia IT
+http://93.115.20.208/portalgen/play.php?chID=1261
+#EXTINF:-1,Sport Italia IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55324
+#EXTINF:-1,Super Tennis HD IT
+http://93.115.20.208/portalgen/play.php?chID=1262
+#EXTINF:-1,SuperTennis HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55321
+#EXTINF:-1,SuperTennis VIP IT
+http://93.115.20.208/portalgen/play.php?chID=15086
+#EXTINF:-1,Inter Channel FHD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=54990
+#EXTINF:-1,Inter Channel HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55302
+#EXTINF:-1,Inter Channel IT
+http://93.115.20.208/portalgen/play.php?chID=329
+#EXTINF:-1,Milan Channel FHD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=54989
+#EXTINF:-1,Milan Channel HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55301
+#EXTINF:-1,Juventus Channel VIP IT
+http://93.115.20.208/portalgen/play.php?chID=15189
+#EXTINF:-1,Top Calcio 24 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55298
+#EXTINF:-1,WWE Wrestling HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55317
+#EXTINF:-1,Wrestling IT
+http://93.115.20.208/portalgen/play.php?chID=5212
+#EXTINF:-1,Disney Plus Nature HD VIP IT
+http://93.115.20.208/portalgen/play.php?chID=90842
+#EXTINF:-1,Disney Plus Film 2 HD VIP IT
+http://93.115.20.208/portalgen/play.php?chID=90841
+#EXTINF:-1,Disney Plus Film HD VIP IT
+http://93.115.20.208/portalgen/play.php?chID=90840
+#EXTINF:-1,Disney Plus Animation HD VIP IT
+http://93.115.20.208/portalgen/play.php?chID=90839
+#EXTINF:-1,Baby TV HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55277
+#EXTINF:-1,Baby TV IT
+http://93.115.20.208/portalgen/play.php?chID=5192
+#EXTINF:-1,Boomerang HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55276
+#EXTINF:-1,Boing HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55283
+#EXTINF:-1,Boing IT
+http://93.115.20.208/portalgen/play.php?chID=1282
+#EXTINF:-1,Cartoonito HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55290
+#EXTINF:-1,Cartoonito IT
+http://93.115.20.208/portalgen/play.php?chID=5188
+#EXTINF:-1,Cartoonito VIP IT
+http://93.115.20.208/portalgen/play.php?chID=15268
+#EXTINF:-1,Cartoon Network HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55291
+#EXTINF:-1,Cartoon Network FHD VIP IT
+http://93.115.20.208/portalgen/play.php?chID=5187
+#EXTINF:-1,Dea Junior HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55292
+#EXTINF:-1,Dea Junior VIP IT
+http://93.115.20.208/portalgen/play.php?chID=15257
+#EXTINF:-1,Dea Kids HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55293
+#EXTINF:-1,Disney Channel  1 HD VIP IT
+http://93.115.20.208/portalgen/play.php?chID=15250
+#EXTINF:-1,Disney Junior IT
+http://93.115.20.208/portalgen/play.php?chID=5184
+#EXTINF:-1,Frisbee HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55282
+#EXTINF:-1,Frisbee IT
+http://93.115.20.208/portalgen/play.php?chID=5180
+#EXTINF:-1,K2 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55286
+#EXTINF:-1,K2 IT
+http://93.115.20.208/portalgen/play.php?chID=5179
+#EXTINF:-1,K2 VIP IT
+http://93.115.20.208/portalgen/play.php?chID=15188
+#EXTINF:-1,Masha e Orso TV HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55336
+#EXTINF:-1,Nick Junior HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55279
+#EXTINF:-1,Nick Junior IT
+http://93.115.20.208/portalgen/play.php?chID=5178
+#EXTINF:-1,Nickelodeon HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55278
+#EXTINF:-1,Nickelodeon VIP IT
+http://93.115.20.208/portalgen/play.php?chID=15179
+#EXTINF:-1,POP (Boing Plus) HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55280
+#EXTINF:-1,Rai YoYo HD IT
+http://93.115.20.208/portalgen/play.php?chID=5190
+#EXTINF:-1,Rai YoYo HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55288
+#EXTINF:-1,Super TV IT
+http://93.115.20.208/portalgen/play.php?chID=5211
+#EXTINF:-1,Super! HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55281
+#EXTINF:-1,Super! IT
+http://93.115.20.208/portalgen/play.php?chID=5189
 
-#EXTINF:-1,IT: VIP Sky Uno FHD
-http://93.115.20.208/sltv/play.php?chID=379103
-#EXTINF:-1,IT: VIP Sky Uno HD
-http://93.115.20.208/sltv/play.php?chID=379102
-#EXTINF:-1,IT: VIP Sky Uno +1
-http://93.115.20.208/sltv/play.php?chID=379101
-#EXTINF:-1,IT: VIP Sky Atlantic FHD
-http://93.115.20.208/sltv/play.php?chID=379100
-#EXTINF:-1,IT: VIP Sky Atlantic HD
-http://93.115.20.208/sltv/play.php?chID=379099
-#EXTINF:-1,IT: VIP Sky Atlantic +1
-http://93.115.20.208/sltv/play.php?chID=379098
-#EXTINF:-1,IT: VIP Fox FHD
-http://93.115.20.208/sltv/play.php?chID=379097
-#EXTINF:-1,IT: VIP Fox HD
-http://93.115.20.208/sltv/play.php?chID=379096
-#EXTINF:-1,IT: VIP Fox +1
-http://93.115.20.208/sltv/play.php?chID=379095
-#EXTINF:-1,IT: VIP Blaze FHD
-http://93.115.20.208/sltv/play.php?chID=379092
-#EXTINF:-1,IT: VIP Blaze HD
-http://93.115.20.208/sltv/play.php?chID=379091
-#EXTINF:-1,IT: VIP Crime + Inv HD
-http://93.115.20.208/sltv/play.php?chID=379090
-#EXTINF:-1,IT: VIP CICrimeInv FHD
-http://93.115.20.208/sltv/play.php?chID=379089
-#EXTINF:-1,IT: VIP Sky Investigation FHD
-http://93.115.20.208/sltv/play.php?chID=390660
-#EXTINF:-1,IT: VIP MotorTrend FHD
-http://93.115.20.208/sltv/play.php?chID=379088
+#EXTINF:-1,Discovery Channel FHD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=54972
+#EXTINF:-1,Discovery Channel HD IT
+http://93.115.20.208/portalgen/play.php?chID=1276
+#EXTINF:-1,Discovery Channel HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55275
+#EXTINF:-1,Discovery Channel HD VIP IT
+http://93.115.20.208/portalgen/play.php?chID=15255
+#EXTINF:-1,Discovery Science FHD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=54971
+#EXTINF:-1,Discovery Science FHD VIP IT
+http://93.115.20.208/portalgen/play.php?chID=15215
+#EXTINF:-1,Discovery Science HD IT
+http://93.115.20.208/portalgen/play.php?chID=1277
+#EXTINF:-1,Discovery Science HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55274
+#EXTINF:-1,Dmax  1 VIP IT
+http://93.115.20.208/portalgen/play.php?chID=15247
+#EXTINF:-1,Dmax FHD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55284
+#EXTINF:-1,Dmax HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55267
+#EXTINF:-1,Dmax IT
+http://93.115.20.208/portalgen/play.php?chID=1274
+#EXTINF:-1,Dmax Plus 1 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55266
+#EXTINF:-1,Focus HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55269
+#EXTINF:-1,Focus IT
+http://93.115.20.208/portalgen/play.php?chID=1273
+#EXTINF:-1,History Channel VIP IT
+http://93.115.20.208/portalgen/play.php?chID=15216
+#EXTINF:-1,History FHD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=54966
+#EXTINF:-1,History FHD VIP IT
+http://93.115.20.208/portalgen/play.php?chID=15214
+#EXTINF:-1,History HD IT
+http://93.115.20.208/portalgen/play.php?chID=1275
+#EXTINF:-1,History HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55268
+#EXTINF:-1,Marco Polo IT
+http://93.115.20.208/portalgen/play.php?chID=5199
+#EXTINF:-1,MarcoPolo HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55254
+#EXTINF:-1,Nat Geo HD IT
+http://93.115.20.208/portalgen/play.php?chID=1280
+#EXTINF:-1,Nat Geographic FHD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=54969
+#EXTINF:-1,Nat Geographic HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55272
+#EXTINF:-1,Nat Geo Wild HD IT
+http://93.115.20.208/portalgen/play.php?chID=1279
+#EXTINF:-1,NatGeo Wild FHD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=54967
+#EXTINF:-1,NatGeo Wild HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55270
+#EXTINF:-1,Pesca HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55245
+#EXTINF:-1,Caccia HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55246
+#EXTINF:-1,Caccia e Pesca VIP IT
+http://93.115.20.208/portalgen/play.php?chID=15271
+#EXTINF:-1,Italia Fishing HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55297
+#EXTINF:-1,Italian Fishing HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55244
+#EXTINF:-1,Italian Fishing IT
+http://93.115.20.208/portalgen/play.php?chID=1251
+#EXTINF:-1,Italian Fishing VIP IT
+http://93.115.20.208/portalgen/play.php?chID=15190
 
-#EXTINF:-1,IT: VIP Boing
-http://93.115.20.208/sltv/play.php?chID=379456
-#EXTINF:-1,IT: VIP Cartonito
-http://93.115.20.208/sltv/play.php?chID=379455
-#EXTINF:-1,IT: VIP Super
-http://93.115.20.208/sltv/play.php?chID=379454
-#EXTINF:-1,IT: VIP K2
-http://93.115.20.208/sltv/play.php?chID=379453
-#EXTINF:-1,IT: VIP Frisbee
-http://93.115.20.208/sltv/play.php?chID=379452
-#EXTINF:-1,IT: VIP Pop
-http://93.115.20.208/sltv/play.php?chID=379451
-#EXTINF:-1,IT: VIP Cartoon Network HD
-http://93.115.20.208/sltv/play.php?chID=379450
-#EXTINF:-1,IT: VIP Cartoon Network +1
-http://93.115.20.208/sltv/play.php?chID=379449
-#EXTINF:-1,IT: VIP Boomerang
-http://93.115.20.208/sltv/play.php?chID=379448
-#EXTINF:-1,IT: VIP Nickelodeon
-http://93.115.20.208/sltv/play.php?chID=379447
-#EXTINF:-1,IT: VIP NickJr
-http://93.115.20.208/sltv/play.php?chID=379446
-#EXTINF:-1,IT: VIP BabyTV
-http://93.115.20.208/sltv/play.php?chID=379445
-#EXTINF:-1,IT: VIP DeAJunior
-http://93.115.20.208/sltv/play.php?chID=379444
-#EXTINF:-1,IT: VIP DeAKids
-http://93.115.20.208/sltv/play.php?chID=379443
-#EXTINF:-1,IT: VIP Rai Gulp FHD
-http://93.115.20.208/sltv/play.php?chID=379442
-#EXTINF:-1,IT: VIP Rai YoYo FHD
-http://93.115.20.208/sltv/play.php?chID=379441
+#EXTINF:-1,Alice HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55253
+#EXTINF:-1,Alice IT
+http://93.115.20.208/portalgen/play.php?chID=5216
+#EXTINF:-1,Antenna Sicilia HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55218
+#EXTINF:-1,AutoMoto TV HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55322
+#EXTINF:-1,AutoMoto TV IT
+http://93.115.20.208/portalgen/play.php?chID=5213
+#EXTINF:-1,Blaze +1 VIP IT
+http://93.115.20.208/portalgen/play.php?chID=15274
+#EXTINF:-1,Blaze FHD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55038
+#EXTINF:-1,Blaze HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55387
+#EXTINF:-1,Blaze VIP IT
+http://93.115.20.208/portalgen/play.php?chID=15272
+#EXTINF:-1,CI Crime Investigation FHD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55032
+#EXTINF:-1,CI Crime Investigation HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55381
+#EXTINF:-1,CLASSICA HD VIP IT
+http://93.115.20.208/portalgen/play.php?chID=15261
+#EXTINF:-1,Canale 10 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55214
+#EXTINF:-1,Canale 21 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55213
+#EXTINF:-1,Canale 7 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55217
+#EXTINF:-1,Canale 8 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55216
+#EXTINF:-1,Canale 8 IT
+http://93.115.20.208/portalgen/play.php?chID=5228
+#EXTINF:-1,Canale Otto IT
+http://93.115.20.208/portalgen/play.php?chID=26939
+#EXTINF:-1,NOVE HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55259
+#EXTINF:-1,Cielo HD IT
+http://93.115.20.208/portalgen/play.php?chID=5217
+#EXTINF:-1,Cielo HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55377
+#EXTINF:-1,Classica HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55374
+#EXTINF:-1,Comedy Central HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55376
+#EXTINF:-1,Crime Investigation HD IT
+http://93.115.20.208/portalgen/play.php?chID=1267
+#EXTINF:-1,Food Network HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55247
+#EXTINF:-1,Gambero Rosso FHD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=54965
+#EXTINF:-1,Gambero Rosso HD IT
+http://93.115.20.208/portalgen/play.php?chID=1272
+#EXTINF:-1,Gambero Rosso HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55252
+#EXTINF:-1,Iris HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55340
+#EXTINF:-1,Iris IT
+http://93.115.20.208/portalgen/play.php?chID=5233
+#EXTINF:-1,LA7d HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55399
+#EXTINF:-1,La 5 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55396
+#EXTINF:-1,La 5 IT
+http://93.115.20.208/portalgen/play.php?chID=5232
+#EXTINF:-1,La 7D FHD IT
+http://93.115.20.208/portalgen/play.php?chID=6539
+#EXTINF:-1,La7 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55400
+#EXTINF:-1,La7 IT
+http://93.115.20.208/portalgen/play.php?chID=5231
+#EXTINF:-1,La7d HD IT
+http://93.115.20.208/portalgen/play.php?chID=5230
+#EXTINF:-1,TVRS IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55304
+#EXTINF:-1,Vera TV IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=54997
+#EXTINF:-1,TV7 Benevento (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=54996
+#EXTINF:-1,TV7 Triveneta IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=54995
+#EXTINF:-1,S PrimaFila Live 13 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=54994
+#EXTINF:-1,S PrimaFila Live 17 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=54993
+#EXTINF:-1,TSN Tele Sondrio News IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=54992
+#EXTINF:-1,Motor Trend HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55316
+#EXTINF:-1,Nove DeeJay TV HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55232
+#EXTINF:-1,Padre Pio TV HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55199
+#EXTINF:-1,Padre Pio TV VIP IT
+http://93.115.20.208/portalgen/play.php?chID=15279
+#EXTINF:-1,Paramount Channel HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55337
+#EXTINF:-1,Paramount HD IT
+http://93.115.20.208/portalgen/play.php?chID=5218
+#EXTINF:-1,QVC HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55201
+#EXTINF:-1,QVC VIP IT
+http://93.115.20.208/portalgen/play.php?chID=15177
+#EXTINF:-1,S  TG 24 HD IT
+http://93.115.20.208/portalgen/play.php?chID=5197
+#EXTINF:-1,S TG 24 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55240
+#EXTINF:-1,S Uno IT
+http://93.115.20.208/portalgen/play.php?chID=314
+#EXTINF:-1,S Uno FHD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55042
+#EXTINF:-1,S Uno HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55389
+#EXTINF:-1,Spike HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55250
+#EXTINF:-1,TG Norba 24 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55236
+#EXTINF:-1,TG Norba 24 VIP IT
+http://93.115.20.208/portalgen/play.php?chID=15292
+#EXTINF:-1,TV 2000 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55207
+#EXTINF:-1,S PrimaFila Live 14 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55209
+#EXTINF:-1,TV2000 HD IT
+http://93.115.20.208/portalgen/play.php?chID=1268
+#EXTINF:-1,TV2000 VIP IT
+http://93.115.20.208/portalgen/play.php?chID=15287
+#EXTINF:-1,Tele Bari HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55197
+#EXTINF:-1,TelePavia HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55204
+#EXTINF:-1,TelePavia VIP IT
+http://93.115.20.208/portalgen/play.php?chID=15294
+#EXTINF:-1,Tg Com 24 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55241
+#EXTINF:-1,UnirSat FHD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55251
+#EXTINF:-1,UnireSat HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55319
+#EXTINF:-1,UnireSat VIP IT
+http://93.115.20.208/portalgen/play.php?chID=15285
+#EXTINF:-1,Video Brescia HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55206
+#EXTINF:-1,Video Brescia VIP IT
+http://93.115.20.208/portalgen/play.php?chID=15284
+#EXTINF:-1,Videolina HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55212
+#EXTINF:-1,Videolina VIP IT
+http://93.115.20.208/portalgen/play.php?chID=15283
 
-#EXTINF:-1,IT: VIP Sky Tg 24
-http://93.115.20.208/sltv/play.php?chID=379439
-#EXTINF:-1,IT: VIP Tg Com24
-http://93.115.20.208/sltv/play.php?chID=379438
-#EXTINF:-1,IT: VIP Tg Norba 24
-http://93.115.20.208/sltv/play.php?chID=379437
-#EXTINF:-1,IT: VIP Rai News 24 FHD
-http://93.115.20.208/sltv/play.php?chID=379436
-#EXTINF:-1,IT: VIP VIDEOLINA
-http://93.115.20.208/sltv/play.php?chID=379435
-#EXTINF:-1,IT: VIP SARDEGNA UNO
-http://93.115.20.208/sltv/play.php?chID=379434
 
-#EXTINF:-1,IT: VIP RadioItaliaTv HD
-http://93.115.20.208/sltv/play.php?chID=379432
-#EXTINF:-1,IT: VIP RADIOZETA FHD
-http://93.115.20.208/sltv/play.php?chID=379431
-#EXTINF:-1,IT: VIP RTL102.5 FHD
-http://93.115.20.208/sltv/play.php?chID=379430
-#EXTINF:-1,IT: VIP Sky Classica FHD
-http://93.115.20.208/sltv/play.php?chID=379429
-#EXTINF:-1,IT: VIP Sky MTV FHD
-http://93.115.20.208/sltv/play.php?chID=379428
-#EXTINF:-1,IT: VIP MTV Music FHD
-http://93.115.20.208/sltv/play.php?chID=379427
-#EXTINF:-1,IT: VIP VHI
-http://93.115.20.208/sltv/play.php?chID=379426
+
+#EXTINF:-1,RTL 102.5 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55235
+#EXTINF:-1,RTL 102.5 IT
+http://93.115.20.208/portalgen/play.php?chID=5170
+#EXTINF:-1,RTL 102.5 VIP IT
+http://93.115.20.208/portalgen/play.php?chID=15281
+#EXTINF:-1,Radio 105 TV HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55233
+#EXTINF:-1,51 Radio TV IT
+http://93.115.20.208/portalgen/play.php?chID=5176
+#EXTINF:-1,Radio 105 TV VIP IT
+http://93.115.20.208/portalgen/play.php?chID=15304
+#EXTINF:-1,S PrimaFila Live 16 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55226
+#EXTINF:-1,S PrimaFila Live 15 HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=15303
+#EXTINF:-1,Radio Capital TV HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55225
+#EXTINF:-1,Radio Capital TV IT
+http://93.115.20.208/portalgen/play.php?chID=5175
+#EXTINF:-1,Radio Capital TV VIP IT
+http://93.115.20.208/portalgen/play.php?chID=15302
+#EXTINF:-1,Radio Iglesias TV HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55224
+#EXTINF:-1,Radio Italia HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55229
+#EXTINF:-1,Radio Italia TV HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55228
+#EXTINF:-1,Nove FHD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55234
+#EXTINF:-1,Nove TV VIP IT
+http://93.115.20.208/portalgen/play.php?chID=15299
+#EXTINF:-1,Radio Number One TV HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55223
+#EXTINF:-1,RadioNorba Tv HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55220
+#EXTINF:-1,Radionorba TV VIP IT
+http://93.115.20.208/portalgen/play.php?chID=15176
+#EXTINF:-1,DeeJay TV IT
+http://93.115.20.208/portalgen/play.php?chID=5223
+#EXTINF:-1,m2o HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55230
+#EXTINF:-1,m2otv IT
+http://93.115.20.208/portalgen/play.php?chID=4045
+#EXTINF:-1,M2O IT
+http://93.115.20.208/portalgen/play.php?chID=5177
+#EXTINF:-1,Virgin Radio TV HD IT (L) VIP
+http://93.115.20.208/portalgen/play.php?chID=55231
+#EXTINF:-1,S Virgin Music TV IT
+http://93.115.20.208/portalgen/play.php?chID=5172
+
+#EXTINF:-1,Canale 85 Puglia IT
+http://93.115.20.208/portalgen/play.php?chID=80974
+#EXTINF:-1,Canale 2 Altamura IT
+http://93.115.20.208/portalgen/play.php?chID=80975
+#EXTINF:-1,Primocanale Liguria IT
+http://93.115.20.208/portalgen/play.php?chID=80976
 
 
 
