@@ -1432,6 +1432,8 @@ https://live1.mediadesk.al/oranews.m3u8
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/159.ts
 #EXTINF:-1,Euronews Albania
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/175.ts
+#EXTINF:-1,Euronews Albania SD
+http://95.107.132.106/out/u/818_1.m3u8
 #EXTINF:-1,Klan News
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/167.ts
 #EXTINF:-1,Abc News
@@ -1440,6 +1442,10 @@ http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/160.ts
 http://95.107.132.105/out/u/650_1.m3u8
 #EXTINF:-1,A2 News
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/141.ts
+#EXTINF:-1,NTV
+http://95.107.132.106/out/u/832_1.m3u8
+
+
 #EXTINF:-1,RTK 1 HD
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/135.ts
 #EXTINF:-1,RTK 1 SD
@@ -1528,6 +1534,8 @@ http://78.31.67.69:25461/MetiTV2022/Kanale-falas/54
 http://95.107.132.105/out/u/672_1.m3u8
 #EXTINF:-1,AL: Tring Action HD
 http://stream.com-iptv.com:8080/TringAction/index.m3u8?token=test
+#EXTINF:-1,AL: Tring Super FHD
+http://95.107.132.106/out/u/890_1.m3u8
 #EXTINF:-1,AL: Tring Super HD
 http://stream.com-iptv.com:8080/TringSuperHD/index.m3u8?token=test
 #EXTINF:-1,AL: Tring Fantasy
@@ -1556,7 +1564,7 @@ http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/76.ts
 #EXTINF:-1,AL: Tring D Drama HD
 http://stream.com-iptv.com:8080/KanalDDramaHD/index.m3u8?token=test
 #EXTINF:-1,AL: Tring Euro Channel
-http://95.107.132.105/out/u/356_1.m3u8
+http://95.107.132.106/out/u/356_1.m3u8
 
 
 
