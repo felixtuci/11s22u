@@ -1416,6 +1416,12 @@ http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/121.ts
 http://ran.no-ips.net:8888/AL/209506/mpegts?token=test
 #EXTINF:-1,AL: MCNTV
 http://edge01eu.ekranet.com/mcntv/index.m3u8?e=018accae745180337768e41d11cc1580&c=mcntv&medium=websocket
+#EXTINF:-1,KoplikuTV  SD
+http://95.107.132.105/out/u/151_1.m3u8
+#EXTINF:-1,BesaTV  SD
+http://95.107.132.105/out/u/202_1.m3u8
+#EXTINF:-1,Fax News SD
+http://95.107.132.106/out/u/228_1.m3u8
 #EXTINF:-1,AL: OraHD
 http://live1.mediadesk.al/oratv.m3u8
 #EXTINF:-1,TV Syri MOB
@@ -1430,24 +1436,27 @@ http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/175.ts
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/167.ts
 #EXTINF:-1,Abc News
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/160.ts
+#EXTINF:-1,Abc News SD
+http://95.107.132.105/out/u/650_1.m3u8
 #EXTINF:-1,A2 News
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/141.ts
 #EXTINF:-1,RTK 1 HD
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/135.ts
-
+#EXTINF:-1,RTK 1 SD
+http://95.107.132.105/out/u/327_1.m3u8
 #EXTINF:-1,AL: RTK 3 HD
 https://srv1.iptviliria.com/RTK3/index.m3u8
 #EXTINF:-1,AL: RTK 4 HD
 https://srv1.iptviliria.com/RTK4/index.m3u8
-#EXTINF:-1,RTV 21 SD
-#EXTVLCOPT:http-user-agent=t0pka3ale.o3tt/4.0 Linux;Android 10 ExoPlayerLib/2.8.4
-http://home.fastnews24.net/new.localhost/akamaicdn-83/rtv21.m3u8
+
 #EXTINF:-1,KTV 
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/136.ts
 #EXTINF:-1,KTV HD
 https://srv1.iptviliria.com/KTV/index.m3u8
 #EXTINF:-1,T7 Kosova HD
 https://srv1.iptviliria.com/T7/index.m3u8
+#EXTINF:-1,RTV 21 SD
+http://95.107.132.105/out/u/488_1.m3u8
 #EXTINF:-1,AL: RTV 21 HD
 https://srv1.iptviliria.com/RTV21/index.m3u8
 #EXTINF:-1, RTV 21 MIX SD
@@ -1465,6 +1474,8 @@ http://95.107.132.105/out/u/144_1.m3u8
 http://stream.com-iptv.com:8080/KlanKosova/index.m3u8?token=test
 #EXTINF:-1,Klan Kosova
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/110.ts
+#EXTINF:-1,Klan Kosova SD
+http://95.107.132.105/out/u/544_1.m3u8
 #EXTINF:-1,AL: Klan MACEDONIA
 http://stream.com-iptv.com:8080/KlanMacedonia/index.m3u8?token=test
 #EXTINF:-1,Klan Macedonia
@@ -1521,19 +1532,24 @@ http://stream.com-iptv.com:8080/TringAction/index.m3u8?token=test
 http://stream.com-iptv.com:8080/TringSuperHD/index.m3u8?token=test
 #EXTINF:-1,AL: Tring Fantasy
 http://stream.com-iptv.com:8080/TringFantasy/index.m3u8?token=test
+#EXTINF:-1,AL: Tring Fantasy HD
+http://95.107.132.105/out/u/611_1.m3u8
 #EXTINF:-1,AL: Tring Comedy
 http://stream.com-iptv.com:8080/TringComedy/index.m3u8?token=test
 #EXTINF:-1,AL: Tring Life
 http://stream.com-iptv.com:8080/TringLife/index.m3u8?token=test
+#EXTINF:-1,AL: Tring Shqip SD
+http://95.107.132.105/out/u/682_1.m3u8
 #EXTINF:-1,AL: Tring Shqip
 http://stream.com-iptv.com:8080/TringShqip/index.m3u8?token=test
 #EXTINF:-1,AL: Tring Internacional
-http://95.107.132.106/out/u/606_1.m3u8
-
+http://95.107.132.105/out/u/606_1.m3u8
+#EXTINF:-1,AL: Tring 3 Plus SD
+http://95.107.132.105/out/u/722_1.m3u8
 #EXTINF:-1,AL: Tring 3 Plus
 http://stream.com-iptv.com:8080/Tring3Plus/index.m3u8?token=test
 #EXTINF:-1,AL: Tring Novelas
-http://95.107.132.106/out/u/858_1.m3u8
+http://95.107.132.105/out/u/858_1.m3u8
 
 #EXTINF:-1,Tring 3 Plus
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/76.ts
@@ -1565,6 +1581,8 @@ http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/78.ts
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/77.ts
 #EXTINF:-1,Tring Kids
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/79.ts
+#EXTINF:-1,Tring Kids SD
+http://95.107.132.106/out/u/339_1.m3u8
 #EXTINF:-1,RTV 21 Junior
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/55.ts
 #EXTINF:-1,AL: Junior TV
@@ -1638,6 +1656,9 @@ http://95.107.132.106/out/u/683_1.m3u8
 http://95.107.132.106/out/u/691_1.m3u8
 #EXTINF:-1,Tring Sport 3 HD
 http://95.107.132.106/out/u/699_1.m3u8
+#EXTINF:-1,RTSH Sport HD
+http://95.107.132.105/out/u/635_1.m3u8
+
 #EXTINF:-1,Tring Sport 4 HD
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/60.ts
 #EXTINF:-1,RTSH Sport
