@@ -1659,9 +1659,9 @@ http://stream.com-iptv.com:8080/SS6HD/index.m3u8?token=test
 #EXTINF:-1,Tring Sport News
 http://95.107.132.106/out/u/811_1.m3u8
 #EXTINF:-1,Tring Sport 1 HD
-http://95.107.132.106/out/u/683_1.m3u8
+http://95.107.132.106/out/u/684_3.m3u8
 #EXTINF:-1,Tring Sport 2 HD
-http://95.107.132.106/out/u/691_1.m3u8
+http://95.107.132.106/out/u/691_3.m3u8
 #EXTINF:-1,Tring Sport 3 HD
 http://95.107.132.106/out/u/699_1.m3u8
 #EXTINF:-1,RTSH Sport HD
