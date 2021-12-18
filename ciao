@@ -1532,6 +1532,8 @@ http://95.107.132.106/out/u/892_2.m3u8
 http://78.31.67.69:25461/MetiTV2022/Kanale-falas/54
 #EXTINF:-1,AL: Tring Collection HD
 http://95.107.132.106/out/u/847_2.m3u8
+#EXTINF:-1,AL: Tring Classic HD
+http://95.107.132.106/out/u/842_4.m3u8
 #EXTINF:-1,AL: Tring Action HD
 http://stream.com-iptv.com:8080/TringAction/index.m3u8?token=test
 #EXTINF:-1,AL: Tring Super FHD
