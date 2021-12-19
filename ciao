@@ -1445,6 +1445,8 @@ http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/167.ts
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/160.ts
 #EXTINF:-1,Abc News SD
 http://95.107.132.105/out/u/650_1.m3u8
+#EXTINF:-1,Klan News HD
+http://95.107.132.105/out/u/826_1.m3u8
 #EXTINF:-1,A2 News
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/141.ts
 #EXTINF:-1,NTV
@@ -1518,7 +1520,7 @@ http://stream.com-iptv.com:8080/FilmAksionHD/index.m3u8?token=test
 http://stream.com-iptv.com:8080/FilmAutor/index.m3u8?token=test
 
 #EXTINF:-1,AL: Film Komedi HD
-http://stream.com-iptv.com:8080/Filmkomedi/index.m3u8?token=test
+http://stream.com-iptv.com:8080/FilmKomedi/index.m3u8?token=test
 #EXTINF:-1,AL: Film Drame HD
 http://stream.com-iptv.com:8080/FilmDrame/index.m3u8?token=test
 #EXTINF:-1,AL: Film Thriller HD
@@ -1535,6 +1537,8 @@ http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/75.ts
 http://95.107.132.106/out/u/892_2.m3u8
 #EXTINF:-1,Tring Family HD
 http://78.31.67.69:25461/MetiTV2022/Kanale-falas/54
+#EXTINF:-1,AL: Tring Family HD
+http://95.107.132.106/out/u/672_4.m3u8
 #EXTINF:-1,AL: Tring Collection HD
 http://95.107.132.106/out/u/847_2.m3u8
 #EXTINF:-1,AL: Tring Classic HD
@@ -1549,6 +1553,8 @@ http://stream.com-iptv.com:8080/TringSuperHD/index.m3u8?token=test
 http://stream.com-iptv.com:8080/TringFantasy/index.m3u8?token=test
 #EXTINF:-1,AL: Tring Fantasy HD
 http://95.107.132.105/out/u/611_1.m3u8
+#EXTINF:-1,AL: Tring Comedy HD
+http://95.107.132.106/out/u/884_1.m3u8
 #EXTINF:-1,AL: Tring Comedy
 http://stream.com-iptv.com:8080/TringComedy/index.m3u8?token=test
 #EXTINF:-1,AL: Tring Life
@@ -1559,12 +1565,12 @@ http://95.107.132.105/out/u/682_1.m3u8
 http://stream.com-iptv.com:8080/TringShqip/index.m3u8?token=test
 #EXTINF:-1,AL: Tring Internacional
 http://95.107.132.105/out/u/606_1.m3u8
-#EXTINF:-1,AL: Tring 3 Plus SD
+#EXTINF:-1,AL: Tring 3 Plus HD
 http://95.107.132.105/out/u/722_1.m3u8
 #EXTINF:-1,AL: Tring 3 Plus
 http://stream.com-iptv.com:8080/Tring3Plus/index.m3u8?token=test
-#EXTINF:-1,AL: Tring Novelas
-http://95.107.132.105/out/u/858_1.m3u8
+#EXTINF:-1,AL: Tring Novelas HD
+http://95.107.132.106/out/u/858_4.m3u8
 
 #EXTINF:-1,Tring 3 Plus
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/76.ts
@@ -1581,6 +1587,8 @@ http://95.107.132.106/out/u/356_1.m3u8
 #EXTINF:-1,Tring History
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/68.ts
 #EXTINF:-1,Tring Planet
+http://95.107.132.106/out/u/874_1.m3u8
+#EXTINF:-1,Tring Planet
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/67.ts
 #EXTINF:-1,Tring World
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/66.ts
@@ -1590,6 +1598,8 @@ http://stream.com-iptv.com:8080/BangBang/index.m3u8?token=test
 
 #EXTINF:-1,AL: Cufo TV
 http://stream.com-iptv.com:8080/CufoTV/index.m3u8?token=test
+#EXTINF:-1,Tring Tring HD
+http://95.107.132.106/out/u/898_1.m3u8
 #EXTINF:-1,Tring Tring
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/78.ts
 #EXTINF:-1,Tip TV
