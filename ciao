@@ -1,1064 +1,1064 @@
 #EXTINF:-1   group-title="-IPTV SHQIP 1-",
-#EXTINF:-1,Big Brother 1 VIP
+#EXTINF:0 user-agent="+",Big Brother 1 VIP
 http://pro-unibox.com:25461/EG/Italy1/146
-#EXTINF:-1,Big Brother 2 VIP
+#EXTINF:0 user-agent="+",Big Brother 2 VIP
 http://pro-unibox.com:25461/EG/Italy1/147
-#EXTINF:-1,AL: Top Channal  FHD 4K
+#EXTINF:0 user-agent="+",AL: Top Channal  FHD 4K
 http://pro-unibox.com:25461/EG/Italy1/14
-#EXTINF:-1,AL: Top Channel  UHD
+#EXTINF:0 user-agent="+",AL: Top Channel  UHD
 http://pro-unibox.com:25461/EG/Italy1/33
-#EXTINF:-1,AL: Vizion Plus HD
+#EXTINF:0 user-agent="+",AL: Vizion Plus HD
 http://pro-unibox.com:25461/EG/Italy1/262
-#EXTINF:-1,AL: KLAN HD
+#EXTINF:0 user-agent="+",AL: KLAN HD
 http://pro-unibox.com:25461/EG/Italy1/17
-#EXTINF:-1,AL: Klan  SD
+#EXTINF:0 user-agent="+",AL: Klan  SD
 http://pro-unibox.com:25461/EG/Italy1/30
-#EXTINF:-1,AL: Klan Plus HD
+#EXTINF:0 user-agent="+",AL: Klan Plus HD
 http://pro-unibox.com:25461/EG/Italy1/34
-#EXTINF:-1,AL: Klan Plus FHD
+#EXTINF:0 user-agent="+",AL: Klan Plus FHD
 http://pro-unibox.com:25461/EG/Italy1/31
-#EXTINF:-1,AL: RTK 1 FHD
+#EXTINF:0 user-agent="+",AL: RTK 1 FHD
 http://pro-unibox.com:25461/EG/Italy1/9
-#EXTINF:-1,AL: RTK  SAT  SD
+#EXTINF:0 user-agent="+",AL: RTK  SAT  SD
 http://pro-unibox.com:25461/EG/Italy1/20
 
-#EXTINF:-1,AL: Klan Kosova FHD
+#EXTINF:0 user-agent="+",AL: Klan Kosova FHD
 http://pro-unibox.com:25461/EG/Italy1/10
-#EXTINF:-1,AL: Klan Kosova SD
+#EXTINF:0 user-agent="+",AL: Klan Kosova SD
 http://pro-unibox.com:25461/EG/Italy1/21
 
-#EXTINF:-1,AL: TV Dukagjini  UHD 4K+
+#EXTINF:0 user-agent="+",AL: TV Dukagjini  UHD 4K+
 http://pro-unibox.com:25461/EG/Italy1/11
-#EXTINF:-1,AL: TV Dukagjini FHD
+#EXTINF:0 user-agent="+",AL: TV Dukagjini FHD
 http://pro-unibox.com:25461/EG/Italy1/26
-#EXTINF:-1,AL: T7   UHD 4K+
+#EXTINF:0 user-agent="+",AL: T7   UHD 4K+
 http://pro-unibox.com:25461/EG/Italy1/12
-#EXTINF:-1,AL: T7 HD
+#EXTINF:0 user-agent="+",AL: T7 HD
 http://pro-unibox.com:25461/EG/Italy1/27
-#EXTINF:-1,AL: Alsat M  UHD 4K+
+#EXTINF:0 user-agent="+",AL: Alsat M  UHD 4K+
 http://pro-unibox.com:25461/EG/Italy1/15
-#EXTINF:-1,AL: ALSAT M SD
+#EXTINF:0 user-agent="+",AL: ALSAT M SD
 http://pro-unibox.com:25461/EG/Italy1/36
-#EXTINF:-1,AL: Kanal 10 FHD
+#EXTINF:0 user-agent="+",AL: Kanal 10 FHD
 http://pro-unibox.com:25461/EG/Italy1/16
-#EXTINF:-1,AL: Kanal 10 HD
+#EXTINF:0 user-agent="+",AL: Kanal 10 HD
 http://pro-unibox.com:25461/EG/Italy1/29
-#EXTINF:-1,AL: RTV 21  UHD 4K+
+#EXTINF:0 user-agent="+",AL: RTV 21  UHD 4K+
 http://pro-unibox.com:25461/EG/Italy1/23
-#EXTINF:-1,AL: RTV 21
+#EXTINF:0 user-agent="+",AL: RTV 21
 http://pro-unibox.com:25461/EG/Italy1/22
-#EXTINF:-1,AL: RTV 21 MK HD
+#EXTINF:0 user-agent="+",AL: RTV 21 MK HD
 http://pro-unibox.com:25461/EG/Italy1/24
-#EXTINF:-1,AL: KTV UHD 4K+
+#EXTINF:0 user-agent="+",AL: KTV UHD 4K+
 http://pro-unibox.com:25461/EG/Italy1/13
-#EXTINF:-1,AL: KTV HD
+#EXTINF:0 user-agent="+",AL: KTV HD
 http://pro-unibox.com:25461/EG/Italy1/25
 
-#EXTINF:-1,AL : Klan  Makedonia HD
+#EXTINF:0 user-agent="+",AL : Klan  Makedonia HD
 http://pro-unibox.com:25461/EG/Italy1/35
-#EXTINF:-1,AL: ATV FHD
+#EXTINF:0 user-agent="+",AL: ATV FHD
 http://pro-unibox.com:25461/EG/Italy1/18
-#EXTINF:-1,AL: ATV HD
+#EXTINF:0 user-agent="+",AL: ATV HD
 http://pro-unibox.com:25461/EG/Italy1/28
-#EXTINF:-1,AL: RTSH 1HD
+#EXTINF:0 user-agent="+",AL: RTSH 1HD
 http://pro-unibox.com:25461/EG/Italy1/266
-#EXTINF:-1,AL: RTSH 2HD
+#EXTINF:0 user-agent="+",AL: RTSH 2HD
 http://pro-unibox.com:25461/EG/Italy1/269
-#EXTINF:-1,AL: RTSH 3HD
+#EXTINF:0 user-agent="+",AL: RTSH 3HD
 http://pro-unibox.com:25461/EG/Italy1/270
 
-#EXTINF:-1,AL: RTK 3 UHD 4K+
+#EXTINF:0 user-agent="+",AL: RTK 3 UHD 4K+
 http://pro-unibox.com:25461/EG/Italy1/38
-#EXTINF:-1,AL: Top News FHD
+#EXTINF:0 user-agent="+",AL: Top News FHD
 http://pro-unibox.com:25461/EG/Italy1/39
-#EXTINF:-1,AL: Arta News FHD
+#EXTINF:0 user-agent="+",AL: Arta News FHD
 http://pro-unibox.com:25461/EG/Italy1/40
-#EXTINF:-1,AL: Abc News FHD
+#EXTINF:0 user-agent="+",AL: Abc News FHD
 http://pro-unibox.com:25461/EG/Italy1/41
-#EXTINF:-1,AL: News 24 FHD
+#EXTINF:0 user-agent="+",AL: News 24 FHD
 http://pro-unibox.com:25461/EG/Italy1/42
-#EXTINF:-1,AL: Kanali 7 HD
+#EXTINF:0 user-agent="+",AL: Kanali 7 HD
 http://pro-unibox.com:25461/EG/Italy1/43
-#EXTINF:-1,AL: A2 CNN HD
+#EXTINF:0 user-agent="+",AL: A2 CNN HD
 http://pro-unibox.com:25461/EG/Italy1/44
-#EXTINF:-1,AL: Ora News FHD
+#EXTINF:0 user-agent="+",AL: Ora News FHD
 http://pro-unibox.com:25461/EG/Italy1/45
-#EXTINF:-1,AL: Fax News FHD
+#EXTINF:0 user-agent="+",AL: Fax News FHD
 http://pro-unibox.com:25461/EG/Italy1/46
-#EXTINF:-1,AL: Family HD
+#EXTINF:0 user-agent="+",AL: Family HD
 http://pro-unibox.com:25461/EG/Italy1/62
-#EXTINF:-1,AL: Film GOLD
+#EXTINF:0 user-agent="+",AL: Film GOLD
 http://pro-unibox.com:25461/EG/Italy1/47
-#EXTINF:-1,AL: Film Dy FHD
+#EXTINF:0 user-agent="+",AL: Film Dy FHD
 http://pro-unibox.com:25461/EG/Italy1/48
-#EXTINF:-1,AL: Film Stinet HD
+#EXTINF:0 user-agent="+",AL: Film Stinet HD
 http://pro-unibox.com:25461/EG/Italy1/49
-#EXTINF:-1,AL: Film Komedi HD
+#EXTINF:0 user-agent="+",AL: Film Komedi HD
 http://pro-unibox.com:25461/EG/Italy1/50
-#EXTINF:-1,AL: Film Aksion HD
+#EXTINF:0 user-agent="+",AL: Film Aksion HD
 http://pro-unibox.com:25461/EG/Italy1/51
-#EXTINF:-1,AL: Film Hits HD
+#EXTINF:0 user-agent="+",AL: Film Hits HD
 http://pro-unibox.com:25461/EG/Italy1/52
-#EXTINF:-1,AL: Film Thriller HD
+#EXTINF:0 user-agent="+",AL: Film Thriller HD
 http://pro-unibox.com:25461/EG/Italy1/53
-#EXTINF:-1,AL: Film Drame HD
+#EXTINF:0 user-agent="+",AL: Film Drame HD
 http://pro-unibox.com:25461/EG/Italy1/54
-#EXTINF:-1,AL: Film Autor HD
+#EXTINF:0 user-agent="+",AL: Film Autor HD
 http://pro-unibox.com:25461/EG/Italy1/55
-#EXTINF:-1,Eurofilm
+#EXTINF:0 user-agent="+",Eurofilm
 http://pro-unibox.com:25461/EG/Italy1/649
-#EXTINF:-1,AL: Euro Film 1 HD AL
+#EXTINF:0 user-agent="+",AL: Euro Film 1 HD AL
 http://pro-unibox.com:25461/EG/Italy1/71
-#EXTINF:-1,AL: T FHD
+#EXTINF:0 user-agent="+",AL: T FHD
 http://pro-unibox.com:25461/EG/Italy1/59
-#EXTINF:-1,AL: Living FHD
+#EXTINF:0 user-agent="+",AL: Living FHD
 http://pro-unibox.com:25461/EG/Italy1/60
-#EXTINF:-1,AL: Kitchen
+#EXTINF:0 user-agent="+",AL: Kitchen
 http://pro-unibox.com:25461/EG/Italy1/61
-#EXTINF:-1,AL: Tring Super HD
+#EXTINF:0 user-agent="+",AL: Tring Super HD
 http://pro-unibox.com:25461/EG/Italy1/63
-#EXTINF:-1,AL: Tring Aksion FHD
+#EXTINF:0 user-agent="+",AL: Tring Aksion FHD
 http://pro-unibox.com:25461/EG/Italy1/64
-#EXTINF:-1,AL: Tring Fantasy FHD
+#EXTINF:0 user-agent="+",AL: Tring Fantasy FHD
 http://pro-unibox.com:25461/EG/Italy1/65
-#EXTINF:-1,AL: Tring Comedy FHD
+#EXTINF:0 user-agent="+",AL: Tring Comedy FHD
 http://pro-unibox.com:25461/EG/Italy1/66
-#EXTINF:-1,AL: Tring Smile FHD
+#EXTINF:0 user-agent="+",AL: Tring Smile FHD
 http://pro-unibox.com:25461/EG/Italy1/69
-#EXTINF:-1,AL: Tring Life FHD
+#EXTINF:0 user-agent="+",AL: Tring Life FHD
 http://pro-unibox.com:25461/EG/Italy1/70
-#EXTINF:-1,AL: Tring Jolly HD
+#EXTINF:0 user-agent="+",AL: Tring Jolly HD
 http://pro-unibox.com:25461/EG/Italy1/56
-#EXTINF:-1,AL: Tring 3 Plus FHD
+#EXTINF:0 user-agent="+",AL: Tring 3 Plus FHD
 http://pro-unibox.com:25461/EG/Italy1/57
-#EXTINF:-1,AL: Tring Shqip FHD
+#EXTINF:0 user-agent="+",AL: Tring Shqip FHD
 http://pro-unibox.com:25461/EG/Italy1/67
-#EXTINF:-1,AL: TDC
+#EXTINF:0 user-agent="+",AL: TDC
 http://pro-unibox.com:25461/EG/Italy1/58
-#EXTINF:-1,AL: Art Kino 1 HD
+#EXTINF:0 user-agent="+",AL: Art Kino 1 HD
 http://pro-unibox.com:25461/EG/Italy1/91
-#EXTINF:-1,AL: Art Kino 2 HD
+#EXTINF:0 user-agent="+",AL: Art Kino 2 HD
 http://pro-unibox.com:25461/EG/Italy1/92
-#EXTINF:-1,AL: Art Kino 3 HD
+#EXTINF:0 user-agent="+",AL: Art Kino 3 HD
 http://pro-unibox.com:25461/EG/Italy1/93
-#EXTINF:-1,AL: Kino Premiere 1 HD
+#EXTINF:0 user-agent="+",AL: Kino Premiere 1 HD
 http://pro-unibox.com:25461/EG/Italy1/89
-#EXTINF:-1,AL: Kino Premiere 2 HD
+#EXTINF:0 user-agent="+",AL: Kino Premiere 2 HD
 http://pro-unibox.com:25461/EG/Italy1/90
-#EXTINF:-1,AL: Kino Action HD
+#EXTINF:0 user-agent="+",AL: Kino Action HD
 http://pro-unibox.com:25461/EG/Italy1/88
-#EXTINF:-1,AL: KS Premiere 1 AL
+#EXTINF:0 user-agent="+",AL: KS Premiere 1 AL
 http://pro-unibox.com:25461/EG/Italy1/75
-#EXTINF:-1,AL: KS Premiere 2 AL
+#EXTINF:0 user-agent="+",AL: KS Premiere 2 AL
 http://pro-unibox.com:25461/EG/Italy1/76
-#EXTINF:-1,AL: KS Premiere 3 AL
+#EXTINF:0 user-agent="+",AL: KS Premiere 3 AL
 http://pro-unibox.com:25461/EG/Italy1/77
-#EXTINF:-1,AL: KS Premiere 4 AL
+#EXTINF:0 user-agent="+",AL: KS Premiere 4 AL
 http://pro-unibox.com:25461/EG/Italy1/78
-#EXTINF:-1,AL: KS SHQIP AL
+#EXTINF:0 user-agent="+",AL: KS SHQIP AL
 http://pro-unibox.com:25461/EG/Italy1/79
-#EXTINF:-1,AL: KS AKSION AL
+#EXTINF:0 user-agent="+",AL: KS AKSION AL
 http://pro-unibox.com:25461/EG/Italy1/80
-#EXTINF:-1,AL: KS COMEDY AL
+#EXTINF:0 user-agent="+",AL: KS COMEDY AL
 http://pro-unibox.com:25461/EG/Italy1/81
-#EXTINF:-1,AL: KS Hits AL
+#EXTINF:0 user-agent="+",AL: KS Hits AL
 http://pro-unibox.com:25461/EG/Italy1/82
-#EXTINF:-1,AL: Alba Box Premium 1 HD
+#EXTINF:0 user-agent="+",AL: Alba Box Premium 1 HD
 http://pro-unibox.com:25461/EG/Italy1/115
-#EXTINF:-1,AL: Alba Box Premium 2 HD
+#EXTINF:0 user-agent="+",AL: Alba Box Premium 2 HD
 http://pro-unibox.com:25461/EG/Italy1/116
-#EXTINF:-1,AL: Alba Box Premium 3 HD
+#EXTINF:0 user-agent="+",AL: Alba Box Premium 3 HD
 http://pro-unibox.com:25461/EG/Italy1/117
-#EXTINF:-1,AL: Alba Box Western HD
+#EXTINF:0 user-agent="+",AL: Alba Box Western HD
 http://pro-unibox.com:25461/EG/Italy1/114
-#EXTINF:-1,AL: Alba Box Komedi HD
+#EXTINF:0 user-agent="+",AL: Alba Box Komedi HD
 http://pro-unibox.com:25461/EG/Italy1/113
-#EXTINF:-1,AL: Alba Box Hindi HD
+#EXTINF:0 user-agent="+",AL: Alba Box Hindi HD
 http://pro-unibox.com:25461/EG/Italy1/111
-#EXTINF:-1,AL: Alba Box Dramë HD
+#EXTINF:0 user-agent="+",AL: Alba Box Dramë HD
 http://pro-unibox.com:25461/EG/Italy1/110
-#EXTINF:-1,AL: Alba Box Aksion HD
+#EXTINF:0 user-agent="+",AL: Alba Box Aksion HD
 http://pro-unibox.com:25461/EG/Italy1/108
-#EXTINF:-1,AL: Alba Box Shqipë HD
+#EXTINF:0 user-agent="+",AL: Alba Box Shqipë HD
 http://pro-unibox.com:25461/EG/Italy1/112
-#EXTINF:-1,AL: ALBFLIX KINO 1 HD
+#EXTINF:0 user-agent="+",AL: ALBFLIX KINO 1 HD
 http://pro-unibox.com:25461/EG/Italy1/107
-#EXTINF:-1,AL: ALBFLIX FILM DRAME
+#EXTINF:0 user-agent="+",AL: ALBFLIX FILM DRAME
 http://pro-unibox.com:25461/EG/Italy1/106
-#EXTINF:-1,AL: ALBFLIX ACTION HD
+#EXTINF:0 user-agent="+",AL: ALBFLIX ACTION HD
 http://pro-unibox.com:25461/EG/Italy1/105
-#EXTINF:-1,AL: Tele one 1 HD
+#EXTINF:0 user-agent="+",AL: Tele one 1 HD
 http://pro-unibox.com:25461/EG/Italy1/99
-#EXTINF:-1,AL: Tele one 2 HD
+#EXTINF:0 user-agent="+",AL: Tele one 2 HD
 http://pro-unibox.com:25461/EG/Italy1/100
-#EXTINF:-1,AL: Tele one 3 HD
+#EXTINF:0 user-agent="+",AL: Tele one 3 HD
 http://pro-unibox.com:25461/EG/Italy1/101
-#EXTINF:-1,AL: Tele one 4 HD
+#EXTINF:0 user-agent="+",AL: Tele one 4 HD
 http://pro-unibox.com:25461/EG/Italy1/102
-#EXTINF:-1,AL: Tele one 5 HD
+#EXTINF:0 user-agent="+",AL: Tele one 5 HD
 http://pro-unibox.com:25461/EG/Italy1/103
-#EXTINF:-1,AL: Tele one 6 HD
+#EXTINF:0 user-agent="+",AL: Tele one 6 HD
 http://pro-unibox.com:25461/EG/Italy1/104
-#EXTINF:-1,AL: WebStar Film 1 HD
+#EXTINF:0 user-agent="+",AL: WebStar Film 1 HD
 http://pro-unibox.com:25461/EG/Italy1/125
-#EXTINF:-1,AL: WebStar Film 2 HD (La CASA de Papel
+#EXTINF:0 user-agent="+",AL: WebStar Film 2 HD (La CASA de Papel
 http://pro-unibox.com:25461/EG/Italy1/126
-#EXTINF:-1,AL: WebStar Film 3 HD
+#EXTINF:0 user-agent="+",AL: WebStar Film 3 HD
 http://pro-unibox.com:25461/EG/Italy1/127
-#EXTINF:-1,AL: WebStar Thriller HD
+#EXTINF:0 user-agent="+",AL: WebStar Thriller HD
 http://pro-unibox.com:25461/EG/Italy1/124
-#EXTINF:-1,AL: WebStar Komedi HD
+#EXTINF:0 user-agent="+",AL: WebStar Komedi HD
 http://pro-unibox.com:25461/EG/Italy1/123
-#EXTINF:-1,AL: WebStar Film Drame HD
+#EXTINF:0 user-agent="+",AL: WebStar Film Drame HD
 http://pro-unibox.com:25461/EG/Italy1/122
-#EXTINF:-1,AL: WebStar Cinema HD
+#EXTINF:0 user-agent="+",AL: WebStar Cinema HD
 http://pro-unibox.com:25461/EG/Italy1/120
-#EXTINF:-1,AL:  WebStar Aksion HD
+#EXTINF:0 user-agent="+",AL:  WebStar Aksion HD
 http://pro-unibox.com:25461/EG/Italy1/118
-#EXTINF:-1,AL: Sky Max FHD
+#EXTINF:0 user-agent="+",AL: Sky Max FHD
 http://pro-unibox.com:25461/EG/Italy1/94
-#EXTINF:-1,AL: Sky Aksion FHD
+#EXTINF:0 user-agent="+",AL: Sky Aksion FHD
 http://pro-unibox.com:25461/EG/Italy1/95
-#EXTINF:-1,AL: Sky Komedi FHD
+#EXTINF:0 user-agent="+",AL: Sky Komedi FHD
 http://pro-unibox.com:25461/EG/Italy1/96
-#EXTINF:-1,AL: Sky Drame FHD
+#EXTINF:0 user-agent="+",AL: Sky Drame FHD
 http://pro-unibox.com:25461/EG/Italy1/97
-#EXTINF:-1,AL: ART Episode TV
+#EXTINF:0 user-agent="+",AL: ART Episode TV
 http://pro-unibox.com:25461/EG/Italy1/98
-#EXTINF:-1,AL: LionTv Shqip  HD
+#EXTINF:0 user-agent="+",AL: LionTv Shqip  HD
 http://pro-unibox.com:25461/EG/Italy1/140
-#EXTINF:-1,AL: X Premium 1 HD
+#EXTINF:0 user-agent="+",AL: X Premium 1 HD
 http://pro-unibox.com:25461/EG/Italy1/128
-#EXTINF:-1,AL: X Premium 2 HD
+#EXTINF:0 user-agent="+",AL: X Premium 2 HD
 http://pro-unibox.com:25461/EG/Italy1/129
-#EXTINF:-1,AL: X Premium 3 HD
+#EXTINF:0 user-agent="+",AL: X Premium 3 HD
 http://pro-unibox.com:25461/EG/Italy1/130
-#EXTINF:-1,AL: X Family HD
+#EXTINF:0 user-agent="+",AL: X Family HD
 http://pro-unibox.com:25461/EG/Italy1/131
-#EXTINF:-1,AL: X Dark HD
+#EXTINF:0 user-agent="+",AL: X Dark HD
 http://pro-unibox.com:25461/EG/Italy1/132
-#EXTINF:-1,AL: X Comedy HD
+#EXTINF:0 user-agent="+",AL: X Comedy HD
 http://pro-unibox.com:25461/EG/Italy1/133
-#EXTINF:-1,AL: X Action HD
+#EXTINF:0 user-agent="+",AL: X Action HD
 http://pro-unibox.com:25461/EG/Italy1/134
-#EXTINF:-1,AL: X Gold 1 HD
+#EXTINF:0 user-agent="+",AL: X Gold 1 HD
 http://pro-unibox.com:25461/EG/Italy1/136
-#EXTINF:-1,AL: X Gold 2 HD
+#EXTINF:0 user-agent="+",AL: X Gold 2 HD
 http://pro-unibox.com:25461/EG/Italy1/137
-#EXTINF:-1,AL: X Gold 3 HD
+#EXTINF:0 user-agent="+",AL: X Gold 3 HD
 http://pro-unibox.com:25461/EG/Italy1/138
-#EXTINF:-1,AL: X Gold 4 HD
+#EXTINF:0 user-agent="+",AL: X Gold 4 HD
 http://pro-unibox.com:25461/EG/Italy1/139
-#EXTINF:-1,AL: RTSH Film FHD
+#EXTINF:0 user-agent="+",AL: RTSH Film FHD
 http://pro-unibox.com:25461/EG/Italy1/87
 
-#EXTINF:-1,AL: Super Sport 1 FHD
+#EXTINF:0 user-agent="+",AL: Super Sport 1 FHD
 http://pro-unibox.com:25461/EG/Italy1/153
-#EXTINF:-1,AL: Super Sport 2 FHD
+#EXTINF:0 user-agent="+",AL: Super Sport 2 FHD
 http://pro-unibox.com:25461/EG/Italy1/155
-#EXTINF:-1,AL: Super Sport 3 FHD
+#EXTINF:0 user-agent="+",AL: Super Sport 3 FHD
 http://pro-unibox.com:25461/EG/Italy1/157
-#EXTINF:-1,AL: Super Sport 4 FHD
+#EXTINF:0 user-agent="+",AL: Super Sport 4 FHD
 http://pro-unibox.com:25461/EG/Italy1/159
-#EXTINF:-1,AL: Super Sport 1 HD
+#EXTINF:0 user-agent="+",AL: Super Sport 1 HD
 http://pro-unibox.com:25461/EG/Italy1/152
-#EXTINF:-1,AL: Super Sport 2 HD
+#EXTINF:0 user-agent="+",AL: Super Sport 2 HD
 http://pro-unibox.com:25461/EG/Italy1/154
-#EXTINF:-1,AL: Super Sport 3 HD
+#EXTINF:0 user-agent="+",AL: Super Sport 3 HD
 http://pro-unibox.com:25461/EG/Italy1/156
-#EXTINF:-1,AL: Super Sport 4 HD
+#EXTINF:0 user-agent="+",AL: Super Sport 4 HD
 http://pro-unibox.com:25461/EG/Italy1/158
-#EXTINF:-1,AL: Super Sport 5 FHD
+#EXTINF:0 user-agent="+",AL: Super Sport 5 FHD
 http://pro-unibox.com:25461/EG/Italy1/160
-#EXTINF:-1,AL: Tring Sport 1 FHD
+#EXTINF:0 user-agent="+",AL: Tring Sport 1 FHD
 http://pro-unibox.com:25461/EG/Italy1/162
-#EXTINF:-1,AL: Tring Sport VIP 1 HD
+#EXTINF:0 user-agent="+",AL: Tring Sport VIP 1 HD
 http://pro-unibox.com:25461/EG/Italy1/161
-#EXTINF:-1,AL: Tring Sport 2 FHD
+#EXTINF:0 user-agent="+",AL: Tring Sport 2 FHD
 http://pro-unibox.com:25461/EG/Italy1/164
-#EXTINF:-1,AL: Tring Sport VIP 2 HD
+#EXTINF:0 user-agent="+",AL: Tring Sport VIP 2 HD
 http://pro-unibox.com:25461/EG/Italy1/163
-#EXTINF:-1,AL: Tring Sport 3 FHD
+#EXTINF:0 user-agent="+",AL: Tring Sport 3 FHD
 http://pro-unibox.com:25461/EG/Italy1/166
-#EXTINF:-1,AL: Tring Sport  VIP 3 HD
+#EXTINF:0 user-agent="+",AL: Tring Sport  VIP 3 HD
 http://pro-unibox.com:25461/EG/Italy1/165
-#EXTINF:-1,AL: Tring Sport 4 FHD
+#EXTINF:0 user-agent="+",AL: Tring Sport 4 FHD
 http://pro-unibox.com:25461/EG/Italy1/168
-#EXTINF:-1,AL: Tring Sport  VIP 4 HD
+#EXTINF:0 user-agent="+",AL: Tring Sport  VIP 4 HD
 http://pro-unibox.com:25461/EG/Italy1/167
-#EXTINF:-1,AL: ART Sport 1 HD
+#EXTINF:0 user-agent="+",AL: ART Sport 1 HD
 http://pro-unibox.com:25461/EG/Italy1/173
-#EXTINF:-1,AL: ART Sport 2 HD
+#EXTINF:0 user-agent="+",AL: ART Sport 2 HD
 http://pro-unibox.com:25461/EG/Italy1/174
-#EXTINF:-1,AL: ART Sport 3 HD
+#EXTINF:0 user-agent="+",AL: ART Sport 3 HD
 http://pro-unibox.com:25461/EG/Italy1/175
-#EXTINF:-1,AL: AL K SPORT1 VIP HD
+#EXTINF:0 user-agent="+",AL: AL K SPORT1 VIP HD
 http://pro-unibox.com:25461/EG/Italy1/169
-#EXTINF:-1,AL: AL K SPORT2 VIP HD
+#EXTINF:0 user-agent="+",AL: AL K SPORT2 VIP HD
 http://pro-unibox.com:25461/EG/Italy1/170
-#EXTINF:-1,AL: AL K SPORT3 VIP HD
+#EXTINF:0 user-agent="+",AL: AL K SPORT3 VIP HD
 http://pro-unibox.com:25461/EG/Italy1/171
-#EXTINF:-1,AL: AL K SPORT4 VIP HD
+#EXTINF:0 user-agent="+",AL: AL K SPORT4 VIP HD
 http://pro-unibox.com:25461/EG/Italy1/172
-#EXTINF:-1,UK: BT SPORT 1 HD
+#EXTINF:0 user-agent="+",UK: BT SPORT 1 HD
 http://pro-unibox.com:25461/EG/Italy1/210
-#EXTINF:-1,UK: BT Sport 1
+#EXTINF:0 user-agent="+",UK: BT Sport 1
 http://pro-unibox.com:25461/EG/Italy1/209
-#EXTINF:-1,UK: BT SPORT 2 HD
+#EXTINF:0 user-agent="+",UK: BT SPORT 2 HD
 http://pro-unibox.com:25461/EG/Italy1/212
-#EXTINF:-1,UK: BT Sport 2
+#EXTINF:0 user-agent="+",UK: BT Sport 2
 http://pro-unibox.com:25461/EG/Italy1/211
-#EXTINF:-1,UK: BT Sport  3 HD
+#EXTINF:0 user-agent="+",UK: BT Sport  3 HD
 http://pro-unibox.com:25461/EG/Italy1/213
-#EXTINF:-1,Ex Yu: Sport Klub 1 FHD
+#EXTINF:0 user-agent="+",Ex Yu: Sport Klub 1 FHD
 http://pro-unibox.com:25461/EG/Italy1/182
-#EXTINF:-1,Ex Yu: Sport Klub 2 FHD
+#EXTINF:0 user-agent="+",Ex Yu: Sport Klub 2 FHD
 http://pro-unibox.com:25461/EG/Italy1/183
-#EXTINF:-1,Ex Yu: Sport Klub 3 FHD
+#EXTINF:0 user-agent="+",Ex Yu: Sport Klub 3 FHD
 http://pro-unibox.com:25461/EG/Italy1/184
-#EXTINF:-1,Ex Yu: Sport Klub 4 FHD
+#EXTINF:0 user-agent="+",Ex Yu: Sport Klub 4 FHD
 http://pro-unibox.com:25461/EG/Italy1/185
-#EXTINF:-1,Ex Yu: Sport Klub 5 FHD
+#EXTINF:0 user-agent="+",Ex Yu: Sport Klub 5 FHD
 http://pro-unibox.com:25461/EG/Italy1/186
-#EXTINF:-1,Ex Yu: Sport Klub 6 FHD
+#EXTINF:0 user-agent="+",Ex Yu: Sport Klub 6 FHD
 http://pro-unibox.com:25461/EG/Italy1/187
-#EXTINF:-1,Ex Yu: Arena Sport 1 HR FHD
+#EXTINF:0 user-agent="+",Ex Yu: Arena Sport 1 HR FHD
 http://pro-unibox.com:25461/EG/Italy1/188
-#EXTINF:-1,Ex Yu: Arena Sport 2 HR FHD
+#EXTINF:0 user-agent="+",Ex Yu: Arena Sport 2 HR FHD
 http://pro-unibox.com:25461/EG/Italy1/189
-#EXTINF:-1,Ex Yu: Arena Sport 3 HR FHD
+#EXTINF:0 user-agent="+",Ex Yu: Arena Sport 3 HR FHD
 http://pro-unibox.com:25461/EG/Italy1/190
-#EXTINF:-1,Ex Yu: Arena Sport 4 HR FHD
+#EXTINF:0 user-agent="+",Ex Yu: Arena Sport 4 HR FHD
 http://pro-unibox.com:25461/EG/Italy1/191
-#EXTINF:-1,Ex Yu: Arena Sport 1 FHD
+#EXTINF:0 user-agent="+",Ex Yu: Arena Sport 1 FHD
 http://pro-unibox.com:25461/EG/Italy1/192
-#EXTINF:-1,Ex Yu: Arena Sport 2 FHD
+#EXTINF:0 user-agent="+",Ex Yu: Arena Sport 2 FHD
 http://pro-unibox.com:25461/EG/Italy1/193
-#EXTINF:-1,Ex Yu: Arena Sport 3 FHD
+#EXTINF:0 user-agent="+",Ex Yu: Arena Sport 3 FHD
 http://pro-unibox.com:25461/EG/Italy1/194
-#EXTINF:-1,Ex Yu: Arena Sport 4 FHD
+#EXTINF:0 user-agent="+",Ex Yu: Arena Sport 4 FHD
 http://pro-unibox.com:25461/EG/Italy1/195
-#EXTINF:-1,Ex Yu: Arena Sport 5 FHD
+#EXTINF:0 user-agent="+",Ex Yu: Arena Sport 5 FHD
 http://pro-unibox.com:25461/EG/Italy1/196
-#EXTINF:-1,Ex Yu: Arena Sport 6 FHD
+#EXTINF:0 user-agent="+",Ex Yu: Arena Sport 6 FHD
 http://pro-unibox.com:25461/EG/Italy1/197
-#EXTINF:-1,Arena Sport 6 HD (CRO)
+#EXTINF:0 user-agent="+",Arena Sport 6 HD (CRO)
 http://pro-unibox.com:25461/EG/Italy1/198
-#EXTINF:-1,Arena Sport 7 HD (CRO)
+#EXTINF:0 user-agent="+",Arena Sport 7 HD (CRO)
 http://pro-unibox.com:25461/EG/Italy1/199
-#EXTINF:-1,Arena Sport 8 HD (CRO)
+#EXTINF:0 user-agent="+",Arena Sport 8 HD (CRO)
 http://pro-unibox.com:25461/EG/Italy1/200
-#EXTINF:-1,Arena Sport 9 HD (CRO)
+#EXTINF:0 user-agent="+",Arena Sport 9 HD (CRO)
 http://pro-unibox.com:25461/EG/Italy1/201
-#EXTINF:-1,Arena Sport 10 HD (CRO)
+#EXTINF:0 user-agent="+",Arena Sport 10 HD (CRO)
 http://pro-unibox.com:25461/EG/Italy1/202
-#EXTINF:-1,Ex Yu: Eurosport 1 FHD
+#EXTINF:0 user-agent="+",Ex Yu: Eurosport 1 FHD
 http://pro-unibox.com:25461/EG/Italy1/203
-#EXTINF:-1,Ex Yu: Eurosport 2 FHD
+#EXTINF:0 user-agent="+",Ex Yu: Eurosport 2 FHD
 http://pro-unibox.com:25461/EG/Italy1/204
-#EXTINF:-1,UK: Sky Sport Arena HD
+#EXTINF:0 user-agent="+",UK: Sky Sport Arena HD
 http://pro-unibox.com:25461/EG/Italy1/205
-#EXTINF:-1,Uk: Sky Sport Cricket
+#EXTINF:0 user-agent="+",Uk: Sky Sport Cricket
 http://pro-unibox.com:25461/EG/Italy1/206
-#EXTINF:-1,UK: Sky Sport MIX
+#EXTINF:0 user-agent="+",UK: Sky Sport MIX
 http://pro-unibox.com:25461/EG/Italy1/207
-#EXTINF:-1,UK: Sky Sport News HD
+#EXTINF:0 user-agent="+",UK: Sky Sport News HD
 http://pro-unibox.com:25461/EG/Italy1/208
-#EXTINF:-1,UK: premiere sports 2
+#EXTINF:0 user-agent="+",UK: premiere sports 2
 http://pro-unibox.com:25461/EG/Italy1/214
-#EXTINF:-1,UK: Eurosport 1 UK HD
+#EXTINF:0 user-agent="+",UK: Eurosport 1 UK HD
 http://pro-unibox.com:25461/EG/Italy1/215
-#EXTINF:-1,UK: Eurosport 2 UK
+#EXTINF:0 user-agent="+",UK: Eurosport 2 UK
 http://pro-unibox.com:25461/EG/Italy1/216
-#EXTINF:-1,FR: BeIN Sports 1
+#EXTINF:0 user-agent="+",FR: BeIN Sports 1
 http://pro-unibox.com:25461/EG/Italy1/217
-#EXTINF:-1,FR: BeIN Sports 2
+#EXTINF:0 user-agent="+",FR: BeIN Sports 2
 http://pro-unibox.com:25461/EG/Italy1/218
-#EXTINF:-1,FR: BeIN Sports 3
+#EXTINF:0 user-agent="+",FR: BeIN Sports 3
 http://pro-unibox.com:25461/EG/Italy1/219
-#EXTINF:-1,FR: beIN Sports MAX 4
+#EXTINF:0 user-agent="+",FR: beIN Sports MAX 4
 http://pro-unibox.com:25461/EG/Italy1/220
-#EXTINF:-1,BEIN SPORTS 1 HD
+#EXTINF:0 user-agent="+",BEIN SPORTS 1 HD
 http://pro-unibox.com:25461/EG/Italy1/298
-#EXTINF:-1,BEIN SPORTS 2 HD
+#EXTINF:0 user-agent="+",BEIN SPORTS 2 HD
 http://pro-unibox.com:25461/EG/Italy1/299
-#EXTINF:-1,BEIN SPORTS 3 HD
+#EXTINF:0 user-agent="+",BEIN SPORTS 3 HD
 http://pro-unibox.com:25461/EG/Italy1/300
-#EXTINF:-1,Bein SPORT 4 HD
+#EXTINF:0 user-agent="+",Bein SPORT 4 HD
 http://pro-unibox.com:25461/EG/Italy1/301
-#EXTINF:-1,Bein SPORT 5 HD
+#EXTINF:0 user-agent="+",Bein SPORT 5 HD
 http://pro-unibox.com:25461/EG/Italy1/302
-#EXTINF:-1,Bein SPORT 6 HD
+#EXTINF:0 user-agent="+",Bein SPORT 6 HD
 http://pro-unibox.com:25461/EG/Italy1/303
-#EXTINF:-1,AL: WebStar Music HD
+#EXTINF:0 user-agent="+",AL: WebStar Music HD
 http://pro-unibox.com:25461/EG/Italy1/244
-#EXTINF:-1,AL: Alba Box Muzikë HD
+#EXTINF:0 user-agent="+",AL: Alba Box Muzikë HD
 http://pro-unibox.com:25461/EG/Italy1/109
-#EXTINF:-1,AL: RTK 4 FHD
+#EXTINF:0 user-agent="+",AL: RTK 4 FHD
 http://pro-unibox.com:25461/EG/Italy1/259
-#EXTINF:-1,AL: RTV 21 Mix FHD
+#EXTINF:0 user-agent="+",AL: RTV 21 Mix FHD
 http://pro-unibox.com:25461/EG/Italy1/260
-#EXTINF:-1,AL: WebStar Popullore HD
+#EXTINF:0 user-agent="+",AL: WebStar Popullore HD
 http://pro-unibox.com:25461/EG/Italy1/241
-#EXTINF:-1,AL: RTV 21 Popullore FHD
+#EXTINF:0 user-agent="+",AL: RTV 21 Popullore FHD
 http://pro-unibox.com:25461/EG/Italy1/263
-#EXTINF:-1,AL: Popullore HD
+#EXTINF:0 user-agent="+",AL: Popullore HD
 http://pro-unibox.com:25461/EG/Italy1/264
-#EXTINF:-1,AL: WebStar Qifteli HD
+#EXTINF:0 user-agent="+",AL: WebStar Qifteli HD
 http://pro-unibox.com:25461/EG/Italy1/242
-#EXTINF:-1,AL: Explorer Shkence HD
+#EXTINF:0 user-agent="+",AL: Explorer Shkence HD
 http://pro-unibox.com:25461/EG/Italy1/231
-#EXTINF:-1,AL: Explorer Natyre HD
+#EXTINF:0 user-agent="+",AL: Explorer Natyre HD
 http://pro-unibox.com:25461/EG/Italy1/232
-#EXTINF:-1,AL: Explorer History HD
+#EXTINF:0 user-agent="+",AL: Explorer History HD
 http://pro-unibox.com:25461/EG/Italy1/233
-#EXTINF:-1,AL: Tring History FHD
+#EXTINF:0 user-agent="+",AL: Tring History FHD
 http://pro-unibox.com:25461/EG/Italy1/68
-#EXTINF:-1,AL: Tring World FHD
+#EXTINF:0 user-agent="+",AL: Tring World FHD
 http://pro-unibox.com:25461/EG/Italy1/234
-#EXTINF:-1,AL: Tring Planet FHD
+#EXTINF:0 user-agent="+",AL: Tring Planet FHD
 http://pro-unibox.com:25461/EG/Italy1/235
-#EXTINF:-1,AL: ART Doku 1 HD
+#EXTINF:0 user-agent="+",AL: ART Doku 1 HD
 http://pro-unibox.com:25461/EG/Italy1/236
-#EXTINF:-1,AL: ART Doku 2 HD
+#EXTINF:0 user-agent="+",AL: ART Doku 2 HD
 http://pro-unibox.com:25461/EG/Italy1/237
-#EXTINF:-1,AL: Sky Histori HD
+#EXTINF:0 user-agent="+",AL: Sky Histori HD
 http://pro-unibox.com:25461/EG/Italy1/230
-#EXTINF:-1,AL: Histori Shqiptare
+#EXTINF:0 user-agent="+",AL: Histori Shqiptare
 http://pro-unibox.com:25461/EG/Italy1/238
-#EXTINF:-1,AL: X Histori HD
+#EXTINF:0 user-agent="+",AL: X Histori HD
 http://pro-unibox.com:25461/EG/Italy1/239
-#EXTINF:-1,AL: Discovery Channel
+#EXTINF:0 user-agent="+",AL: Discovery Channel
 http://pro-unibox.com:25461/EG/Italy1/240
-#EXTINF:-1,AL: Junior TV
+#EXTINF:0 user-agent="+",AL: Junior TV
 http://pro-unibox.com:25461/EG/Italy1/221
-#EXTINF:-1,AL: Bang Bang HD
+#EXTINF:0 user-agent="+",AL: Bang Bang HD
 http://pro-unibox.com:25461/EG/Italy1/222
-#EXTINF:-1,AL: Cufo HD
+#EXTINF:0 user-agent="+",AL: Cufo HD
 http://pro-unibox.com:25461/EG/Italy1/223
-#EXTINF:-1,AL: Baby TV HD
+#EXTINF:0 user-agent="+",AL: Baby TV HD
 http://pro-unibox.com:25461/EG/Italy1/224
-#EXTINF:-1,AL: Boomerang HD
+#EXTINF:0 user-agent="+",AL: Boomerang HD
 http://pro-unibox.com:25461/EG/Italy1/225
-#EXTINF:-1,AL Tring Kids HD
+#EXTINF:0 user-agent="+",AL Tring Kids HD
 http://pro-unibox.com:25461/EG/Italy1/226
-#EXTINF:-1,AL: ALBFLIX PINGUINE
+#EXTINF:0 user-agent="+",AL: ALBFLIX PINGUINE
 http://pro-unibox.com:25461/EG/Italy1/227
-#EXTINF:-1,AL: ALBFLIX BOOBA
+#EXTINF:0 user-agent="+",AL: ALBFLIX BOOBA
 http://pro-unibox.com:25461/EG/Italy1/228
-#EXTINF:-1,AL: Tip TV HD
+#EXTINF:0 user-agent="+",AL: Tip TV HD
 http://pro-unibox.com:25461/EG/Italy1/229
-#EXTINF:-1,AL: Peace TV HD
+#EXTINF:0 user-agent="+",AL: Peace TV HD
 http://pro-unibox.com:25461/EG/Italy1/245
-#EXTINF:-1,AL: WebStar Islam HD
+#EXTINF:0 user-agent="+",AL: WebStar Islam HD
 http://pro-unibox.com:25461/EG/Italy1/248
-#EXTINF:-1,AL RTV Islam HD
+#EXTINF:0 user-agent="+",AL RTV Islam HD
 http://pro-unibox.com:25461/EG/Italy1/250
-#EXTINF:-1,AL: RTV Pendimi HD
+#EXTINF:0 user-agent="+",AL: RTV Pendimi HD
 http://pro-unibox.com:25461/EG/Italy1/251
-#EXTINF:-1,AL: ALBMUSLIM TV
+#EXTINF:0 user-agent="+",AL: ALBMUSLIM TV
 http://pro-unibox.com:25461/EG/Italy1/253
-#EXTINF:-1,AL: LionTv Ilahi Gold FHD
+#EXTINF:0 user-agent="+",AL: LionTv Ilahi Gold FHD
 http://pro-unibox.com:25461/EG/Italy1/254
-#EXTINF:-1,AL: Mekka Live HD
+#EXTINF:0 user-agent="+",AL: Mekka Live HD
 http://pro-unibox.com:25461/EG/Italy1/256
-#EXTINF:-1,AL: Medina Live HD
+#EXTINF:0 user-agent="+",AL: Medina Live HD
 http://pro-unibox.com:25461/EG/Italy1/257
-#EXTINF:-1,AL: ALBFLIX KURAN HD
+#EXTINF:0 user-agent="+",AL: ALBFLIX KURAN HD
 http://pro-unibox.com:25461/EG/Italy1/246
-#EXTINF:-1,AL: ALBFLIX QURAN RECITATION
+#EXTINF:0 user-agent="+",AL: ALBFLIX QURAN RECITATION
 http://pro-unibox.com:25461/EG/Italy1/247
-#EXTINF:-1,AL: LionTv Humor FHD
+#EXTINF:0 user-agent="+",AL: LionTv Humor FHD
 http://pro-unibox.com:25461/EG/Italy1/141
-#EXTINF:-1,AL: X Humor HD
+#EXTINF:0 user-agent="+",AL: X Humor HD
 http://pro-unibox.com:25461/EG/Italy1/142
-#EXTINF:-1,AL: AlbHumor2
+#EXTINF:0 user-agent="+",AL: AlbHumor2
 http://pro-unibox.com:25461/EG/Italy1/143
-#EXTINF:-1,AL: Dark Baskia Humor HD
+#EXTINF:0 user-agent="+",AL: Dark Baskia Humor HD
 http://pro-unibox.com:25461/EG/Italy1/144
-#EXTINF:-1,AL: Tetova Humor HD
+#EXTINF:0 user-agent="+",AL: Tetova Humor HD
 http://pro-unibox.com:25461/EG/Italy1/145
-#EXTINF:-1,AL: First Chanel FHD
+#EXTINF:0 user-agent="+",AL: First Chanel FHD
 http://pro-unibox.com:25461/EG/Italy1/267
-#EXTINF:-1,AL: First Channel  UHD 4K+
+#EXTINF:0 user-agent="+",AL: First Channel  UHD 4K+
 http://pro-unibox.com:25461/EG/Italy1/268
-#EXTINF:-1,AL: TV Besa HD
+#EXTINF:0 user-agent="+",AL: TV Besa HD
 http://pro-unibox.com:25461/EG/Italy1/249
-#EXTINF:-1,AL: TV Opoja FHD
+#EXTINF:0 user-agent="+",AL: TV Opoja FHD
 http://pro-unibox.com:25461/EG/Italy1/252
-#EXTINF:-1,AL: RTV 21 Plus UHD 4K+
+#EXTINF:0 user-agent="+",AL: RTV 21 Plus UHD 4K+
 http://pro-unibox.com:25461/EG/Italy1/261
-#EXTINF:-1,AL : Syri TV
+#EXTINF:0 user-agent="+",AL : Syri TV
 http://pro-unibox.com:25461/EG/Italy1/271
-#EXTINF:-1,AL: TV  MALISHEVA FHD
+#EXTINF:0 user-agent="+",AL: TV  MALISHEVA FHD
 http://pro-unibox.com:25461/EG/Italy1/273
-#EXTINF:-1,AL: RTV Fontana
+#EXTINF:0 user-agent="+",AL: RTV Fontana
 http://pro-unibox.com:25461/EG/Italy1/274
-#EXTINF:-1,AL: TV Vushtrria HD
+#EXTINF:0 user-agent="+",AL: TV Vushtrria HD
 http://pro-unibox.com:25461/EG/Italy1/275
-#EXTINF:-1,AL: Podujeva TV HD
+#EXTINF:0 user-agent="+",AL: Podujeva TV HD
 http://pro-unibox.com:25461/EG/Italy1/276
-#EXTINF:-1,AL: ISTOGU CHANNEL
+#EXTINF:0 user-agent="+",AL: ISTOGU CHANNEL
 http://pro-unibox.com:25461/EG/Italy1/277
-#EXTINF:-1,AL: APOLL HD
+#EXTINF:0 user-agent="+",AL: APOLL HD
 http://pro-unibox.com:25461/EG/Italy1/278
-#EXTINF:-1,AL: TV LLAPI
+#EXTINF:0 user-agent="+",AL: TV LLAPI
 http://pro-unibox.com:25461/EG/Italy1/280
-#EXTINF:-1,AL: TEMA HD
+#EXTINF:0 user-agent="+",AL: TEMA HD
 http://pro-unibox.com:25461/EG/Italy1/281
-#EXTINF:-1,AL: TV LIRIA  FHD
+#EXTINF:0 user-agent="+",AL: TV LIRIA  FHD
 http://pro-unibox.com:25461/EG/Italy1/282
-#EXTINF:-1,AL: TV Shenja FHD
+#EXTINF:0 user-agent="+",AL: TV Shenja FHD
 http://pro-unibox.com:25461/EG/Italy1/283
-#EXTINF:-1,AL: RTV ORA HD
+#EXTINF:0 user-agent="+",AL: RTV ORA HD
 http://pro-unibox.com:25461/EG/Italy1/284
-#EXTINF:-1,AL: TV Mitrovica HD
+#EXTINF:0 user-agent="+",AL: TV Mitrovica HD
 http://pro-unibox.com:25461/EG/Italy1/285
-#EXTINF:-1,AL: Plisi TV HD
+#EXTINF:0 user-agent="+",AL: Plisi TV HD
 http://pro-unibox.com:25461/EG/Italy1/286
-#EXTINF:-1,AL: Ulqini TV HD
+#EXTINF:0 user-agent="+",AL: Ulqini TV HD
 http://pro-unibox.com:25461/EG/Italy1/287
-#EXTINF:-1,AL: TV Koha Tetove
+#EXTINF:0 user-agent="+",AL: TV Koha Tetove
 http://pro-unibox.com:25461/EG/Italy1/288
-#EXTINF:-1,AL:  Alb’swiss TV
+#EXTINF:0 user-agent="+",AL:  Alb’swiss TV
 http://pro-unibox.com:25461/EG/Italy1/289
-#EXTINF:-1,AL: Apollon TV
+#EXTINF:0 user-agent="+",AL: Apollon TV
 http://pro-unibox.com:25461/EG/Italy1/290
-#EXTINF:-1,AL: Star Plus HD
+#EXTINF:0 user-agent="+",AL: Star Plus HD
 http://pro-unibox.com:25461/EG/Italy1/291
-#EXTINF:-1,AL: TV Dibra HD
+#EXTINF:0 user-agent="+",AL: TV Dibra HD
 http://pro-unibox.com:25461/EG/Italy1/292
-#EXTINF:-1,AL: CH-1 SHKODRA
+#EXTINF:0 user-agent="+",AL: CH-1 SHKODRA
 http://pro-unibox.com:25461/EG/Italy1/293
-#EXTINF:-1,AL: Drita TV HD
+#EXTINF:0 user-agent="+",AL: Drita TV HD
 http://pro-unibox.com:25461/EG/Italy1/294
-#EXTINF:-1,AL: TV Koha FHD
+#EXTINF:0 user-agent="+",AL: TV Koha FHD
 http://pro-unibox.com:25461/EG/Italy1/295
-#EXTINF:-1,AL: RTK 2 FHD
+#EXTINF:0 user-agent="+",AL: RTK 2 FHD
 http://pro-unibox.com:25461/EG/Italy1/297
-#EXTINF:-1,Vetrina S PrimaFila HD IT (L) VIP
+#EXTINF:0 user-agent="+",Vetrina S PrimaFila HD IT (L) VIP
 http://pro-unibox.com:25461/EG/Italy1/304
-#EXTINF:-1,S PrimaFila Live 1 HD IT (L) VIP
+#EXTINF:0 user-agent="+",S PrimaFila Live 1 HD IT (L) VIP
 http://pro-unibox.com:25461/EG/Italy1/305
-#EXTINF:-1,S PrimaFila Live 2 HD IT (L) VIP
+#EXTINF:0 user-agent="+",S PrimaFila Live 2 HD IT (L) VIP
 http://pro-unibox.com:25461/EG/Italy1/306
-#EXTINF:-1,S PrimaFila Live 3 HD IT (L) VIP
+#EXTINF:0 user-agent="+",S PrimaFila Live 3 HD IT (L) VIP
 http://pro-unibox.com:25461/EG/Italy1/307
-#EXTINF:-1,S PrimaFila Live 4 HD IT (L) VIP
+#EXTINF:0 user-agent="+",S PrimaFila Live 4 HD IT (L) VIP
 http://pro-unibox.com:25461/EG/Italy1/308
-#EXTINF:-1,S PrimaFila Live 5 HD IT (L) VIP
+#EXTINF:0 user-agent="+",S PrimaFila Live 5 HD IT (L) VIP
 http://pro-unibox.com:25461/EG/Italy1/309
-#EXTINF:-1,S PrimaFila Live 6 HD IT (L) VIP
+#EXTINF:0 user-agent="+",S PrimaFila Live 6 HD IT (L) VIP
 http://pro-unibox.com:25461/EG/Italy1/310
-#EXTINF:-1,S PrimaFila Live 7 HD IT (L) VIP
+#EXTINF:0 user-agent="+",S PrimaFila Live 7 HD IT (L) VIP
 http://pro-unibox.com:25461/EG/Italy1/311
-#EXTINF:-1,S PrimaFila Live 8 HD IT (L) VIP
+#EXTINF:0 user-agent="+",S PrimaFila Live 8 HD IT (L) VIP
 http://pro-unibox.com:25461/EG/Italy1/312
-#EXTINF:-1,S PrimaFila Live 9 HD IT (L) VIP
+#EXTINF:0 user-agent="+",S PrimaFila Live 9 HD IT (L) VIP
 http://pro-unibox.com:25461/EG/Italy1/313
-#EXTINF:-1,DE: RTL FHD
+#EXTINF:0 user-agent="+",DE: RTL FHD
 http://pro-unibox.com:25461/EG/Italy1/315
-#EXTINF:-1,DE: RTL 2 FHD
+#EXTINF:0 user-agent="+",DE: RTL 2 FHD
 http://pro-unibox.com:25461/EG/Italy1/316
-#EXTINF:-1,DE: ZDF FHD
+#EXTINF:0 user-agent="+",DE: ZDF FHD
 http://pro-unibox.com:25461/EG/Italy1/317
-#EXTINF:-1,DE: RTL Passion FHD
+#EXTINF:0 user-agent="+",DE: RTL Passion FHD
 http://pro-unibox.com:25461/EG/Italy1/318
-#EXTINF:-1,DE: RTL Plus FHD
+#EXTINF:0 user-agent="+",DE: RTL Plus FHD
 http://pro-unibox.com:25461/EG/Italy1/319
-#EXTINF:-1,DE: RTL Crime  FHD
+#EXTINF:0 user-agent="+",DE: RTL Crime  FHD
 http://pro-unibox.com:25461/EG/Italy1/320
-#EXTINF:-1,DE: RTL Living FHD
+#EXTINF:0 user-agent="+",DE: RTL Living FHD
 http://pro-unibox.com:25461/EG/Italy1/321
-#EXTINF:-1,DE: Sky Cinema FHD
+#EXTINF:0 user-agent="+",DE: Sky Cinema FHD
 http://pro-unibox.com:25461/EG/Italy1/322
-#EXTINF:-1,DE: Sky Cinema 1 FHD
+#EXTINF:0 user-agent="+",DE: Sky Cinema 1 FHD
 http://pro-unibox.com:25461/EG/Italy1/323
-#EXTINF:-1,DE: Sky Cinema Action FHD
+#EXTINF:0 user-agent="+",DE: Sky Cinema Action FHD
 http://pro-unibox.com:25461/EG/Italy1/324
-#EXTINF:-1,DE: Sky Cinema Family FHD
+#EXTINF:0 user-agent="+",DE: Sky Cinema Family FHD
 http://pro-unibox.com:25461/EG/Italy1/325
-#EXTINF:-1,DE: Sky Cinema Emotion FHD
+#EXTINF:0 user-agent="+",DE: Sky Cinema Emotion FHD
 http://pro-unibox.com:25461/EG/Italy1/326
-#EXTINF:-1,DE: Sky Cinema Atlantic FHD
+#EXTINF:0 user-agent="+",DE: Sky Cinema Atlantic FHD
 http://pro-unibox.com:25461/EG/Italy1/327
-#EXTINF:-1,DE: Sky Cinema 24 FHD
+#EXTINF:0 user-agent="+",DE: Sky Cinema 24 FHD
 http://pro-unibox.com:25461/EG/Italy1/328
-#EXTINF:-1,DE: Sky Cinema Hits FHD
+#EXTINF:0 user-agent="+",DE: Sky Cinema Hits FHD
 http://pro-unibox.com:25461/EG/Italy1/329
-#EXTINF:-1,DE: Sky Nostalgie FHD
+#EXTINF:0 user-agent="+",DE: Sky Nostalgie FHD
 http://pro-unibox.com:25461/EG/Italy1/330
-#EXTINF:-1,DE: Sky Comedy FHD
+#EXTINF:0 user-agent="+",DE: Sky Comedy FHD
 http://pro-unibox.com:25461/EG/Italy1/331
-#EXTINF:-1,DE: Sky Krimi FHD
+#EXTINF:0 user-agent="+",DE: Sky Krimi FHD
 http://pro-unibox.com:25461/EG/Italy1/332
-#EXTINF:-1,DE: Sky Select 1 FHD
+#EXTINF:0 user-agent="+",DE: Sky Select 1 FHD
 http://pro-unibox.com:25461/EG/Italy1/333
-#EXTINF:-1,DE: Sky Select 2 FHD
+#EXTINF:0 user-agent="+",DE: Sky Select 2 FHD
 http://pro-unibox.com:25461/EG/Italy1/334
-#EXTINF:-1,DE: Sky Select 3 FHD
+#EXTINF:0 user-agent="+",DE: Sky Select 3 FHD
 http://pro-unibox.com:25461/EG/Italy1/335
-#EXTINF:-1,DE: Sky Select 4 FHD
+#EXTINF:0 user-agent="+",DE: Sky Select 4 FHD
 http://pro-unibox.com:25461/EG/Italy1/336
-#EXTINF:-1,DE: Sky Select 5 FHD
+#EXTINF:0 user-agent="+",DE: Sky Select 5 FHD
 http://pro-unibox.com:25461/EG/Italy1/337
-#EXTINF:-1,DE: Sky Select 6 FHD
+#EXTINF:0 user-agent="+",DE: Sky Select 6 FHD
 http://pro-unibox.com:25461/EG/Italy1/338
-#EXTINF:-1,DE: Sky Select 7 FHD
+#EXTINF:0 user-agent="+",DE: Sky Select 7 FHD
 http://pro-unibox.com:25461/EG/Italy1/339
-#EXTINF:-1,DE: Sky Select 8 FHD
+#EXTINF:0 user-agent="+",DE: Sky Select 8 FHD
 http://pro-unibox.com:25461/EG/Italy1/340
-#EXTINF:-1,S Cinema Uno HD IT
+#EXTINF:0 user-agent="+",S Cinema Uno HD IT
 http://pro-unibox.com:25461/EG/Italy1/342
-#EXTINF:-1,S Cinema Uno +24 HD IT
+#EXTINF:0 user-agent="+",S Cinema Uno +24 HD IT
 http://pro-unibox.com:25461/EG/Italy1/343
-#EXTINF:-1,S Cinema Comedy HD IT
+#EXTINF:0 user-agent="+",S Cinema Comedy HD IT
 http://pro-unibox.com:25461/EG/Italy1/344
-#EXTINF:-1,S Cinema Drama HD IT
+#EXTINF:0 user-agent="+",S Cinema Drama HD IT
 http://pro-unibox.com:25461/EG/Italy1/345
-#EXTINF:-1,S Cinema Due HD IT
+#EXTINF:0 user-agent="+",S Cinema Due HD IT
 http://pro-unibox.com:25461/EG/Italy1/346
-#EXTINF:-1,S Cinema Family HD IT
+#EXTINF:0 user-agent="+",S Cinema Family HD IT
 http://pro-unibox.com:25461/EG/Italy1/347
-#EXTINF:-1,S Cinema Romance HD IT
+#EXTINF:0 user-agent="+",S Cinema Romance HD IT
 http://pro-unibox.com:25461/EG/Italy1/348
-#EXTINF:-1,S Cinema Suspense HD IT
+#EXTINF:0 user-agent="+",S Cinema Suspense HD IT
 http://pro-unibox.com:25461/EG/Italy1/349
-#EXTINF:-1,Ex Yu: HRT 1 HD
+#EXTINF:0 user-agent="+",Ex Yu: HRT 1 HD
 http://pro-unibox.com:25461/EG/Italy1/350
-#EXTINF:-1,Ex Yu: HRT 2 HD
+#EXTINF:0 user-agent="+",Ex Yu: HRT 2 HD
 http://pro-unibox.com:25461/EG/Italy1/351
-#EXTINF:-1,Ex Yu: HRT 3 HD
+#EXTINF:0 user-agent="+",Ex Yu: HRT 3 HD
 http://pro-unibox.com:25461/EG/Italy1/352
-#EXTINF:-1,Ex Yu: HRT 4 HD
+#EXTINF:0 user-agent="+",Ex Yu: HRT 4 HD
 http://pro-unibox.com:25461/EG/Italy1/353
-#EXTINF:-1,Ex Yu: BHT 1 HD
+#EXTINF:0 user-agent="+",Ex Yu: BHT 1 HD
 http://pro-unibox.com:25461/EG/Italy1/354
-#EXTINF:-1,Ex Yu: Hayatovci HD
+#EXTINF:0 user-agent="+",Ex Yu: Hayatovci HD
 http://pro-unibox.com:25461/EG/Italy1/355
-#EXTINF:-1,Ex Yu: HBO HD
+#EXTINF:0 user-agent="+",Ex Yu: HBO HD
 http://pro-unibox.com:25461/EG/Italy1/356
-#EXTINF:-1,Ex Yu: HBO 2 HD
+#EXTINF:0 user-agent="+",Ex Yu: HBO 2 HD
 http://pro-unibox.com:25461/EG/Italy1/357
-#EXTINF:-1,Ex Yu: Prva Plus HD
+#EXTINF:0 user-agent="+",Ex Yu: Prva Plus HD
 http://pro-unibox.com:25461/EG/Italy1/358
-#EXTINF:-1,Ex Yu: Prva Max HD
+#EXTINF:0 user-agent="+",Ex Yu: Prva Max HD
 http://pro-unibox.com:25461/EG/Italy1/359
-#EXTINF:-1,Ex Yu: Prva World HD
+#EXTINF:0 user-agent="+",Ex Yu: Prva World HD
 http://pro-unibox.com:25461/EG/Italy1/360
-#EXTINF:-1,Ex Yu: Prva Kick HD
+#EXTINF:0 user-agent="+",Ex Yu: Prva Kick HD
 http://pro-unibox.com:25461/EG/Italy1/361
-#EXTINF:-1,Ex Yu: TV Grand HD
+#EXTINF:0 user-agent="+",Ex Yu: TV Grand HD
 http://pro-unibox.com:25461/EG/Italy1/362
-#EXTINF:-1,AL: ALBFLIX KAFENEJA JONË HD
+#EXTINF:0 user-agent="+",AL: ALBFLIX KAFENEJA JONË HD
 http://pro-unibox.com:25461/EG/Italy1/363
-#EXTINF:-1,AL: ALBFLIX STUPCAT
+#EXTINF:0 user-agent="+",AL: ALBFLIX STUPCAT
 http://pro-unibox.com:25461/EG/Italy1/364
-#EXTINF:-1,AL: Dark Mixha BiBe FHD
+#EXTINF:0 user-agent="+",AL: Dark Mixha BiBe FHD
 http://pro-unibox.com:25461/EG/Italy1/365
-#EXTINF:-1,AL: Dark Shengen Visa HD
+#EXTINF:0 user-agent="+",AL: Dark Shengen Visa HD
 http://pro-unibox.com:25461/EG/Italy1/366
-#EXTINF:-1,AL: Dark Cka ka Shpia  HD
+#EXTINF:0 user-agent="+",AL: Dark Cka ka Shpia  HD
 http://pro-unibox.com:25461/EG/Italy1/367
-#EXTINF:-1,TRT 1 FHD TR
+#EXTINF:0 user-agent="+",TRT 1 FHD TR
 http://pro-unibox.com:25461/EG/Italy1/369
-#EXTINF:-1,Show HD TR
+#EXTINF:0 user-agent="+",Show HD TR
 http://pro-unibox.com:25461/EG/Italy1/370
-#EXTINF:-1,Show Max TR
+#EXTINF:0 user-agent="+",Show Max TR
 http://pro-unibox.com:25461/EG/Italy1/371
-#EXTINF:-1,Show Turk TR
+#EXTINF:0 user-agent="+",Show Turk TR
 http://pro-unibox.com:25461/EG/Italy1/372
-#EXTINF:-1,Kanal D 
+#EXTINF:0 user-agent="+",Kanal D 
 http://pro-unibox.com:25461/EG/Italy1/373
-#EXTINF:-1,Euro D TR
+#EXTINF:0 user-agent="+",Euro D TR
 http://pro-unibox.com:25461/EG/Italy1/374
-#EXTINF:-1,ATV  TR
+#EXTINF:0 user-agent="+",ATV  TR
 http://pro-unibox.com:25461/EG/Italy1/375
-#EXTINF:-1,Star HD
+#EXTINF:0 user-agent="+",Star HD
 http://pro-unibox.com:25461/EG/Italy1/376
-#EXTINF:-1,Euro Star HD
+#EXTINF:0 user-agent="+",Euro Star HD
 http://pro-unibox.com:25461/EG/Italy1/377
-#EXTINF:-1,KANAL 7 HD
+#EXTINF:0 user-agent="+",KANAL 7 HD
 http://pro-unibox.com:25461/EG/Italy1/378
-#EXTINF:-1,FOX
+#EXTINF:0 user-agent="+",FOX
 http://pro-unibox.com:25461/EG/Italy1/379
-#EXTINF:-1,FOX Crime 
+#EXTINF:0 user-agent="+",FOX Crime 
 http://pro-unibox.com:25461/EG/Italy1/380
-#EXTINF:-1,FOX Life
+#EXTINF:0 user-agent="+",FOX Life
 http://pro-unibox.com:25461/EG/Italy1/381
-#EXTINF:-1,A Para HD
+#EXTINF:0 user-agent="+",A Para HD
 http://pro-unibox.com:25461/EG/Italy1/382
-#EXTINF:-1,OSC City
+#EXTINF:0 user-agent="+",OSC City
 http://pro-unibox.com:25461/EG/Italy1/383
-#EXTINF:-1,OCS Geants FR
+#EXTINF:0 user-agent="+",OCS Geants FR
 http://pro-unibox.com:25461/EG/Italy1/384
-#EXTINF:-1,OSC Max
+#EXTINF:0 user-agent="+",OSC Max
 http://pro-unibox.com:25461/EG/Italy1/385
-#EXTINF:-1,OCS GO Cinema 1
+#EXTINF:0 user-agent="+",OCS GO Cinema 1
 http://pro-unibox.com:25461/EG/Italy1/386
-#EXTINF:-1,OCS GO Cinema 2
+#EXTINF:0 user-agent="+",OCS GO Cinema 2
 http://pro-unibox.com:25461/EG/Italy1/387
-#EXTINF:-1,OCS GO Cinema 3
+#EXTINF:0 user-agent="+",OCS GO Cinema 3
 http://pro-unibox.com:25461/EG/Italy1/388
-#EXTINF:-1,OCS GO Cinema 4
+#EXTINF:0 user-agent="+",OCS GO Cinema 4
 http://pro-unibox.com:25461/EG/Italy1/389
-#EXTINF:-1,UK: BBC One HD
+#EXTINF:0 user-agent="+",UK: BBC One HD
 http://pro-unibox.com:25461/EG/Italy1/391
-#EXTINF:-1,UK: BBC Two HD
+#EXTINF:0 user-agent="+",UK: BBC Two HD
 http://pro-unibox.com:25461/EG/Italy1/392
-#EXTINF:-1,UK: BBC Three HD
+#EXTINF:0 user-agent="+",UK: BBC Three HD
 http://pro-unibox.com:25461/EG/Italy1/393
-#EXTINF:-1,UK: BBC Four HD
+#EXTINF:0 user-agent="+",UK: BBC Four HD
 http://pro-unibox.com:25461/EG/Italy1/394
-#EXTINF:-1,UK: BBC NEWS HD
+#EXTINF:0 user-agent="+",UK: BBC NEWS HD
 http://pro-unibox.com:25461/EG/Italy1/395
-#EXTINF:-1,UK: BBC One Scotland HD
+#EXTINF:0 user-agent="+",UK: BBC One Scotland HD
 http://pro-unibox.com:25461/EG/Italy1/396
-#EXTINF:-1,UK: BBC Two Wales
+#EXTINF:0 user-agent="+",UK: BBC Two Wales
 http://pro-unibox.com:25461/EG/Italy1/398
-#EXTINF:-1,UK: BBC WORLD NEWS
+#EXTINF:0 user-agent="+",UK: BBC WORLD NEWS
 http://pro-unibox.com:25461/EG/Italy1/399
-#EXTINF:-1,UK: ITV 1 HD
+#EXTINF:0 user-agent="+",UK: ITV 1 HD
 http://pro-unibox.com:25461/EG/Italy1/400
-#EXTINF:-1,UK: ITV 2  HD
+#EXTINF:0 user-agent="+",UK: ITV 2  HD
 http://pro-unibox.com:25461/EG/Italy1/402
-#EXTINF:-1,UK: ITV 3 HD
+#EXTINF:0 user-agent="+",UK: ITV 3 HD
 http://pro-unibox.com:25461/EG/Italy1/403
-#EXTINF:-1,UK: ITV 4
+#EXTINF:0 user-agent="+",UK: ITV 4
 http://pro-unibox.com:25461/EG/Italy1/404
-#EXTINF:-1,UK: ITV BE
+#EXTINF:0 user-agent="+",UK: ITV BE
 http://pro-unibox.com:25461/EG/Italy1/405
-#EXTINF:-1,UK: Quest
+#EXTINF:0 user-agent="+",UK: Quest
 http://pro-unibox.com:25461/EG/Italy1/407
-#EXTINF:-1,UK: RTE News
+#EXTINF:0 user-agent="+",UK: RTE News
 http://pro-unibox.com:25461/EG/Italy1/408
-#EXTINF:-1,UK: Sky News HD
+#EXTINF:0 user-agent="+",UK: Sky News HD
 http://pro-unibox.com:25461/EG/Italy1/409
-#EXTINF:-1,UK: Sky One
+#EXTINF:0 user-agent="+",UK: Sky One
 http://pro-unibox.com:25461/EG/Italy1/410
-#EXTINF:-1,UK: Sky Two
+#EXTINF:0 user-agent="+",UK: Sky Two
 http://pro-unibox.com:25461/EG/Italy1/411
-#EXTINF:-1,UK: SKYArt 1
+#EXTINF:0 user-agent="+",UK: SKYArt 1
 http://pro-unibox.com:25461/EG/Italy1/412
-#EXTINF:-1,UK: Syfy UK
+#EXTINF:0 user-agent="+",UK: Syfy UK
 http://pro-unibox.com:25461/EG/Italy1/413
-#EXTINF:-1,UK: TCM
+#EXTINF:0 user-agent="+",UK: TCM
 http://pro-unibox.com:25461/EG/Italy1/414
-#EXTINF:-1,UK:  E4 UK
+#EXTINF:0 user-agent="+",UK:  E4 UK
 http://pro-unibox.com:25461/EG/Italy1/415
-#EXTINF:-1,UK: TWO
+#EXTINF:0 user-agent="+",UK: TWO
 http://pro-unibox.com:25461/EG/Italy1/416
-#EXTINF:-1,UK: 5 USA
+#EXTINF:0 user-agent="+",UK: 5 USA
 http://pro-unibox.com:25461/EG/Italy1/417
-#EXTINF:-1,UK: AMC HD
+#EXTINF:0 user-agent="+",UK: AMC HD
 http://pro-unibox.com:25461/EG/Italy1/418
-#EXTINF:-1,UK: CBS Justice
+#EXTINF:0 user-agent="+",UK: CBS Justice
 http://pro-unibox.com:25461/EG/Italy1/419
-#EXTINF:-1,UK: Nollywoood
+#EXTINF:0 user-agent="+",UK: Nollywoood
 http://pro-unibox.com:25461/EG/Italy1/420
-#EXTINF:-1,UK: Real Lives
+#EXTINF:0 user-agent="+",UK: Real Lives
 http://pro-unibox.com:25461/EG/Italy1/421
-#EXTINF:-1,UK: cbs drama
+#EXTINF:0 user-agent="+",UK: cbs drama
 http://pro-unibox.com:25461/EG/Italy1/422
-#EXTINF:-1,UK: Channel 5 HD
+#EXTINF:0 user-agent="+",UK: Channel 5 HD
 http://pro-unibox.com:25461/EG/Italy1/424
-#EXTINF:-1,UK: Chart Show
+#EXTINF:0 user-agent="+",UK: Chart Show
 http://pro-unibox.com:25461/EG/Italy1/425
-#EXTINF:-1,UK: Bloomberg
+#EXTINF:0 user-agent="+",UK: Bloomberg
 http://pro-unibox.com:25461/EG/Italy1/426
-#EXTINF:-1,UK: Atlantic HD
+#EXTINF:0 user-agent="+",UK: Atlantic HD
 http://pro-unibox.com:25461/EG/Italy1/427
-#EXTINF:-1,UK: B4U Movies
+#EXTINF:0 user-agent="+",UK: B4U Movies
 http://pro-unibox.com:25461/EG/Italy1/428
-#EXTINF:-1,UK: BBC Alba
+#EXTINF:0 user-agent="+",UK: BBC Alba
 http://pro-unibox.com:25461/EG/Italy1/429
-#EXTINF:-1,UK: BBC Entertainment
+#EXTINF:0 user-agent="+",UK: BBC Entertainment
 http://pro-unibox.com:25461/EG/Italy1/430
-#EXTINF:-1,UK: BOOMERANG
+#EXTINF:0 user-agent="+",UK: BOOMERANG
 http://pro-unibox.com:25461/EG/Italy1/432
-#EXTINF:-1,UK: Cartoon Network
+#EXTINF:0 user-agent="+",UK: Cartoon Network
 http://pro-unibox.com:25461/EG/Italy1/433
-#EXTINF:-1,UK: cbeebies
+#EXTINF:0 user-agent="+",UK: cbeebies
 http://pro-unibox.com:25461/EG/Italy1/435
-#EXTINF:-1,UK: Disney Channel UK
+#EXTINF:0 user-agent="+",UK: Disney Channel UK
 http://pro-unibox.com:25461/EG/Italy1/436
-#EXTINF:-1,UK: Disney XD
+#EXTINF:0 user-agent="+",UK: Disney XD
 http://pro-unibox.com:25461/EG/Italy1/438
-#EXTINF:-1,UK: nickelodeon
+#EXTINF:0 user-agent="+",UK: nickelodeon
 http://pro-unibox.com:25461/EG/Italy1/441
-#EXTINF:-1,UK: RTE JR
+#EXTINF:0 user-agent="+",UK: RTE JR
 http://pro-unibox.com:25461/EG/Italy1/443
-#EXTINF:-1,UK: RTE Junior
+#EXTINF:0 user-agent="+",UK: RTE Junior
 http://pro-unibox.com:25461/EG/Italy1/444
-#EXTINF:-1,UK: CNN
+#EXTINF:0 user-agent="+",UK: CNN
 http://pro-unibox.com:25461/EG/Italy1/445
-#EXTINF:-1,UK: Colors HD
+#EXTINF:0 user-agent="+",UK: Colors HD
 http://pro-unibox.com:25461/EG/Italy1/446
-#EXTINF:-1,UK: Dave HD
+#EXTINF:0 user-agent="+",UK: Dave HD
 http://pro-unibox.com:25461/EG/Italy1/448
-#EXTINF:-1,UK: Tiny POP
+#EXTINF:0 user-agent="+",UK: Tiny POP
 http://pro-unibox.com:25461/EG/Italy1/451
-#EXTINF:-1,UK: TLC
+#EXTINF:0 user-agent="+",UK: TLC
 http://pro-unibox.com:25461/EG/Italy1/452
-#EXTINF:-1,UK: Travel Channel
+#EXTINF:0 user-agent="+",UK: Travel Channel
 http://pro-unibox.com:25461/EG/Italy1/453
-#EXTINF:-1,UK: Universal HD
+#EXTINF:0 user-agent="+",UK: Universal HD
 http://pro-unibox.com:25461/EG/Italy1/454
-#EXTINF:-1,UK:CBS Reality UK
+#EXTINF:0 user-agent="+",UK:CBS Reality UK
 http://pro-unibox.com:25461/EG/Italy1/457
-#EXTINF:-1,UK: Dmax
+#EXTINF:0 user-agent="+",UK: Dmax
 http://pro-unibox.com:25461/EG/Italy1/458
-#EXTINF:-1,UK: Drama Channel
+#EXTINF:0 user-agent="+",UK: Drama Channel
 http://pro-unibox.com:25461/EG/Italy1/459
-#EXTINF:-1,UK: Eden
+#EXTINF:0 user-agent="+",UK: Eden
 http://pro-unibox.com:25461/EG/Italy1/461
-#EXTINF:-1,UK: Euronews
+#EXTINF:0 user-agent="+",UK: Euronews
 http://pro-unibox.com:25461/EG/Italy1/462
-#EXTINF:-1,UK: Film4 UK
+#EXTINF:0 user-agent="+",UK: Film4 UK
 http://pro-unibox.com:25461/EG/Italy1/463
-#EXTINF:-1,UK: Fox News
+#EXTINF:0 user-agent="+",UK: Fox News
 http://pro-unibox.com:25461/EG/Italy1/465
-#EXTINF:-1,UK: Gold UK
+#EXTINF:0 user-agent="+",UK: Gold UK
 http://pro-unibox.com:25461/EG/Italy1/466
-#EXTINF:-1,UK: RTE 1 HD
+#EXTINF:0 user-agent="+",UK: RTE 1 HD
 http://pro-unibox.com:25461/EG/Italy1/468
-#EXTINF:-1,UK: RTE 2 HD
+#EXTINF:0 user-agent="+",UK: RTE 2 HD
 http://pro-unibox.com:25461/EG/Italy1/469
-#EXTINF:-1,UK: Sky Witness HD
+#EXTINF:0 user-agent="+",UK: Sky Witness HD
 http://pro-unibox.com:25461/EG/Italy1/470
-#EXTINF:-1,UK: Sony Channel
+#EXTINF:0 user-agent="+",UK: Sony Channel
 http://pro-unibox.com:25461/EG/Italy1/472
-#EXTINF:-1,UK: Sky Atlantic FHD
+#EXTINF:0 user-agent="+",UK: Sky Atlantic FHD
 http://pro-unibox.com:25461/EG/Italy1/473
-#EXTINF:-1,UK: Sky Disney UK HD
+#EXTINF:0 user-agent="+",UK: Sky Disney UK HD
 http://pro-unibox.com:25461/EG/Italy1/475
-#EXTINF:-1,UK: Sky Family UK HD
+#EXTINF:0 user-agent="+",UK: Sky Family UK HD
 http://pro-unibox.com:25461/EG/Italy1/476
-#EXTINF:-1,UK: BBC EARTH HD
+#EXTINF:0 user-agent="+",UK: BBC EARTH HD
 http://pro-unibox.com:25461/EG/Italy1/477
-#EXTINF:-1,UK: Sky Movies Action & Adventure HD
+#EXTINF:0 user-agent="+",UK: Sky Movies Action & Adventure HD
 http://pro-unibox.com:25461/EG/Italy1/478
-#EXTINF:-1,Uk: Sky Select UK HD
+#EXTINF:0 user-agent="+",Uk: Sky Select UK HD
 http://pro-unibox.com:25461/EG/Italy1/479
-#EXTINF:-1,UK: Horror Channel
+#EXTINF:0 user-agent="+",UK: Horror Channel
 http://pro-unibox.com:25461/EG/Italy1/481
-#EXTINF:-1,UK: Sky Movies Comedy HD
+#EXTINF:0 user-agent="+",UK: Sky Movies Comedy HD
 http://pro-unibox.com:25461/EG/Italy1/482
-#EXTINF:-1,UK: Sky Movies Disney HD
+#EXTINF:0 user-agent="+",UK: Sky Movies Disney HD
 http://pro-unibox.com:25461/EG/Italy1/483
-#EXTINF:-1,UK: Sky Movies Drama & Romance HD
+#EXTINF:0 user-agent="+",UK: Sky Movies Drama & Romance HD
 http://pro-unibox.com:25461/EG/Italy1/484
-#EXTINF:-1,UK: Sky Movies Family UK HD
+#EXTINF:0 user-agent="+",UK: Sky Movies Family UK HD
 http://pro-unibox.com:25461/EG/Italy1/485
-#EXTINF:-1,UK: Sky Movies Modern HD
+#EXTINF:0 user-agent="+",UK: Sky Movies Modern HD
 http://pro-unibox.com:25461/EG/Italy1/486
-#EXTINF:-1,UK: Sky Movies Premiere UK HD
+#EXTINF:0 user-agent="+",UK: Sky Movies Premiere UK HD
 http://pro-unibox.com:25461/EG/Italy1/487
-#EXTINF:-1,UK: Sky Movies Sci-Fi & Horror HD
+#EXTINF:0 user-agent="+",UK: Sky Movies Sci-Fi & Horror HD
 http://pro-unibox.com:25461/EG/Italy1/488
-#EXTINF:-1,UK: Sky Movies Thriller HD
+#EXTINF:0 user-agent="+",UK: Sky Movies Thriller HD
 http://pro-unibox.com:25461/EG/Italy1/489
-#EXTINF:-1,UK: History Channel UK
+#EXTINF:0 user-agent="+",UK: History Channel UK
 http://pro-unibox.com:25461/EG/Italy1/490
-#EXTINF:-1,UK: National Geographic UK
+#EXTINF:0 user-agent="+",UK: National Geographic UK
 http://pro-unibox.com:25461/EG/Italy1/492
-#EXTINF:-1,UK: National Geographic Wild
+#EXTINF:0 user-agent="+",UK: National Geographic Wild
 http://pro-unibox.com:25461/EG/Italy1/493
-#EXTINF:-1,UK: Discovery Channel UK
+#EXTINF:0 user-agent="+",UK: Discovery Channel UK
 http://pro-unibox.com:25461/EG/Italy1/494
-#EXTINF:-1,UK: Discovery History UK
+#EXTINF:0 user-agent="+",UK: Discovery History UK
 http://pro-unibox.com:25461/EG/Italy1/495
-#EXTINF:-1,UK: Discovery Investigation
+#EXTINF:0 user-agent="+",UK: Discovery Investigation
 http://pro-unibox.com:25461/EG/Italy1/496
-#EXTINF:-1,UK: Discovery Science UK
+#EXTINF:0 user-agent="+",UK: Discovery Science UK
 http://pro-unibox.com:25461/EG/Italy1/497
-#EXTINF:-1,UK: DISCOVERY SHED
+#EXTINF:0 user-agent="+",UK: DISCOVERY SHED
 http://pro-unibox.com:25461/EG/Italy1/498
-#EXTINF:-1,UK: Discovery Turbo UK
+#EXTINF:0 user-agent="+",UK: Discovery Turbo UK
 http://pro-unibox.com:25461/EG/Italy1/499
-#EXTINF:-1,UK: Animal Planet UK
+#EXTINF:0 user-agent="+",UK: Animal Planet UK
 http://pro-unibox.com:25461/EG/Italy1/501
-#EXTINF:-1,UK: Home
+#EXTINF:0 user-agent="+",UK: Home
 http://pro-unibox.com:25461/EG/Italy1/503
-#EXTINF:-1,UK: Motors tv
+#EXTINF:0 user-agent="+",UK: Motors tv
 http://pro-unibox.com:25461/EG/Italy1/505
-#EXTINF:-1,UK: MTV Classic
+#EXTINF:0 user-agent="+",UK: MTV Classic
 http://pro-unibox.com:25461/EG/Italy1/506
-#EXTINF:-1,UK: MTV LIVE HD
+#EXTINF:0 user-agent="+",UK: MTV LIVE HD
 http://pro-unibox.com:25461/EG/Italy1/507
-#EXTINF:-1,UK: MTV MUSIC
+#EXTINF:0 user-agent="+",UK: MTV MUSIC
 http://pro-unibox.com:25461/EG/Italy1/508
-#EXTINF:-1,Uk: MTV Uk
+#EXTINF:0 user-agent="+",Uk: MTV Uk
 http://pro-unibox.com:25461/EG/Italy1/510
-#EXTINF:-1,UK: MTV_HITS
+#EXTINF:0 user-agent="+",UK: MTV_HITS
 http://pro-unibox.com:25461/EG/Italy1/511
-#EXTINF:-1,IT: Dmax  1 VIP
+#EXTINF:0 user-agent="+",IT: Dmax  1 VIP
 http://pro-unibox.com:25461/EG/Italy1/516
-#EXTINF:-1,UK: Sky Sport Action HD
+#EXTINF:0 user-agent="+",UK: Sky Sport Action HD
 http://pro-unibox.com:25461/EG/Italy1/517
-#EXTINF:-1,UK: Sky Sport Main Event
+#EXTINF:0 user-agent="+",UK: Sky Sport Main Event
 http://pro-unibox.com:25461/EG/Italy1/518
-#EXTINF:-1,UK: Sky Sport Premiere League HD
+#EXTINF:0 user-agent="+",UK: Sky Sport Premiere League HD
 http://pro-unibox.com:25461/EG/Italy1/519
-#EXTINF:-1,UK: Sky Sports F1 UK HD
+#EXTINF:0 user-agent="+",UK: Sky Sports F1 UK HD
 http://pro-unibox.com:25461/EG/Italy1/520
-#EXTINF:-1,AL: RTSH Kuvend
+#EXTINF:0 user-agent="+",AL: RTSH Kuvend
 http://pro-unibox.com:25461/EG/Italy1/521
-#EXTINF:-1,Rai 1 HD IT
+#EXTINF:0 user-agent="+",Rai 1 HD IT
 http://pro-unibox.com:25461/EG/Italy1/522
-#EXTINF:-1,Rai 2 HD IT
+#EXTINF:0 user-agent="+",Rai 2 HD IT
 http://pro-unibox.com:25461/EG/Italy1/523
-#EXTINF:-1,Rai 3 HD IT
+#EXTINF:0 user-agent="+",Rai 3 HD IT
 http://pro-unibox.com:25461/EG/Italy1/524
-#EXTINF:-1,Rai 4 HD IT
+#EXTINF:0 user-agent="+",Rai 4 HD IT
 http://pro-unibox.com:25461/EG/Italy1/525
-#EXTINF:-1,Rai 5 HD IT
+#EXTINF:0 user-agent="+",Rai 5 HD IT
 http://pro-unibox.com:25461/EG/Italy1/526
-#EXTINF:-1,Rai Gulp HD IT
+#EXTINF:0 user-agent="+",Rai Gulp HD IT
 http://pro-unibox.com:25461/EG/Italy1/527
-#EXTINF:-1,Rai Movie HD IT
+#EXTINF:0 user-agent="+",Rai Movie HD IT
 http://pro-unibox.com:25461/EG/Italy1/528
-#EXTINF:-1,Rai Premium IT
+#EXTINF:0 user-agent="+",Rai Premium IT
 http://pro-unibox.com:25461/EG/Italy1/529
-#EXTINF:-1,Rai Scuola HD IT
+#EXTINF:0 user-agent="+",Rai Scuola HD IT
 http://pro-unibox.com:25461/EG/Italy1/530
-#EXTINF:-1,Rai Storia HD IT
+#EXTINF:0 user-agent="+",Rai Storia HD IT
 http://pro-unibox.com:25461/EG/Italy1/531
-#EXTINF:-1,Rai Sport + HD IT 
+#EXTINF:0 user-agent="+",Rai Sport + HD IT 
 http://pro-unibox.com:25461/EG/Italy1/532
-#EXTINF:-1,S Sport MotoGP HD IT
+#EXTINF:0 user-agent="+",S Sport MotoGP HD IT
 http://pro-unibox.com:25461/EG/Italy1/533
-#EXTINF:-1,S Sport 24 HD IT
+#EXTINF:0 user-agent="+",S Sport 24 HD IT
 http://pro-unibox.com:25461/EG/Italy1/534
-#EXTINF:-1,S Sport Football HD IT
+#EXTINF:0 user-agent="+",S Sport Football HD IT
 http://pro-unibox.com:25461/EG/Italy1/535
-#EXTINF:-1,S Sport NBA HD IT
+#EXTINF:0 user-agent="+",S Sport NBA HD IT
 http://pro-unibox.com:25461/EG/Italy1/536
-#EXTINF:-1,Flutura TV
+#EXTINF:0 user-agent="+",Flutura TV
 http://pro-unibox.com:25461/EG/Italy1/537
-#EXTINF:-1,BeinSport 1 FHD TR
+#EXTINF:0 user-agent="+",BeinSport 1 FHD TR
 http://pro-unibox.com:25461/EG/Italy1/539
-#EXTINF:-1,BeinSPort 2 HD TR
+#EXTINF:0 user-agent="+",BeinSPort 2 HD TR
 http://pro-unibox.com:25461/EG/Italy1/540
-#EXTINF:-1,BeinSPort 3 TR
+#EXTINF:0 user-agent="+",BeinSPort 3 TR
 http://pro-unibox.com:25461/EG/Italy1/541
-#EXTINF:-1,BeinSport 4 TR
+#EXTINF:0 user-agent="+",BeinSport 4 TR
 http://pro-unibox.com:25461/EG/Italy1/542
-#EXTINF:-1,AL: RTSH Shqip FHD
+#EXTINF:0 user-agent="+",AL: RTSH Shqip FHD
 http://pro-unibox.com:25461/EG/Italy1/272
-#EXTINF:-1,Alb Muzik
+#EXTINF:0 user-agent="+",Alb Muzik
 http://pro-unibox.com:25461/EG/Italy1/547
-#EXTINF:-1,Music X
+#EXTINF:0 user-agent="+",Music X
 http://pro-unibox.com:25461/EG/Italy1/548
-#EXTINF:-1,MTV Kosova 
+#EXTINF:0 user-agent="+",MTV Kosova 
 http://pro-unibox.com:25461/EG/Italy1/550
-#EXTINF:-1,TV Ilirida
+#EXTINF:0 user-agent="+",TV Ilirida
 http://pro-unibox.com:25461/EG/Italy1/557
-#EXTINF:-1,TV Sharri
+#EXTINF:0 user-agent="+",TV Sharri
 http://pro-unibox.com:25461/EG/Italy1/558
-#EXTINF:-1,Sol TV 
+#EXTINF:0 user-agent="+",Sol TV 
 http://pro-unibox.com:25461/EG/Italy1/559
-#EXTINF:-1,WoW TV
+#EXTINF:0 user-agent="+",WoW TV
 http://pro-unibox.com:25461/EG/Italy1/560
-#EXTINF:-1,Red Bull TV
+#EXTINF:0 user-agent="+",Red Bull TV
 http://pro-unibox.com:25461/EG/Italy1/561
-#EXTINF:-1,VOA Zeri i Amerikes
+#EXTINF:0 user-agent="+",VOA Zeri i Amerikes
 http://pro-unibox.com:25461/EG/Italy1/562
-#EXTINF:-1,Alba Music
+#EXTINF:0 user-agent="+",Alba Music
 http://pro-unibox.com:25461/EG/Italy1/563
-#EXTINF:-1,Alb Music HD
+#EXTINF:0 user-agent="+",Alb Music HD
 http://pro-unibox.com:25461/EG/Italy1/564
-#EXTINF:-1,Kids TV
+#EXTINF:0 user-agent="+",Kids TV
 http://pro-unibox.com:25461/EG/Italy1/566
-#EXTINF:-1,Neser TV
+#EXTINF:0 user-agent="+",Neser TV
 http://pro-unibox.com:25461/EG/Italy1/567
-#EXTINF:-1,Sofia TV
+#EXTINF:0 user-agent="+",Sofia TV
 http://pro-unibox.com:25461/EG/Italy1/568
-#EXTINF:-1,Top Estrada
+#EXTINF:0 user-agent="+",Top Estrada
 http://pro-unibox.com:25461/EG/Italy1/569
-#EXTINF:-1,Novela
+#EXTINF:0 user-agent="+",Novela
 http://pro-unibox.com:25461/EG/Italy1/570
-#EXTINF:-1,Sky Folk
+#EXTINF:0 user-agent="+",Sky Folk
 http://pro-unibox.com:25461/EG/Italy1/571
-#EXTINF:-1,Tv Gold Johaniter
+#EXTINF:0 user-agent="+",Tv Gold Johaniter
 http://pro-unibox.com:25461/EG/Italy1/572
-#EXTINF:-1,ATD TV (Amerikan TV of Dardania)
+#EXTINF:0 user-agent="+",ATD TV (Amerikan TV of Dardania)
 http://pro-unibox.com:25461/EG/Italy1/574
-#EXTINF:-1,MAK I MRT 1
+#EXTINF:0 user-agent="+",MAK I MRT 1
 http://pro-unibox.com:25461/EG/Italy1/576
-#EXTINF:-1,Korça +
+#EXTINF:0 user-agent="+",Korça +
 http://pro-unibox.com:25461/EG/Italy1/577
-#EXTINF:-1,Anime Tv
+#EXTINF:0 user-agent="+",Anime Tv
 http://pro-unibox.com:25461/EG/Italy1/578
-#EXTINF:-1,HappyKids Junior
+#EXTINF:0 user-agent="+",HappyKids Junior
 http://pro-unibox.com:25461/EG/Italy1/579
-#EXTINF:-1,Kid central femij
+#EXTINF:0 user-agent="+",Kid central femij
 http://pro-unibox.com:25461/EG/Italy1/580
-#EXTINF:-1,Canal Motor
+#EXTINF:0 user-agent="+",Canal Motor
 http://pro-unibox.com:25461/EG/Italy1/581
-#EXTINF:-1, EDGE sport
+#EXTINF:0 user-agent="+", EDGE sport
 http://pro-unibox.com:25461/EG/Italy1/582
-#EXTINF:-1, InWonder tv
+#EXTINF:0 user-agent="+", InWonder tv
 http://pro-unibox.com:25461/EG/Italy1/584
-#EXTINF:-1, InWild
+#EXTINF:0 user-agent="+", InWild
 http://pro-unibox.com:25461/EG/Italy1/585
-#EXTINF:-1, OneGolf tv
+#EXTINF:0 user-agent="+", OneGolf tv
 http://pro-unibox.com:25461/EG/Italy1/588
-#EXTINF:-1,MRT 2
+#EXTINF:0 user-agent="+",MRT 2
 http://pro-unibox.com:25461/EG/Italy1/653
-#EXTINF:-1,Mak MRT 3
+#EXTINF:0 user-agent="+",Mak MRT 3
 http://pro-unibox.com:25461/EG/Italy1/654
-#EXTINF:-1,MAK I  Sitel TV
+#EXTINF:0 user-agent="+",MAK I  Sitel TV
 http://pro-unibox.com:25461/EG/Italy1/655
-#EXTINF:-1,MAK I Telma
+#EXTINF:0 user-agent="+",MAK I Telma
 http://pro-unibox.com:25461/EG/Italy1/656
-#EXTINF:-1,MAK I  Alfa TV
+#EXTINF:0 user-agent="+",MAK I  Alfa TV
 http://pro-unibox.com:25461/EG/Italy1/657
-#EXTINF:-1,MAK I  Kanal 5
+#EXTINF:0 user-agent="+",MAK I  Kanal 5
 http://pro-unibox.com:25461/EG/Italy1/658
-#EXTINF:-1,Fun Roads tv
+#EXTINF:0 user-agent="+",Fun Roads tv
 http://pro-unibox.com:25461/EG/Italy1/659
-#EXTINF:-1,Balkanika tv
+#EXTINF:0 user-agent="+",Balkanika tv
 http://pro-unibox.com:25461/EG/Italy1/565
-#EXTINF:-1,Crime Time tv
+#EXTINF:0 user-agent="+",Crime Time tv
 http://pro-unibox.com:25461/EG/Italy1/589
-#EXTINF:-1,LifeStyle TV
+#EXTINF:0 user-agent="+",LifeStyle TV
 http://pro-unibox.com:25461/EG/Italy1/591
-#EXTINF:-1,STV Flok
+#EXTINF:0 user-agent="+",STV Flok
 http://pro-unibox.com:25461/EG/Italy1/648
-#EXTINF:-1,RTSH Kukesi
+#EXTINF:0 user-agent="+",RTSH Kukesi
 http://pro-unibox.com:25461/EG/Italy1/650
-#EXTINF:-1,RTSH Shkodra
+#EXTINF:0 user-agent="+",RTSH Shkodra
 http://pro-unibox.com:25461/EG/Italy1/651
-#EXTINF:-1,RTSH Plus
+#EXTINF:0 user-agent="+",RTSH Plus
 http://pro-unibox.com:25461/EG/Italy1/652
-#EXTINF:-1,RTSH Agro
+#EXTINF:0 user-agent="+",RTSH Agro
 http://pro-unibox.com:25461/EG/Italy1/662
-#EXTINF:-1,RTSH Gjirokastra
+#EXTINF:0 user-agent="+",RTSH Gjirokastra
 http://pro-unibox.com:25461/EG/Italy1/664
-#EXTINF:-1,Fashion TV
+#EXTINF:0 user-agent="+",Fashion TV
 http://pro-unibox.com:25461/EG/Italy1/665
-#EXTINF:-1,RTSH Sport
+#EXTINF:0 user-agent="+",RTSH Sport
 http://pro-unibox.com:25461/EG/Italy1/666
-#EXTINF:-1,RTSH Musik
+#EXTINF:0 user-agent="+",RTSH Musik
 http://pro-unibox.com:25461/EG/Italy1/667
-#EXTINF:-1,RTSH Shkoll
+#EXTINF:0 user-agent="+",RTSH Shkoll
 http://pro-unibox.com:25461/EG/Italy1/668
-#EXTINF:-1,RTSH Satelit
+#EXTINF:0 user-agent="+",RTSH Satelit
 http://pro-unibox.com:25461/EG/Italy1/669
-#EXTINF:-1,STV TV
+#EXTINF:0 user-agent="+",STV TV
 http://pro-unibox.com:25461/EG/Italy1/670
-#EXTINF:-1,Toonix Kids
+#EXTINF:0 user-agent="+",Toonix Kids
 http://pro-unibox.com:25461/EG/Italy1/671
-#EXTINF:-1,Tv Duga Plus
+#EXTINF:0 user-agent="+",Tv Duga Plus
 http://pro-unibox.com:25461/EG/Italy1/672
-#EXTINF:-1,Pop TV
+#EXTINF:0 user-agent="+",Pop TV
 http://pro-unibox.com:25461/EG/Italy1/673
-#EXTINF:-1,TV Pro
+#EXTINF:0 user-agent="+",TV Pro
 http://pro-unibox.com:25461/EG/Italy1/674
-#EXTINF:-1,WAU HD TV
+#EXTINF:0 user-agent="+",WAU HD TV
 http://pro-unibox.com:25461/EG/Italy1/675
-#EXTINF:-1,RTSH 24
+#EXTINF:0 user-agent="+",RTSH 24
 http://pro-unibox.com:25461/EG/Italy1/677
 
 
@@ -1361,20 +1361,20 @@ http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/2549
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/6909
 
 
-http://78.31.67.69:25461/get.php?username=MetiTV-telegram&password=uQMtrtEwjt&type=m3u
+http://78.31.67.69:8080/get.php?username=MetiTV-telegram&password=uQMtrtEwjt&type=m3u
 
 
 
 
 #EXTINF:-1   group-title="-IPTV SHQIP 3-",
 #EXTINF:-1,Big Brother 1  VIP
-http://78.31.67.69:25461/Gezuar2022/MetiTV-kanaleeshqip/84
+http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/84
 #EXTINF:-1,Big Brother 2 VIP
-http://78.31.67.69:25461/Gezuar2022/MetiTV-kanaleeshqip/85
+http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/85
 #EXTINF:-1,Top channel HD
-http://78.31.67.69:25461/Gezuar2022/MetiTV-kanaleeshqip/69
+http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/69
 #EXTINF:-1,Top channel FHD
-http://78.31.67.69:25461/Gezuar2022/MetiTV-kanaleeshqip/70
+http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/70
 #EXTINF:-1,AL| TOP CHANNEL SD
 http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQJkGo79Vczjxk81ouajKHuk/ts
 #EXTINF:-1,AL: TOP Channel HD
@@ -1382,9 +1382,9 @@ http://stream.com-iptv.com:8080/TopChannelHD/index.m3u8?token=test
 #EXTINF:-1,Top Channel HD
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/131.ts
 #EXTINF:-1,Klan HD
-http://78.31.67.69:25461/Gezuar2022/MetiTV-kanaleeshqip/67
+http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/67
 #EXTINF:-1,Klan FHD
-http://78.31.67.69:25461/Gezuar2022/MetiTV-kanaleeshqip/68
+http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/68
 #EXTINF:-1,TV KLAN MOB
 http://79.106.90.114:3030/live/klanhdmob/playlist.m3u8
 
@@ -1536,7 +1536,7 @@ http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/75.ts
 #EXTINF:-1,Jolly FHD
 http://95.107.132.106/out/u/892_2.m3u8
 #EXTINF:-1,Tring Family HD
-http://78.31.67.69:25461/Gezuar2022/MetiTV-kanaleeshqip/54
+http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/54
 #EXTINF:-1,AL: Tring Family HD
 http://95.107.132.106/out/u/672_4.m3u8
 #EXTINF:-1,AL: Tring Collection HD
@@ -1615,51 +1615,51 @@ http://ran.no-ips.net:8888/AL/209420/mpegts
 #EXTINF:-1,RTSH Femije
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/129.ts
 #EXTINF:-1,TV Sole
-http://78.31.67.69:25461/Gezuar2022/MetiTV-kanaleeshqip/168
+http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/168
 
 
 #EXTINF:-1,Explorer Natyra
-http://78.31.67.69:25461/Gezuar2022/MetiTV-kanaleeshqip/157
+http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/157
 #EXTINF:-1,Explorer Histori
-http://78.31.67.69:25461/Gezuar2022/MetiTV-kanaleeshqip/157
+http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/157
 #EXTINF:-1,Explorer Shkence
-http://78.31.67.69:25461/Gezuar2022/MetiTV-kanaleeshqip/159
+http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/159
 
 
 #EXTINF:-1,AL: Folk +
 http://95.107.132.106/out/u/44_1.m3u8
 #EXTINF:-1,Tv llapi
-http://78.31.67.69:25461/Gezuar2022/MetiTV-kanaleeshqip/134
+http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/134
 #EXTINF:-1,RTV Mitrovica
-http://78.31.67.69:25461/Gezuar2022/MetiTV-kanaleeshqip/135
+http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/135
 #EXTINF:-1,TV SHARRI
-http://78.31.67.69:25461/Gezuar2022/MetiTV-kanaleeshqip/136
+http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/136
 #EXTINF:-1,BBF Music
-http://78.31.67.69:25461/Gezuar2022/MetiTV-kanaleeshqip/137
+http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/137
 #EXTINF:-1,Farme tv
-http://78.31.67.69:25461/Gezuar2022/MetiTV-kanaleeshqip/138
+http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/138
 #EXTINF:-1,Peace tv
-http://78.31.67.69:25461/Gezuar2022/MetiTV-kanaleeshqip/139
+http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/139
 #EXTINF:-1,Folk plus
-http://78.31.67.69:25461/Gezuar2022/MetiTV-kanaleeshqip/140
+http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/140
 #EXTINF:-1,Albuk
-http://78.31.67.69:25461/Gezuar2022/MetiTV-kanaleeshqip/141
+http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/141
 #EXTINF:-1,Koha tv
-http://78.31.67.69:25461/Gezuar2022/MetiTV-kanaleeshqip/142
+http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/142
 #EXTINF:-1,Flutra tv
-http://78.31.67.69:25461/Gezuar2022/MetiTV-kanaleeshqip/143
+http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/143
 #EXTINF:-1,Tv Shenja
-http://78.31.67.69:25461/Gezuar2022/MetiTV-kanaleeshqip/144
+http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/144
 #EXTINF:-1,First tv
-http://78.31.67.69:25461/Gezuar2022/MetiTV-kanaleeshqip/145
+http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/145
 #EXTINF:-1,Adrianet
-http://78.31.67.69:25461/Gezuar2022/MetiTV-kanaleeshqip/146
+http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/146
 #EXTINF:-1,Euro Channel
-http://78.31.67.69:25461/Gezuar2022/MetiTV-kanaleeshqip/147
+http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/147
 #EXTINF:-1,Club tv
-http://78.31.67.69:25461/Gezuar2022/MetiTV-kanaleeshqip/148
+http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/148
 #EXTINF:-1,Tirana tv
-http://78.31.67.69:25461/Gezuar2022/MetiTV-kanaleeshqip/149
+http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/149
 
 #EXTINF:-1,AL: Super Sport 1 HD
 http://stream.com-iptv.com:8080/SS1HD/index.m3u8?token=test
@@ -2670,768 +2670,768 @@ http://93.115.20.208/portalgen/play.php?chID=13039
 
 
 
-#EXTINF:-1 tvg-id="Klan TV" tvg-name="Top Channel" tvg-logo="http://skupi.club:8080/images/9749d82a190f0642469a7535e4fc32a8.png" group-title="-IPTV SHQIP 5-",Top Channel
+
+#EXTINF:-1 tvg-id="Klan TV" tvg-name="Top Channel" tvg-logo="http://skupi.club:8080/images/9749d82a190f0642469a7535e4fc32a8.png" group-title="--IPTV SHQIP 5--",Top Channel
 http://skupi.club:8080/iptvtree/AU3vErG73h/3694
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vizion Plus HD" tvg-logo="http://skupi.club:8000/images/75bcd20986a8b62bfafa9b3aaa73462e.png" group-title="IPTV SHQIP 5",Vizion Plus HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vizion Plus HD" tvg-logo="http://skupi.club:8000/images/75bcd20986a8b62bfafa9b3aaa73462e.png" group-title="-IPTV SHQIP 5-",Vizion Plus HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/2253
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vizion Plus" tvg-logo="http://titaniptv.com/epg/logo/Vizion%20Plus.png" group-title="IPTV SHQIP 5",Vizion Plus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vizion Plus" tvg-logo="http://titaniptv.com/epg/logo/Vizion%20Plus.png" group-title="-IPTV SHQIP 5-",Vizion Plus
 http://skupi.club:8080/iptvtree/AU3vErG73h/7254
-#EXTINF:-1 tvg-id="Klan TV HD" tvg-name="Klan HD." tvg-logo="http://skupi.club:8080/images/3fe29b05841e33661531f4d96b772c2f.png" group-title="IPTV SHQIP 5",Klan HD.
+#EXTINF:-1 tvg-id="Klan TV HD" tvg-name="Klan HD." tvg-logo="http://skupi.club:8080/images/3fe29b05841e33661531f4d96b772c2f.png" group-title="-IPTV SHQIP 5-",Klan HD.
 http://skupi.club:8080/iptvtree/AU3vErG73h/7798
-#EXTINF:-1 tvg-id="Klan TV" tvg-name="Klan TV" tvg-logo="http://skupi.club:8080/images/23c89c2f33d2c73dcd11db490ad4a890.png" group-title="IPTV SHQIP 5",Klan TV
+#EXTINF:-1 tvg-id="Klan TV" tvg-name="Klan TV" tvg-logo="http://skupi.club:8080/images/23c89c2f33d2c73dcd11db490ad4a890.png" group-title="-IPTV SHQIP 5-",Klan TV
 http://skupi.club:8080/iptvtree/AU3vErG73h/3697
-#EXTINF:-1 tvg-id="KlanKosova.al" tvg-name="Klan Plus HD" tvg-logo="http://skupi.club:8080/images/23c89c2f33d2c73dcd11db490ad4a890.png" group-title="IPTV SHQIP 5",Klan Plus HD
+#EXTINF:-1 tvg-id="KlanKosova.al" tvg-name="Klan Plus HD" tvg-logo="http://skupi.club:8080/images/23c89c2f33d2c73dcd11db490ad4a890.png" group-title="-IPTV SHQIP 5-",Klan Plus HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/1157
-#EXTINF:-1 tvg-id="KlanTV.al" tvg-name="Klan Plus" tvg-logo="" group-title="IPTV SHQIP 5",Klan Plus
+#EXTINF:-1 tvg-id="KlanTV.al" tvg-name="Klan Plus" tvg-logo="" group-title="-IPTV SHQIP 5-",Klan Plus
 http://skupi.club:8080/iptvtree/AU3vErG73h/9001
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTSH" tvg-logo="http://skupi.club:8080/images/9aed8023146afbd51ba827940007a3c0.png" group-title="IPTV SHQIP 5",RTSH
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTSH" tvg-logo="http://skupi.club:8080/images/9aed8023146afbd51ba827940007a3c0.png" group-title="-IPTV SHQIP 5-",RTSH
 http://skupi.club:8080/iptvtree/AU3vErG73h/2483
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTSH 1 HD" tvg-logo="http://skupi.club:8080/images/2e373b92d0e55a1c4f38b449d3d8e3eb.png" group-title="IPTV SHQIP 5",RTSH 1 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTSH 1 HD" tvg-logo="http://skupi.club:8080/images/2e373b92d0e55a1c4f38b449d3d8e3eb.png" group-title="-IPTV SHQIP 5-",RTSH 1 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/6012
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTSH 2 HD" tvg-logo="http://titaniptv.com/epg/logo/RTSH%20Satelit.png" group-title="IPTV SHQIP 5",RTSH 2 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTSH 2 HD" tvg-logo="http://titaniptv.com/epg/logo/RTSH%20Satelit.png" group-title="-IPTV SHQIP 5-",RTSH 2 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/7835
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTSH 3 HD" tvg-logo="" group-title="IPTV SHQIP 5",RTSH 3 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTSH 3 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",RTSH 3 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/8639
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T7" tvg-logo="" group-title="IPTV SHQIP 5",T7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T7" tvg-logo="" group-title="-IPTV SHQIP 5-",T7
 http://skupi.club:8080/iptvtree/AU3vErG73h/8436
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTK" tvg-logo="http://skupi.club:8080/images/2fb4461f95446e546e8435c0746faa4e.png" group-title="IPTV SHQIP 5",RTK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTK" tvg-logo="http://skupi.club:8080/images/2fb4461f95446e546e8435c0746faa4e.png" group-title="-IPTV SHQIP 5-",RTK
 http://skupi.club:8080/iptvtree/AU3vErG73h/6743
-#EXTINF:-1 tvg-id="RTK AL" tvg-name="RTK 1 HD." tvg-logo="" group-title="IPTV SHQIP 5",RTK 1 HD.
+#EXTINF:-1 tvg-id="RTK AL" tvg-name="RTK 1 HD." tvg-logo="" group-title="-IPTV SHQIP 5-",RTK 1 HD.
 http://skupi.club:8080/iptvtree/AU3vErG73h/8218
-#EXTINF:-1 tvg-id="RTK AL" tvg-name="RTK 2 HD" tvg-logo="http://skupi.club:8000/images/sRzbNlYK4FNzTXqAqA60T8hbtPZ9jGm5.png" group-title="IPTV SHQIP 5",RTK 2 HD
+#EXTINF:-1 tvg-id="RTK AL" tvg-name="RTK 2 HD" tvg-logo="http://skupi.club:8000/images/sRzbNlYK4FNzTXqAqA60T8hbtPZ9jGm5.png" group-title="-IPTV SHQIP 5-",RTK 2 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/4529
-#EXTINF:-1 tvg-id="TeleSport" tvg-name="RTK 3 HD" tvg-logo="http://skupi.club:8000/images/QEZ9kOxhIuubmCSX8UFMOgQwBp2mJwNA.png" group-title="IPTV SHQIP 5",RTK 3 HD
+#EXTINF:-1 tvg-id="TeleSport" tvg-name="RTK 3 HD" tvg-logo="http://skupi.club:8000/images/QEZ9kOxhIuubmCSX8UFMOgQwBp2mJwNA.png" group-title="-IPTV SHQIP 5-",RTK 3 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/4374
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV 21" tvg-logo="http://skupi.club:8080/images/dff6a9bb5341f78bce49a6a7664d7523.png" group-title="IPTV SHQIP 5",RTV 21
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV 21" tvg-logo="http://skupi.club:8080/images/dff6a9bb5341f78bce49a6a7664d7523.png" group-title="-IPTV SHQIP 5-",RTV 21
 http://skupi.club:8080/iptvtree/AU3vErG73h/3696
-#EXTINF:-1 tvg-id="TeleSport" tvg-name="RTV 21 HD." tvg-logo="http://titaniptv.com/epg/logo/21%20HD%20Plus.png" group-title="IPTV SHQIP 5",RTV 21 HD.
+#EXTINF:-1 tvg-id="TeleSport" tvg-name="RTV 21 HD." tvg-logo="http://titaniptv.com/epg/logo/21%20HD%20Plus.png" group-title="-IPTV SHQIP 5-",RTV 21 HD.
 http://skupi.club:8080/iptvtree/AU3vErG73h/6997
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV 21 Mix HD" tvg-logo="http://titaniptv.com/epg/logo/21%20HD%20Plus.png" group-title="IPTV SHQIP 5",RTV 21 Mix HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV 21 Mix HD" tvg-logo="http://titaniptv.com/epg/logo/21%20HD%20Plus.png" group-title="-IPTV SHQIP 5-",RTV 21 Mix HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/5435
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV 21 Plus HD" tvg-logo="http://titaniptv.com/epg/logo/21%20HD%20Plus.png" group-title="IPTV SHQIP 5",RTV 21 Plus HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV 21 Plus HD" tvg-logo="http://titaniptv.com/epg/logo/21%20HD%20Plus.png" group-title="-IPTV SHQIP 5-",RTV 21 Plus HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/3819
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV 21 Popullore" tvg-logo="http://titaniptv.com/epg/logo/21%20HD%20Popullare.png" group-title="IPTV SHQIP 5",RTV 21 Popullore
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV 21 Popullore" tvg-logo="http://titaniptv.com/epg/logo/21%20HD%20Popullare.png" group-title="-IPTV SHQIP 5-",RTV 21 Popullore
 http://skupi.club:8080/iptvtree/AU3vErG73h/3941
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Klan Kosova HD." tvg-logo="http://skupi.club:8080/images/a590eb30195349da4741e57d1667fd81.png" group-title="IPTV SHQIP 5",Klan Kosova HD.
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Klan Kosova HD." tvg-logo="http://skupi.club:8080/images/a590eb30195349da4741e57d1667fd81.png" group-title="-IPTV SHQIP 5-",Klan Kosova HD.
 http://skupi.club:8080/iptvtree/AU3vErG73h/7766
-#EXTINF:-1 tvg-id="TeleSport" tvg-name="KTV" tvg-logo="http://skupi.club:8080/images/b1b1776f2833df3ed08a52f5dfeb20af.png" group-title="IPTV SHQIP 5",KTV
+#EXTINF:-1 tvg-id="TeleSport" tvg-name="KTV" tvg-logo="http://skupi.club:8080/images/b1b1776f2833df3ed08a52f5dfeb20af.png" group-title="-IPTV SHQIP 5-",KTV
 http://skupi.club:8080/iptvtree/AU3vErG73h/3695
-#EXTINF:-1 tvg-id="AlsatM.al" tvg-name="ALSAT M" tvg-logo="http://skupi.club:8080/images/1509a5277bc0b2917ac7d4b2b9297b63.png" group-title="IPTV SHQIP 5",ALSAT M
+#EXTINF:-1 tvg-id="AlsatM.al" tvg-name="ALSAT M" tvg-logo="http://skupi.club:8080/images/1509a5277bc0b2917ac7d4b2b9297b63.png" group-title="-IPTV SHQIP 5-",ALSAT M
 http://skupi.club:8080/iptvtree/AU3vErG73h/2417
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV 21 MK HD" tvg-logo="http://skupi.club:8080/images/efe4cc8d91965f46bbfb4462da7070e9.png" group-title="IPTV SHQIP 5",RTV 21 MK HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV 21 MK HD" tvg-logo="http://skupi.club:8080/images/efe4cc8d91965f46bbfb4462da7070e9.png" group-title="-IPTV SHQIP 5-",RTV 21 MK HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/6998
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Dukagjini HD" tvg-logo="" group-title="IPTV SHQIP 5",TV Dukagjini HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Dukagjini HD" tvg-logo="" group-title="-IPTV SHQIP 5-",TV Dukagjini HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/7039
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Dukagjini" tvg-logo="" group-title="IPTV SHQIP 5",TV Dukagjini
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Dukagjini" tvg-logo="" group-title="-IPTV SHQIP 5-",TV Dukagjini
 http://skupi.club:8080/iptvtree/AU3vErG73h/9778
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Euro Film HD" tvg-logo="https://www.ksamili.com/images/channels_logo/gold.gif" group-title="IPTV SHQIP 5",Euro Film HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Euro Film HD" tvg-logo="https://www.ksamili.com/images/channels_logo/gold.gif" group-title="-IPTV SHQIP 5-",Euro Film HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/2176
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Family HD" tvg-logo="https://www.ksamili.com/images/channels_logo/plusHD.gif" group-title="IPTV SHQIP 5",Family HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Family HD" tvg-logo="https://www.ksamili.com/images/channels_logo/plusHD.gif" group-title="-IPTV SHQIP 5-",Family HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/3094
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Film Gold HD" tvg-logo="https://www.ksamili.com/images/channels_logo/filmnjeHD.gif" group-title="IPTV SHQIP 5",Film Gold HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Film Gold HD" tvg-logo="https://www.ksamili.com/images/channels_logo/filmnjeHD.gif" group-title="-IPTV SHQIP 5-",Film Gold HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/2252
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Film Max HD" tvg-logo="" group-title="IPTV SHQIP 5",Film Max HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Film Max HD" tvg-logo="" group-title="-IPTV SHQIP 5-",Film Max HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/2241
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Film Aksion HD" tvg-logo="http://skupi.club:8080/images/055d605e1171579ae923829ccc27c3ac.png" group-title="IPTV SHQIP 5",Film Aksion HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Film Aksion HD" tvg-logo="http://skupi.club:8080/images/055d605e1171579ae923829ccc27c3ac.png" group-title="-IPTV SHQIP 5-",Film Aksion HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/2510
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Film Hits HD" tvg-logo="http://titaniptv.com/epg/logo/DigitAlb%20Hits.png" group-title="IPTV SHQIP 5",Film Hits HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Film Hits HD" tvg-logo="http://titaniptv.com/epg/logo/DigitAlb%20Hits.png" group-title="-IPTV SHQIP 5-",Film Hits HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/2539
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Film Thriller" tvg-logo="http://titaniptv.com/epg/logo/DigitAlb%20Thriller.png" group-title="IPTV SHQIP 5",Film Thriller
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Film Thriller" tvg-logo="http://titaniptv.com/epg/logo/DigitAlb%20Thriller.png" group-title="-IPTV SHQIP 5-",Film Thriller
 http://skupi.club:8080/iptvtree/AU3vErG73h/2541
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Film Stinet" tvg-logo="http://titaniptv.com/epg/logo/DigitAlb%20Stinet.png" group-title="IPTV SHQIP 5",Film Stinet
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Film Stinet" tvg-logo="http://titaniptv.com/epg/logo/DigitAlb%20Stinet.png" group-title="-IPTV SHQIP 5-",Film Stinet
 http://skupi.club:8080/iptvtree/AU3vErG73h/2540
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EuroFilm" tvg-logo="" group-title="IPTV SHQIP 5",EuroFilm
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EuroFilm" tvg-logo="" group-title="-IPTV SHQIP 5-",EuroFilm
 http://skupi.club:8080/iptvtree/AU3vErG73h/8434
-#EXTINF:-1 tvg-id="TeleSport" tvg-name="RTK 1 HD" tvg-logo="http://skupi.club:8000/images/h232Nn3kNAAdm0R9ClHLDKmRxcOzinxV.png" group-title="IPTV SHQIP 5",RTK 1 HD
+#EXTINF:-1 tvg-id="TeleSport" tvg-name="RTK 1 HD" tvg-logo="http://skupi.club:8000/images/h232Nn3kNAAdm0R9ClHLDKmRxcOzinxV.png" group-title="-IPTV SHQIP 5-",RTK 1 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/2501
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Film Komedi" tvg-logo="http://titaniptv.com/epg/logo/DigitAlb%20Komedi.png" group-title="IPTV SHQIP 5",Film Komedi
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Film Komedi" tvg-logo="http://titaniptv.com/epg/logo/DigitAlb%20Komedi.png" group-title="-IPTV SHQIP 5-",Film Komedi
 http://skupi.club:8080/iptvtree/AU3vErG73h/2507
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Film Drame " tvg-logo="http://titaniptv.com/epg/logo/DigitAlb%20Drame.png" group-title="IPTV SHQIP 5",Film Drame 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Film Drame " tvg-logo="http://titaniptv.com/epg/logo/DigitAlb%20Drame.png" group-title="-IPTV SHQIP 5-",Film Drame 
 http://skupi.club:8080/iptvtree/AU3vErG73h/2509
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Film Autor" tvg-logo="http://titaniptv.com/epg/logo/DigitAlb%20Autor.png" group-title="IPTV SHQIP 5",Film Autor
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Film Autor" tvg-logo="http://titaniptv.com/epg/logo/DigitAlb%20Autor.png" group-title="-IPTV SHQIP 5-",Film Autor
 http://skupi.club:8080/iptvtree/AU3vErG73h/2442
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring Smile" tvg-logo="http://www.tring.al/images/channels/2/smile.png" group-title="IPTV SHQIP 5",Tring Smile
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring Smile" tvg-logo="http://www.tring.al/images/channels/2/smile.png" group-title="-IPTV SHQIP 5-",Tring Smile
 http://skupi.club:8080/iptvtree/AU3vErG73h/3371
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTSH Shqip" tvg-logo="" group-title="IPTV SHQIP 5",RTSH Shqip
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTSH Shqip" tvg-logo="" group-title="-IPTV SHQIP 5-",RTSH Shqip
 http://skupi.club:8080/iptvtree/AU3vErG73h/8856
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T  HD" tvg-logo="http://titaniptv.com/epg/logo/Tring-No%20Mans%20Land%20:)/Tring%203+.png" group-title="IPTV SHQIP 5",T  HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T  HD" tvg-logo="http://titaniptv.com/epg/logo/Tring-No%20Mans%20Land%20:)/Tring%203+.png" group-title="-IPTV SHQIP 5-",T  HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/6234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring Shqip" tvg-logo="http://titaniptv.com/epg/logo/Tring%20Shqip.png" group-title="IPTV SHQIP 5",Tring Shqip
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring Shqip" tvg-logo="http://titaniptv.com/epg/logo/Tring%20Shqip.png" group-title="-IPTV SHQIP 5-",Tring Shqip
 http://skupi.club:8080/iptvtree/AU3vErG73h/2246
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jolly HD" tvg-logo="http://skupi.club:8080/images/935cf36b53ebbd41234e75d172169636.png" group-title="IPTV SHQIP 5",Jolly HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jolly HD" tvg-logo="http://skupi.club:8080/images/935cf36b53ebbd41234e75d172169636.png" group-title="-IPTV SHQIP 5-",Jolly HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/2420
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring Action HD" tvg-logo="http://skupi.club:8080/images/6d24a580f38d60837d73f2b4376b1905.png" group-title="IPTV SHQIP 5",Tring Action HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring Action HD" tvg-logo="http://skupi.club:8080/images/6d24a580f38d60837d73f2b4376b1905.png" group-title="-IPTV SHQIP 5-",Tring Action HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/1471
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring Super HD" tvg-logo="http://titaniptv.com/epg/logo/Tring%20Super.png" group-title="IPTV SHQIP 5",Tring Super HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring Super HD" tvg-logo="http://titaniptv.com/epg/logo/Tring%20Super.png" group-title="-IPTV SHQIP 5-",Tring Super HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/2488
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring Fantasy" tvg-logo="http://titaniptv.com/epg/logo/Tring%20Fantasy.png" group-title="IPTV SHQIP 5",Tring Fantasy
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring Fantasy" tvg-logo="http://titaniptv.com/epg/logo/Tring%20Fantasy.png" group-title="-IPTV SHQIP 5-",Tring Fantasy
 http://skupi.club:8080/iptvtree/AU3vErG73h/2491
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring Comedy" tvg-logo="http://titaniptv.com/epg/logo/Tring%20Comedy.png" group-title="IPTV SHQIP 5",Tring Comedy
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring Comedy" tvg-logo="http://titaniptv.com/epg/logo/Tring%20Comedy.png" group-title="-IPTV SHQIP 5-",Tring Comedy
 http://skupi.club:8080/iptvtree/AU3vErG73h/2492
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring life" tvg-logo="http://titaniptv.com/epg/logo/Tring%20Life.png" group-title="IPTV SHQIP 5",Tring life
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring life" tvg-logo="http://titaniptv.com/epg/logo/Tring%20Life.png" group-title="-IPTV SHQIP 5-",Tring life
 http://skupi.club:8080/iptvtree/AU3vErG73h/1472
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring Planet" tvg-logo="http://skupi.club:8080/images/f7d13f9a9bf861071ef43ece0d73fc06.png" group-title="IPTV SHQIP 5",Tring Planet
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring Planet" tvg-logo="http://skupi.club:8080/images/f7d13f9a9bf861071ef43ece0d73fc06.png" group-title="-IPTV SHQIP 5-",Tring Planet
 http://skupi.club:8080/iptvtree/AU3vErG73h/2248
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring History" tvg-logo="http://titaniptv.com/epg/logo/Tring%20Hisory.png" group-title="IPTV SHQIP 5",Tring History
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring History" tvg-logo="http://titaniptv.com/epg/logo/Tring%20Hisory.png" group-title="-IPTV SHQIP 5-",Tring History
 http://skupi.club:8080/iptvtree/AU3vErG73h/2490
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring World" tvg-logo="http://skupi.club:8080/images/c6b6e13a747cc8b39b9a839d92e856ca.png" group-title="IPTV SHQIP 5",Tring World
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring World" tvg-logo="http://skupi.club:8080/images/c6b6e13a747cc8b39b9a839d92e856ca.png" group-title="-IPTV SHQIP 5-",Tring World
 http://skupi.club:8080/iptvtree/AU3vErG73h/2485
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring Muse" tvg-logo="http://www.tring.al/images/channels/2/muse.png" group-title="IPTV SHQIP 5",Tring Muse
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring Muse" tvg-logo="http://www.tring.al/images/channels/2/muse.png" group-title="-IPTV SHQIP 5-",Tring Muse
 http://skupi.club:8080/iptvtree/AU3vErG73h/4787
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Humor 24" tvg-logo="" group-title="IPTV SHQIP 5",Humor 24
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Humor 24" tvg-logo="" group-title="-IPTV SHQIP 5-",Humor 24
 http://skupi.club:8080/iptvtree/AU3vErG73h/6957
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="7 NEWS" tvg-logo="http://www.tring.al/images/channels/2/seven.png" group-title="IPTV SHQIP 5",7 NEWS
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="7 NEWS" tvg-logo="http://www.tring.al/images/channels/2/seven.png" group-title="-IPTV SHQIP 5-",7 NEWS
 http://skupi.club:8080/iptvtree/AU3vErG73h/3833
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ora News" tvg-logo="https://www.ksamili.com/images/channels_logo/ora.gif" group-title="IPTV SHQIP 5",Ora News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ora News" tvg-logo="https://www.ksamili.com/images/channels_logo/ora.gif" group-title="-IPTV SHQIP 5-",Ora News
 http://skupi.club:8080/iptvtree/AU3vErG73h/3368
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A1 Report HD" tvg-logo="" group-title="IPTV SHQIP 5",A1 Report HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A1 Report HD" tvg-logo="" group-title="-IPTV SHQIP 5-",A1 Report HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/7980
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC NEWS AL" tvg-logo="https://www.ksamili.com/images/channels_logo/abcnews.gif" group-title="IPTV SHQIP 5",ABC NEWS AL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC NEWS AL" tvg-logo="https://www.ksamili.com/images/channels_logo/abcnews.gif" group-title="-IPTV SHQIP 5-",ABC NEWS AL
 http://skupi.club:8080/iptvtree/AU3vErG73h/2669
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTSH 24 HD" tvg-logo="" group-title="IPTV SHQIP 5",RTSH 24 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTSH 24 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",RTSH 24 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/8638
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Top News" tvg-logo="https://www.ksamili.com/images/channels_logo/topnews.gif" group-title="IPTV SHQIP 5",Top News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Top News" tvg-logo="https://www.ksamili.com/images/channels_logo/topnews.gif" group-title="-IPTV SHQIP 5-",Top News
 http://skupi.club:8080/iptvtree/AU3vErG73h/3380
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arta News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2npEoS04mclNypkUqOb4WaHSykoGE1sSU_VEp1XIwnqRk8VQY" group-title="IPTV SHQIP 5",Arta News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arta News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2npEoS04mclNypkUqOb4WaHSykoGE1sSU_VEp1XIwnqRk8VQY" group-title="-IPTV SHQIP 5-",Arta News
 http://skupi.club:8080/iptvtree/AU3vErG73h/3382
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News 24 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/news24_al.png" group-title="IPTV SHQIP 5",News 24 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News 24 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/news24_al.png" group-title="-IPTV SHQIP 5-",News 24 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/2503
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Crime Al" tvg-logo="http://titaniptv.com/epg/logo/FOX%20Crime%20HD.png" group-title="IPTV SHQIP 5",Fox Crime Al
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Crime Al" tvg-logo="http://titaniptv.com/epg/logo/FOX%20Crime%20HD.png" group-title="-IPTV SHQIP 5-",Fox Crime Al
 http://skupi.club:8080/iptvtree/AU3vErG73h/3384
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Life" tvg-logo="http://titaniptv.com/epg/logo/FOX%20Life%20HD.png" group-title="IPTV SHQIP 5",Fox Life
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Life" tvg-logo="http://titaniptv.com/epg/logo/FOX%20Life%20HD.png" group-title="-IPTV SHQIP 5-",Fox Life
 http://skupi.club:8080/iptvtree/AU3vErG73h/1480
-#EXTINF:-1 tvg-id="FOX" tvg-name="Fox" tvg-logo="http://titaniptv.com/epg/logo/FOX%20HD.png" group-title="IPTV SHQIP 5",Fox
+#EXTINF:-1 tvg-id="FOX" tvg-name="Fox" tvg-logo="http://titaniptv.com/epg/logo/FOX%20HD.png" group-title="-IPTV SHQIP 5-",Fox
 http://skupi.club:8080/iptvtree/AU3vErG73h/6014
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Explorer History" tvg-logo="http://titaniptv.com/epg/logo/History%20HD.png" group-title="IPTV SHQIP 5",Explorer History
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Explorer History" tvg-logo="http://titaniptv.com/epg/logo/History%20HD.png" group-title="-IPTV SHQIP 5-",Explorer History
 http://skupi.club:8080/iptvtree/AU3vErG73h/2512
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Explorer Natyra" tvg-logo="http://titaniptv.com/epg/logo/Explorer%20Natyra.png" group-title="IPTV SHQIP 5",Explorer Natyra
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Explorer Natyra" tvg-logo="http://titaniptv.com/epg/logo/Explorer%20Natyra.png" group-title="-IPTV SHQIP 5-",Explorer Natyra
 http://skupi.club:8080/iptvtree/AU3vErG73h/2538
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Explorer Shkence" tvg-logo="http://titaniptv.com/epg/logo/Explorer%20Shkence.png" group-title="IPTV SHQIP 5",Explorer Shkence
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Explorer Shkence" tvg-logo="http://titaniptv.com/epg/logo/Explorer%20Shkence.png" group-title="-IPTV SHQIP 5-",Explorer Shkence
 http://skupi.club:8080/iptvtree/AU3vErG73h/2251
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nat Geo Wild HD" tvg-logo="http://titaniptv.com/epg/logo/Nat%20Geo%20Wild%20HD.png" group-title="IPTV SHQIP 5",Nat Geo Wild HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nat Geo Wild HD" tvg-logo="http://titaniptv.com/epg/logo/Nat%20Geo%20Wild%20HD.png" group-title="-IPTV SHQIP 5-",Nat Geo Wild HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/5373
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nat Geographic" tvg-logo="http://titaniptv.com/epg/logo/National%20Geographic.png" group-title="IPTV SHQIP 5",Nat Geographic
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nat Geographic" tvg-logo="http://titaniptv.com/epg/logo/National%20Geographic.png" group-title="-IPTV SHQIP 5-",Nat Geographic
 http://skupi.club:8080/iptvtree/AU3vErG73h/5970
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery" tvg-logo="http://skupi.club:8080/images/24884b4f41ab6f266ca5824b30cdcd3d.png" group-title="IPTV SHQIP 5",Discovery
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery" tvg-logo="http://skupi.club:8080/images/24884b4f41ab6f266ca5824b30cdcd3d.png" group-title="-IPTV SHQIP 5-",Discovery
 http://skupi.club:8080/iptvtree/AU3vErG73h/5330
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24 Kitchen" tvg-logo="http://skupi.club:8080/images/9e2d7efe099d3468aed9cfd5470f626e.png" group-title="IPTV SHQIP 5",24 Kitchen
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24 Kitchen" tvg-logo="http://skupi.club:8080/images/9e2d7efe099d3468aed9cfd5470f626e.png" group-title="-IPTV SHQIP 5-",24 Kitchen
 http://skupi.club:8080/iptvtree/AU3vErG73h/7580
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ON TV HD" tvg-logo="https://www.ksamili.com/images/channels_logo/channelone.gif" group-title="IPTV SHQIP 5",ON TV HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ON TV HD" tvg-logo="https://www.ksamili.com/images/channels_logo/channelone.gif" group-title="-IPTV SHQIP 5-",ON TV HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/5207
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Baby Tv" tvg-logo="https://www.ksamili.com/images/channels_logo/BabyTV.png" group-title="IPTV SHQIP 5",Baby Tv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Baby Tv" tvg-logo="https://www.ksamili.com/images/channels_logo/BabyTV.png" group-title="-IPTV SHQIP 5-",Baby Tv
 http://skupi.club:8080/iptvtree/AU3vErG73h/4312
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network" tvg-logo="http://www.tring.al/images/channels/2/cartoon-network.png" group-title="IPTV SHQIP 5",Cartoon Network
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network" tvg-logo="http://www.tring.al/images/channels/2/cartoon-network.png" group-title="-IPTV SHQIP 5-",Cartoon Network
 http://skupi.club:8080/iptvtree/AU3vErG73h/3846
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Presheva" tvg-logo="" group-title="IPTV SHQIP 5",TV Presheva
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Presheva" tvg-logo="" group-title="-IPTV SHQIP 5-",TV Presheva
 http://skupi.club:8080/iptvtree/AU3vErG73h/7112
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Syri Blue HD" tvg-logo="http://cdn.ontv.al/logo.png" group-title="IPTV SHQIP 5",Syri Blue HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Syri Blue HD" tvg-logo="http://cdn.ontv.al/logo.png" group-title="-IPTV SHQIP 5-",Syri Blue HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/5629
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="My Music" tvg-logo="https://www.ksamili.com/images/channels_logo/mymusic.gif" group-title="IPTV SHQIP 5",My Music
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="My Music" tvg-logo="https://www.ksamili.com/images/channels_logo/mymusic.gif" group-title="-IPTV SHQIP 5-",My Music
 http://skupi.club:8080/iptvtree/AU3vErG73h/4200
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTSH Film HD" tvg-logo="http://titaniptv.com/epg/logo/RTSH%20Satelit.png" group-title="IPTV SHQIP 5",RTSH Film HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTSH Film HD" tvg-logo="http://titaniptv.com/epg/logo/RTSH%20Satelit.png" group-title="-IPTV SHQIP 5-",RTSH Film HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/7836
-#EXTINF:-1 tvg-id="Jolly HD" tvg-name="Jolly HD." tvg-logo="http://skupi.club:8080/images/935cf36b53ebbd41234e75d172169636.png" group-title="IPTV SHQIP 5",Jolly HD.
+#EXTINF:-1 tvg-id="Jolly HD" tvg-name="Jolly HD." tvg-logo="http://skupi.club:8080/images/935cf36b53ebbd41234e75d172169636.png" group-title="-IPTV SHQIP 5-",Jolly HD.
 http://skupi.club:8080/iptvtree/AU3vErG73h/8432
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jolly" tvg-logo="" group-title="IPTV SHQIP 5",Jolly
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jolly" tvg-logo="" group-title="-IPTV SHQIP 5-",Jolly
 http://skupi.club:8080/iptvtree/AU3vErG73h/8506
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arta News Backup" tvg-logo="" group-title="IPTV SHQIP 5",Arta News Backup
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arta News Backup" tvg-logo="" group-title="-IPTV SHQIP 5-",Arta News Backup
 http://skupi.club:8080/iptvtree/AU3vErG73h/7914
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Plus" tvg-logo="http://skupi.club:8080/images/e690d49b822deff649b479d4bbde8ccd.png" group-title="IPTV SHQIP 5",Star Plus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Plus" tvg-logo="http://skupi.club:8080/images/e690d49b822deff649b479d4bbde8ccd.png" group-title="-IPTV SHQIP 5-",Star Plus
 http://skupi.club:8080/iptvtree/AU3vErG73h/7917
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="On Tv" tvg-logo="" group-title="IPTV SHQIP 5",On Tv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="On Tv" tvg-logo="" group-title="-IPTV SHQIP 5-",On Tv
 http://skupi.club:8080/iptvtree/AU3vErG73h/7915
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Kopliku" tvg-logo="" group-title="IPTV SHQIP 5",TV Kopliku
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Kopliku" tvg-logo="" group-title="-IPTV SHQIP 5-",TV Kopliku
 http://skupi.club:8080/iptvtree/AU3vErG73h/7891
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tv Rozafa" tvg-logo="" group-title="IPTV SHQIP 5",Tv Rozafa
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tv Rozafa" tvg-logo="" group-title="-IPTV SHQIP 5-",Tv Rozafa
 http://skupi.club:8080/iptvtree/AU3vErG73h/7890
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tv Pendimi" tvg-logo="" group-title="IPTV SHQIP 5",Tv Pendimi
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tv Pendimi" tvg-logo="" group-title="-IPTV SHQIP 5-",Tv Pendimi
 http://skupi.club:8080/iptvtree/AU3vErG73h/8382
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV 21 NEWSBIZ HD" tvg-logo="" group-title="IPTV SHQIP 5",RTV 21 NEWSBIZ HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV 21 NEWSBIZ HD" tvg-logo="" group-title="-IPTV SHQIP 5-",RTV 21 NEWSBIZ HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/9380
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV 21 Popullore HD" tvg-logo="" group-title="IPTV SHQIP 5",RTV 21 Popullore HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV 21 Popullore HD" tvg-logo="" group-title="-IPTV SHQIP 5-",RTV 21 Popullore HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/9711
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTSH Korca HD" tvg-logo="" group-title="IPTV SHQIP 5",RTSH Korca HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTSH Korca HD" tvg-logo="" group-title="-IPTV SHQIP 5-",RTSH Korca HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/8641
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News 24 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/news24_al.png" group-title="IPTV SHQIP 5",News 24 HD+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News 24 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/news24_al.png" group-title="-IPTV SHQIP 5-",News 24 HD+
 http://skupi.club:8080/iptvtree/AU3vErG73h/8538
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kino Premiere 1 HD" tvg-logo="https://diasporatv.com/uploads/dtv-channel-kino1.png" group-title="IPTV SHQIP 5",Kino Premiere 1 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kino Premiere 1 HD" tvg-logo="https://diasporatv.com/uploads/dtv-channel-kino1.png" group-title="-IPTV SHQIP 5-",Kino Premiere 1 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/4241
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kino Premiere 2 HD" tvg-logo="https://diasporatv.com/uploads/dtv-channel-kino2.png" group-title="IPTV SHQIP 5",Kino Premiere 2 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kino Premiere 2 HD" tvg-logo="https://diasporatv.com/uploads/dtv-channel-kino2.png" group-title="-IPTV SHQIP 5-",Kino Premiere 2 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/4219
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kino Premiere 3 HD" tvg-logo="https://diasporatv.com/uploads/dtv-channel-kino3.png" group-title="IPTV SHQIP 5",Kino Premiere 3 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kino Premiere 3 HD" tvg-logo="https://diasporatv.com/uploads/dtv-channel-kino3.png" group-title="-IPTV SHQIP 5-",Kino Premiere 3 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/4242
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAXcine" tvg-logo="" group-title="IPTV SHQIP 5",MAXcine
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAXcine" tvg-logo="" group-title="-IPTV SHQIP 5-",MAXcine
 http://skupi.club:8080/iptvtree/AU3vErG73h/16151
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="StatiON Stars" tvg-logo="" group-title="IPTV SHQIP 5",StatiON Stars
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="StatiON Stars" tvg-logo="" group-title="-IPTV SHQIP 5-",StatiON Stars
 http://skupi.club:8080/iptvtree/AU3vErG73h/16149
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="StatiON Box" tvg-logo="" group-title="IPTV SHQIP 5",StatiON Box
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="StatiON Box" tvg-logo="" group-title="-IPTV SHQIP 5-",StatiON Box
 http://skupi.club:8080/iptvtree/AU3vErG73h/16147
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="StatiON Prime" tvg-logo="" group-title="IPTV SHQIP 5",StatiON Prime
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="StatiON Prime" tvg-logo="" group-title="-IPTV SHQIP 5-",StatiON Prime
 http://skupi.club:8080/iptvtree/AU3vErG73h/16146
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="StatiON Cine" tvg-logo="" group-title="IPTV SHQIP 5",StatiON Cine
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="StatiON Cine" tvg-logo="" group-title="-IPTV SHQIP 5-",StatiON Cine
 http://skupi.club:8080/iptvtree/AU3vErG73h/16145
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kinema24 1" tvg-logo="" group-title="IPTV SHQIP 5",Kinema24 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kinema24 1" tvg-logo="" group-title="-IPTV SHQIP 5-",Kinema24 1
 http://skupi.club:8080/iptvtree/AU3vErG73h/16139
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kinema24 2" tvg-logo="" group-title="IPTV SHQIP 5",Kinema24 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kinema24 2" tvg-logo="" group-title="-IPTV SHQIP 5-",Kinema24 2
 http://skupi.club:8080/iptvtree/AU3vErG73h/16140
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kinema24 3" tvg-logo="" group-title="IPTV SHQIP 5",Kinema24 3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kinema24 3" tvg-logo="" group-title="-IPTV SHQIP 5-",Kinema24 3
 http://skupi.club:8080/iptvtree/AU3vErG73h/16141
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kinema24 4" tvg-logo="" group-title="IPTV SHQIP 5",Kinema24 4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kinema24 4" tvg-logo="" group-title="-IPTV SHQIP 5-",Kinema24 4
 http://skupi.club:8080/iptvtree/AU3vErG73h/16142
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kinema24 5" tvg-logo="" group-title="IPTV SHQIP 5",Kinema24 5
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kinema24 5" tvg-logo="" group-title="-IPTV SHQIP 5-",Kinema24 5
 http://skupi.club:8080/iptvtree/AU3vErG73h/16143
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kinema24 6" tvg-logo="" group-title="IPTV SHQIP 5",Kinema24 6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kinema24 6" tvg-logo="" group-title="-IPTV SHQIP 5-",Kinema24 6
 http://skupi.club:8080/iptvtree/AU3vErG73h/16144
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kinema Milenium 1" tvg-logo="" group-title="IPTV SHQIP 5",Kinema Milenium 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kinema Milenium 1" tvg-logo="" group-title="-IPTV SHQIP 5-",Kinema Milenium 1
 http://skupi.club:8080/iptvtree/AU3vErG73h/16135
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kinema Milenium 2" tvg-logo="" group-title="IPTV SHQIP 5",Kinema Milenium 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kinema Milenium 2" tvg-logo="" group-title="-IPTV SHQIP 5-",Kinema Milenium 2
 http://skupi.club:8080/iptvtree/AU3vErG73h/16136
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kinema Milenium 3" tvg-logo="" group-title="IPTV SHQIP 5",Kinema Milenium 3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kinema Milenium 3" tvg-logo="" group-title="-IPTV SHQIP 5-",Kinema Milenium 3
 http://skupi.club:8080/iptvtree/AU3vErG73h/16137
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kinema Milenium 4" tvg-logo="" group-title="IPTV SHQIP 5",Kinema Milenium 4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kinema Milenium 4" tvg-logo="" group-title="-IPTV SHQIP 5-",Kinema Milenium 4
 http://skupi.club:8080/iptvtree/AU3vErG73h/16138
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kinema Super" tvg-logo="" group-title="IPTV SHQIP 5",Kinema Super
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kinema Super" tvg-logo="" group-title="-IPTV SHQIP 5-",Kinema Super
 http://skupi.club:8080/iptvtree/AU3vErG73h/16134
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kinema Hits" tvg-logo="" group-title="IPTV SHQIP 5",Kinema Hits
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kinema Hits" tvg-logo="" group-title="-IPTV SHQIP 5-",Kinema Hits
 http://skupi.club:8080/iptvtree/AU3vErG73h/16133
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kinema Gold" tvg-logo="" group-title="IPTV SHQIP 5",Kinema Gold
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kinema Gold" tvg-logo="" group-title="-IPTV SHQIP 5-",Kinema Gold
 http://skupi.club:8080/iptvtree/AU3vErG73h/16132
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kinema Fantasy" tvg-logo="" group-title="IPTV SHQIP 5",Kinema Fantasy
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kinema Fantasy" tvg-logo="" group-title="-IPTV SHQIP 5-",Kinema Fantasy
 http://skupi.club:8080/iptvtree/AU3vErG73h/16131
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KInema Core" tvg-logo="" group-title="IPTV SHQIP 5",KInema Core
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KInema Core" tvg-logo="" group-title="-IPTV SHQIP 5-",KInema Core
 http://skupi.club:8080/iptvtree/AU3vErG73h/16130
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kinema Family" tvg-logo="" group-title="IPTV SHQIP 5",Kinema Family
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kinema Family" tvg-logo="" group-title="-IPTV SHQIP 5-",Kinema Family
 http://skupi.club:8080/iptvtree/AU3vErG73h/16129
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kinema Comedy" tvg-logo="" group-title="IPTV SHQIP 5",Kinema Comedy
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kinema Comedy" tvg-logo="" group-title="-IPTV SHQIP 5-",Kinema Comedy
 http://skupi.club:8080/iptvtree/AU3vErG73h/16128
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kinema Classics" tvg-logo="" group-title="IPTV SHQIP 5",Kinema Classics
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kinema Classics" tvg-logo="" group-title="-IPTV SHQIP 5-",Kinema Classics
 http://skupi.club:8080/iptvtree/AU3vErG73h/16127
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kinema Aksion MAX" tvg-logo="" group-title="IPTV SHQIP 5",Kinema Aksion MAX
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kinema Aksion MAX" tvg-logo="" group-title="-IPTV SHQIP 5-",Kinema Aksion MAX
 http://skupi.club:8080/iptvtree/AU3vErG73h/16126
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kinema Aksion" tvg-logo="" group-title="IPTV SHQIP 5",Kinema Aksion
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kinema Aksion" tvg-logo="" group-title="-IPTV SHQIP 5-",Kinema Aksion
 http://skupi.club:8080/iptvtree/AU3vErG73h/16125
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kinema Dajti" tvg-logo="" group-title="IPTV SHQIP 5",Kinema Dajti
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kinema Dajti" tvg-logo="" group-title="-IPTV SHQIP 5-",Kinema Dajti
 http://skupi.club:8080/iptvtree/AU3vErG73h/16124
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kinema Agimi" tvg-logo="" group-title="IPTV SHQIP 5",Kinema Agimi
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kinema Agimi" tvg-logo="" group-title="-IPTV SHQIP 5-",Kinema Agimi
 http://skupi.club:8080/iptvtree/AU3vErG73h/16123
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kinema 17 Nentori" tvg-logo="" group-title="IPTV SHQIP 5",Kinema 17 Nentori
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kinema 17 Nentori" tvg-logo="" group-title="-IPTV SHQIP 5-",Kinema 17 Nentori
 http://skupi.club:8080/iptvtree/AU3vErG73h/16122
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kinema Partizani" tvg-logo="" group-title="IPTV SHQIP 5",Kinema Partizani
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kinema Partizani" tvg-logo="" group-title="-IPTV SHQIP 5-",Kinema Partizani
 http://skupi.club:8080/iptvtree/AU3vErG73h/16121
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kinema Republika" tvg-logo="" group-title="IPTV SHQIP 5",Kinema Republika
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kinema Republika" tvg-logo="" group-title="-IPTV SHQIP 5-",Kinema Republika
 http://skupi.club:8080/iptvtree/AU3vErG73h/16120
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="cartoon Grifin" tvg-logo="" group-title="IPTV SHQIP 5",cartoon Grifin
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="cartoon Grifin" tvg-logo="" group-title="-IPTV SHQIP 5-",cartoon Grifin
 http://skupi.club:8080/iptvtree/AU3vErG73h/15576
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="cartoon Tom&Jerry" tvg-logo="" group-title="IPTV SHQIP 5",cartoon Tom&Jerry
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="cartoon Tom&Jerry" tvg-logo="" group-title="-IPTV SHQIP 5-",cartoon Tom&Jerry
 http://skupi.club:8080/iptvtree/AU3vErG73h/15571
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTSH Femije HD" tvg-logo="" group-title="IPTV SHQIP 5",RTSH Femije HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTSH Femije HD" tvg-logo="" group-title="-IPTV SHQIP 5-",RTSH Femije HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/8640
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AlbTe Tom & Jerry" tvg-logo="" group-title="IPTV SHQIP 5",AlbTe Tom & Jerry
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AlbTe Tom & Jerry" tvg-logo="" group-title="-IPTV SHQIP 5-",AlbTe Tom & Jerry
 http://skupi.club:8080/iptvtree/AU3vErG73h/7838
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV 21 Junior" tvg-logo="http://titaniptv.com/epg/logo/21%20HD%20Plus.png" group-title="IPTV SHQIP 5",RTV 21 Junior
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV 21 Junior" tvg-logo="http://titaniptv.com/epg/logo/21%20HD%20Plus.png" group-title="-IPTV SHQIP 5-",RTV 21 Junior
 http://skupi.club:8080/iptvtree/AU3vErG73h/6233
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bang Bang" tvg-logo="https://www.ksamili.com/images/channels_logo/bangbang.gif" group-title="IPTV SHQIP 5",Bang Bang
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bang Bang" tvg-logo="https://www.ksamili.com/images/channels_logo/bangbang.gif" group-title="-IPTV SHQIP 5-",Bang Bang
 http://skupi.club:8080/iptvtree/AU3vErG73h/2537
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring Sofia" tvg-logo="http://www.tring.al/images/channels/2/sofia.png" group-title="IPTV SHQIP 5",Tring Sofia
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring Sofia" tvg-logo="http://www.tring.al/images/channels/2/sofia.png" group-title="-IPTV SHQIP 5-",Tring Sofia
 http://skupi.club:8080/iptvtree/AU3vErG73h/4785
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring Tring" tvg-logo="http://www.tring.al/images/channels/2/tringtring.png" group-title="IPTV SHQIP 5",Tring Tring
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring Tring" tvg-logo="http://www.tring.al/images/channels/2/tringtring.png" group-title="-IPTV SHQIP 5-",Tring Tring
 http://skupi.club:8080/iptvtree/AU3vErG73h/2245
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cufo" tvg-logo="https://www.ksamili.com/images/channels_logo/cufo.gif" group-title="IPTV SHQIP 5",Cufo
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cufo" tvg-logo="https://www.ksamili.com/images/channels_logo/cufo.gif" group-title="-IPTV SHQIP 5-",Cufo
 http://skupi.club:8080/iptvtree/AU3vErG73h/2513
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tip TV" tvg-logo="http://www.tring.al/images/channels/2/tiptv.png" group-title="IPTV SHQIP 5",Tip TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tip TV" tvg-logo="http://www.tring.al/images/channels/2/tiptv.png" group-title="-IPTV SHQIP 5-",Tip TV
 http://skupi.club:8080/iptvtree/AU3vErG73h/2414
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="cartoon Masha and The Bear" tvg-logo="" group-title="IPTV SHQIP 5",cartoon Masha and The Bear
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="cartoon Masha and The Bear" tvg-logo="" group-title="-IPTV SHQIP 5-",cartoon Masha and The Bear
 http://skupi.club:8080/iptvtree/AU3vErG73h/15570
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="cartoon PERRALLA" tvg-logo="" group-title="IPTV SHQIP 5",cartoon PERRALLA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="cartoon PERRALLA" tvg-logo="" group-title="-IPTV SHQIP 5-",cartoon PERRALLA
 http://skupi.club:8080/iptvtree/AU3vErG73h/15569
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ChuChu TV" tvg-logo="" group-title="IPTV SHQIP 5",ChuChu TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ChuChu TV" tvg-logo="" group-title="-IPTV SHQIP 5-",ChuChu TV
 http://skupi.club:8080/iptvtree/AU3vErG73h/7978
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="cartoon Teatri i Kukullave" tvg-logo="" group-title="IPTV SHQIP 5",cartoon Teatri i Kukullave
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="cartoon Teatri i Kukullave" tvg-logo="" group-title="-IPTV SHQIP 5-",cartoon Teatri i Kukullave
 http://skupi.club:8080/iptvtree/AU3vErG73h/15568
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Art Kino 1 HD" tvg-logo="" group-title="IPTV SHQIP 5",Art Kino 1 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Art Kino 1 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",Art Kino 1 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/9357
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Art Kino 2 HD" tvg-logo="" group-title="IPTV SHQIP 5",Art Kino 2 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Art Kino 2 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",Art Kino 2 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/9358
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Art Kino 3 HD" tvg-logo="" group-title="IPTV SHQIP 5",Art Kino 3 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Art Kino 3 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",Art Kino 3 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/9359
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lok: Kinema Gold" tvg-logo="" group-title="IPTV SHQIP 5",Lok: Kinema Gold
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lok: Kinema Gold" tvg-logo="" group-title="-IPTV SHQIP 5-",Lok: Kinema Gold
 http://skupi.club:8080/iptvtree/AU3vErG73h/15561
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lok: Kinema Fantasy" tvg-logo="" group-title="IPTV SHQIP 5",Lok: Kinema Fantasy
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lok: Kinema Fantasy" tvg-logo="" group-title="-IPTV SHQIP 5-",Lok: Kinema Fantasy
 http://skupi.club:8080/iptvtree/AU3vErG73h/15560
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lok: Kinema Aksion MAX" tvg-logo="" group-title="IPTV SHQIP 5",Lok: Kinema Aksion MAX
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lok: Kinema Aksion MAX" tvg-logo="" group-title="-IPTV SHQIP 5-",Lok: Kinema Aksion MAX
 http://skupi.club:8080/iptvtree/AU3vErG73h/15555
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lok: Kinema Aksion" tvg-logo="" group-title="IPTV SHQIP 5",Lok: Kinema Aksion
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lok: Kinema Aksion" tvg-logo="" group-title="-IPTV SHQIP 5-",Lok: Kinema Aksion
 http://skupi.club:8080/iptvtree/AU3vErG73h/15554
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELE one  GOLD Collection HD" tvg-logo="" group-title="IPTV SHQIP 5",TELE one  GOLD Collection HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELE one  GOLD Collection HD" tvg-logo="" group-title="-IPTV SHQIP 5-",TELE one  GOLD Collection HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/15047
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELE one Muzik HD" tvg-logo="" group-title="IPTV SHQIP 5",TELE one Muzik HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELE one Muzik HD" tvg-logo="" group-title="-IPTV SHQIP 5-",TELE one Muzik HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/15052
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELE one Epik HD" tvg-logo="" group-title="IPTV SHQIP 5",TELE one Epik HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELE one Epik HD" tvg-logo="" group-title="-IPTV SHQIP 5-",TELE one Epik HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/15051
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELE one Drama HD" tvg-logo="" group-title="IPTV SHQIP 5",TELE one Drama HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELE one Drama HD" tvg-logo="" group-title="-IPTV SHQIP 5-",TELE one Drama HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/15050
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELE one Thriller HD" tvg-logo="" group-title="IPTV SHQIP 5",TELE one Thriller HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELE one Thriller HD" tvg-logo="" group-title="-IPTV SHQIP 5-",TELE one Thriller HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/15049
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELE one Crime HD" tvg-logo="" group-title="IPTV SHQIP 5",TELE one Crime HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELE one Crime HD" tvg-logo="" group-title="-IPTV SHQIP 5-",TELE one Crime HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/15046
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELE one Aventure HD" tvg-logo="" group-title="IPTV SHQIP 5",TELE one Aventure HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELE one Aventure HD" tvg-logo="" group-title="-IPTV SHQIP 5-",TELE one Aventure HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/15045
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELE one Aksion HD" tvg-logo="" group-title="IPTV SHQIP 5",TELE one Aksion HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELE one Aksion HD" tvg-logo="" group-title="-IPTV SHQIP 5-",TELE one Aksion HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/15044
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELE one 1 HD" tvg-logo="" group-title="IPTV SHQIP 5",TELE one 1 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELE one 1 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",TELE one 1 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/9768
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELE one 2 HD" tvg-logo="" group-title="IPTV SHQIP 5",TELE one 2 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELE one 2 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",TELE one 2 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/9769
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELE one 3 HD" tvg-logo="" group-title="IPTV SHQIP 5",TELE one 3 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELE one 3 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",TELE one 3 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/9770
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELE one 4 HD" tvg-logo="" group-title="IPTV SHQIP 5",TELE one 4 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELE one 4 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",TELE one 4 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/9771
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELE one 5 HD" tvg-logo="" group-title="IPTV SHQIP 5",TELE one 5 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELE one 5 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",TELE one 5 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/9772
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELE one 6 HD" tvg-logo="" group-title="IPTV SHQIP 5",TELE one 6 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELE one 6 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",TELE one 6 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/9773
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="8ova Action HD" tvg-logo="" group-title="IPTV SHQIP 5",8ova Action HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="8ova Action HD" tvg-logo="" group-title="-IPTV SHQIP 5-",8ova Action HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/15732
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="8ova Thriller HD" tvg-logo="" group-title="IPTV SHQIP 5",8ova Thriller HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="8ova Thriller HD" tvg-logo="" group-title="-IPTV SHQIP 5-",8ova Thriller HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/15748
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="8ova Drame HD" tvg-logo="" group-title="IPTV SHQIP 5",8ova Drame HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="8ova Drame HD" tvg-logo="" group-title="-IPTV SHQIP 5-",8ova Drame HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/15750
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="8ova Komedi HD" tvg-logo="" group-title="IPTV SHQIP 5",8ova Komedi HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="8ova Komedi HD" tvg-logo="" group-title="-IPTV SHQIP 5-",8ova Komedi HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/15754
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="8ova Gjurme Shqiptare HD" tvg-logo="" group-title="IPTV SHQIP 5",8ova Gjurme Shqiptare HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="8ova Gjurme Shqiptare HD" tvg-logo="" group-title="-IPTV SHQIP 5-",8ova Gjurme Shqiptare HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/15774
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="8ova Muzik HD" tvg-logo="" group-title="IPTV SHQIP 5",8ova Muzik HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="8ova Muzik HD" tvg-logo="" group-title="-IPTV SHQIP 5-",8ova Muzik HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/15744
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tv Syri Vision" tvg-logo="" group-title="IPTV SHQIP 5",Tv Syri Vision
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tv Syri Vision" tvg-logo="" group-title="-IPTV SHQIP 5-",Tv Syri Vision
 http://skupi.club:8080/iptvtree/AU3vErG73h/8935
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tv Shari HD" tvg-logo="" group-title="IPTV SHQIP 5",Tv Shari HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tv Shari HD" tvg-logo="" group-title="-IPTV SHQIP 5-",Tv Shari HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/8437
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Fontana" tvg-logo="" group-title="IPTV SHQIP 5",TV Fontana
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Fontana" tvg-logo="" group-title="-IPTV SHQIP 5-",TV Fontana
 http://skupi.club:8080/iptvtree/AU3vErG73h/9395
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOLK +" tvg-logo="http://skupi.club:8080/images/b03c17e359a3e9aea190adfdb72f5f8d.png" group-title="IPTV SHQIP 5",FOLK +
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOLK +" tvg-logo="http://skupi.club:8080/images/b03c17e359a3e9aea190adfdb72f5f8d.png" group-title="-IPTV SHQIP 5-",FOLK +
 http://skupi.club:8080/iptvtree/AU3vErG73h/1149
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Musix HD" tvg-logo="" group-title="IPTV SHQIP 5",Musix HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Musix HD" tvg-logo="" group-title="-IPTV SHQIP 5-",Musix HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/14313
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSonic TV" tvg-logo="https://www.ksamili.com/images/channels_logo/supersonic.gif" group-title="IPTV SHQIP 5",SuperSonic TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSonic TV" tvg-logo="https://www.ksamili.com/images/channels_logo/supersonic.gif" group-title="-IPTV SHQIP 5-",SuperSonic TV
 http://skupi.club:8080/iptvtree/AU3vErG73h/2668
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBF HD" tvg-logo="http://skupi.club:8080/images/99e1a134b5162ec1f876acde751211ea.png" group-title="IPTV SHQIP 5",BBF HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBF HD" tvg-logo="http://skupi.club:8080/images/99e1a134b5162ec1f876acde751211ea.png" group-title="-IPTV SHQIP 5-",BBF HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/3372
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="8ova Masha Bear HD" tvg-logo="" group-title="IPTV SHQIP 5",8ova Masha Bear HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="8ova Masha Bear HD" tvg-logo="" group-title="-IPTV SHQIP 5-",8ova Masha Bear HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/15792
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="8ova ChuChuTv HD" tvg-logo="" group-title="IPTV SHQIP 5",8ova ChuChuTv HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="8ova ChuChuTv HD" tvg-logo="" group-title="-IPTV SHQIP 5-",8ova ChuChuTv HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/15791
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="8ova Cifteli HD" tvg-logo="" group-title="IPTV SHQIP 5",8ova Cifteli HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="8ova Cifteli HD" tvg-logo="" group-title="-IPTV SHQIP 5-",8ova Cifteli HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/15760
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="8ova Humor HD" tvg-logo="" group-title="IPTV SHQIP 5",8ova Humor HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="8ova Humor HD" tvg-logo="" group-title="-IPTV SHQIP 5-",8ova Humor HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/15780
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="8ova islam HD" tvg-logo="" group-title="IPTV SHQIP 5",8ova islam HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="8ova islam HD" tvg-logo="" group-title="-IPTV SHQIP 5-",8ova islam HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/15772
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="8ova BBF HD" tvg-logo="http://skupi.club:8080/images/99e1a134b5162ec1f876acde751211ea.png" group-title="IPTV SHQIP 5",8ova BBF HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="8ova BBF HD" tvg-logo="http://skupi.club:8080/images/99e1a134b5162ec1f876acde751211ea.png" group-title="-IPTV SHQIP 5-",8ova BBF HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/15762
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="8ova Popullore HD" tvg-logo="" group-title="IPTV SHQIP 5",8ova Popullore HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="8ova Popullore HD" tvg-logo="" group-title="-IPTV SHQIP 5-",8ova Popullore HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/15741
-#EXTINF:-1 tvg-id="first CHANNEL" tvg-name="First TV HD" tvg-logo="https://diasporatv.com/uploads/dtv-channel-firstchannel.png" group-title="IPTV SHQIP 5",First TV HD
+#EXTINF:-1 tvg-id="first CHANNEL" tvg-name="First TV HD" tvg-logo="https://diasporatv.com/uploads/dtv-channel-firstchannel.png" group-title="-IPTV SHQIP 5-",First TV HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/3385
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="First Channel HD" tvg-logo="http://titaniptv.com/epg/logo/Tring-No%20Mans%20Land%20:)/Tring%203+.png" group-title="IPTV SHQIP 5",First Channel HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="First Channel HD" tvg-logo="http://titaniptv.com/epg/logo/Tring-No%20Mans%20Land%20:)/Tring%203+.png" group-title="-IPTV SHQIP 5-",First Channel HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/3945
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALB MUSIC HD" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXGHxwZHp_r6Kb5uVbaF9sf7LUaP1RZhMG5oVC-twG10Bbe8Qz" group-title="IPTV SHQIP 5",ALB MUSIC HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALB MUSIC HD" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXGHxwZHp_r6Kb5uVbaF9sf7LUaP1RZhMG5oVC-twG10Bbe8Qz" group-title="-IPTV SHQIP 5-",ALB MUSIC HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/4338
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELE one Kurani HD" tvg-logo="" group-title="IPTV SHQIP 5",TELE one Kurani HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELE one Kurani HD" tvg-logo="" group-title="-IPTV SHQIP 5-",TELE one Kurani HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/15053
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Live Ski Center Kodra e Diellit" tvg-logo="" group-title="IPTV SHQIP 5",Live Ski Center Kodra e Diellit
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Live Ski Center Kodra e Diellit" tvg-logo="" group-title="-IPTV SHQIP 5-",Live Ski Center Kodra e Diellit
 http://skupi.club:8080/iptvtree/AU3vErG73h/9031
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Live Ski Center Mavrovo" tvg-logo="" group-title="IPTV SHQIP 5",Live Ski Center Mavrovo
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Live Ski Center Mavrovo" tvg-logo="" group-title="-IPTV SHQIP 5-",Live Ski Center Mavrovo
 http://skupi.club:8080/iptvtree/AU3vErG73h/9030
-#EXTINF:-1 tvg-id="Tring Sport 1 HD" tvg-name="Tring Sport 1 HD." tvg-logo="http://skupi.club:8080/images/bd46e3ed37d670b5cbeb43d1f68e1650.png" group-title="IPTV SHQIP 5",Tring Sport 1 HD.
+#EXTINF:-1 tvg-id="Tring Sport 1 HD" tvg-name="Tring Sport 1 HD." tvg-logo="http://skupi.club:8080/images/bd46e3ed37d670b5cbeb43d1f68e1650.png" group-title="-IPTV SHQIP 5-",Tring Sport 1 HD.
 http://skupi.club:8080/iptvtree/AU3vErG73h/2225
-#EXTINF:-1 tvg-id="Tring Sport 2 HD" tvg-name="Tring Sport 2 HD." tvg-logo="http://skupi.club:8080/images/fed11c665f8aa83e8fcb067146b34ef8.png" group-title="IPTV SHQIP 5",Tring Sport 2 HD.
+#EXTINF:-1 tvg-id="Tring Sport 2 HD" tvg-name="Tring Sport 2 HD." tvg-logo="http://skupi.club:8080/images/fed11c665f8aa83e8fcb067146b34ef8.png" group-title="-IPTV SHQIP 5-",Tring Sport 2 HD.
 http://skupi.club:8080/iptvtree/AU3vErG73h/2227
-#EXTINF:-1 tvg-id="Tring Sport 3 HD" tvg-name="Tring Sport 3 HD." tvg-logo="http://skupi.club:8080/images/13209b7b91035063caf18b59d9ddc404.png" group-title="IPTV SHQIP 5",Tring Sport 3 HD.
+#EXTINF:-1 tvg-id="Tring Sport 3 HD" tvg-name="Tring Sport 3 HD." tvg-logo="http://skupi.club:8080/images/13209b7b91035063caf18b59d9ddc404.png" group-title="-IPTV SHQIP 5-",Tring Sport 3 HD.
 http://skupi.club:8080/iptvtree/AU3vErG73h/2228
-#EXTINF:-1 tvg-id="Tring Sport 4 HD" tvg-name="Tring Sport 4 HD." tvg-logo="http://skupi.club:8080/images/3f4babccb89ecdb31330c28a072229a8.png" group-title="IPTV SHQIP 5",Tring Sport 4 HD.
+#EXTINF:-1 tvg-id="Tring Sport 4 HD" tvg-name="Tring Sport 4 HD." tvg-logo="http://skupi.club:8080/images/3f4babccb89ecdb31330c28a072229a8.png" group-title="-IPTV SHQIP 5-",Tring Sport 4 HD.
 http://skupi.club:8080/iptvtree/AU3vErG73h/3377
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring Sport News HD" tvg-logo="http://titaniptv.com/epg/logo/Tring%20Sport%20News.png" group-title="IPTV SHQIP 5",Tring Sport News HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring Sport News HD" tvg-logo="http://titaniptv.com/epg/logo/Tring%20Sport%20News.png" group-title="-IPTV SHQIP 5-",Tring Sport News HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/2226
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring Sport 1 HD L" tvg-logo="" group-title="IPTV SHQIP 5",Tring Sport 1 HD L
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring Sport 1 HD L" tvg-logo="" group-title="-IPTV SHQIP 5-",Tring Sport 1 HD L
 http://skupi.club:8080/iptvtree/AU3vErG73h/14340
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring Sport 2 HD L" tvg-logo="" group-title="IPTV SHQIP 5",Tring Sport 2 HD L
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring Sport 2 HD L" tvg-logo="" group-title="-IPTV SHQIP 5-",Tring Sport 2 HD L
 http://skupi.club:8080/iptvtree/AU3vErG73h/14341
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring Sport 3 HD L" tvg-logo="" group-title="IPTV SHQIP 5",Tring Sport 3 HD L
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring Sport 3 HD L" tvg-logo="" group-title="-IPTV SHQIP 5-",Tring Sport 3 HD L
 http://skupi.club:8080/iptvtree/AU3vErG73h/14342
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring Sport 4 HD L" tvg-logo="" group-title="IPTV SHQIP 5",Tring Sport 4 HD L
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring Sport 4 HD L" tvg-logo="" group-title="-IPTV SHQIP 5-",Tring Sport 4 HD L
 http://skupi.club:8080/iptvtree/AU3vErG73h/14343
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport 1 HD." tvg-logo="http://skupi.club:8080/images/03b18a23b2fbebc7134da9ae6a8d87e9.png" group-title="IPTV SHQIP 5",SuperSport 1 HD.
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport 1 HD." tvg-logo="http://skupi.club:8080/images/03b18a23b2fbebc7134da9ae6a8d87e9.png" group-title="-IPTV SHQIP 5-",SuperSport 1 HD.
 http://skupi.club:8080/iptvtree/AU3vErG73h/3811
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport 2 HD." tvg-logo="http://skupi.club:8080/images/1c3b5ed04398a0785d7990935d1bd877.png" group-title="IPTV SHQIP 5",SuperSport 2 HD.
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport 2 HD." tvg-logo="http://skupi.club:8080/images/1c3b5ed04398a0785d7990935d1bd877.png" group-title="-IPTV SHQIP 5-",SuperSport 2 HD.
 http://skupi.club:8080/iptvtree/AU3vErG73h/3812
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport 3 HD." tvg-logo="http://skupi.club:8080/images/23ecce1159d9ab823e859e1ab94cfccd.png" group-title="IPTV SHQIP 5",SuperSport 3 HD.
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport 3 HD." tvg-logo="http://skupi.club:8080/images/23ecce1159d9ab823e859e1ab94cfccd.png" group-title="-IPTV SHQIP 5-",SuperSport 3 HD.
 http://skupi.club:8080/iptvtree/AU3vErG73h/3813
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport 4 HD." tvg-logo="http://titaniptv.com/epg/logo/Supersport%204.png" group-title="IPTV SHQIP 5",SuperSport 4 HD.
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport 4 HD." tvg-logo="http://titaniptv.com/epg/logo/Supersport%204.png" group-title="-IPTV SHQIP 5-",SuperSport 4 HD.
 http://skupi.club:8080/iptvtree/AU3vErG73h/3814
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport 6 HD." tvg-logo="http://titaniptv.com/epg/logo/Supersport%206.png" group-title="IPTV SHQIP 5",SuperSport 6 HD.
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport 6 HD." tvg-logo="http://titaniptv.com/epg/logo/Supersport%206.png" group-title="-IPTV SHQIP 5-",SuperSport 6 HD.
 http://skupi.club:8080/iptvtree/AU3vErG73h/4180
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ART sport 1 HD" tvg-logo="" group-title="IPTV SHQIP 5",ART sport 1 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ART sport 1 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",ART sport 1 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/8986
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ART sport 2 HD" tvg-logo="" group-title="IPTV SHQIP 5",ART sport 2 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ART sport 2 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",ART sport 2 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/8987
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="K Sport 1" tvg-logo="" group-title="IPTV SHQIP 5",K Sport 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="K Sport 1" tvg-logo="" group-title="-IPTV SHQIP 5-",K Sport 1
 http://skupi.club:8080/iptvtree/AU3vErG73h/6095
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="K Sport 2" tvg-logo="" group-title="IPTV SHQIP 5",K Sport 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="K Sport 2" tvg-logo="" group-title="-IPTV SHQIP 5-",K Sport 2
 http://skupi.club:8080/iptvtree/AU3vErG73h/6096
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="K Sport 3" tvg-logo="" group-title="IPTV SHQIP 5",K Sport 3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="K Sport 3" tvg-logo="" group-title="-IPTV SHQIP 5-",K Sport 3
 http://skupi.club:8080/iptvtree/AU3vErG73h/6228
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="K Sport 4" tvg-logo="" group-title="IPTV SHQIP 5",K Sport 4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="K Sport 4" tvg-logo="" group-title="-IPTV SHQIP 5-",K Sport 4
 http://skupi.club:8080/iptvtree/AU3vErG73h/6229
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IT: Sky Sport F1 HD" tvg-logo="" group-title="IPTV SHQIP 5",IT: Sky Sport F1 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IT: Sky Sport F1 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",IT: Sky Sport F1 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/4056
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IT:Sky Sports 24 HD" tvg-logo="" group-title="IPTV SHQIP 5",IT:Sky Sports 24 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IT:Sky Sports 24 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",IT:Sky Sports 24 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/4057
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IT: Sky MotoGP HD" tvg-logo="" group-title="IPTV SHQIP 5",IT: Sky MotoGP HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IT: Sky MotoGP HD" tvg-logo="" group-title="-IPTV SHQIP 5-",IT: Sky MotoGP HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/5084
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IT: Rai Sport 2" tvg-logo="" group-title="IPTV SHQIP 5",IT: Rai Sport 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IT: Rai Sport 2" tvg-logo="" group-title="-IPTV SHQIP 5-",IT: Rai Sport 2
 http://skupi.club:8080/iptvtree/AU3vErG73h/4448
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IT: Rai Sport 1" tvg-logo="" group-title="IPTV SHQIP 5",IT: Rai Sport 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IT: Rai Sport 1" tvg-logo="" group-title="-IPTV SHQIP 5-",IT: Rai Sport 1
 http://skupi.club:8080/iptvtree/AU3vErG73h/4078
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IT: Eurosport 1 HD" tvg-logo="" group-title="IPTV SHQIP 5",IT: Eurosport 1 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IT: Eurosport 1 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",IT: Eurosport 1 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/4140
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IT: Eurosport 2 HD" tvg-logo="" group-title="IPTV SHQIP 5",IT: Eurosport 2 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IT: Eurosport 2 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",IT: Eurosport 2 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/4141
-#EXTINF:-1 tvg-id="Sport1Plus DE" tvg-name="DE: Sport 1+ HD" tvg-logo="" group-title="IPTV SHQIP 5",DE: Sport 1+ HD
+#EXTINF:-1 tvg-id="Sport1Plus DE" tvg-name="DE: Sport 1+ HD" tvg-logo="" group-title="-IPTV SHQIP 5-",DE: Sport 1+ HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/6845
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sport 1 HD" tvg-logo="" group-title="IPTV SHQIP 5",DE: Sport 1 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sport 1 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",DE: Sport 1 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/6844
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Sport 1 HD" tvg-logo="" group-title="IPTV SHQIP 5",DE: Sky Sport 1 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Sport 1 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",DE: Sky Sport 1 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/4137
-#EXTINF:-1 tvg-id="Eurosport 1 DE" tvg-name="DE: EuroSport 1 HD" tvg-logo="" group-title="IPTV SHQIP 5",DE: EuroSport 1 HD
+#EXTINF:-1 tvg-id="Eurosport 1 DE" tvg-name="DE: EuroSport 1 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",DE: EuroSport 1 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/4400
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Auto Motor Sport Channel HD" tvg-logo="" group-title="IPTV SHQIP 5",DE: Auto Motor Sport Channel HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Auto Motor Sport Channel HD" tvg-logo="" group-title="-IPTV SHQIP 5-",DE: Auto Motor Sport Channel HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/6974
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Sport News HD" tvg-logo="" group-title="IPTV SHQIP 5",DE: Sky Sport News HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Sport News HD" tvg-logo="" group-title="-IPTV SHQIP 5-",DE: Sky Sport News HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/4729
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Sport News 1" tvg-logo="" group-title="IPTV SHQIP 5",DE: Sky Sport News 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Sport News 1" tvg-logo="" group-title="-IPTV SHQIP 5-",DE: Sky Sport News 1
 http://skupi.club:8080/iptvtree/AU3vErG73h/5632
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Sport News" tvg-logo="" group-title="IPTV SHQIP 5",DE: Sky Sport News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Sport News" tvg-logo="" group-title="-IPTV SHQIP 5-",DE: Sky Sport News
 http://skupi.club:8080/iptvtree/AU3vErG73h/5631
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky BundesLiga 1 FHD" tvg-logo="" group-title="IPTV SHQIP 5",DE: Sky BundesLiga 1 FHD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky BundesLiga 1 FHD" tvg-logo="" group-title="-IPTV SHQIP 5-",DE: Sky BundesLiga 1 FHD
 http://skupi.club:8080/iptvtree/AU3vErG73h/4583
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: BEIN SPORT 3 HD" tvg-logo="" group-title="IPTV SHQIP 5",FR: BEIN SPORT 3 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: BEIN SPORT 3 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",FR: BEIN SPORT 3 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/6920
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: BEIN SPORT 2 HD" tvg-logo="" group-title="IPTV SHQIP 5",FR: BEIN SPORT 2 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: BEIN SPORT 2 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",FR: BEIN SPORT 2 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/6919
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: BEIN SPORT 1 HD" tvg-logo="" group-title="IPTV SHQIP 5",FR: BEIN SPORT 1 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: BEIN SPORT 1 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",FR: BEIN SPORT 1 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/8441
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring Sport News HD." tvg-logo="http://titaniptv.com/epg/logo/Tring%20Sport%20News.png" group-title="IPTV SHQIP 5",Tring Sport News HD.
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring Sport News HD." tvg-logo="http://titaniptv.com/epg/logo/Tring%20Sport%20News.png" group-title="-IPTV SHQIP 5-",Tring Sport News HD.
 http://skupi.club:8080/iptvtree/AU3vErG73h/6230
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: TSN 1 HD" tvg-logo="" group-title="IPTV SHQIP 5",USA: TSN 1 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: TSN 1 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",USA: TSN 1 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/5622
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: TSN 2 HD" tvg-logo="" group-title="IPTV SHQIP 5",USA: TSN 2 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: TSN 2 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",USA: TSN 2 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/5623
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:TSN 3 HD" tvg-logo="" group-title="IPTV SHQIP 5",USA:TSN 3 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:TSN 3 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",USA:TSN 3 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/5624
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: ESPN" tvg-logo="" group-title="IPTV SHQIP 5",USA: ESPN
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: ESPN" tvg-logo="" group-title="-IPTV SHQIP 5-",USA: ESPN
 http://skupi.club:8080/iptvtree/AU3vErG73h/6887
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: NBA" tvg-logo="" group-title="IPTV SHQIP 5",USA: NBA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: NBA" tvg-logo="" group-title="-IPTV SHQIP 5-",USA: NBA
 http://skupi.club:8080/iptvtree/AU3vErG73h/6886
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TR: Trt Sport" tvg-logo="" group-title="IPTV SHQIP 5",TR: Trt Sport
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TR: Trt Sport" tvg-logo="" group-title="-IPTV SHQIP 5-",TR: Trt Sport
 http://skupi.club:8080/iptvtree/AU3vErG73h/6401
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SE: Viasat Golf" tvg-logo="" group-title="IPTV SHQIP 5",SE: Viasat Golf
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SE: Viasat Golf" tvg-logo="" group-title="-IPTV SHQIP 5-",SE: Viasat Golf
 http://skupi.club:8080/iptvtree/AU3vErG73h/6630
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SE: Viasat Sport" tvg-logo="" group-title="IPTV SHQIP 5",SE: Viasat Sport
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SE: Viasat Sport" tvg-logo="" group-title="-IPTV SHQIP 5-",SE: Viasat Sport
 http://skupi.club:8080/iptvtree/AU3vErG73h/6636
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SE: V2 Sport Premium" tvg-logo="" group-title="IPTV SHQIP 5",SE: V2 Sport Premium
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SE: V2 Sport Premium" tvg-logo="" group-title="-IPTV SHQIP 5-",SE: V2 Sport Premium
 http://skupi.club:8080/iptvtree/AU3vErG73h/6626
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SE: C More Sport" tvg-logo="" group-title="IPTV SHQIP 5",SE: C More Sport
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SE: C More Sport" tvg-logo="" group-title="-IPTV SHQIP 5-",SE: C More Sport
 http://skupi.club:8080/iptvtree/AU3vErG73h/6645
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NO:Viasat Sport" tvg-logo="" group-title="IPTV SHQIP 5",NO:Viasat Sport
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NO:Viasat Sport" tvg-logo="" group-title="-IPTV SHQIP 5-",NO:Viasat Sport
 http://skupi.club:8080/iptvtree/AU3vErG73h/6278
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NO:Viasat Motors" tvg-logo="" group-title="IPTV SHQIP 5",NO:Viasat Motors
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NO:Viasat Motors" tvg-logo="" group-title="-IPTV SHQIP 5-",NO:Viasat Motors
 http://skupi.club:8080/iptvtree/AU3vErG73h/6357
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NO:Viasat Fotboll" tvg-logo="" group-title="IPTV SHQIP 5",NO:Viasat Fotboll
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NO:Viasat Fotboll" tvg-logo="" group-title="-IPTV SHQIP 5-",NO:Viasat Fotboll
 http://skupi.club:8080/iptvtree/AU3vErG73h/6282
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: SPORT KLUB 6 HD" tvg-logo="" group-title="IPTV SHQIP 5",Ex-Yu: SPORT KLUB 6 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: SPORT KLUB 6 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",Ex-Yu: SPORT KLUB 6 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/5991
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: SPORT KLUB 5 HD" tvg-logo="" group-title="IPTV SHQIP 5",Ex-Yu: SPORT KLUB 5 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: SPORT KLUB 5 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",Ex-Yu: SPORT KLUB 5 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/5990
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Sport Klub 3 SRB" tvg-logo="http://www.sportklub.rs/img/pssk3.png" group-title="IPTV SHQIP 5",Ex-Yu: Sport Klub 3 SRB
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Sport Klub 3 SRB" tvg-logo="http://www.sportklub.rs/img/pssk3.png" group-title="-IPTV SHQIP 5-",Ex-Yu: Sport Klub 3 SRB
 http://skupi.club:8080/iptvtree/AU3vErG73h/4554
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: SPORT KLUB 3 HD" tvg-logo="http://www.sportklub.rs/img/pssk3.png" group-title="IPTV SHQIP 5",Ex-Yu: SPORT KLUB 3 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: SPORT KLUB 3 HD" tvg-logo="http://www.sportklub.rs/img/pssk3.png" group-title="-IPTV SHQIP 5-",Ex-Yu: SPORT KLUB 3 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/2450
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Sport Klub 2 SRB" tvg-logo="http://www.sportklub.rs/img/pssk2.png" group-title="IPTV SHQIP 5",Ex-Yu: Sport Klub 2 SRB
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Sport Klub 2 SRB" tvg-logo="http://www.sportklub.rs/img/pssk2.png" group-title="-IPTV SHQIP 5-",Ex-Yu: Sport Klub 2 SRB
 http://skupi.club:8080/iptvtree/AU3vErG73h/4553
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: SPORT KLUB 2 HD" tvg-logo="http://www.sportklub.rs/img/pssk2.png" group-title="IPTV SHQIP 5",Ex-Yu: SPORT KLUB 2 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: SPORT KLUB 2 HD" tvg-logo="http://www.sportklub.rs/img/pssk2.png" group-title="-IPTV SHQIP 5-",Ex-Yu: SPORT KLUB 2 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/3306
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Sport Klub 1 SRB" tvg-logo="http://www.sportklub.rs/img/pssk1.png" group-title="IPTV SHQIP 5",Ex-Yu: Sport Klub 1 SRB
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Sport Klub 1 SRB" tvg-logo="http://www.sportklub.rs/img/pssk1.png" group-title="-IPTV SHQIP 5-",Ex-Yu: Sport Klub 1 SRB
 http://skupi.club:8080/iptvtree/AU3vErG73h/4552
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: ARENA SPORT 5 HD" tvg-logo="http://phazer.info/img/kanali/arena-sport-5.jpg" group-title="IPTV SHQIP 5",Ex-Yu: ARENA SPORT 5 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: ARENA SPORT 5 HD" tvg-logo="http://phazer.info/img/kanali/arena-sport-5.jpg" group-title="-IPTV SHQIP 5-",Ex-Yu: ARENA SPORT 5 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/2461
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: ARENA SPORT 5 SRB" tvg-logo="http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport5_s.png" group-title="IPTV SHQIP 5",Ex-Yu: ARENA SPORT 5 SRB
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: ARENA SPORT 5 SRB" tvg-logo="http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport5_s.png" group-title="-IPTV SHQIP 5-",Ex-Yu: ARENA SPORT 5 SRB
 http://skupi.club:8080/iptvtree/AU3vErG73h/4712
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: ARENA SPORT 4 SRB" tvg-logo="http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport4_s.png" group-title="IPTV SHQIP 5",Ex-Yu: ARENA SPORT 4 SRB
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: ARENA SPORT 4 SRB" tvg-logo="http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport4_s.png" group-title="-IPTV SHQIP 5-",Ex-Yu: ARENA SPORT 4 SRB
 http://skupi.club:8080/iptvtree/AU3vErG73h/4551
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: ARENA SPORT 4 HD" tvg-logo="http://phazer.info/img/kanali/tv-arena-sport-4.jpg" group-title="IPTV SHQIP 5",Ex-Yu: ARENA SPORT 4 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: ARENA SPORT 4 HD" tvg-logo="http://phazer.info/img/kanali/tv-arena-sport-4.jpg" group-title="-IPTV SHQIP 5-",Ex-Yu: ARENA SPORT 4 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/3386
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: ARENA SPORT 3 SRB" tvg-logo="http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport3_s.png" group-title="IPTV SHQIP 5",Ex-Yu: ARENA SPORT 3 SRB
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: ARENA SPORT 3 SRB" tvg-logo="http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport3_s.png" group-title="-IPTV SHQIP 5-",Ex-Yu: ARENA SPORT 3 SRB
 http://skupi.club:8080/iptvtree/AU3vErG73h/4550
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: ARENA SPORT 2 HD" tvg-logo="http://phazer.info/img/kanali/tv-arena-sport-2.jpg" group-title="IPTV SHQIP 5",Ex-Yu: ARENA SPORT 2 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: ARENA SPORT 2 HD" tvg-logo="http://phazer.info/img/kanali/tv-arena-sport-2.jpg" group-title="-IPTV SHQIP 5-",Ex-Yu: ARENA SPORT 2 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/2254
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: ARENA SPORT 2 SRB" tvg-logo="http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport2_s.png" group-title="IPTV SHQIP 5",Ex-Yu: ARENA SPORT 2 SRB
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: ARENA SPORT 2 SRB" tvg-logo="http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport2_s.png" group-title="-IPTV SHQIP 5-",Ex-Yu: ARENA SPORT 2 SRB
 http://skupi.club:8080/iptvtree/AU3vErG73h/4549
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: ARENA SPORT 1 HD" tvg-logo="http://phazer.info/img/kanali/tv-arena-sport-1.jpg" group-title="IPTV SHQIP 5",Ex-Yu: ARENA SPORT 1 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: ARENA SPORT 1 HD" tvg-logo="http://phazer.info/img/kanali/tv-arena-sport-1.jpg" group-title="-IPTV SHQIP 5-",Ex-Yu: ARENA SPORT 1 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/2147
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: ARENA SPORT 1 SRB" tvg-logo="http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport1_s.png" group-title="IPTV SHQIP 5",Ex-Yu: ARENA SPORT 1 SRB
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: ARENA SPORT 1 SRB" tvg-logo="http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport1_s.png" group-title="-IPTV SHQIP 5-",Ex-Yu: ARENA SPORT 1 SRB
 http://skupi.club:8080/iptvtree/AU3vErG73h/4548
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR: BeIN SPORTS 1 HD" tvg-logo="" group-title="IPTV SHQIP 5",AR: BeIN SPORTS 1 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR: BeIN SPORTS 1 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",AR: BeIN SPORTS 1 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/2646
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR: BeIN SPORTS 2 HD" tvg-logo="" group-title="IPTV SHQIP 5",AR: BeIN SPORTS 2 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR: BeIN SPORTS 2 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",AR: BeIN SPORTS 2 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/2639
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR: BeIN SPORTS 3 HD" tvg-logo="" group-title="IPTV SHQIP 5",AR: BeIN SPORTS 3 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR: BeIN SPORTS 3 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",AR: BeIN SPORTS 3 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/2638
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Super Sport Kosova 1" tvg-logo="https://www.ksamili.com/images/channels_logo/sskosovahd.gif" group-title="IPTV SHQIP 5",Super Sport Kosova 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Super Sport Kosova 1" tvg-logo="https://www.ksamili.com/images/channels_logo/sskosovahd.gif" group-title="-IPTV SHQIP 5-",Super Sport Kosova 1
 http://skupi.club:8080/iptvtree/AU3vErG73h/2498
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Super Sport Kosova 2" tvg-logo="https://www.ksamili.com/images/channels_logo/sskosovahd.gif" group-title="IPTV SHQIP 5",Super Sport Kosova 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Super Sport Kosova 2" tvg-logo="https://www.ksamili.com/images/channels_logo/sskosovahd.gif" group-title="-IPTV SHQIP 5-",Super Sport Kosova 2
 http://skupi.club:8080/iptvtree/AU3vErG73h/2235
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1" tvg-logo="http://skupi.club:8080/images/3edca0ac2ab23ee22269bc071f6549fb.png" group-title="IPTV SHQIP 5",Eurosport 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1" tvg-logo="http://skupi.club:8080/images/3edca0ac2ab23ee22269bc071f6549fb.png" group-title="-IPTV SHQIP 5-",Eurosport 1
 http://skupi.club:8080/iptvtree/AU3vErG73h/2175
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2" tvg-logo="http://skupi.club:8080/images/bf6c17d2666c450794738b813950aef7.png" group-title="IPTV SHQIP 5",Eurosport 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2" tvg-logo="http://skupi.club:8080/images/bf6c17d2666c450794738b813950aef7.png" group-title="-IPTV SHQIP 5-",Eurosport 2
 http://skupi.club:8080/iptvtree/AU3vErG73h/3383
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: ARENA SPORT 6 HD" tvg-logo="" group-title="IPTV SHQIP 5",Ex-Yu: ARENA SPORT 6 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: ARENA SPORT 6 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",Ex-Yu: ARENA SPORT 6 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/6993
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: FC Bayern TV Full HD" tvg-logo="" group-title="IPTV SHQIP 5",DE: FC Bayern TV Full HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: FC Bayern TV Full HD" tvg-logo="" group-title="-IPTV SHQIP 5-",DE: FC Bayern TV Full HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/7864
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Sport 2 FHD" tvg-logo="" group-title="IPTV SHQIP 5",DE: Sky Sport 2 FHD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Sport 2 FHD" tvg-logo="" group-title="-IPTV SHQIP 5-",DE: Sky Sport 2 FHD
 http://skupi.club:8080/iptvtree/AU3vErG73h/4389
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Bundesliga 2 HD" tvg-logo="" group-title="IPTV SHQIP 5",DE: Sky Bundesliga 2 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Bundesliga 2 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",DE: Sky Bundesliga 2 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/5307
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky BundesLiga 2 FHD" tvg-logo="" group-title="IPTV SHQIP 5",DE: Sky BundesLiga 2 FHD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky BundesLiga 2 FHD" tvg-logo="" group-title="-IPTV SHQIP 5-",DE: Sky BundesLiga 2 FHD
 http://skupi.club:8080/iptvtree/AU3vErG73h/4587
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: ORF Sport +" tvg-logo="" group-title="IPTV SHQIP 5",DE: ORF Sport +
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: ORF Sport +" tvg-logo="" group-title="-IPTV SHQIP 5-",DE: ORF Sport +
 http://skupi.club:8080/iptvtree/AU3vErG73h/7018
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TR: LIGTV 1" tvg-logo="" group-title="IPTV SHQIP 5",TR: LIGTV 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TR: LIGTV 1" tvg-logo="" group-title="-IPTV SHQIP 5-",TR: LIGTV 1
 http://skupi.club:8080/iptvtree/AU3vErG73h/7342
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TR: LIGTV 2" tvg-logo="" group-title="IPTV SHQIP 5",TR: LIGTV 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TR: LIGTV 2" tvg-logo="" group-title="-IPTV SHQIP 5-",TR: LIGTV 2
 http://skupi.club:8080/iptvtree/AU3vErG73h/7343
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TR: LIGTV 3" tvg-logo="" group-title="IPTV SHQIP 5",TR: LIGTV 3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TR: LIGTV 3" tvg-logo="" group-title="-IPTV SHQIP 5-",TR: LIGTV 3
 http://skupi.club:8080/iptvtree/AU3vErG73h/7344
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: SPORT TV 1 HD" tvg-logo="" group-title="IPTV SHQIP 5",PT: SPORT TV 1 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: SPORT TV 1 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",PT: SPORT TV 1 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/7053
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: SPORT TV 2 HD" tvg-logo="" group-title="IPTV SHQIP 5",PT: SPORT TV 2 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: SPORT TV 2 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",PT: SPORT TV 2 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/7054
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR: BeIN SPORTS 4 HD" tvg-logo="" group-title="IPTV SHQIP 5",AR: BeIN SPORTS 4 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR: BeIN SPORTS 4 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",AR: BeIN SPORTS 4 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/3481
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR: BeIN SPORTS 6 HD" tvg-logo="" group-title="IPTV SHQIP 5",AR: BeIN SPORTS 6 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR: BeIN SPORTS 6 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",AR: BeIN SPORTS 6 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/3482
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR: BEIN SPORTS 7 HD" tvg-logo="" group-title="IPTV SHQIP 5",AR: BEIN SPORTS 7 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR: BEIN SPORTS 7 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",AR: BEIN SPORTS 7 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/4538
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR: BeIN SPORTS 8 HD" tvg-logo="" group-title="IPTV SHQIP 5",AR: BeIN SPORTS 8 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR: BeIN SPORTS 8 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",AR: BeIN SPORTS 8 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/3484
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR: BeIN SPORTS 9 HD" tvg-logo="" group-title="IPTV SHQIP 5",AR: BeIN SPORTS 9 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR: BeIN SPORTS 9 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",AR: BeIN SPORTS 9 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/3485
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR: BEIN SPORTS 10 HD" tvg-logo="" group-title="IPTV SHQIP 5",AR: BEIN SPORTS 10 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR: BEIN SPORTS 10 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",AR: BEIN SPORTS 10 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/4880
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR: AbuDabi Sport 1 HD" tvg-logo="" group-title="IPTV SHQIP 5",AR: AbuDabi Sport 1 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR: AbuDabi Sport 1 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",AR: AbuDabi Sport 1 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/7320
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR: AbuDabi Sport 2 HD" tvg-logo="" group-title="IPTV SHQIP 5",AR: AbuDabi Sport 2 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR: AbuDabi Sport 2 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",AR: AbuDabi Sport 2 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/7321
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NL: Fox Sports 2 HD" tvg-logo="" group-title="IPTV SHQIP 5",NL: Fox Sports 2 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NL: Fox Sports 2 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",NL: Fox Sports 2 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/7236
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NL: Fox Sports 3 HD" tvg-logo="" group-title="IPTV SHQIP 5",NL: Fox Sports 3 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NL: Fox Sports 3 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",NL: Fox Sports 3 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/7237
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NL: Fox Sports 4 HD" tvg-logo="" group-title="IPTV SHQIP 5",NL: Fox Sports 4 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NL: Fox Sports 4 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",NL: Fox Sports 4 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/7238
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NL: Fox Sports 5 HD" tvg-logo="" group-title="IPTV SHQIP 5",NL: Fox Sports 5 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NL: Fox Sports 5 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",NL: Fox Sports 5 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/7239
-#EXTINF:-1 tvg-id="NBC Sports Network (NBCSN) US" tvg-name="USA: NBCSN HD" tvg-logo="" group-title="IPTV SHQIP 5",USA: NBCSN HD
+#EXTINF:-1 tvg-id="NBC Sports Network (NBCSN) US" tvg-name="USA: NBCSN HD" tvg-logo="" group-title="-IPTV SHQIP 5-",USA: NBCSN HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/7185
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: ESPN 2 HD" tvg-logo="" group-title="IPTV SHQIP 5",USA: ESPN 2 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: ESPN 2 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",USA: ESPN 2 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/7015
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: TSN 4 HD" tvg-logo="" group-title="IPTV SHQIP 5",USA: TSN 4 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: TSN 4 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",USA: TSN 4 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/7183
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: Fox Sport 1 HD" tvg-logo="" group-title="IPTV SHQIP 5",USA: Fox Sport 1 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: Fox Sport 1 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",USA: Fox Sport 1 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/7013
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SE: Viasat Fotboll" tvg-logo="" group-title="IPTV SHQIP 5",SE: Viasat Fotboll
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SE: Viasat Fotboll" tvg-logo="" group-title="-IPTV SHQIP 5-",SE: Viasat Fotboll
 http://skupi.club:8080/iptvtree/AU3vErG73h/7072
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SE: Viasat Motor" tvg-logo="" group-title="IPTV SHQIP 5",SE: Viasat Motor
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SE: Viasat Motor" tvg-logo="" group-title="-IPTV SHQIP 5-",SE: Viasat Motor
 http://skupi.club:8080/iptvtree/AU3vErG73h/7073
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DK:TV3 Sport 1" tvg-logo="" group-title="IPTV SHQIP 5",DK:TV3 Sport 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DK:TV3 Sport 1" tvg-logo="" group-title="-IPTV SHQIP 5-",DK:TV3 Sport 1
 http://skupi.club:8080/iptvtree/AU3vErG73h/7104
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DK: TV3 Sport 2" tvg-logo="" group-title="IPTV SHQIP 5",DK: TV3 Sport 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DK: TV3 Sport 2" tvg-logo="" group-title="-IPTV SHQIP 5-",DK: TV3 Sport 2
 http://skupi.club:8080/iptvtree/AU3vErG73h/7103
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: ARENA SPORT 3 HD" tvg-logo="http://phazer.info/img/kanali/tv-arena-sport-3.jpg" group-title="IPTV SHQIP 5",Ex-Yu: ARENA SPORT 3 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: ARENA SPORT 3 HD" tvg-logo="http://phazer.info/img/kanali/tv-arena-sport-3.jpg" group-title="-IPTV SHQIP 5-",Ex-Yu: ARENA SPORT 3 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/15814
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Sport 3 FHD" tvg-logo="" group-title="IPTV SHQIP 5",DE: Sky Sport 3 FHD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Sport 3 FHD" tvg-logo="" group-title="-IPTV SHQIP 5-",DE: Sky Sport 3 FHD
 http://skupi.club:8080/iptvtree/AU3vErG73h/8011
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Sport 4 FHD" tvg-logo="" group-title="IPTV SHQIP 5",DE: Sky Sport 4 FHD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Sport 4 FHD" tvg-logo="" group-title="-IPTV SHQIP 5-",DE: Sky Sport 4 FHD
 http://skupi.club:8080/iptvtree/AU3vErG73h/8012
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Sport 5 FHD" tvg-logo="" group-title="IPTV SHQIP 5",DE: Sky Sport 5 FHD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Sport 5 FHD" tvg-logo="" group-title="-IPTV SHQIP 5-",DE: Sky Sport 5 FHD
 http://skupi.club:8080/iptvtree/AU3vErG73h/8013
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Sport 6 FHD" tvg-logo="" group-title="IPTV SHQIP 5",DE: Sky Sport 6 FHD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Sport 6 FHD" tvg-logo="" group-title="-IPTV SHQIP 5-",DE: Sky Sport 6 FHD
 http://skupi.club:8080/iptvtree/AU3vErG73h/8014
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Sport 7 FHD" tvg-logo="" group-title="IPTV SHQIP 5",DE: Sky Sport 7 FHD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Sport 7 FHD" tvg-logo="" group-title="-IPTV SHQIP 5-",DE: Sky Sport 7 FHD
 http://skupi.club:8080/iptvtree/AU3vErG73h/8015
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Sport 8 FHD" tvg-logo="" group-title="IPTV SHQIP 5",DE: Sky Sport 8 FHD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Sport 8 FHD" tvg-logo="" group-title="-IPTV SHQIP 5-",DE: Sky Sport 8 FHD
 http://skupi.club:8080/iptvtree/AU3vErG73h/8016
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky BundesLiga 3 FHD" tvg-logo="" group-title="IPTV SHQIP 5",DE: Sky BundesLiga 3 FHD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky BundesLiga 3 FHD" tvg-logo="" group-title="-IPTV SHQIP 5-",DE: Sky BundesLiga 3 FHD
 http://skupi.club:8080/iptvtree/AU3vErG73h/8020
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky BundesLiga 4 FHD" tvg-logo="" group-title="IPTV SHQIP 5",DE: Sky BundesLiga 4 FHD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky BundesLiga 4 FHD" tvg-logo="" group-title="-IPTV SHQIP 5-",DE: Sky BundesLiga 4 FHD
 http://skupi.club:8080/iptvtree/AU3vErG73h/8021
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky BundesLiga 5 FHD" tvg-logo="" group-title="IPTV SHQIP 5",DE: Sky BundesLiga 5 FHD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky BundesLiga 5 FHD" tvg-logo="" group-title="-IPTV SHQIP 5-",DE: Sky BundesLiga 5 FHD
 http://skupi.club:8080/iptvtree/AU3vErG73h/8022
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky BundesLiga 6 FHD" tvg-logo="" group-title="IPTV SHQIP 5",DE: Sky BundesLiga 6 FHD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky BundesLiga 6 FHD" tvg-logo="" group-title="-IPTV SHQIP 5-",DE: Sky BundesLiga 6 FHD
 http://skupi.club:8080/iptvtree/AU3vErG73h/8023
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky BundesLiga 7 FHD" tvg-logo="" group-title="IPTV SHQIP 5",DE: Sky BundesLiga 7 FHD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky BundesLiga 7 FHD" tvg-logo="" group-title="-IPTV SHQIP 5-",DE: Sky BundesLiga 7 FHD
 http://skupi.club:8080/iptvtree/AU3vErG73h/8024
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky BundesLiga 8 FHD" tvg-logo="" group-title="IPTV SHQIP 5",DE: Sky BundesLiga 8 FHD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky BundesLiga 8 FHD" tvg-logo="" group-title="-IPTV SHQIP 5-",DE: Sky BundesLiga 8 FHD
 http://skupi.club:8080/iptvtree/AU3vErG73h/8025
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky BundesLiga 9 FHD" tvg-logo="" group-title="IPTV SHQIP 5",DE: Sky BundesLiga 9 FHD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky BundesLiga 9 FHD" tvg-logo="" group-title="-IPTV SHQIP 5-",DE: Sky BundesLiga 9 FHD
 http://skupi.club:8080/iptvtree/AU3vErG73h/8026
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky BundesLiga 10 FHD" tvg-logo="" group-title="IPTV SHQIP 5",DE: Sky BundesLiga 10 FHD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky BundesLiga 10 FHD" tvg-logo="" group-title="-IPTV SHQIP 5-",DE: Sky BundesLiga 10 FHD
 http://skupi.club:8080/iptvtree/AU3vErG73h/8027
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TR: Tivibu Sport 3 HD" tvg-logo="" group-title="IPTV SHQIP 5",TR: Tivibu Sport 3 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TR: Tivibu Sport 3 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",TR: Tivibu Sport 3 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/8029
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SI: Sport TV 1 HD" tvg-logo="" group-title="IPTV SHQIP 5",SI: Sport TV 1 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SI: Sport TV 1 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",SI: Sport TV 1 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/7232
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SI: Sport TV 2 HD" tvg-logo="" group-title="IPTV SHQIP 5",SI: Sport TV 2 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SI: Sport TV 2 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",SI: Sport TV 2 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/7233
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SI: Sport TV 3 HD" tvg-logo="" group-title="IPTV SHQIP 5",SI: Sport TV 3 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SI: Sport TV 3 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",SI: Sport TV 3 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/7234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RU: Match Futbol2 HD" tvg-logo="" group-title="IPTV SHQIP 5",RU: Match Futbol2 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RU: Match Futbol2 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",RU: Match Futbol2 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/8322
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DK:Eurosport 1 HD" tvg-logo="" group-title="IPTV SHQIP 5",DK:Eurosport 1 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DK:Eurosport 1 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",DK:Eurosport 1 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/8500
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DK:Eurosport 2 HD" tvg-logo="" group-title="IPTV SHQIP 5",DK:Eurosport 2 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DK:Eurosport 2 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",DK:Eurosport 2 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/8501
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NL:Eurosport 1 HD" tvg-logo="" group-title="IPTV SHQIP 5",NL:Eurosport 1 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NL:Eurosport 1 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",NL:Eurosport 1 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/9450
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NL:Eurosport 2 HD" tvg-logo="" group-title="IPTV SHQIP 5",NL:Eurosport 2 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NL:Eurosport 2 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",NL:Eurosport 2 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/9451
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NL:Ziggo Sport Extra 1 HD" tvg-logo="" group-title="IPTV SHQIP 5",NL:Ziggo Sport Extra 1 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NL:Ziggo Sport Extra 1 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",NL:Ziggo Sport Extra 1 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/9447
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NL:Ziggo Sport eXtra 2 HD" tvg-logo="" group-title="IPTV SHQIP 5",NL:Ziggo Sport eXtra 2 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NL:Ziggo Sport eXtra 2 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",NL:Ziggo Sport eXtra 2 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/9448
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NL:Ziggo Sport Golf HD" tvg-logo="" group-title="IPTV SHQIP 5",NL:Ziggo Sport Golf HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NL:Ziggo Sport Golf HD" tvg-logo="" group-title="-IPTV SHQIP 5-",NL:Ziggo Sport Golf HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/9444
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NL:Ziggo Sport Racing HD" tvg-logo="" group-title="IPTV SHQIP 5",NL:Ziggo Sport Racing HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NL:Ziggo Sport Racing HD" tvg-logo="" group-title="-IPTV SHQIP 5-",NL:Ziggo Sport Racing HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/9446
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NL:Ziggo Sport Select HD" tvg-logo="" group-title="IPTV SHQIP 5",NL:Ziggo Sport Select HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NL:Ziggo Sport Select HD" tvg-logo="" group-title="-IPTV SHQIP 5-",NL:Ziggo Sport Select HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/9445
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NL:Ziggo Sport Voetbal" tvg-logo="" group-title="IPTV SHQIP 5",NL:Ziggo Sport Voetbal
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NL:Ziggo Sport Voetbal" tvg-logo="" group-title="-IPTV SHQIP 5-",NL:Ziggo Sport Voetbal
 http://skupi.club:8080/iptvtree/AU3vErG73h/9443
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NL:Ziggo TV" tvg-logo="" group-title="IPTV SHQIP 5",NL:Ziggo TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NL:Ziggo TV" tvg-logo="" group-title="-IPTV SHQIP 5-",NL:Ziggo TV
 http://skupi.club:8080/iptvtree/AU3vErG73h/9449
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ART sport 3 HD" tvg-logo="" group-title="IPTV SHQIP 5",ART sport 3 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ART sport 3 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",ART sport 3 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/8988
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Sport Klub 4 SRB" tvg-logo="" group-title="IPTV SHQIP 5",Ex-Yu: Sport Klub 4 SRB
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Sport Klub 4 SRB" tvg-logo="" group-title="-IPTV SHQIP 5-",Ex-Yu: Sport Klub 4 SRB
 http://skupi.club:8080/iptvtree/AU3vErG73h/8982
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Sport Klub 5 SRB" tvg-logo="" group-title="IPTV SHQIP 5",Ex-Yu: Sport Klub 5 SRB
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Sport Klub 5 SRB" tvg-logo="" group-title="-IPTV SHQIP 5-",Ex-Yu: Sport Klub 5 SRB
 http://skupi.club:8080/iptvtree/AU3vErG73h/8983
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Sport Klub 6 SRB" tvg-logo="" group-title="IPTV SHQIP 5",Ex-Yu: Sport Klub 6 SRB
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Sport Klub 6 SRB" tvg-logo="" group-title="-IPTV SHQIP 5-",Ex-Yu: Sport Klub 6 SRB
 http://skupi.club:8080/iptvtree/AU3vErG73h/8984
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Planet Sport 1 HD" tvg-logo="http://allgames.onlygames.co:43666/live/maked@1/maked@@2/1287.ts" group-title="IPTV SHQIP 5",Ex-Yu: Planet Sport 1 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Planet Sport 1 HD" tvg-logo="http://allgames.onlygames.co:43666/live/maked@1/maked@@2/1287.ts" group-title="-IPTV SHQIP 5-",Ex-Yu: Planet Sport 1 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/9685
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Planet Sport 2 HD" tvg-logo="" group-title="IPTV SHQIP 5",Ex-Yu: Planet Sport 2 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Planet Sport 2 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",Ex-Yu: Planet Sport 2 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/9686
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Planet Sport 3 HD" tvg-logo="" group-title="IPTV SHQIP 5",Ex-Yu: Planet Sport 3 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Planet Sport 3 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",Ex-Yu: Planet Sport 3 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/9687
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Planet Sport 4 HD" tvg-logo="" group-title="IPTV SHQIP 5",Ex-Yu: Planet Sport 4 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex-Yu: Planet Sport 4 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",Ex-Yu: Planet Sport 4 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/9688
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Sport DIGITAL HD" tvg-logo="" group-title="IPTV SHQIP 5",DE: Sky Sport DIGITAL HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Sport DIGITAL HD" tvg-logo="" group-title="-IPTV SHQIP 5-",DE: Sky Sport DIGITAL HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/8660
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Telekom Fussball 1 HD" tvg-logo="" group-title="IPTV SHQIP 5",DE: Telekom Fussball 1 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Telekom Fussball 1 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",DE: Telekom Fussball 1 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/8652
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Telekom Fussball 2 HD" tvg-logo="" group-title="IPTV SHQIP 5",DE: Telekom Fussball 2 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Telekom Fussball 2 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",DE: Telekom Fussball 2 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/8653
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Telekom Fussball 3 HD" tvg-logo="" group-title="IPTV SHQIP 5",DE: Telekom Fussball 3 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Telekom Fussball 3 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",DE: Telekom Fussball 3 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/8654
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Telekom Basketball 3 HD" tvg-logo="" group-title="IPTV SHQIP 5",DE: Telekom Basketball 3 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Telekom Basketball 3 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",DE: Telekom Basketball 3 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/9006
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Telekom Basketball 2 HD" tvg-logo="" group-title="IPTV SHQIP 5",DE: Telekom Basketball 2 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Telekom Basketball 2 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",DE: Telekom Basketball 2 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/9007
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: EuroSport 1 HD." tvg-logo="" group-title="IPTV SHQIP 5",DE: EuroSport 1 HD.
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: EuroSport 1 HD." tvg-logo="" group-title="-IPTV SHQIP 5-",DE: EuroSport 1 HD.
 http://skupi.club:8080/iptvtree/AU3vErG73h/7892
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: EuroSport 2 HD" tvg-logo="" group-title="IPTV SHQIP 5",DE: EuroSport 2 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: EuroSport 2 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",DE: EuroSport 2 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/7893
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Eurosport 2 Xtra HD" tvg-logo="" group-title="IPTV SHQIP 5",DE: Eurosport 2 Xtra HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Eurosport 2 Xtra HD" tvg-logo="" group-title="-IPTV SHQIP 5-",DE: Eurosport 2 Xtra HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/8850
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Eurosport 2 HD Xtra" tvg-logo="" group-title="IPTV SHQIP 5",DE: Eurosport 2 HD Xtra
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Eurosport 2 HD Xtra" tvg-logo="" group-title="-IPTV SHQIP 5-",DE: Eurosport 2 HD Xtra
 http://skupi.club:8080/iptvtree/AU3vErG73h/7930
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Eurosport 2 HD Xtra 1" tvg-logo="" group-title="IPTV SHQIP 5",DE: Eurosport 2 HD Xtra 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Eurosport 2 HD Xtra 1" tvg-logo="" group-title="-IPTV SHQIP 5-",DE: Eurosport 2 HD Xtra 1
 http://skupi.club:8080/iptvtree/AU3vErG73h/8438
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Sport Austria HD" tvg-logo="" group-title="IPTV SHQIP 5",DE: Sky Sport Austria HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Sport Austria HD" tvg-logo="" group-title="-IPTV SHQIP 5-",DE: Sky Sport Austria HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/16842
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CH: MYSPORTS1D HD" tvg-logo="" group-title="IPTV SHQIP 5",CH: MYSPORTS1D HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CH: MYSPORTS1D HD" tvg-logo="" group-title="-IPTV SHQIP 5-",CH: MYSPORTS1D HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/8578
-#EXTINF:-1 tvg-id="TeleClub Sport 2 CH" tvg-name="CH: Teleclub Sport 2 HD" tvg-logo="" group-title="IPTV SHQIP 5",CH: Teleclub Sport 2 HD
+#EXTINF:-1 tvg-id="TeleClub Sport 2 CH" tvg-name="CH: Teleclub Sport 2 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",CH: Teleclub Sport 2 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/6875
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GR: OTE SPORT 5" tvg-logo="" group-title="IPTV SHQIP 5",GR: OTE SPORT 5
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GR: OTE SPORT 5" tvg-logo="" group-title="-IPTV SHQIP 5-",GR: OTE SPORT 5
 http://skupi.club:8080/iptvtree/AU3vErG73h/8003
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GR: OTE SPORT 4" tvg-logo="" group-title="IPTV SHQIP 5",GR: OTE SPORT 4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GR: OTE SPORT 4" tvg-logo="" group-title="-IPTV SHQIP 5-",GR: OTE SPORT 4
 http://skupi.club:8080/iptvtree/AU3vErG73h/8004
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GR: OTE SPORT 3" tvg-logo="" group-title="IPTV SHQIP 5",GR: OTE SPORT 3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GR: OTE SPORT 3" tvg-logo="" group-title="-IPTV SHQIP 5-",GR: OTE SPORT 3
 http://skupi.club:8080/iptvtree/AU3vErG73h/8005
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: RMC SPORT 1 HD" tvg-logo="" group-title="IPTV SHQIP 5",FR: RMC SPORT 1 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: RMC SPORT 1 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",FR: RMC SPORT 1 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/8645
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: RMC SPORT 2 HD" tvg-logo="" group-title="IPTV SHQIP 5",FR: RMC SPORT 2 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: RMC SPORT 2 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",FR: RMC SPORT 2 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/8646
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: RMC SPORT 3 HD" tvg-logo="" group-title="IPTV SHQIP 5",FR: RMC SPORT 3 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: RMC SPORT 3 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",FR: RMC SPORT 3 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/8647
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: RMC SPORT 4 HD" tvg-logo="" group-title="IPTV SHQIP 5",FR: RMC SPORT 4 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: RMC SPORT 4 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",FR: RMC SPORT 4 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/8648
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IT: Sky Sport  NBA" tvg-logo="" group-title="IPTV SHQIP 5",IT: Sky Sport  NBA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IT: Sky Sport  NBA" tvg-logo="" group-title="-IPTV SHQIP 5-",IT: Sky Sport  NBA
 http://skupi.club:8080/iptvtree/AU3vErG73h/9562
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PL: Canal+ Sport 1 HD" tvg-logo="" group-title="IPTV SHQIP 5",PL: Canal+ Sport 1 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PL: Canal+ Sport 1 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",PL: Canal+ Sport 1 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/9627
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PL: Canal+ Sport 2 HD" tvg-logo="" group-title="IPTV SHQIP 5",PL: Canal+ Sport 2 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PL: Canal+ Sport 2 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",PL: Canal+ Sport 2 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/9626
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PL: Eleven Sports 1 HD" tvg-logo="" group-title="IPTV SHQIP 5",PL: Eleven Sports 1 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PL: Eleven Sports 1 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",PL: Eleven Sports 1 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/9622
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PL: Eleven Sports 2 HD" tvg-logo="" group-title="IPTV SHQIP 5",PL: Eleven Sports 2 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PL: Eleven Sports 2 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",PL: Eleven Sports 2 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/9623
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PL: Eleven Sports 3 HD" tvg-logo="" group-title="IPTV SHQIP 5",PL: Eleven Sports 3 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PL: Eleven Sports 3 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",PL: Eleven Sports 3 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/9624
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PL: Eleven Sports 4 HD" tvg-logo="" group-title="IPTV SHQIP 5",PL: Eleven Sports 4 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PL: Eleven Sports 4 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",PL: Eleven Sports 4 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/9625
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ELEVEN SPORTS 1 HD" tvg-logo="" group-title="IPTV SHQIP 5",ELEVEN SPORTS 1 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ELEVEN SPORTS 1 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",ELEVEN SPORTS 1 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/9415
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ELEVEN SPORTS 2 HD" tvg-logo="" group-title="IPTV SHQIP 5",ELEVEN SPORTS 2 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ELEVEN SPORTS 2 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",ELEVEN SPORTS 2 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/9416
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ELEVEN SPORTS 3 HD" tvg-logo="http://b.mpeg-tv.xyz:443/live/skupib52/zGRPtNvi3rc/75155.ts" group-title="IPTV SHQIP 5",ELEVEN SPORTS 3 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ELEVEN SPORTS 3 HD" tvg-logo="http://b.mpeg-tv.xyz:443/live/skupib52/zGRPtNvi3rc/75155.ts" group-title="-IPTV SHQIP 5-",ELEVEN SPORTS 3 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/9417
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ELEVEN SPORTS 4 HD" tvg-logo="" group-title="IPTV SHQIP 5",ELEVEN SPORTS 4 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ELEVEN SPORTS 4 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",ELEVEN SPORTS 4 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/9418
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORTING TV HD" tvg-logo="" group-title="IPTV SHQIP 5",SPORTING TV HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORTING TV HD" tvg-logo="" group-title="-IPTV SHQIP 5-",SPORTING TV HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/9422
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BENFICA TV HD" tvg-logo="" group-title="IPTV SHQIP 5",BENFICA TV HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BENFICA TV HD" tvg-logo="" group-title="-IPTV SHQIP 5-",BENFICA TV HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/9421
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FIGHT CHANNEL" tvg-logo="" group-title="IPTV SHQIP 5",FIGHT CHANNEL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FIGHT CHANNEL" tvg-logo="" group-title="-IPTV SHQIP 5-",FIGHT CHANNEL
 http://skupi.club:8080/iptvtree/AU3vErG73h/9424
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KOMBAT SPORT" tvg-logo="" group-title="IPTV SHQIP 5",KOMBAT SPORT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KOMBAT SPORT" tvg-logo="" group-title="-IPTV SHQIP 5-",KOMBAT SPORT
 http://skupi.club:8080/iptvtree/AU3vErG73h/9423
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SE: C MORE FOTBOOL HD" tvg-logo="" group-title="IPTV SHQIP 5",SE: C MORE FOTBOOL HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SE: C MORE FOTBOOL HD" tvg-logo="" group-title="-IPTV SHQIP 5-",SE: C MORE FOTBOOL HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/9137
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SE: C MORE SPORT HD" tvg-logo="" group-title="IPTV SHQIP 5",SE: C MORE SPORT HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SE: C MORE SPORT HD" tvg-logo="" group-title="-IPTV SHQIP 5-",SE: C MORE SPORT HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/9136
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SE: VIASAT FOTBOOL HD" tvg-logo="" group-title="IPTV SHQIP 5",SE: VIASAT FOTBOOL HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SE: VIASAT FOTBOOL HD" tvg-logo="" group-title="-IPTV SHQIP 5-",SE: VIASAT FOTBOOL HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/9132
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SE: VIASAT GOLF HD" tvg-logo="" group-title="IPTV SHQIP 5",SE: VIASAT GOLF HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SE: VIASAT GOLF HD" tvg-logo="" group-title="-IPTV SHQIP 5-",SE: VIASAT GOLF HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/9134
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SE: VIASAT HOCKEY HD" tvg-logo="" group-title="IPTV SHQIP 5",SE: VIASAT HOCKEY HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SE: VIASAT HOCKEY HD" tvg-logo="" group-title="-IPTV SHQIP 5-",SE: VIASAT HOCKEY HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/9133
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SE: VIASAT MOTOR HD" tvg-logo="" group-title="IPTV SHQIP 5",SE: VIASAT MOTOR HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SE: VIASAT MOTOR HD" tvg-logo="" group-title="-IPTV SHQIP 5-",SE: VIASAT MOTOR HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/9135
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SE: VIASAT SPORT PREMIUM HD" tvg-logo="" group-title="IPTV SHQIP 5",SE: VIASAT SPORT PREMIUM HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SE: VIASAT SPORT PREMIUM HD" tvg-logo="" group-title="-IPTV SHQIP 5-",SE: VIASAT SPORT PREMIUM HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/9131
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NO: Eurosport Pluss 1 HD" tvg-logo="" group-title="IPTV SHQIP 5",NO: Eurosport Pluss 1 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NO: Eurosport Pluss 1 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",NO: Eurosport Pluss 1 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/9041
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NO: Eurosport Pluss 2 HD" tvg-logo="" group-title="IPTV SHQIP 5",NO: Eurosport Pluss 2 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NO: Eurosport Pluss 2 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",NO: Eurosport Pluss 2 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/9042
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NO: Eurosport Pluss 4 HD" tvg-logo="" group-title="IPTV SHQIP 5",NO: Eurosport Pluss 4 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NO: Eurosport Pluss 4 HD" tvg-logo="" group-title="-IPTV SHQIP 5-",NO: Eurosport Pluss 4 HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/9044
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fight Channel KICK BOX" tvg-logo="" group-title="IPTV SHQIP 5",Fight Channel KICK BOX
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fight Channel KICK BOX" tvg-logo="" group-title="-IPTV SHQIP 5-",Fight Channel KICK BOX
 http://skupi.club:8080/iptvtree/AU3vErG73h/8574
-#EXTINF:-1 tvg-id="FX US" tvg-name="USA:UFC HD Fight" tvg-logo="" group-title="IPTV SHQIP 5",USA:UFC HD Fight
+#EXTINF:-1 tvg-id="FX US" tvg-name="USA:UFC HD Fight" tvg-logo="" group-title="-IPTV SHQIP 5-",USA:UFC HD Fight
 http://skupi.club:8080/iptvtree/AU3vErG73h/8644
-
 
 
 
@@ -3459,21 +3459,21 @@ http://45.94.31.45:80/bar165002/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Bein Sport Premium 3 HD
 http://45.94.31.45:80/bar165003/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Super Sport 1 HD
-http://78.31.67.69:25461/Gezuar2022/MetiTV-kanaleeshqip/87
+http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/87
 #EXTINF:-1,Super Sport 2 HD
-http://78.31.67.69:25461/Gezuar2022/MetiTV-kanaleeshqip/88
+http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/88
 #EXTINF:-1,Super Sport 2 FHD
-http://78.31.67.69:25461/Gezuar2022/MetiTV-kanaleeshqip/89
+http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/89
 #EXTINF:-1,Super Sport 3 HD
-http://78.31.67.69:25461/Gezuar2022/MetiTV-kanaleeshqip/90
+http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/90
 #EXTINF:-1,Super Sport 4 HD
-http://78.31.67.69:25461/Gezuar2022/MetiTV-kanaleeshqip/91
+http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/91
 #EXTINF:-1,Tring Sport 1 HD
-http://78.31.67.69:25461/Gezuar2022/MetiTV-kanaleeshqip/93
+http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/93
 #EXTINF:-1,Tring Sport 2 FHD
-http://78.31.67.69:25461/Gezuar2022/MetiTV-kanaleeshqip/94
+http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/94
 #EXTINF:-1,Tring Sport 3 HD
-http://78.31.67.69:25461/Gezuar2022/MetiTV-kanaleeshqip/96
+http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/96
 #EXTINF:-1,|FR| BEIN SPORT  1 HD 
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49493
 #EXTINF:-1,|FR| BEIN SPORT  2 HD 
