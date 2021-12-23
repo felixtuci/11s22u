@@ -2671,7 +2671,7 @@ http://93.115.20.208/portalgen/play.php?chID=13039
 
 
 
-#EXTINF:-1 tvg-id="Klan TV" tvg-name="Top Channel" tvg-logo="http://skupi.club:8080/images/9749d82a190f0642469a7535e4fc32a8.png" group-title="--IPTV SHQIP 5--",Top Channel
+#EXTINF:-1 tvg-id="Klan TV" tvg-name="Top Channel" tvg-logo="http://skupi.club:8080/images/9749d82a190f0642469a7535e4fc32a8.png" group-title="-IPTV SHQIP 5-",Top Channel
 http://skupi.club:8080/iptvtree/AU3vErG73h/3694
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vizion Plus HD" tvg-logo="http://skupi.club:8000/images/75bcd20986a8b62bfafa9b3aaa73462e.png" group-title="-IPTV SHQIP 5-",Vizion Plus HD
 http://skupi.club:8080/iptvtree/AU3vErG73h/2253
