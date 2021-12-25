@@ -1,1065 +1,674 @@
 #EXTINF:-1   group-title="-IPTV SHQIP 1-",
-#EXTINF:0 user-agent="+",Big Brother 1 VIP
-http://pro-unibox.com:25461/EG/Italy1/146
-#EXTINF:0 user-agent="+",Big Brother 2 VIP
-http://pro-unibox.com:25461/EG/Italy1/147
-#EXTINF:0 user-agent="+",AL: Top Channal  FHD 4K
-http://pro-unibox.com:25461/EG/Italy1/14
-#EXTINF:0 user-agent="+",AL: Top Channel  UHD
-http://pro-unibox.com:25461/EG/Italy1/33
-#EXTINF:0 user-agent="+",AL: Vizion Plus HD
-http://pro-unibox.com:25461/EG/Italy1/262
-#EXTINF:0 user-agent="+",AL: KLAN HD
-http://pro-unibox.com:25461/EG/Italy1/17
-#EXTINF:0 user-agent="+",AL: Klan  SD
-http://pro-unibox.com:25461/EG/Italy1/30
-#EXTINF:0 user-agent="+",AL: Klan Plus HD
-http://pro-unibox.com:25461/EG/Italy1/34
-#EXTINF:0 user-agent="+",AL: Klan Plus FHD
-http://pro-unibox.com:25461/EG/Italy1/31
-#EXTINF:0 user-agent="+",AL: RTK 1 FHD
-http://pro-unibox.com:25461/EG/Italy1/9
-#EXTINF:0 user-agent="+",AL: RTK  SAT  SD
-http://pro-unibox.com:25461/EG/Italy1/20
-
-#EXTINF:0 user-agent="+",AL: Klan Kosova FHD
-http://pro-unibox.com:25461/EG/Italy1/10
-#EXTINF:0 user-agent="+",AL: Klan Kosova SD
-http://pro-unibox.com:25461/EG/Italy1/21
-
-#EXTINF:0 user-agent="+",AL: TV Dukagjini  UHD 4K+
-http://pro-unibox.com:25461/EG/Italy1/11
-#EXTINF:0 user-agent="+",AL: TV Dukagjini FHD
-http://pro-unibox.com:25461/EG/Italy1/26
-#EXTINF:0 user-agent="+",AL: T7   UHD 4K+
-http://pro-unibox.com:25461/EG/Italy1/12
-#EXTINF:0 user-agent="+",AL: T7 HD
-http://pro-unibox.com:25461/EG/Italy1/27
-#EXTINF:0 user-agent="+",AL: Alsat M  UHD 4K+
-http://pro-unibox.com:25461/EG/Italy1/15
-#EXTINF:0 user-agent="+",AL: ALSAT M SD
-http://pro-unibox.com:25461/EG/Italy1/36
-#EXTINF:0 user-agent="+",AL: Kanal 10 FHD
-http://pro-unibox.com:25461/EG/Italy1/16
-#EXTINF:0 user-agent="+",AL: Kanal 10 HD
-http://pro-unibox.com:25461/EG/Italy1/29
-#EXTINF:0 user-agent="+",AL: RTV 21  UHD 4K+
-http://pro-unibox.com:25461/EG/Italy1/23
-#EXTINF:0 user-agent="+",AL: RTV 21
-http://pro-unibox.com:25461/EG/Italy1/22
-#EXTINF:0 user-agent="+",AL: RTV 21 MK HD
-http://pro-unibox.com:25461/EG/Italy1/24
-#EXTINF:0 user-agent="+",AL: KTV UHD 4K+
-http://pro-unibox.com:25461/EG/Italy1/13
-#EXTINF:0 user-agent="+",AL: KTV HD
-http://pro-unibox.com:25461/EG/Italy1/25
-
-#EXTINF:0 user-agent="+",AL : Klan  Makedonia HD
-http://pro-unibox.com:25461/EG/Italy1/35
-#EXTINF:0 user-agent="+",AL: ATV FHD
-http://pro-unibox.com:25461/EG/Italy1/18
-#EXTINF:0 user-agent="+",AL: ATV HD
-http://pro-unibox.com:25461/EG/Italy1/28
-#EXTINF:0 user-agent="+",AL: RTSH 1HD
-http://pro-unibox.com:25461/EG/Italy1/266
-#EXTINF:0 user-agent="+",AL: RTSH 2HD
-http://pro-unibox.com:25461/EG/Italy1/269
-#EXTINF:0 user-agent="+",AL: RTSH 3HD
-http://pro-unibox.com:25461/EG/Italy1/270
-
-#EXTINF:0 user-agent="+",AL: RTK 3 UHD 4K+
-http://pro-unibox.com:25461/EG/Italy1/38
-#EXTINF:0 user-agent="+",AL: Top News FHD
-http://pro-unibox.com:25461/EG/Italy1/39
-#EXTINF:0 user-agent="+",AL: Arta News FHD
-http://pro-unibox.com:25461/EG/Italy1/40
-#EXTINF:0 user-agent="+",AL: Abc News FHD
-http://pro-unibox.com:25461/EG/Italy1/41
-#EXTINF:0 user-agent="+",AL: News 24 FHD
-http://pro-unibox.com:25461/EG/Italy1/42
-#EXTINF:0 user-agent="+",AL: Kanali 7 HD
-http://pro-unibox.com:25461/EG/Italy1/43
-#EXTINF:0 user-agent="+",AL: A2 CNN HD
-http://pro-unibox.com:25461/EG/Italy1/44
-#EXTINF:0 user-agent="+",AL: Ora News FHD
-http://pro-unibox.com:25461/EG/Italy1/45
-#EXTINF:0 user-agent="+",AL: Fax News FHD
-http://pro-unibox.com:25461/EG/Italy1/46
-#EXTINF:0 user-agent="+",AL: Family HD
-http://pro-unibox.com:25461/EG/Italy1/62
-#EXTINF:0 user-agent="+",AL: Film GOLD
-http://pro-unibox.com:25461/EG/Italy1/47
-#EXTINF:0 user-agent="+",AL: Film Dy FHD
-http://pro-unibox.com:25461/EG/Italy1/48
-#EXTINF:0 user-agent="+",AL: Film Stinet HD
-http://pro-unibox.com:25461/EG/Italy1/49
-#EXTINF:0 user-agent="+",AL: Film Komedi HD
-http://pro-unibox.com:25461/EG/Italy1/50
-#EXTINF:0 user-agent="+",AL: Film Aksion HD
-http://pro-unibox.com:25461/EG/Italy1/51
-#EXTINF:0 user-agent="+",AL: Film Hits HD
-http://pro-unibox.com:25461/EG/Italy1/52
-#EXTINF:0 user-agent="+",AL: Film Thriller HD
-http://pro-unibox.com:25461/EG/Italy1/53
-#EXTINF:0 user-agent="+",AL: Film Drame HD
-http://pro-unibox.com:25461/EG/Italy1/54
-#EXTINF:0 user-agent="+",AL: Film Autor HD
-http://pro-unibox.com:25461/EG/Italy1/55
-#EXTINF:0 user-agent="+",Eurofilm
-http://pro-unibox.com:25461/EG/Italy1/649
-#EXTINF:0 user-agent="+",AL: Euro Film 1 HD AL
-http://pro-unibox.com:25461/EG/Italy1/71
-#EXTINF:0 user-agent="+",AL: T FHD
-http://pro-unibox.com:25461/EG/Italy1/59
-#EXTINF:0 user-agent="+",AL: Living FHD
-http://pro-unibox.com:25461/EG/Italy1/60
-#EXTINF:0 user-agent="+",AL: Kitchen
-http://pro-unibox.com:25461/EG/Italy1/61
-#EXTINF:0 user-agent="+",AL: Tring Super HD
-http://pro-unibox.com:25461/EG/Italy1/63
-#EXTINF:0 user-agent="+",AL: Tring Aksion FHD
-http://pro-unibox.com:25461/EG/Italy1/64
-#EXTINF:0 user-agent="+",AL: Tring Fantasy FHD
-http://pro-unibox.com:25461/EG/Italy1/65
-#EXTINF:0 user-agent="+",AL: Tring Comedy FHD
-http://pro-unibox.com:25461/EG/Italy1/66
-#EXTINF:0 user-agent="+",AL: Tring Smile FHD
-http://pro-unibox.com:25461/EG/Italy1/69
-#EXTINF:0 user-agent="+",AL: Tring Life FHD
-http://pro-unibox.com:25461/EG/Italy1/70
-#EXTINF:0 user-agent="+",AL: Tring Jolly HD
-http://pro-unibox.com:25461/EG/Italy1/56
-#EXTINF:0 user-agent="+",AL: Tring 3 Plus FHD
-http://pro-unibox.com:25461/EG/Italy1/57
-#EXTINF:0 user-agent="+",AL: Tring Shqip FHD
-http://pro-unibox.com:25461/EG/Italy1/67
-#EXTINF:0 user-agent="+",AL: TDC
-http://pro-unibox.com:25461/EG/Italy1/58
-#EXTINF:0 user-agent="+",AL: Art Kino 1 HD
-http://pro-unibox.com:25461/EG/Italy1/91
-#EXTINF:0 user-agent="+",AL: Art Kino 2 HD
-http://pro-unibox.com:25461/EG/Italy1/92
-#EXTINF:0 user-agent="+",AL: Art Kino 3 HD
-http://pro-unibox.com:25461/EG/Italy1/93
-#EXTINF:0 user-agent="+",AL: Kino Premiere 1 HD
-http://pro-unibox.com:25461/EG/Italy1/89
-#EXTINF:0 user-agent="+",AL: Kino Premiere 2 HD
-http://pro-unibox.com:25461/EG/Italy1/90
-#EXTINF:0 user-agent="+",AL: Kino Action HD
-http://pro-unibox.com:25461/EG/Italy1/88
-#EXTINF:0 user-agent="+",AL: KS Premiere 1 AL
-http://pro-unibox.com:25461/EG/Italy1/75
-#EXTINF:0 user-agent="+",AL: KS Premiere 2 AL
-http://pro-unibox.com:25461/EG/Italy1/76
-#EXTINF:0 user-agent="+",AL: KS Premiere 3 AL
-http://pro-unibox.com:25461/EG/Italy1/77
-#EXTINF:0 user-agent="+",AL: KS Premiere 4 AL
-http://pro-unibox.com:25461/EG/Italy1/78
-#EXTINF:0 user-agent="+",AL: KS SHQIP AL
-http://pro-unibox.com:25461/EG/Italy1/79
-#EXTINF:0 user-agent="+",AL: KS AKSION AL
-http://pro-unibox.com:25461/EG/Italy1/80
-#EXTINF:0 user-agent="+",AL: KS COMEDY AL
-http://pro-unibox.com:25461/EG/Italy1/81
-#EXTINF:0 user-agent="+",AL: KS Hits AL
-http://pro-unibox.com:25461/EG/Italy1/82
-#EXTINF:0 user-agent="+",AL: Alba Box Premium 1 HD
-http://pro-unibox.com:25461/EG/Italy1/115
-#EXTINF:0 user-agent="+",AL: Alba Box Premium 2 HD
-http://pro-unibox.com:25461/EG/Italy1/116
-#EXTINF:0 user-agent="+",AL: Alba Box Premium 3 HD
-http://pro-unibox.com:25461/EG/Italy1/117
-#EXTINF:0 user-agent="+",AL: Alba Box Western HD
-http://pro-unibox.com:25461/EG/Italy1/114
-#EXTINF:0 user-agent="+",AL: Alba Box Komedi HD
-http://pro-unibox.com:25461/EG/Italy1/113
-#EXTINF:0 user-agent="+",AL: Alba Box Hindi HD
-http://pro-unibox.com:25461/EG/Italy1/111
-#EXTINF:0 user-agent="+",AL: Alba Box Dramë HD
-http://pro-unibox.com:25461/EG/Italy1/110
-#EXTINF:0 user-agent="+",AL: Alba Box Aksion HD
-http://pro-unibox.com:25461/EG/Italy1/108
-#EXTINF:0 user-agent="+",AL: Alba Box Shqipë HD
-http://pro-unibox.com:25461/EG/Italy1/112
-#EXTINF:0 user-agent="+",AL: ALBFLIX KINO 1 HD
-http://pro-unibox.com:25461/EG/Italy1/107
-#EXTINF:0 user-agent="+",AL: ALBFLIX FILM DRAME
-http://pro-unibox.com:25461/EG/Italy1/106
-#EXTINF:0 user-agent="+",AL: ALBFLIX ACTION HD
-http://pro-unibox.com:25461/EG/Italy1/105
-#EXTINF:0 user-agent="+",AL: Tele one 1 HD
-http://pro-unibox.com:25461/EG/Italy1/99
-#EXTINF:0 user-agent="+",AL: Tele one 2 HD
-http://pro-unibox.com:25461/EG/Italy1/100
-#EXTINF:0 user-agent="+",AL: Tele one 3 HD
-http://pro-unibox.com:25461/EG/Italy1/101
-#EXTINF:0 user-agent="+",AL: Tele one 4 HD
-http://pro-unibox.com:25461/EG/Italy1/102
-#EXTINF:0 user-agent="+",AL: Tele one 5 HD
-http://pro-unibox.com:25461/EG/Italy1/103
-#EXTINF:0 user-agent="+",AL: Tele one 6 HD
-http://pro-unibox.com:25461/EG/Italy1/104
-#EXTINF:0 user-agent="+",AL: WebStar Film 1 HD
-http://pro-unibox.com:25461/EG/Italy1/125
-#EXTINF:0 user-agent="+",AL: WebStar Film 2 HD (La CASA de Papel
-http://pro-unibox.com:25461/EG/Italy1/126
-#EXTINF:0 user-agent="+",AL: WebStar Film 3 HD
-http://pro-unibox.com:25461/EG/Italy1/127
-#EXTINF:0 user-agent="+",AL: WebStar Thriller HD
-http://pro-unibox.com:25461/EG/Italy1/124
-#EXTINF:0 user-agent="+",AL: WebStar Komedi HD
-http://pro-unibox.com:25461/EG/Italy1/123
-#EXTINF:0 user-agent="+",AL: WebStar Film Drame HD
-http://pro-unibox.com:25461/EG/Italy1/122
-#EXTINF:0 user-agent="+",AL: WebStar Cinema HD
-http://pro-unibox.com:25461/EG/Italy1/120
-#EXTINF:0 user-agent="+",AL:  WebStar Aksion HD
-http://pro-unibox.com:25461/EG/Italy1/118
-#EXTINF:0 user-agent="+",AL: Sky Max FHD
-http://pro-unibox.com:25461/EG/Italy1/94
-#EXTINF:0 user-agent="+",AL: Sky Aksion FHD
-http://pro-unibox.com:25461/EG/Italy1/95
-#EXTINF:0 user-agent="+",AL: Sky Komedi FHD
-http://pro-unibox.com:25461/EG/Italy1/96
-#EXTINF:0 user-agent="+",AL: Sky Drame FHD
-http://pro-unibox.com:25461/EG/Italy1/97
-#EXTINF:0 user-agent="+",AL: ART Episode TV
-http://pro-unibox.com:25461/EG/Italy1/98
-#EXTINF:0 user-agent="+",AL: LionTv Shqip  HD
-http://pro-unibox.com:25461/EG/Italy1/140
-#EXTINF:0 user-agent="+",AL: X Premium 1 HD
-http://pro-unibox.com:25461/EG/Italy1/128
-#EXTINF:0 user-agent="+",AL: X Premium 2 HD
-http://pro-unibox.com:25461/EG/Italy1/129
-#EXTINF:0 user-agent="+",AL: X Premium 3 HD
-http://pro-unibox.com:25461/EG/Italy1/130
-#EXTINF:0 user-agent="+",AL: X Family HD
-http://pro-unibox.com:25461/EG/Italy1/131
-#EXTINF:0 user-agent="+",AL: X Dark HD
-http://pro-unibox.com:25461/EG/Italy1/132
-#EXTINF:0 user-agent="+",AL: X Comedy HD
-http://pro-unibox.com:25461/EG/Italy1/133
-#EXTINF:0 user-agent="+",AL: X Action HD
-http://pro-unibox.com:25461/EG/Italy1/134
-#EXTINF:0 user-agent="+",AL: X Gold 1 HD
-http://pro-unibox.com:25461/EG/Italy1/136
-#EXTINF:0 user-agent="+",AL: X Gold 2 HD
-http://pro-unibox.com:25461/EG/Italy1/137
-#EXTINF:0 user-agent="+",AL: X Gold 3 HD
-http://pro-unibox.com:25461/EG/Italy1/138
-#EXTINF:0 user-agent="+",AL: X Gold 4 HD
-http://pro-unibox.com:25461/EG/Italy1/139
-#EXTINF:0 user-agent="+",AL: RTSH Film FHD
-http://pro-unibox.com:25461/EG/Italy1/87
-
-#EXTINF:0 user-agent="+",AL: Super Sport 1 FHD
-http://pro-unibox.com:25461/EG/Italy1/153
-#EXTINF:0 user-agent="+",AL: Super Sport 2 FHD
-http://pro-unibox.com:25461/EG/Italy1/155
-#EXTINF:0 user-agent="+",AL: Super Sport 3 FHD
-http://pro-unibox.com:25461/EG/Italy1/157
-#EXTINF:0 user-agent="+",AL: Super Sport 4 FHD
-http://pro-unibox.com:25461/EG/Italy1/159
-#EXTINF:0 user-agent="+",AL: Super Sport 1 HD
-http://pro-unibox.com:25461/EG/Italy1/152
-#EXTINF:0 user-agent="+",AL: Super Sport 2 HD
-http://pro-unibox.com:25461/EG/Italy1/154
-#EXTINF:0 user-agent="+",AL: Super Sport 3 HD
-http://pro-unibox.com:25461/EG/Italy1/156
-#EXTINF:0 user-agent="+",AL: Super Sport 4 HD
-http://pro-unibox.com:25461/EG/Italy1/158
-#EXTINF:0 user-agent="+",AL: Super Sport 5 FHD
-http://pro-unibox.com:25461/EG/Italy1/160
-#EXTINF:0 user-agent="+",AL: Tring Sport 1 FHD
-http://pro-unibox.com:25461/EG/Italy1/162
-#EXTINF:0 user-agent="+",AL: Tring Sport VIP 1 HD
-http://pro-unibox.com:25461/EG/Italy1/161
-#EXTINF:0 user-agent="+",AL: Tring Sport 2 FHD
-http://pro-unibox.com:25461/EG/Italy1/164
-#EXTINF:0 user-agent="+",AL: Tring Sport VIP 2 HD
-http://pro-unibox.com:25461/EG/Italy1/163
-#EXTINF:0 user-agent="+",AL: Tring Sport 3 FHD
-http://pro-unibox.com:25461/EG/Italy1/166
-#EXTINF:0 user-agent="+",AL: Tring Sport  VIP 3 HD
-http://pro-unibox.com:25461/EG/Italy1/165
-#EXTINF:0 user-agent="+",AL: Tring Sport 4 FHD
-http://pro-unibox.com:25461/EG/Italy1/168
-#EXTINF:0 user-agent="+",AL: Tring Sport  VIP 4 HD
-http://pro-unibox.com:25461/EG/Italy1/167
-#EXTINF:0 user-agent="+",AL: ART Sport 1 HD
-http://pro-unibox.com:25461/EG/Italy1/173
-#EXTINF:0 user-agent="+",AL: ART Sport 2 HD
-http://pro-unibox.com:25461/EG/Italy1/174
-#EXTINF:0 user-agent="+",AL: ART Sport 3 HD
-http://pro-unibox.com:25461/EG/Italy1/175
-#EXTINF:0 user-agent="+",AL: AL K SPORT1 VIP HD
-http://pro-unibox.com:25461/EG/Italy1/169
-#EXTINF:0 user-agent="+",AL: AL K SPORT2 VIP HD
-http://pro-unibox.com:25461/EG/Italy1/170
-#EXTINF:0 user-agent="+",AL: AL K SPORT3 VIP HD
-http://pro-unibox.com:25461/EG/Italy1/171
-#EXTINF:0 user-agent="+",AL: AL K SPORT4 VIP HD
-http://pro-unibox.com:25461/EG/Italy1/172
-#EXTINF:0 user-agent="+",UK: BT SPORT 1 HD
-http://pro-unibox.com:25461/EG/Italy1/210
-#EXTINF:0 user-agent="+",UK: BT Sport 1
-http://pro-unibox.com:25461/EG/Italy1/209
-#EXTINF:0 user-agent="+",UK: BT SPORT 2 HD
-http://pro-unibox.com:25461/EG/Italy1/212
-#EXTINF:0 user-agent="+",UK: BT Sport 2
-http://pro-unibox.com:25461/EG/Italy1/211
-#EXTINF:0 user-agent="+",UK: BT Sport  3 HD
-http://pro-unibox.com:25461/EG/Italy1/213
-#EXTINF:0 user-agent="+",Ex Yu: Sport Klub 1 FHD
-http://pro-unibox.com:25461/EG/Italy1/182
-#EXTINF:0 user-agent="+",Ex Yu: Sport Klub 2 FHD
-http://pro-unibox.com:25461/EG/Italy1/183
-#EXTINF:0 user-agent="+",Ex Yu: Sport Klub 3 FHD
-http://pro-unibox.com:25461/EG/Italy1/184
-#EXTINF:0 user-agent="+",Ex Yu: Sport Klub 4 FHD
-http://pro-unibox.com:25461/EG/Italy1/185
-#EXTINF:0 user-agent="+",Ex Yu: Sport Klub 5 FHD
-http://pro-unibox.com:25461/EG/Italy1/186
-#EXTINF:0 user-agent="+",Ex Yu: Sport Klub 6 FHD
-http://pro-unibox.com:25461/EG/Italy1/187
-#EXTINF:0 user-agent="+",Ex Yu: Arena Sport 1 HR FHD
-http://pro-unibox.com:25461/EG/Italy1/188
-#EXTINF:0 user-agent="+",Ex Yu: Arena Sport 2 HR FHD
-http://pro-unibox.com:25461/EG/Italy1/189
-#EXTINF:0 user-agent="+",Ex Yu: Arena Sport 3 HR FHD
-http://pro-unibox.com:25461/EG/Italy1/190
-#EXTINF:0 user-agent="+",Ex Yu: Arena Sport 4 HR FHD
-http://pro-unibox.com:25461/EG/Italy1/191
-#EXTINF:0 user-agent="+",Ex Yu: Arena Sport 1 FHD
-http://pro-unibox.com:25461/EG/Italy1/192
-#EXTINF:0 user-agent="+",Ex Yu: Arena Sport 2 FHD
-http://pro-unibox.com:25461/EG/Italy1/193
-#EXTINF:0 user-agent="+",Ex Yu: Arena Sport 3 FHD
-http://pro-unibox.com:25461/EG/Italy1/194
-#EXTINF:0 user-agent="+",Ex Yu: Arena Sport 4 FHD
-http://pro-unibox.com:25461/EG/Italy1/195
-#EXTINF:0 user-agent="+",Ex Yu: Arena Sport 5 FHD
-http://pro-unibox.com:25461/EG/Italy1/196
-#EXTINF:0 user-agent="+",Ex Yu: Arena Sport 6 FHD
-http://pro-unibox.com:25461/EG/Italy1/197
-#EXTINF:0 user-agent="+",Arena Sport 6 HD (CRO)
-http://pro-unibox.com:25461/EG/Italy1/198
-#EXTINF:0 user-agent="+",Arena Sport 7 HD (CRO)
-http://pro-unibox.com:25461/EG/Italy1/199
-#EXTINF:0 user-agent="+",Arena Sport 8 HD (CRO)
-http://pro-unibox.com:25461/EG/Italy1/200
-#EXTINF:0 user-agent="+",Arena Sport 9 HD (CRO)
-http://pro-unibox.com:25461/EG/Italy1/201
-#EXTINF:0 user-agent="+",Arena Sport 10 HD (CRO)
-http://pro-unibox.com:25461/EG/Italy1/202
-#EXTINF:0 user-agent="+",Ex Yu: Eurosport 1 FHD
-http://pro-unibox.com:25461/EG/Italy1/203
-#EXTINF:0 user-agent="+",Ex Yu: Eurosport 2 FHD
-http://pro-unibox.com:25461/EG/Italy1/204
-#EXTINF:0 user-agent="+",UK: Sky Sport Arena HD
-http://pro-unibox.com:25461/EG/Italy1/205
-#EXTINF:0 user-agent="+",Uk: Sky Sport Cricket
-http://pro-unibox.com:25461/EG/Italy1/206
-#EXTINF:0 user-agent="+",UK: Sky Sport MIX
-http://pro-unibox.com:25461/EG/Italy1/207
-#EXTINF:0 user-agent="+",UK: Sky Sport News HD
-http://pro-unibox.com:25461/EG/Italy1/208
-#EXTINF:0 user-agent="+",UK: premiere sports 2
-http://pro-unibox.com:25461/EG/Italy1/214
-#EXTINF:0 user-agent="+",UK: Eurosport 1 UK HD
-http://pro-unibox.com:25461/EG/Italy1/215
-#EXTINF:0 user-agent="+",UK: Eurosport 2 UK
-http://pro-unibox.com:25461/EG/Italy1/216
-#EXTINF:0 user-agent="+",FR: BeIN Sports 1
-http://pro-unibox.com:25461/EG/Italy1/217
-#EXTINF:0 user-agent="+",FR: BeIN Sports 2
-http://pro-unibox.com:25461/EG/Italy1/218
-#EXTINF:0 user-agent="+",FR: BeIN Sports 3
-http://pro-unibox.com:25461/EG/Italy1/219
-#EXTINF:0 user-agent="+",FR: beIN Sports MAX 4
-http://pro-unibox.com:25461/EG/Italy1/220
-#EXTINF:0 user-agent="+",BEIN SPORTS 1 HD
-http://pro-unibox.com:25461/EG/Italy1/298
-#EXTINF:0 user-agent="+",BEIN SPORTS 2 HD
-http://pro-unibox.com:25461/EG/Italy1/299
-#EXTINF:0 user-agent="+",BEIN SPORTS 3 HD
-http://pro-unibox.com:25461/EG/Italy1/300
-#EXTINF:0 user-agent="+",Bein SPORT 4 HD
-http://pro-unibox.com:25461/EG/Italy1/301
-#EXTINF:0 user-agent="+",Bein SPORT 5 HD
-http://pro-unibox.com:25461/EG/Italy1/302
-#EXTINF:0 user-agent="+",Bein SPORT 6 HD
-http://pro-unibox.com:25461/EG/Italy1/303
-#EXTINF:0 user-agent="+",AL: WebStar Music HD
-http://pro-unibox.com:25461/EG/Italy1/244
-#EXTINF:0 user-agent="+",AL: Alba Box Muzikë HD
-http://pro-unibox.com:25461/EG/Italy1/109
-#EXTINF:0 user-agent="+",AL: RTK 4 FHD
-http://pro-unibox.com:25461/EG/Italy1/259
-#EXTINF:0 user-agent="+",AL: RTV 21 Mix FHD
-http://pro-unibox.com:25461/EG/Italy1/260
-#EXTINF:0 user-agent="+",AL: WebStar Popullore HD
-http://pro-unibox.com:25461/EG/Italy1/241
-#EXTINF:0 user-agent="+",AL: RTV 21 Popullore FHD
-http://pro-unibox.com:25461/EG/Italy1/263
-#EXTINF:0 user-agent="+",AL: Popullore HD
-http://pro-unibox.com:25461/EG/Italy1/264
-#EXTINF:0 user-agent="+",AL: WebStar Qifteli HD
-http://pro-unibox.com:25461/EG/Italy1/242
-#EXTINF:0 user-agent="+",AL: Explorer Shkence HD
-http://pro-unibox.com:25461/EG/Italy1/231
-#EXTINF:0 user-agent="+",AL: Explorer Natyre HD
-http://pro-unibox.com:25461/EG/Italy1/232
-#EXTINF:0 user-agent="+",AL: Explorer History HD
-http://pro-unibox.com:25461/EG/Italy1/233
-#EXTINF:0 user-agent="+",AL: Tring History FHD
-http://pro-unibox.com:25461/EG/Italy1/68
-#EXTINF:0 user-agent="+",AL: Tring World FHD
-http://pro-unibox.com:25461/EG/Italy1/234
-#EXTINF:0 user-agent="+",AL: Tring Planet FHD
-http://pro-unibox.com:25461/EG/Italy1/235
-#EXTINF:0 user-agent="+",AL: ART Doku 1 HD
-http://pro-unibox.com:25461/EG/Italy1/236
-#EXTINF:0 user-agent="+",AL: ART Doku 2 HD
-http://pro-unibox.com:25461/EG/Italy1/237
-#EXTINF:0 user-agent="+",AL: Sky Histori HD
-http://pro-unibox.com:25461/EG/Italy1/230
-#EXTINF:0 user-agent="+",AL: Histori Shqiptare
-http://pro-unibox.com:25461/EG/Italy1/238
-#EXTINF:0 user-agent="+",AL: X Histori HD
-http://pro-unibox.com:25461/EG/Italy1/239
-#EXTINF:0 user-agent="+",AL: Discovery Channel
-http://pro-unibox.com:25461/EG/Italy1/240
-#EXTINF:0 user-agent="+",AL: Junior TV
-http://pro-unibox.com:25461/EG/Italy1/221
-#EXTINF:0 user-agent="+",AL: Bang Bang HD
-http://pro-unibox.com:25461/EG/Italy1/222
-#EXTINF:0 user-agent="+",AL: Cufo HD
-http://pro-unibox.com:25461/EG/Italy1/223
-#EXTINF:0 user-agent="+",AL: Baby TV HD
-http://pro-unibox.com:25461/EG/Italy1/224
-#EXTINF:0 user-agent="+",AL: Boomerang HD
-http://pro-unibox.com:25461/EG/Italy1/225
-#EXTINF:0 user-agent="+",AL Tring Kids HD
-http://pro-unibox.com:25461/EG/Italy1/226
-#EXTINF:0 user-agent="+",AL: ALBFLIX PINGUINE
-http://pro-unibox.com:25461/EG/Italy1/227
-#EXTINF:0 user-agent="+",AL: ALBFLIX BOOBA
-http://pro-unibox.com:25461/EG/Italy1/228
-#EXTINF:0 user-agent="+",AL: Tip TV HD
-http://pro-unibox.com:25461/EG/Italy1/229
-#EXTINF:0 user-agent="+",AL: Peace TV HD
-http://pro-unibox.com:25461/EG/Italy1/245
-#EXTINF:0 user-agent="+",AL: WebStar Islam HD
-http://pro-unibox.com:25461/EG/Italy1/248
-#EXTINF:0 user-agent="+",AL RTV Islam HD
-http://pro-unibox.com:25461/EG/Italy1/250
-#EXTINF:0 user-agent="+",AL: RTV Pendimi HD
-http://pro-unibox.com:25461/EG/Italy1/251
-#EXTINF:0 user-agent="+",AL: ALBMUSLIM TV
-http://pro-unibox.com:25461/EG/Italy1/253
-#EXTINF:0 user-agent="+",AL: LionTv Ilahi Gold FHD
-http://pro-unibox.com:25461/EG/Italy1/254
-#EXTINF:0 user-agent="+",AL: Mekka Live HD
-http://pro-unibox.com:25461/EG/Italy1/256
-#EXTINF:0 user-agent="+",AL: Medina Live HD
-http://pro-unibox.com:25461/EG/Italy1/257
-#EXTINF:0 user-agent="+",AL: ALBFLIX KURAN HD
-http://pro-unibox.com:25461/EG/Italy1/246
-#EXTINF:0 user-agent="+",AL: ALBFLIX QURAN RECITATION
-http://pro-unibox.com:25461/EG/Italy1/247
-#EXTINF:0 user-agent="+",AL: LionTv Humor FHD
-http://pro-unibox.com:25461/EG/Italy1/141
-#EXTINF:0 user-agent="+",AL: X Humor HD
-http://pro-unibox.com:25461/EG/Italy1/142
-#EXTINF:0 user-agent="+",AL: AlbHumor2
-http://pro-unibox.com:25461/EG/Italy1/143
-#EXTINF:0 user-agent="+",AL: Dark Baskia Humor HD
-http://pro-unibox.com:25461/EG/Italy1/144
-#EXTINF:0 user-agent="+",AL: Tetova Humor HD
-http://pro-unibox.com:25461/EG/Italy1/145
-#EXTINF:0 user-agent="+",AL: First Chanel FHD
-http://pro-unibox.com:25461/EG/Italy1/267
-#EXTINF:0 user-agent="+",AL: First Channel  UHD 4K+
-http://pro-unibox.com:25461/EG/Italy1/268
-#EXTINF:0 user-agent="+",AL: TV Besa HD
-http://pro-unibox.com:25461/EG/Italy1/249
-#EXTINF:0 user-agent="+",AL: TV Opoja FHD
-http://pro-unibox.com:25461/EG/Italy1/252
-#EXTINF:0 user-agent="+",AL: RTV 21 Plus UHD 4K+
-http://pro-unibox.com:25461/EG/Italy1/261
-#EXTINF:0 user-agent="+",AL : Syri TV
-http://pro-unibox.com:25461/EG/Italy1/271
-#EXTINF:0 user-agent="+",AL: TV  MALISHEVA FHD
-http://pro-unibox.com:25461/EG/Italy1/273
-#EXTINF:0 user-agent="+",AL: RTV Fontana
-http://pro-unibox.com:25461/EG/Italy1/274
-#EXTINF:0 user-agent="+",AL: TV Vushtrria HD
-http://pro-unibox.com:25461/EG/Italy1/275
-#EXTINF:0 user-agent="+",AL: Podujeva TV HD
-http://pro-unibox.com:25461/EG/Italy1/276
-#EXTINF:0 user-agent="+",AL: ISTOGU CHANNEL
-http://pro-unibox.com:25461/EG/Italy1/277
-#EXTINF:0 user-agent="+",AL: APOLL HD
-http://pro-unibox.com:25461/EG/Italy1/278
-#EXTINF:0 user-agent="+",AL: TV LLAPI
-http://pro-unibox.com:25461/EG/Italy1/280
-#EXTINF:0 user-agent="+",AL: TEMA HD
-http://pro-unibox.com:25461/EG/Italy1/281
-#EXTINF:0 user-agent="+",AL: TV LIRIA  FHD
-http://pro-unibox.com:25461/EG/Italy1/282
-#EXTINF:0 user-agent="+",AL: TV Shenja FHD
-http://pro-unibox.com:25461/EG/Italy1/283
-#EXTINF:0 user-agent="+",AL: RTV ORA HD
-http://pro-unibox.com:25461/EG/Italy1/284
-#EXTINF:0 user-agent="+",AL: TV Mitrovica HD
-http://pro-unibox.com:25461/EG/Italy1/285
-#EXTINF:0 user-agent="+",AL: Plisi TV HD
-http://pro-unibox.com:25461/EG/Italy1/286
-#EXTINF:0 user-agent="+",AL: Ulqini TV HD
-http://pro-unibox.com:25461/EG/Italy1/287
-#EXTINF:0 user-agent="+",AL: TV Koha Tetove
-http://pro-unibox.com:25461/EG/Italy1/288
-#EXTINF:0 user-agent="+",AL:  Alb’swiss TV
-http://pro-unibox.com:25461/EG/Italy1/289
-#EXTINF:0 user-agent="+",AL: Apollon TV
-http://pro-unibox.com:25461/EG/Italy1/290
-#EXTINF:0 user-agent="+",AL: Star Plus HD
-http://pro-unibox.com:25461/EG/Italy1/291
-#EXTINF:0 user-agent="+",AL: TV Dibra HD
-http://pro-unibox.com:25461/EG/Italy1/292
-#EXTINF:0 user-agent="+",AL: CH-1 SHKODRA
-http://pro-unibox.com:25461/EG/Italy1/293
-#EXTINF:0 user-agent="+",AL: Drita TV HD
-http://pro-unibox.com:25461/EG/Italy1/294
-#EXTINF:0 user-agent="+",AL: TV Koha FHD
-http://pro-unibox.com:25461/EG/Italy1/295
-#EXTINF:0 user-agent="+",AL: RTK 2 FHD
-http://pro-unibox.com:25461/EG/Italy1/297
-#EXTINF:0 user-agent="+",Vetrina S PrimaFila HD IT (L) VIP
-http://pro-unibox.com:25461/EG/Italy1/304
-#EXTINF:0 user-agent="+",S PrimaFila Live 1 HD IT (L) VIP
-http://pro-unibox.com:25461/EG/Italy1/305
-#EXTINF:0 user-agent="+",S PrimaFila Live 2 HD IT (L) VIP
-http://pro-unibox.com:25461/EG/Italy1/306
-#EXTINF:0 user-agent="+",S PrimaFila Live 3 HD IT (L) VIP
-http://pro-unibox.com:25461/EG/Italy1/307
-#EXTINF:0 user-agent="+",S PrimaFila Live 4 HD IT (L) VIP
-http://pro-unibox.com:25461/EG/Italy1/308
-#EXTINF:0 user-agent="+",S PrimaFila Live 5 HD IT (L) VIP
-http://pro-unibox.com:25461/EG/Italy1/309
-#EXTINF:0 user-agent="+",S PrimaFila Live 6 HD IT (L) VIP
-http://pro-unibox.com:25461/EG/Italy1/310
-#EXTINF:0 user-agent="+",S PrimaFila Live 7 HD IT (L) VIP
-http://pro-unibox.com:25461/EG/Italy1/311
-#EXTINF:0 user-agent="+",S PrimaFila Live 8 HD IT (L) VIP
-http://pro-unibox.com:25461/EG/Italy1/312
-#EXTINF:0 user-agent="+",S PrimaFila Live 9 HD IT (L) VIP
-http://pro-unibox.com:25461/EG/Italy1/313
-#EXTINF:0 user-agent="+",DE: RTL FHD
-http://pro-unibox.com:25461/EG/Italy1/315
-#EXTINF:0 user-agent="+",DE: RTL 2 FHD
-http://pro-unibox.com:25461/EG/Italy1/316
-#EXTINF:0 user-agent="+",DE: ZDF FHD
-http://pro-unibox.com:25461/EG/Italy1/317
-#EXTINF:0 user-agent="+",DE: RTL Passion FHD
-http://pro-unibox.com:25461/EG/Italy1/318
-#EXTINF:0 user-agent="+",DE: RTL Plus FHD
-http://pro-unibox.com:25461/EG/Italy1/319
-#EXTINF:0 user-agent="+",DE: RTL Crime  FHD
-http://pro-unibox.com:25461/EG/Italy1/320
-#EXTINF:0 user-agent="+",DE: RTL Living FHD
-http://pro-unibox.com:25461/EG/Italy1/321
-#EXTINF:0 user-agent="+",DE: Sky Cinema FHD
-http://pro-unibox.com:25461/EG/Italy1/322
-#EXTINF:0 user-agent="+",DE: Sky Cinema 1 FHD
-http://pro-unibox.com:25461/EG/Italy1/323
-#EXTINF:0 user-agent="+",DE: Sky Cinema Action FHD
-http://pro-unibox.com:25461/EG/Italy1/324
-#EXTINF:0 user-agent="+",DE: Sky Cinema Family FHD
-http://pro-unibox.com:25461/EG/Italy1/325
-#EXTINF:0 user-agent="+",DE: Sky Cinema Emotion FHD
-http://pro-unibox.com:25461/EG/Italy1/326
-#EXTINF:0 user-agent="+",DE: Sky Cinema Atlantic FHD
-http://pro-unibox.com:25461/EG/Italy1/327
-#EXTINF:0 user-agent="+",DE: Sky Cinema 24 FHD
-http://pro-unibox.com:25461/EG/Italy1/328
-#EXTINF:0 user-agent="+",DE: Sky Cinema Hits FHD
-http://pro-unibox.com:25461/EG/Italy1/329
-#EXTINF:0 user-agent="+",DE: Sky Nostalgie FHD
-http://pro-unibox.com:25461/EG/Italy1/330
-#EXTINF:0 user-agent="+",DE: Sky Comedy FHD
-http://pro-unibox.com:25461/EG/Italy1/331
-#EXTINF:0 user-agent="+",DE: Sky Krimi FHD
-http://pro-unibox.com:25461/EG/Italy1/332
-#EXTINF:0 user-agent="+",DE: Sky Select 1 FHD
-http://pro-unibox.com:25461/EG/Italy1/333
-#EXTINF:0 user-agent="+",DE: Sky Select 2 FHD
-http://pro-unibox.com:25461/EG/Italy1/334
-#EXTINF:0 user-agent="+",DE: Sky Select 3 FHD
-http://pro-unibox.com:25461/EG/Italy1/335
-#EXTINF:0 user-agent="+",DE: Sky Select 4 FHD
-http://pro-unibox.com:25461/EG/Italy1/336
-#EXTINF:0 user-agent="+",DE: Sky Select 5 FHD
-http://pro-unibox.com:25461/EG/Italy1/337
-#EXTINF:0 user-agent="+",DE: Sky Select 6 FHD
-http://pro-unibox.com:25461/EG/Italy1/338
-#EXTINF:0 user-agent="+",DE: Sky Select 7 FHD
-http://pro-unibox.com:25461/EG/Italy1/339
-#EXTINF:0 user-agent="+",DE: Sky Select 8 FHD
-http://pro-unibox.com:25461/EG/Italy1/340
-#EXTINF:0 user-agent="+",S Cinema Uno HD IT
-http://pro-unibox.com:25461/EG/Italy1/342
-#EXTINF:0 user-agent="+",S Cinema Uno +24 HD IT
-http://pro-unibox.com:25461/EG/Italy1/343
-#EXTINF:0 user-agent="+",S Cinema Comedy HD IT
-http://pro-unibox.com:25461/EG/Italy1/344
-#EXTINF:0 user-agent="+",S Cinema Drama HD IT
-http://pro-unibox.com:25461/EG/Italy1/345
-#EXTINF:0 user-agent="+",S Cinema Due HD IT
-http://pro-unibox.com:25461/EG/Italy1/346
-#EXTINF:0 user-agent="+",S Cinema Family HD IT
-http://pro-unibox.com:25461/EG/Italy1/347
-#EXTINF:0 user-agent="+",S Cinema Romance HD IT
-http://pro-unibox.com:25461/EG/Italy1/348
-#EXTINF:0 user-agent="+",S Cinema Suspense HD IT
-http://pro-unibox.com:25461/EG/Italy1/349
-#EXTINF:0 user-agent="+",Ex Yu: HRT 1 HD
-http://pro-unibox.com:25461/EG/Italy1/350
-#EXTINF:0 user-agent="+",Ex Yu: HRT 2 HD
-http://pro-unibox.com:25461/EG/Italy1/351
-#EXTINF:0 user-agent="+",Ex Yu: HRT 3 HD
-http://pro-unibox.com:25461/EG/Italy1/352
-#EXTINF:0 user-agent="+",Ex Yu: HRT 4 HD
-http://pro-unibox.com:25461/EG/Italy1/353
-#EXTINF:0 user-agent="+",Ex Yu: BHT 1 HD
-http://pro-unibox.com:25461/EG/Italy1/354
-#EXTINF:0 user-agent="+",Ex Yu: Hayatovci HD
-http://pro-unibox.com:25461/EG/Italy1/355
-#EXTINF:0 user-agent="+",Ex Yu: HBO HD
-http://pro-unibox.com:25461/EG/Italy1/356
-#EXTINF:0 user-agent="+",Ex Yu: HBO 2 HD
-http://pro-unibox.com:25461/EG/Italy1/357
-#EXTINF:0 user-agent="+",Ex Yu: Prva Plus HD
-http://pro-unibox.com:25461/EG/Italy1/358
-#EXTINF:0 user-agent="+",Ex Yu: Prva Max HD
-http://pro-unibox.com:25461/EG/Italy1/359
-#EXTINF:0 user-agent="+",Ex Yu: Prva World HD
-http://pro-unibox.com:25461/EG/Italy1/360
-#EXTINF:0 user-agent="+",Ex Yu: Prva Kick HD
-http://pro-unibox.com:25461/EG/Italy1/361
-#EXTINF:0 user-agent="+",Ex Yu: TV Grand HD
-http://pro-unibox.com:25461/EG/Italy1/362
-#EXTINF:0 user-agent="+",AL: ALBFLIX KAFENEJA JONË HD
-http://pro-unibox.com:25461/EG/Italy1/363
-#EXTINF:0 user-agent="+",AL: ALBFLIX STUPCAT
-http://pro-unibox.com:25461/EG/Italy1/364
-#EXTINF:0 user-agent="+",AL: Dark Mixha BiBe FHD
-http://pro-unibox.com:25461/EG/Italy1/365
-#EXTINF:0 user-agent="+",AL: Dark Shengen Visa HD
-http://pro-unibox.com:25461/EG/Italy1/366
-#EXTINF:0 user-agent="+",AL: Dark Cka ka Shpia  HD
-http://pro-unibox.com:25461/EG/Italy1/367
-#EXTINF:0 user-agent="+",TRT 1 FHD TR
-http://pro-unibox.com:25461/EG/Italy1/369
-#EXTINF:0 user-agent="+",Show HD TR
-http://pro-unibox.com:25461/EG/Italy1/370
-#EXTINF:0 user-agent="+",Show Max TR
-http://pro-unibox.com:25461/EG/Italy1/371
-#EXTINF:0 user-agent="+",Show Turk TR
-http://pro-unibox.com:25461/EG/Italy1/372
-#EXTINF:0 user-agent="+",Kanal D 
-http://pro-unibox.com:25461/EG/Italy1/373
-#EXTINF:0 user-agent="+",Euro D TR
-http://pro-unibox.com:25461/EG/Italy1/374
-#EXTINF:0 user-agent="+",ATV  TR
-http://pro-unibox.com:25461/EG/Italy1/375
-#EXTINF:0 user-agent="+",Star HD
-http://pro-unibox.com:25461/EG/Italy1/376
-#EXTINF:0 user-agent="+",Euro Star HD
-http://pro-unibox.com:25461/EG/Italy1/377
-#EXTINF:0 user-agent="+",KANAL 7 HD
-http://pro-unibox.com:25461/EG/Italy1/378
-#EXTINF:0 user-agent="+",FOX
-http://pro-unibox.com:25461/EG/Italy1/379
-#EXTINF:0 user-agent="+",FOX Crime 
-http://pro-unibox.com:25461/EG/Italy1/380
-#EXTINF:0 user-agent="+",FOX Life
-http://pro-unibox.com:25461/EG/Italy1/381
-#EXTINF:0 user-agent="+",A Para HD
-http://pro-unibox.com:25461/EG/Italy1/382
-#EXTINF:0 user-agent="+",OSC City
-http://pro-unibox.com:25461/EG/Italy1/383
-#EXTINF:0 user-agent="+",OCS Geants FR
-http://pro-unibox.com:25461/EG/Italy1/384
-#EXTINF:0 user-agent="+",OSC Max
-http://pro-unibox.com:25461/EG/Italy1/385
-#EXTINF:0 user-agent="+",OCS GO Cinema 1
-http://pro-unibox.com:25461/EG/Italy1/386
-#EXTINF:0 user-agent="+",OCS GO Cinema 2
-http://pro-unibox.com:25461/EG/Italy1/387
-#EXTINF:0 user-agent="+",OCS GO Cinema 3
-http://pro-unibox.com:25461/EG/Italy1/388
-#EXTINF:0 user-agent="+",OCS GO Cinema 4
-http://pro-unibox.com:25461/EG/Italy1/389
-#EXTINF:0 user-agent="+",UK: BBC One HD
-http://pro-unibox.com:25461/EG/Italy1/391
-#EXTINF:0 user-agent="+",UK: BBC Two HD
-http://pro-unibox.com:25461/EG/Italy1/392
-#EXTINF:0 user-agent="+",UK: BBC Three HD
-http://pro-unibox.com:25461/EG/Italy1/393
-#EXTINF:0 user-agent="+",UK: BBC Four HD
-http://pro-unibox.com:25461/EG/Italy1/394
-#EXTINF:0 user-agent="+",UK: BBC NEWS HD
-http://pro-unibox.com:25461/EG/Italy1/395
-#EXTINF:0 user-agent="+",UK: BBC One Scotland HD
-http://pro-unibox.com:25461/EG/Italy1/396
-#EXTINF:0 user-agent="+",UK: BBC Two Wales
-http://pro-unibox.com:25461/EG/Italy1/398
-#EXTINF:0 user-agent="+",UK: BBC WORLD NEWS
-http://pro-unibox.com:25461/EG/Italy1/399
-#EXTINF:0 user-agent="+",UK: ITV 1 HD
-http://pro-unibox.com:25461/EG/Italy1/400
-#EXTINF:0 user-agent="+",UK: ITV 2  HD
-http://pro-unibox.com:25461/EG/Italy1/402
-#EXTINF:0 user-agent="+",UK: ITV 3 HD
-http://pro-unibox.com:25461/EG/Italy1/403
-#EXTINF:0 user-agent="+",UK: ITV 4
-http://pro-unibox.com:25461/EG/Italy1/404
-#EXTINF:0 user-agent="+",UK: ITV BE
-http://pro-unibox.com:25461/EG/Italy1/405
-#EXTINF:0 user-agent="+",UK: Quest
-http://pro-unibox.com:25461/EG/Italy1/407
-#EXTINF:0 user-agent="+",UK: RTE News
-http://pro-unibox.com:25461/EG/Italy1/408
-#EXTINF:0 user-agent="+",UK: Sky News HD
-http://pro-unibox.com:25461/EG/Italy1/409
-#EXTINF:0 user-agent="+",UK: Sky One
-http://pro-unibox.com:25461/EG/Italy1/410
-#EXTINF:0 user-agent="+",UK: Sky Two
-http://pro-unibox.com:25461/EG/Italy1/411
-#EXTINF:0 user-agent="+",UK: SKYArt 1
-http://pro-unibox.com:25461/EG/Italy1/412
-#EXTINF:0 user-agent="+",UK: Syfy UK
-http://pro-unibox.com:25461/EG/Italy1/413
-#EXTINF:0 user-agent="+",UK: TCM
-http://pro-unibox.com:25461/EG/Italy1/414
-#EXTINF:0 user-agent="+",UK:  E4 UK
-http://pro-unibox.com:25461/EG/Italy1/415
-#EXTINF:0 user-agent="+",UK: TWO
-http://pro-unibox.com:25461/EG/Italy1/416
-#EXTINF:0 user-agent="+",UK: 5 USA
-http://pro-unibox.com:25461/EG/Italy1/417
-#EXTINF:0 user-agent="+",UK: AMC HD
-http://pro-unibox.com:25461/EG/Italy1/418
-#EXTINF:0 user-agent="+",UK: CBS Justice
-http://pro-unibox.com:25461/EG/Italy1/419
-#EXTINF:0 user-agent="+",UK: Nollywoood
-http://pro-unibox.com:25461/EG/Italy1/420
-#EXTINF:0 user-agent="+",UK: Real Lives
-http://pro-unibox.com:25461/EG/Italy1/421
-#EXTINF:0 user-agent="+",UK: cbs drama
-http://pro-unibox.com:25461/EG/Italy1/422
-#EXTINF:0 user-agent="+",UK: Channel 5 HD
-http://pro-unibox.com:25461/EG/Italy1/424
-#EXTINF:0 user-agent="+",UK: Chart Show
-http://pro-unibox.com:25461/EG/Italy1/425
-#EXTINF:0 user-agent="+",UK: Bloomberg
-http://pro-unibox.com:25461/EG/Italy1/426
-#EXTINF:0 user-agent="+",UK: Atlantic HD
-http://pro-unibox.com:25461/EG/Italy1/427
-#EXTINF:0 user-agent="+",UK: B4U Movies
-http://pro-unibox.com:25461/EG/Italy1/428
-#EXTINF:0 user-agent="+",UK: BBC Alba
-http://pro-unibox.com:25461/EG/Italy1/429
-#EXTINF:0 user-agent="+",UK: BBC Entertainment
-http://pro-unibox.com:25461/EG/Italy1/430
-#EXTINF:0 user-agent="+",UK: BOOMERANG
-http://pro-unibox.com:25461/EG/Italy1/432
-#EXTINF:0 user-agent="+",UK: Cartoon Network
-http://pro-unibox.com:25461/EG/Italy1/433
-#EXTINF:0 user-agent="+",UK: cbeebies
-http://pro-unibox.com:25461/EG/Italy1/435
-#EXTINF:0 user-agent="+",UK: Disney Channel UK
-http://pro-unibox.com:25461/EG/Italy1/436
-#EXTINF:0 user-agent="+",UK: Disney XD
-http://pro-unibox.com:25461/EG/Italy1/438
-#EXTINF:0 user-agent="+",UK: nickelodeon
-http://pro-unibox.com:25461/EG/Italy1/441
-#EXTINF:0 user-agent="+",UK: RTE JR
-http://pro-unibox.com:25461/EG/Italy1/443
-#EXTINF:0 user-agent="+",UK: RTE Junior
-http://pro-unibox.com:25461/EG/Italy1/444
-#EXTINF:0 user-agent="+",UK: CNN
-http://pro-unibox.com:25461/EG/Italy1/445
-#EXTINF:0 user-agent="+",UK: Colors HD
-http://pro-unibox.com:25461/EG/Italy1/446
-#EXTINF:0 user-agent="+",UK: Dave HD
-http://pro-unibox.com:25461/EG/Italy1/448
-#EXTINF:0 user-agent="+",UK: Tiny POP
-http://pro-unibox.com:25461/EG/Italy1/451
-#EXTINF:0 user-agent="+",UK: TLC
-http://pro-unibox.com:25461/EG/Italy1/452
-#EXTINF:0 user-agent="+",UK: Travel Channel
-http://pro-unibox.com:25461/EG/Italy1/453
-#EXTINF:0 user-agent="+",UK: Universal HD
-http://pro-unibox.com:25461/EG/Italy1/454
-#EXTINF:0 user-agent="+",UK:CBS Reality UK
-http://pro-unibox.com:25461/EG/Italy1/457
-#EXTINF:0 user-agent="+",UK: Dmax
-http://pro-unibox.com:25461/EG/Italy1/458
-#EXTINF:0 user-agent="+",UK: Drama Channel
-http://pro-unibox.com:25461/EG/Italy1/459
-#EXTINF:0 user-agent="+",UK: Eden
-http://pro-unibox.com:25461/EG/Italy1/461
-#EXTINF:0 user-agent="+",UK: Euronews
-http://pro-unibox.com:25461/EG/Italy1/462
-#EXTINF:0 user-agent="+",UK: Film4 UK
-http://pro-unibox.com:25461/EG/Italy1/463
-#EXTINF:0 user-agent="+",UK: Fox News
-http://pro-unibox.com:25461/EG/Italy1/465
-#EXTINF:0 user-agent="+",UK: Gold UK
-http://pro-unibox.com:25461/EG/Italy1/466
-#EXTINF:0 user-agent="+",UK: RTE 1 HD
-http://pro-unibox.com:25461/EG/Italy1/468
-#EXTINF:0 user-agent="+",UK: RTE 2 HD
-http://pro-unibox.com:25461/EG/Italy1/469
-#EXTINF:0 user-agent="+",UK: Sky Witness HD
-http://pro-unibox.com:25461/EG/Italy1/470
-#EXTINF:0 user-agent="+",UK: Sony Channel
-http://pro-unibox.com:25461/EG/Italy1/472
-#EXTINF:0 user-agent="+",UK: Sky Atlantic FHD
-http://pro-unibox.com:25461/EG/Italy1/473
-#EXTINF:0 user-agent="+",UK: Sky Disney UK HD
-http://pro-unibox.com:25461/EG/Italy1/475
-#EXTINF:0 user-agent="+",UK: Sky Family UK HD
-http://pro-unibox.com:25461/EG/Italy1/476
-#EXTINF:0 user-agent="+",UK: BBC EARTH HD
-http://pro-unibox.com:25461/EG/Italy1/477
-#EXTINF:0 user-agent="+",UK: Sky Movies Action & Adventure HD
-http://pro-unibox.com:25461/EG/Italy1/478
-#EXTINF:0 user-agent="+",Uk: Sky Select UK HD
-http://pro-unibox.com:25461/EG/Italy1/479
-#EXTINF:0 user-agent="+",UK: Horror Channel
-http://pro-unibox.com:25461/EG/Italy1/481
-#EXTINF:0 user-agent="+",UK: Sky Movies Comedy HD
-http://pro-unibox.com:25461/EG/Italy1/482
-#EXTINF:0 user-agent="+",UK: Sky Movies Disney HD
-http://pro-unibox.com:25461/EG/Italy1/483
-#EXTINF:0 user-agent="+",UK: Sky Movies Drama & Romance HD
-http://pro-unibox.com:25461/EG/Italy1/484
-#EXTINF:0 user-agent="+",UK: Sky Movies Family UK HD
-http://pro-unibox.com:25461/EG/Italy1/485
-#EXTINF:0 user-agent="+",UK: Sky Movies Modern HD
-http://pro-unibox.com:25461/EG/Italy1/486
-#EXTINF:0 user-agent="+",UK: Sky Movies Premiere UK HD
-http://pro-unibox.com:25461/EG/Italy1/487
-#EXTINF:0 user-agent="+",UK: Sky Movies Sci-Fi & Horror HD
-http://pro-unibox.com:25461/EG/Italy1/488
-#EXTINF:0 user-agent="+",UK: Sky Movies Thriller HD
-http://pro-unibox.com:25461/EG/Italy1/489
-#EXTINF:0 user-agent="+",UK: History Channel UK
-http://pro-unibox.com:25461/EG/Italy1/490
-#EXTINF:0 user-agent="+",UK: National Geographic UK
-http://pro-unibox.com:25461/EG/Italy1/492
-#EXTINF:0 user-agent="+",UK: National Geographic Wild
-http://pro-unibox.com:25461/EG/Italy1/493
-#EXTINF:0 user-agent="+",UK: Discovery Channel UK
-http://pro-unibox.com:25461/EG/Italy1/494
-#EXTINF:0 user-agent="+",UK: Discovery History UK
-http://pro-unibox.com:25461/EG/Italy1/495
-#EXTINF:0 user-agent="+",UK: Discovery Investigation
-http://pro-unibox.com:25461/EG/Italy1/496
-#EXTINF:0 user-agent="+",UK: Discovery Science UK
-http://pro-unibox.com:25461/EG/Italy1/497
-#EXTINF:0 user-agent="+",UK: DISCOVERY SHED
-http://pro-unibox.com:25461/EG/Italy1/498
-#EXTINF:0 user-agent="+",UK: Discovery Turbo UK
-http://pro-unibox.com:25461/EG/Italy1/499
-#EXTINF:0 user-agent="+",UK: Animal Planet UK
-http://pro-unibox.com:25461/EG/Italy1/501
-#EXTINF:0 user-agent="+",UK: Home
-http://pro-unibox.com:25461/EG/Italy1/503
-#EXTINF:0 user-agent="+",UK: Motors tv
-http://pro-unibox.com:25461/EG/Italy1/505
-#EXTINF:0 user-agent="+",UK: MTV Classic
-http://pro-unibox.com:25461/EG/Italy1/506
-#EXTINF:0 user-agent="+",UK: MTV LIVE HD
-http://pro-unibox.com:25461/EG/Italy1/507
-#EXTINF:0 user-agent="+",UK: MTV MUSIC
-http://pro-unibox.com:25461/EG/Italy1/508
-#EXTINF:0 user-agent="+",Uk: MTV Uk
-http://pro-unibox.com:25461/EG/Italy1/510
-#EXTINF:0 user-agent="+",UK: MTV_HITS
-http://pro-unibox.com:25461/EG/Italy1/511
-#EXTINF:0 user-agent="+",IT: Dmax  1 VIP
-http://pro-unibox.com:25461/EG/Italy1/516
-#EXTINF:0 user-agent="+",UK: Sky Sport Action HD
-http://pro-unibox.com:25461/EG/Italy1/517
-#EXTINF:0 user-agent="+",UK: Sky Sport Main Event
-http://pro-unibox.com:25461/EG/Italy1/518
-#EXTINF:0 user-agent="+",UK: Sky Sport Premiere League HD
-http://pro-unibox.com:25461/EG/Italy1/519
-#EXTINF:0 user-agent="+",UK: Sky Sports F1 UK HD
-http://pro-unibox.com:25461/EG/Italy1/520
-#EXTINF:0 user-agent="+",AL: RTSH Kuvend
-http://pro-unibox.com:25461/EG/Italy1/521
-#EXTINF:0 user-agent="+",Rai 1 HD IT
-http://pro-unibox.com:25461/EG/Italy1/522
-#EXTINF:0 user-agent="+",Rai 2 HD IT
-http://pro-unibox.com:25461/EG/Italy1/523
-#EXTINF:0 user-agent="+",Rai 3 HD IT
-http://pro-unibox.com:25461/EG/Italy1/524
-#EXTINF:0 user-agent="+",Rai 4 HD IT
-http://pro-unibox.com:25461/EG/Italy1/525
-#EXTINF:0 user-agent="+",Rai 5 HD IT
-http://pro-unibox.com:25461/EG/Italy1/526
-#EXTINF:0 user-agent="+",Rai Gulp HD IT
-http://pro-unibox.com:25461/EG/Italy1/527
-#EXTINF:0 user-agent="+",Rai Movie HD IT
-http://pro-unibox.com:25461/EG/Italy1/528
-#EXTINF:0 user-agent="+",Rai Premium IT
-http://pro-unibox.com:25461/EG/Italy1/529
-#EXTINF:0 user-agent="+",Rai Scuola HD IT
-http://pro-unibox.com:25461/EG/Italy1/530
-#EXTINF:0 user-agent="+",Rai Storia HD IT
-http://pro-unibox.com:25461/EG/Italy1/531
-#EXTINF:0 user-agent="+",Rai Sport + HD IT 
-http://pro-unibox.com:25461/EG/Italy1/532
-#EXTINF:0 user-agent="+",S Sport MotoGP HD IT
-http://pro-unibox.com:25461/EG/Italy1/533
-#EXTINF:0 user-agent="+",S Sport 24 HD IT
-http://pro-unibox.com:25461/EG/Italy1/534
-#EXTINF:0 user-agent="+",S Sport Football HD IT
-http://pro-unibox.com:25461/EG/Italy1/535
-#EXTINF:0 user-agent="+",S Sport NBA HD IT
-http://pro-unibox.com:25461/EG/Italy1/536
-#EXTINF:0 user-agent="+",Flutura TV
-http://pro-unibox.com:25461/EG/Italy1/537
-#EXTINF:0 user-agent="+",BeinSport 1 FHD TR
-http://pro-unibox.com:25461/EG/Italy1/539
-#EXTINF:0 user-agent="+",BeinSPort 2 HD TR
-http://pro-unibox.com:25461/EG/Italy1/540
-#EXTINF:0 user-agent="+",BeinSPort 3 TR
-http://pro-unibox.com:25461/EG/Italy1/541
-#EXTINF:0 user-agent="+",BeinSport 4 TR
-http://pro-unibox.com:25461/EG/Italy1/542
-#EXTINF:0 user-agent="+",AL: RTSH Shqip FHD
-http://pro-unibox.com:25461/EG/Italy1/272
-#EXTINF:0 user-agent="+",Alb Muzik
-http://pro-unibox.com:25461/EG/Italy1/547
-#EXTINF:0 user-agent="+",Music X
-http://pro-unibox.com:25461/EG/Italy1/548
-#EXTINF:0 user-agent="+",MTV Kosova 
-http://pro-unibox.com:25461/EG/Italy1/550
-#EXTINF:0 user-agent="+",TV Ilirida
-http://pro-unibox.com:25461/EG/Italy1/557
-#EXTINF:0 user-agent="+",TV Sharri
-http://pro-unibox.com:25461/EG/Italy1/558
-#EXTINF:0 user-agent="+",Sol TV 
-http://pro-unibox.com:25461/EG/Italy1/559
-#EXTINF:0 user-agent="+",WoW TV
-http://pro-unibox.com:25461/EG/Italy1/560
-#EXTINF:0 user-agent="+",Red Bull TV
-http://pro-unibox.com:25461/EG/Italy1/561
-#EXTINF:0 user-agent="+",VOA Zeri i Amerikes
-http://pro-unibox.com:25461/EG/Italy1/562
-#EXTINF:0 user-agent="+",Alba Music
-http://pro-unibox.com:25461/EG/Italy1/563
-#EXTINF:0 user-agent="+",Alb Music HD
-http://pro-unibox.com:25461/EG/Italy1/564
-#EXTINF:0 user-agent="+",Kids TV
-http://pro-unibox.com:25461/EG/Italy1/566
-#EXTINF:0 user-agent="+",Neser TV
-http://pro-unibox.com:25461/EG/Italy1/567
-#EXTINF:0 user-agent="+",Sofia TV
-http://pro-unibox.com:25461/EG/Italy1/568
-#EXTINF:0 user-agent="+",Top Estrada
-http://pro-unibox.com:25461/EG/Italy1/569
-#EXTINF:0 user-agent="+",Novela
-http://pro-unibox.com:25461/EG/Italy1/570
-#EXTINF:0 user-agent="+",Sky Folk
-http://pro-unibox.com:25461/EG/Italy1/571
-#EXTINF:0 user-agent="+",Tv Gold Johaniter
-http://pro-unibox.com:25461/EG/Italy1/572
-#EXTINF:0 user-agent="+",ATD TV (Amerikan TV of Dardania)
-http://pro-unibox.com:25461/EG/Italy1/574
-#EXTINF:0 user-agent="+",MAK I MRT 1
-http://pro-unibox.com:25461/EG/Italy1/576
-#EXTINF:0 user-agent="+",Korça +
-http://pro-unibox.com:25461/EG/Italy1/577
-#EXTINF:0 user-agent="+",Anime Tv
-http://pro-unibox.com:25461/EG/Italy1/578
-#EXTINF:0 user-agent="+",HappyKids Junior
-http://pro-unibox.com:25461/EG/Italy1/579
-#EXTINF:0 user-agent="+",Kid central femij
-http://pro-unibox.com:25461/EG/Italy1/580
-#EXTINF:0 user-agent="+",Canal Motor
-http://pro-unibox.com:25461/EG/Italy1/581
-#EXTINF:0 user-agent="+", EDGE sport
-http://pro-unibox.com:25461/EG/Italy1/582
-#EXTINF:0 user-agent="+", InWonder tv
-http://pro-unibox.com:25461/EG/Italy1/584
-#EXTINF:0 user-agent="+", InWild
-http://pro-unibox.com:25461/EG/Italy1/585
-#EXTINF:0 user-agent="+", OneGolf tv
-http://pro-unibox.com:25461/EG/Italy1/588
-#EXTINF:0 user-agent="+",MRT 2
-http://pro-unibox.com:25461/EG/Italy1/653
-#EXTINF:0 user-agent="+",Mak MRT 3
-http://pro-unibox.com:25461/EG/Italy1/654
-#EXTINF:0 user-agent="+",MAK I  Sitel TV
-http://pro-unibox.com:25461/EG/Italy1/655
-#EXTINF:0 user-agent="+",MAK I Telma
-http://pro-unibox.com:25461/EG/Italy1/656
-#EXTINF:0 user-agent="+",MAK I  Alfa TV
-http://pro-unibox.com:25461/EG/Italy1/657
-#EXTINF:0 user-agent="+",MAK I  Kanal 5
-http://pro-unibox.com:25461/EG/Italy1/658
-#EXTINF:0 user-agent="+",Fun Roads tv
-http://pro-unibox.com:25461/EG/Italy1/659
-#EXTINF:0 user-agent="+",Balkanika tv
-http://pro-unibox.com:25461/EG/Italy1/565
-#EXTINF:0 user-agent="+",Crime Time tv
-http://pro-unibox.com:25461/EG/Italy1/589
-#EXTINF:0 user-agent="+",LifeStyle TV
-http://pro-unibox.com:25461/EG/Italy1/591
-#EXTINF:0 user-agent="+",STV Flok
-http://pro-unibox.com:25461/EG/Italy1/648
-#EXTINF:0 user-agent="+",RTSH Kukesi
-http://pro-unibox.com:25461/EG/Italy1/650
-#EXTINF:0 user-agent="+",RTSH Shkodra
-http://pro-unibox.com:25461/EG/Italy1/651
-#EXTINF:0 user-agent="+",RTSH Plus
-http://pro-unibox.com:25461/EG/Italy1/652
-#EXTINF:0 user-agent="+",RTSH Agro
-http://pro-unibox.com:25461/EG/Italy1/662
-#EXTINF:0 user-agent="+",RTSH Gjirokastra
-http://pro-unibox.com:25461/EG/Italy1/664
-#EXTINF:0 user-agent="+",Fashion TV
-http://pro-unibox.com:25461/EG/Italy1/665
-#EXTINF:0 user-agent="+",RTSH Sport
-http://pro-unibox.com:25461/EG/Italy1/666
-#EXTINF:0 user-agent="+",RTSH Musik
-http://pro-unibox.com:25461/EG/Italy1/667
-#EXTINF:0 user-agent="+",RTSH Shkoll
-http://pro-unibox.com:25461/EG/Italy1/668
-#EXTINF:0 user-agent="+",RTSH Satelit
-http://pro-unibox.com:25461/EG/Italy1/669
-#EXTINF:0 user-agent="+",STV TV
-http://pro-unibox.com:25461/EG/Italy1/670
-#EXTINF:0 user-agent="+",Toonix Kids
-http://pro-unibox.com:25461/EG/Italy1/671
-#EXTINF:0 user-agent="+",Tv Duga Plus
-http://pro-unibox.com:25461/EG/Italy1/672
-#EXTINF:0 user-agent="+",Pop TV
-http://pro-unibox.com:25461/EG/Italy1/673
-#EXTINF:0 user-agent="+",TV Pro
-http://pro-unibox.com:25461/EG/Italy1/674
-#EXTINF:0 user-agent="+",WAU HD TV
-http://pro-unibox.com:25461/EG/Italy1/675
-#EXTINF:0 user-agent="+",RTSH 24
-http://pro-unibox.com:25461/EG/Italy1/677
+#EXTINF:-1,VIP AL: BIG BROTHER VIP 1 HD
+http://93.115.20.208/cloud/play.php?chID=85404
+#EXTINF:-1,VIP AL: BIG BROTHER VIP 2 HD
+http://93.115.20.208/cloud/play.php?chID=85405
+#EXTINF:-1,AL: RTSH 1 HD
+http://93.115.20.208/cloud/play.php?chID=29894
+#EXTINF:-1,AL: RTSH 2 HD
+http://93.115.20.208/cloud/play.php?chID=29893
+#EXTINF:-1,AL: RTSH 3 HD
+http://93.115.20.208/cloud/play.php?chID=29892
+#EXTINF:-1,AL: RTV 21 MK
+http://93.115.20.208/cloud/play.php?chID=29860
+#EXTINF:-1,AL: Klan HD
+http://93.115.20.208/cloud/play.php?chID=15661
+#EXTINF:-1,AL: RTK 1
+http://93.115.20.208/cloud/play.php?chID=7919
+#EXTINF:-1,AL: RTK 2
+http://93.115.20.208/cloud/play.php?chID=7920
+#EXTINF:-1,AL: RTK 3
+http://93.115.20.208/cloud/play.php?chID=7921
+#EXTINF:-1,AL: RTK 4
+http://93.115.20.208/cloud/play.php?chID=7922
+#EXTINF:-1,AL: 21 Plus
+http://93.115.20.208/cloud/play.php?chID=2138
+#EXTINF:-1,AL: 24 Kitchen
+http://93.115.20.208/cloud/play.php?chID=29792
+#EXTINF:-1,AL: 360 Tune Box
+http://93.115.20.208/cloud/play.php?chID=29820
+#EXTINF:-1,AL: ABC News
+http://93.115.20.208/cloud/play.php?chID=26563
+#EXTINF:-1,AL: ASHK TV 2
+http://93.115.20.208/cloud/play.php?chID=7929
+#EXTINF:-1,AL: A TV HD
+http://93.115.20.208/cloud/play.php?chID=7923
+#EXTINF:-1,AL: ASHK TV 3
+http://93.115.20.208/cloud/play.php?chID=7928
+#EXTINF:-1,AL: Alb Humor 1 HD
+http://93.115.20.208/cloud/play.php?chID=7927
+#EXTINF:-1,AL: Alb Thriller HD
+http://93.115.20.208/cloud/play.php?chID=7926
+#EXTINF:-1,AL: Syri Vision
+http://93.115.20.208/cloud/play.php?chID=7925
+#EXTINF:-1,AL: RTSH Film
+http://93.115.20.208/cloud/play.php?chID=7924
+#EXTINF:-1,AL: Alb Tv Hits
+http://93.115.20.208/cloud/play.php?chID=2136
+#EXTINF:-1,AL: ASHK TV 1
+http://93.115.20.208/cloud/play.php?chID=7930
+#EXTINF:-1,AL: Alb-Swiss HD
+http://93.115.20.208/cloud/play.php?chID=54593
+#EXTINF:-1,AL: Alsat M
+http://93.115.20.208/cloud/play.php?chID=1082
+#EXTINF:-1,AL: Animal Planet
+http://93.115.20.208/cloud/play.php?chID=29793
+#EXTINF:-1,AL: Antena TV Shkoder
+http://93.115.20.208/cloud/play.php?chID=29895
+#EXTINF:-1,AL: BabyTV
+http://93.115.20.208/cloud/play.php?chID=29844
+#EXTINF:-1,AL: Bang Bang
+http://93.115.20.208/cloud/play.php?chID=1081
+#EXTINF:-1,AL: BBF
+http://93.115.20.208/cloud/play.php?chID=2135
+#EXTINF:-1,AL: BBF Muzik
+http://93.115.20.208/cloud/play.php?chID=2152
+#EXTINF:-1,AL: Boomerang
+http://93.115.20.208/cloud/play.php?chID=29843
+#EXTINF:-1,AL: Channel One
+http://93.115.20.208/cloud/play.php?chID=2134
+#EXTINF:-1,AL: City Tv
+http://93.115.20.208/cloud/play.php?chID=2133
+#EXTINF:-1,AL: Cufo
+http://93.115.20.208/cloud/play.php?chID=2160
+#EXTINF:-1,AL: Dasma
+http://93.115.20.208/cloud/play.php?chID=2159
+#EXTINF:-1,AL: Dasma TV
+http://93.115.20.208/cloud/play.php?chID=29870
+#EXTINF:-1,AL: Diaspora TV
+http://93.115.20.208/cloud/play.php?chID=29869
+#EXTINF:-1,AL: Dielli TV
+http://93.115.20.208/cloud/play.php?chID=21190
+#EXTINF:-1,AL: Doku Box
+http://93.115.20.208/cloud/play.php?chID=29817
+#EXTINF:-1,AL: Dukagjini HD
+http://93.115.20.208/cloud/play.php?chID=21189
+#EXTINF:-1,AL: Episode TV
+http://93.115.20.208/cloud/play.php?chID=28944
+#EXTINF:-1,AL: Euro Film
+http://93.115.20.208/cloud/play.php?chID=20978
+#EXTINF:-1,AL: Eurosport 1 HD
+http://93.115.20.208/cloud/play.php?chID=2116
+#EXTINF:-1,AL: Eurosport 2
+http://93.115.20.208/cloud/play.php?chID=29796
+#EXTINF:-1,AL: Explore Histori
+http://93.115.20.208/cloud/play.php?chID=245
+#EXTINF:-1,AL: Explore Natyra
+http://93.115.20.208/cloud/play.php?chID=244
+#EXTINF:-1,AL: Explore Shknece
+http://93.115.20.208/cloud/play.php?chID=243
+#EXTINF:-1,AL: Family HD
+http://93.115.20.208/cloud/play.php?chID=29818
+#EXTINF:-1,AL: Fax News
+http://93.115.20.208/cloud/play.php?chID=26566
+#EXTINF:-1,AL: Fight Box
+http://93.115.20.208/cloud/play.php?chID=29821
+#EXTINF:-1,AL: Film Aksion
+http://93.115.20.208/cloud/play.php?chID=242
+#EXTINF:-1,AL: Film Autor
+http://93.115.20.208/cloud/play.php?chID=241
+#EXTINF:-1,AL: Film Box Arthouse
+http://93.115.20.208/cloud/play.php?chID=29825
+#EXTINF:-1,AL: Film Box Extra
+http://93.115.20.208/cloud/play.php?chID=29824
+#EXTINF:-1,AL: Film Box Plus
+http://93.115.20.208/cloud/play.php?chID=29823
+#EXTINF:-1,AL: Film Box Premium
+http://93.115.20.208/cloud/play.php?chID=29826
+#EXTINF:-1,AL: Film Drama
+http://93.115.20.208/cloud/play.php?chID=240
+#EXTINF:-1,AL: Film Dy HD
+http://93.115.20.208/cloud/play.php?chID=239
+#EXTINF:-1,AL: Film GOLD 1
+http://93.115.20.208/cloud/play.php?chID=2151
+#EXTINF:-1,AL: Film GOLD 2
+http://93.115.20.208/cloud/play.php?chID=2150
+#EXTINF:-1,AL: Film GOLD 3
+http://93.115.20.208/cloud/play.php?chID=2149
+#EXTINF:-1,AL: Film GOLD 4
+http://93.115.20.208/cloud/play.php?chID=2148
+#EXTINF:-1,AL: Film Hits  1
+http://93.115.20.208/cloud/play.php?chID=2158
+#EXTINF:-1,AL: Film Hits HD
+http://93.115.20.208/cloud/play.php?chID=238
+#EXTINF:-1,AL: Film Komedi
+http://93.115.20.208/cloud/play.php?chID=237
+#EXTINF:-1,AL: Film NjE HD
+http://93.115.20.208/cloud/play.php?chID=236
+#EXTINF:-1,AL: Film Thriller
+http://93.115.20.208/cloud/play.php?chID=234
+#EXTINF:-1,AL: First Kosova
+http://93.115.20.208/cloud/play.php?chID=2147
+#EXTINF:-1,AL: Folk
+http://93.115.20.208/cloud/play.php?chID=1080
+#EXTINF:-1,AL: Folk Plus
+http://93.115.20.208/cloud/play.php?chID=2131
+#EXTINF:-1,AL: Fox Crime HD
+http://93.115.20.208/cloud/play.php?chID=21701
+#EXTINF:-1,AL: Fox HD
+http://93.115.20.208/cloud/play.php?chID=21702
+#EXTINF:-1,AL: Fox Life HD
+http://93.115.20.208/cloud/play.php?chID=21703
+#EXTINF:-1,AL: Fox Movies
+http://93.115.20.208/cloud/play.php?chID=2120
+#EXTINF:-1,AL: Game Toon
+http://93.115.20.208/cloud/play.php?chID=29822
+#EXTINF:-1,AL: HBO
+http://93.115.20.208/cloud/play.php?chID=21688
+#EXTINF:-1,AL: HBO 2
+http://93.115.20.208/cloud/play.php?chID=21687
+#EXTINF:-1,AL: HBO 3
+http://93.115.20.208/cloud/play.php?chID=21686
+#EXTINF:-1,AL: Islam Channel 1 HD
+http://93.115.20.208/cloud/play.php?chID=42921
+#EXTINF:-1,AL: Islam Channel 2 HD
+http://93.115.20.208/cloud/play.php?chID=42922
+#EXTINF:-1,AL: Islam Channel 3 HD
+http://93.115.20.208/cloud/play.php?chID=42923
+#EXTINF:-1,AL: Islam Channel Femije HD
+http://93.115.20.208/cloud/play.php?chID=42925
+#EXTINF:-1,AL: Islam Channel Quran HD
+http://93.115.20.208/cloud/play.php?chID=42924
+#EXTINF:-1,AL: Joly HD
+http://93.115.20.208/cloud/play.php?chID=2129
+#EXTINF:-1,AL: Istogu TV
+http://93.115.20.208/cloud/play.php?chID=2143
+#EXTINF:-1,AL: Junior TV
+http://93.115.20.208/cloud/play.php?chID=1079
+#EXTINF:-1,AL: K Sport 1
+http://93.115.20.208/cloud/play.php?chID=2115
+#EXTINF:-1,AL: K Sport 2
+http://93.115.20.208/cloud/play.php?chID=2114
+#EXTINF:-1,AL: K Sport 3
+http://93.115.20.208/cloud/play.php?chID=2113
+#EXTINF:-1,AL: K Sport 4
+http://93.115.20.208/cloud/play.php?chID=2112
+#EXTINF:-1,AL: K Sport 5
+http://93.115.20.208/cloud/play.php?chID=29798
+#EXTINF:-1,AL: Kanal 10 FHD
+http://93.115.20.208/cloud/play.php?chID=53673
+#EXTINF:-1,AL: Kanal D Drama FHD
+http://93.115.20.208/cloud/play.php?chID=1143
+#EXTINF:-1,AL: Kanali 7 News
+http://93.115.20.208/cloud/play.php?chID=26565
+#EXTINF:-1,AL: Klan Kosova
+http://93.115.20.208/cloud/play.php?chID=1078
+#EXTINF:-1,AL: KLAN PLUS HD
+http://93.115.20.208/cloud/play.php?chID=29897
+#EXTINF:-1,AL: KOS Humor 1
+http://93.115.20.208/cloud/play.php?chID=29840
+#EXTINF:-1,AL: KS HITS HD
+http://93.115.20.208/cloud/play.php?chID=29808
+#EXTINF:-1,AL: Ks LOL HD
+http://93.115.20.208/cloud/play.php?chID=29807
+#EXTINF:-1,AL: KS MUZIK HD
+http://93.115.20.208/cloud/play.php?chID=29806
+#EXTINF:-1,AL: KTV
+http://93.115.20.208/cloud/play.php?chID=1077
+#EXTINF:-1,AL: KTV Toksor
+http://93.115.20.208/cloud/play.php?chID=29898
+#EXTINF:-1,AL: Living HD
+http://93.115.20.208/cloud/play.php?chID=29791
+#EXTINF:-1,AL: MTV KOSOVA
+http://93.115.20.208/cloud/play.php?chID=29864
+#EXTINF:-1,AL: My Music
+http://93.115.20.208/cloud/play.php?chID=2107
+#EXTINF:-1,AL: National Geographic
+http://93.115.20.208/cloud/play.php?chID=2119
+#EXTINF:-1,AL: News 24 HD
+http://93.115.20.208/cloud/play.php?chID=26562
+#EXTINF:-1,AL: ON TV
+http://93.115.20.208/cloud/play.php?chID=29863
+#EXTINF:-1,AL: Ora News HD
+http://93.115.20.208/cloud/play.php?chID=2106
+#EXTINF:-1,AL: Peace Tv
+http://93.115.20.208/cloud/play.php?chID=2105
+#EXTINF:-1,AL: Plus HD
+http://93.115.20.208/cloud/play.php?chID=2104
+#EXTINF:-1,AL: RED TV
+http://93.115.20.208/cloud/play.php?chID=28943
+#EXTINF:-1,AL: Report TV
+http://93.115.20.208/cloud/play.php?chID=26567
+#EXTINF:-1,AL: Rrokum HD
+http://93.115.20.208/cloud/play.php?chID=29896
+#EXTINF:-1,AL: RTK 1FHD
+http://93.115.20.208/cloud/play.php?chID=50988
+#EXTINF:-1,AL: RTSH 24 HD
+http://93.115.20.208/cloud/play.php?chID=29890
+#EXTINF:-1,AL: RTSH Femije
+http://93.115.20.208/cloud/play.php?chID=29850
+#EXTINF:-1,AL: RTSH GJIROKASTRA
+http://93.115.20.208/cloud/play.php?chID=29889
+#EXTINF:-1,AL: RTSH KORÇA
+http://93.115.20.208/cloud/play.php?chID=29888
+#EXTINF:-1,AL: RTSH KUVEND
+http://93.115.20.208/cloud/play.php?chID=29887
+#EXTINF:-1,AL: Rtsh Muzike
+http://93.115.20.208/cloud/play.php?chID=2103
+#EXTINF:-1,AL: RTSH SAT HD
+http://93.115.20.208/cloud/play.php?chID=29886
+#EXTINF:-1,AL: RTSH SHQIP
+http://93.115.20.208/cloud/play.php?chID=29891
+#EXTINF:-1,AL: Rtsh Sport
+http://93.115.20.208/cloud/play.php?chID=2102
+#EXTINF:-1,AL: RTV 21
+http://93.115.20.208/cloud/play.php?chID=1076
+#EXTINF:-1,AL: RTV 21 Junior
+http://93.115.20.208/cloud/play.php?chID=29846
+#EXTINF:-1,AL: RTV 21 Maqedoni
+http://93.115.20.208/cloud/play.php?chID=2146
+#EXTINF:-1,AL: RTV 21 NewBiz
+http://93.115.20.208/cloud/play.php?chID=29899
+#EXTINF:-1,AL: RTV 21 Plus FHD
+http://93.115.20.208/cloud/play.php?chID=29862
+#EXTINF:-1,AL: RTV 21 Popullore
+http://93.115.20.208/cloud/play.php?chID=1083
+#EXTINF:-1,AL: RTV ALDI
+http://93.115.20.208/cloud/play.php?chID=29878
+#EXTINF:-1,AL: RTV Fontana
+http://93.115.20.208/cloud/play.php?chID=34833
+#EXTINF:-1,AL: RTV ILERIDA
+http://93.115.20.208/cloud/play.php?chID=29877
+#EXTINF:-1,AL: RTV Pendimi
+http://93.115.20.208/cloud/play.php?chID=29861
+#EXTINF:-1,AL: SKY AKSION
+http://93.115.20.208/cloud/play.php?chID=3582
+#EXTINF:-1,AL: SKY COMEDY
+http://93.115.20.208/cloud/play.php?chID=3581
+#EXTINF:-1,AL: SKY DRAMA
+http://93.115.20.208/cloud/play.php?chID=3578
+#EXTINF:-1,AL: SKY HISTORY
+http://93.115.20.208/cloud/play.php?chID=3580
+#EXTINF:-1,AL: SKY MAX
+http://93.115.20.208/cloud/play.php?chID=3579
+#EXTINF:-1,AL: SKY Novela
+http://93.115.20.208/cloud/play.php?chID=3576
+#EXTINF:-1,AL: SKY PLANET
+http://93.115.20.208/cloud/play.php?chID=3577
+#EXTINF:-1,AL: Smile
+http://93.115.20.208/cloud/play.php?chID=1075
+#EXTINF:-1,AL: Sofia HD
+http://93.115.20.208/cloud/play.php?chID=29848
+#EXTINF:-1,AL: Sport Kosova News HD
+http://93.115.20.208/cloud/play.php?chID=19812
+#EXTINF:-1,AL: Sport Kosova 1 HD
+http://93.115.20.208/cloud/play.php?chID=226
+#EXTINF:-1,AL: Sport Kosova 2 HD
+http://93.115.20.208/cloud/play.php?chID=225
+#EXTINF:-1,AL: Super Sport News HD
+http://93.115.20.208/cloud/play.php?chID=224
+#EXTINF:-1,AL: Super Sport 1 FHD
+http://93.115.20.208/cloud/play.php?chID=80227
+#EXTINF:-1,AL: Super Sport 2 FHD
+http://93.115.20.208/cloud/play.php?chID=80228
+#EXTINF:-1,AL: Super Sport 2 HD
+http://93.115.20.208/cloud/play.php?chID=223
+#EXTINF:-1,AL: Super Sport 3 FHD
+http://93.115.20.208/cloud/play.php?chID=80229
+#EXTINF:-1,AL: Super Sport 3 HD
+http://93.115.20.208/cloud/play.php?chID=222
+#EXTINF:-1,AL: Super Sport 4 FHD
+http://93.115.20.208/cloud/play.php?chID=80230
+#EXTINF:-1,AL: Super Sport 4 HD
+http://93.115.20.208/cloud/play.php?chID=221
+#EXTINF:-1,AL: Super Sport 5 FHD
+http://93.115.20.208/cloud/play.php?chID=80232
+#EXTINF:-1,AL: Super Sport 5 HD
+http://93.115.20.208/cloud/play.php?chID=19809
+#EXTINF:-1,AL: Super Sport 6 FHD
+http://93.115.20.208/cloud/play.php?chID=80233
+#EXTINF:-1,AL: Super Sport 6 HD
+http://93.115.20.208/cloud/play.php?chID=19810
+#EXTINF:-1,AL: Super Sport 7 HD
+http://93.115.20.208/cloud/play.php?chID=29797
+#EXTINF:-1,AL: Star+ Shkodra
+http://93.115.20.208/cloud/play.php?chID=2124
+#EXTINF:-1,AL: Stupcat HD
+http://93.115.20.208/cloud/play.php?chID=20960
+#EXTINF:-1,AL: Super Folk
+http://93.115.20.208/cloud/play.php?chID=2142
+#EXTINF:-1,AL: Supersonic
+http://93.115.20.208/cloud/play.php?chID=2118
+#EXTINF:-1,AL: T HD
+http://93.115.20.208/cloud/play.php?chID=1074
+#EXTINF:-1,AL: T7 HD
+http://93.115.20.208/cloud/play.php?chID=26629
+#EXTINF:-1,AL: TDC HD
+http://93.115.20.208/cloud/play.php?chID=29827
+#EXTINF:-1,AL: Tema TV
+http://93.115.20.208/cloud/play.php?chID=36015
+#EXTINF:-1,AL: Tip TV
+http://93.115.20.208/cloud/play.php?chID=29847
+#EXTINF:-1,AL: Tirana TV
+http://93.115.20.208/cloud/play.php?chID=29859
+#EXTINF:-1,AL: TNT Albania
+http://93.115.20.208/cloud/play.php?chID=29858
+#EXTINF:-1,AL: TOP Channel HD
+http://93.115.20.208/cloud/play.php?chID=1050
+#EXTINF:-1,AL: TOP Estrada
+http://93.115.20.208/cloud/play.php?chID=29868
+#EXTINF:-1,AL: Top News HD
+http://93.115.20.208/cloud/play.php?chID=26561
+#EXTINF:-1,AL: Tring 3+
+http://93.115.20.208/cloud/play.php?chID=1052
+#EXTINF:-1,AL: Tring Comedy
+http://93.115.20.208/cloud/play.php?chID=219
+#EXTINF:-1,AL: Tring Fantasy
+http://93.115.20.208/cloud/play.php?chID=218
+#EXTINF:-1,AL: Tring Action
+http://93.115.20.208/cloud/play.php?chID=29833
+#EXTINF:-1,AL: Tring Histori
+http://93.115.20.208/cloud/play.php?chID=2157
+#EXTINF:-1,AL: Tring International
+http://93.115.20.208/cloud/play.php?chID=29832
+#EXTINF:-1,AL: Tring Kids
+http://93.115.20.208/cloud/play.php?chID=29851
+#EXTINF:-1,AL: Tring Life
+http://93.115.20.208/cloud/play.php?chID=217
+#EXTINF:-1,AL: Tring Max
+http://93.115.20.208/cloud/play.php?chID=216
+#EXTINF:-1,AL: Tring Muse
+http://93.115.20.208/cloud/play.php?chID=2117
+#EXTINF:-1,AL: Tring Planet
+http://93.115.20.208/cloud/play.php?chID=215
+#EXTINF:-1,AL: Tring Shqip
+http://93.115.20.208/cloud/play.php?chID=214
+#EXTINF:-1,AL: Tring Sport 1
+http://93.115.20.208/cloud/play.php?chID=2156
+#EXTINF:-1,AL: Tring Sport 1 HD
+http://93.115.20.208/cloud/play.php?chID=213
+#EXTINF:-1,AL: Tring Sport 2
+http://93.115.20.208/cloud/play.php?chID=2155
+#EXTINF:-1,AL: Tring Sport 3
+http://93.115.20.208/cloud/play.php?chID=2154
+#EXTINF:-1,AL: Tring Sport 4
+http://93.115.20.208/cloud/play.php?chID=2153
+#EXTINF:-1,AL: Tring Sport News HD
+http://93.115.20.208/cloud/play.php?chID=212
+#EXTINF:-1,AL: Tring Super
+http://93.115.20.208/cloud/play.php?chID=211
+#EXTINF:-1,AL: Tring Tring
+http://93.115.20.208/cloud/play.php?chID=210
+#EXTINF:-1,AL: Tring World
+http://93.115.20.208/cloud/play.php?chID=209
+#EXTINF:-1,AL: TURBO Channel
+http://93.115.20.208/cloud/play.php?chID=29857
+#EXTINF:-1,AL: TV Dibra
+http://93.115.20.208/cloud/play.php?chID=29873
+#EXTINF:-1,AL: Tv Koha
+http://93.115.20.208/cloud/play.php?chID=2141
+#EXTINF:-1,AL: TV Kopliku HD
+http://93.115.20.208/cloud/play.php?chID=29885
+#EXTINF:-1,AL: TV Liria
+http://93.115.20.208/cloud/play.php?chID=36014
+#EXTINF:-1,AL: TV Mitrovica
+http://93.115.20.208/cloud/play.php?chID=41953
+#EXTINF:-1,AL: TV Uksana
+http://93.115.20.208/cloud/play.php?chID=29879
+#EXTINF:-1,AL: TV Vali
+http://93.115.20.208/cloud/play.php?chID=29875
+#EXTINF:-1,AL: TVSH
+http://93.115.20.208/cloud/play.php?chID=2139
+#EXTINF:-1,AL: UTV
+http://93.115.20.208/cloud/play.php?chID=29872
+#EXTINF:-1,AL: Vizion Plus HD
+http://93.115.20.208/cloud/play.php?chID=1051
+#EXTINF:-1,AL: VIZIONI TV
+http://93.115.20.208/cloud/play.php?chID=29855
+#EXTINF:-1,AL: ZJARR TV
+http://93.115.20.208/cloud/play.php?chID=29854
+#EXTINF:-1,VIP AL: Art Doku 1
+http://93.115.20.208/cloud/play.php?chID=29838
+#EXTINF:-1,VIP AL: Art Doku 2
+http://93.115.20.208/cloud/play.php?chID=29837
+#EXTINF:-1,VIP AL: Art Kino 1
+http://93.115.20.208/cloud/play.php?chID=29836
+#EXTINF:-1,VIP AL: Art Kino 2
+http://93.115.20.208/cloud/play.php?chID=29835
+#EXTINF:-1,VIP AL: Art Kino 3
+http://93.115.20.208/cloud/play.php?chID=29834
+#EXTINF:-1,VIP AL: Art Sport 1 FHD
+http://93.115.20.208/cloud/play.php?chID=29801
+#EXTINF:-1,VIP AL: Art Sport 2 FHD
+http://93.115.20.208/cloud/play.php?chID=29800
+#EXTINF:-1,VIP AL: Art Sport 3 FHD
+http://93.115.20.208/cloud/play.php?chID=29799
+#EXTINF:-1,VIP AL: Tele One 1 HD
+http://93.115.20.208/cloud/play.php?chID=42913
+#EXTINF:-1,VIP AL: Tele One 2 HD
+http://93.115.20.208/cloud/play.php?chID=42914
+#EXTINF:-1,VIP AL: Tele One 3 HD
+http://93.115.20.208/cloud/play.php?chID=42915
+#EXTINF:-1,VIP AL: Tele One 4 HD
+http://93.115.20.208/cloud/play.php?chID=42916
+#EXTINF:-1,VIP AL: Tele One 5 HD
+http://93.115.20.208/cloud/play.php?chID=42917
+#EXTINF:-1,VIP AL: Tele One 6 HD
+http://93.115.20.208/cloud/play.php?chID=42918
+#EXTINF:-1,VIP AL: Tele One Aksion HD
+http://93.115.20.208/cloud/play.php?chID=66133
+#EXTINF:-1,VIP AL: Tele One Crime HD
+http://93.115.20.208/cloud/play.php?chID=66134
+#EXTINF:-1,VIP AL: Tele One Drama HD
+http://93.115.20.208/cloud/play.php?chID=66135
+#EXTINF:-1,VIP AL: Tele One Epik HD
+http://93.115.20.208/cloud/play.php?chID=66136
+#EXTINF:-1,VIP AL: Tele One Fantazi HD
+http://93.115.20.208/cloud/play.php?chID=66137
+#EXTINF:-1,VIP AL: Tele One EPIC  HD
+http://93.115.20.208/cloud/play.php?chID=66141
+#EXTINF:-1,VIP AL: Tele One Thriller HD
+http://93.115.20.208/cloud/play.php?chID=66140
+#EXTINF:-1,VIP AL: Tele One Muzik Hits HD
+http://93.115.20.208/cloud/play.php?chID=66139
+#EXTINF:-1,VIP AL: Tele One GOLD Collection HD
+http://93.115.20.208/cloud/play.php?chID=66138
+#EXTINF:-1,VIP AL: FILMA24 ANIMUAR FHD 
+http://93.115.20.208/cloud/play.php?chID=82687
+#EXTINF:-1,VIP AL: FILMA24 AVENTUR FHD 
+http://93.115.20.208/cloud/play.php?chID=82686
+#EXTINF:-1,VIP AL: FILMA24 BIOGRAFI FHD 
+http://93.115.20.208/cloud/play.php?chID=82685
+#EXTINF:-1,VIP AL: FILMA24 DRAMA FHD 
+http://93.115.20.208/cloud/play.php?chID=82684
+#EXTINF:-1,VIP AL: FILMA24 FAMILJAR FHD 
+http://93.115.20.208/cloud/play.php?chID=82683
+#EXTINF:-1,VIP AL: FILMA24 FANTASY FHD 
+http://93.115.20.208/cloud/play.php?chID=82682
+#EXTINF:-1,VIP AL: FILMA24 HISTORI FHD 
+http://93.115.20.208/cloud/play.php?chID=82681
+#EXTINF:-1,VIP AL: FILMA24 KOMEDI FHD 
+http://93.115.20.208/cloud/play.php?chID=82680
+#EXTINF:-1,VIP AL: FILMA24 KRIM FHD 
+http://93.115.20.208/cloud/play.php?chID=82679
+#EXTINF:-1,VIP AL: FILMA24 MISTER FHD 
+http://93.115.20.208/cloud/play.php?chID=82678
+#EXTINF:-1,VIP AL: FILMA24 NETFLIX FHD 
+http://93.115.20.208/cloud/play.php?chID=82677
+#EXTINF:-1,VIP AL: FILMA24 NETFLIX 24 FHD 
+http://93.115.20.208/cloud/play.php?chID=82676
+#EXTINF:-1,VIP AL: FILMA24 ROMANCE FHD 
+http://93.115.20.208/cloud/play.php?chID=82675
+#EXTINF:-1,VIP AL: FILMA24 THRILLER FHD 
+http://93.115.20.208/cloud/play.php?chID=82674
+#EXTINF:-1,VIP AL: FILMA24 ACTION FHD 
+http://93.115.20.208/cloud/play.php?chID=82673
+#EXTINF:-1,VIP AL: Q PREMIUM 1 FHD 
+http://93.115.20.208/cloud/play.php?chID=82669
+#EXTINF:-1,VIP AL: Q PREMIUM 2 FHD 
+http://93.115.20.208/cloud/play.php?chID=82670
+#EXTINF:-1,VIP AL: Q PREMIUM 3 FHD 
+http://93.115.20.208/cloud/play.php?chID=82671
+#EXTINF:-1,VIP AL: Q PREMIUM 4 FHD 
+http://93.115.20.208/cloud/play.php?chID=82672
+#EXTINF:-1,VIP AL: X Dark HD
+http://93.115.20.208/cloud/play.php?chID=82572
+#EXTINF:-1,VIP AL: X Action HD
+http://93.115.20.208/cloud/play.php?chID=21692
+#EXTINF:-1,VIP AL: X Cifteli HD
+http://93.115.20.208/cloud/play.php?chID=29831
+#EXTINF:-1,VIP AL: X Comedy HD
+http://93.115.20.208/cloud/play.php?chID=21693
+#EXTINF:-1,VIP AL: X Drama HD
+http://93.115.20.208/cloud/play.php?chID=21690
+#EXTINF:-1,VIP AL: X Family HD
+http://93.115.20.208/cloud/play.php?chID=21691
+#EXTINF:-1,VIP AL: X Filma24 HD
+http://93.115.20.208/cloud/play.php?chID=29819
+#EXTINF:-1,VIP AL: X GOLD 1 HD
+http://93.115.20.208/cloud/play.php?chID=29813
+#EXTINF:-1,VIP AL: X GOLD 2 HD
+http://93.115.20.208/cloud/play.php?chID=29812
+#EXTINF:-1,VIP AL: X GOLD 3 HD
+http://93.115.20.208/cloud/play.php?chID=29811
+#EXTINF:-1,VIP AL: X GOLD 4 HD
+http://93.115.20.208/cloud/play.php?chID=29810
+#EXTINF:-1,VIP AL: X Premium 1 HD
+http://93.115.20.208/cloud/play.php?chID=232
+#EXTINF:-1,VIP AL: X Premium 2 HD
+http://93.115.20.208/cloud/play.php?chID=21700
+#EXTINF:-1,VIP AL: X Premium 3 HD
+http://93.115.20.208/cloud/play.php?chID=21699
+#EXTINF:-1,VIP AL: X Premium 4 HD
+http://93.115.20.208/cloud/play.php?chID=21698
+#EXTINF:-1,VIP AL: X Histori HD
+http://93.115.20.208/cloud/play.php?chID=29842
+#EXTINF:-1,VIP AL: X Humor HD
+http://93.115.20.208/cloud/play.php?chID=29839
+#EXTINF:-1,VIP AL: X KIDS
+http://93.115.20.208/cloud/play.php?chID=29849
+#EXTINF:-1,VIP AL: X Music Hits HD
+http://93.115.20.208/cloud/play.php?chID=29830
+#EXTINF:-1,VIP AL: X Natyra HD
+http://93.115.20.208/cloud/play.php?chID=29841
+#EXTINF:-1,VIP AL: X Popullore HD
+http://93.115.20.208/cloud/play.php?chID=29829
+#EXTINF:-1,VIP AL: X Romance HD
+http://93.115.20.208/cloud/play.php?chID=21694
+#EXTINF:-1,VIP AL: X ScyFy HD
+http://93.115.20.208/cloud/play.php?chID=230
+#EXTINF:-1,VIP AL: X Shkenca HD
+http://93.115.20.208/cloud/play.php?chID=21696
+#EXTINF:-1,VIP AL: X Thriller HD
+http://93.115.20.208/cloud/play.php?chID=21697
+#EXTINF:-1,VIP AL: X Western HD
+http://93.115.20.208/cloud/play.php?chID=29828
+#EXTINF:-1,VIP AL: 8ova Action HD
+http://93.115.20.208/cloud/play.php?chID=66080
+#EXTINF:-1,VIP AL: 8ova BBF HD
+http://93.115.20.208/cloud/play.php?chID=66081
+#EXTINF:-1,VIP AL: 8ova Drame HD
+http://93.115.20.208/cloud/play.php?chID=66082
+#EXTINF:-1,VIP AL: 8ove Gjurme Shqipetare TV
+http://93.115.20.208/cloud/play.php?chID=66083
+#EXTINF:-1,VIP AL: 8ova Gjurme Shqiptare HD
+http://93.115.20.208/cloud/play.php?chID=66084
+#EXTINF:-1,VIP AL: 8ova Humor HD
+http://93.115.20.208/cloud/play.php?chID=66085
+#EXTINF:-1,VIP AL: 8ova ilahi HD
+http://93.115.20.208/cloud/play.php?chID=66086
+#EXTINF:-1,VIP AL: 8ova islam HD
+http://93.115.20.208/cloud/play.php?chID=66087
+#EXTINF:-1,VIP AL: 8ova Komedi HD
+http://93.115.20.208/cloud/play.php?chID=66088
+#EXTINF:-1,VIP AL: 8ova Muzik HD
+http://93.115.20.208/cloud/play.php?chID=66089
+#EXTINF:-1,VIP AL: 8ova Çifteli HD
+http://93.115.20.208/cloud/play.php?chID=66092
+#EXTINF:-1,VIP AL: 8ova Popullore HD
+http://93.115.20.208/cloud/play.php?chID=66090
+#EXTINF:-1,VIP AL: 8ova Masha & bear
+http://93.115.20.208/cloud/play.php?chID=66130
+#EXTINF:-1,VIP AL: 8ova Masha dhe Ariu HD
+http://93.115.20.208/cloud/play.php?chID=66131
+#EXTINF:-1,VIP AL: 8ova Masha e Orso DE
+http://93.115.20.208/cloud/play.php?chID=66132
+#EXTINF:-1,VIP AL: 8ova Thriller HD
+http://93.115.20.208/cloud/play.php?chID=66091
+#EXTINF:-1,VIP AL: Divergent 1 HD
+http://93.115.20.208/cloud/play.php?chID=66093
+#EXTINF:-1,VIP AL: Divergent 2 HD
+http://93.115.20.208/cloud/play.php?chID=66094
+#EXTINF:-1,VIP AL: Divergent 3 HD
+http://93.115.20.208/cloud/play.php?chID=66095
+#EXTINF:-1,VIP AL: Divergent Beats HD
+http://93.115.20.208/cloud/play.php?chID=66096
+#EXTINF:-1,VIP AL: Divergent Class HD
+http://93.115.20.208/cloud/play.php?chID=66097
+#EXTINF:-1,VIP AL: Divergent Core HD
+http://93.115.20.208/cloud/play.php?chID=66098
+#EXTINF:-1,VIP AL: Divergent Gold HD
+http://93.115.20.208/cloud/play.php?chID=66099
+#EXTINF:-1,VIP AL: Divergent Happy HD
+http://93.115.20.208/cloud/play.php?chID=66100
+#EXTINF:-1,VIP AL: Divergent Premier HD
+http://93.115.20.208/cloud/play.php?chID=66101
+#EXTINF:-1,VIP AL: Divergent Wall HD
+http://93.115.20.208/cloud/play.php?chID=66102
+#EXTINF:-1,VIP AL: First Dramë HD
+http://93.115.20.208/cloud/play.php?chID=66104
+#EXTINF:-1,VIP AL: First Classic HD
+http://93.115.20.208/cloud/play.php?chID=66103
+#EXTINF:-1,VIP AL: First Horror HD
+http://93.115.20.208/cloud/play.php?chID=66105
+#EXTINF:-1,VIP AL: Kinema 1
+http://93.115.20.208/cloud/play.php?chID=66106
+#EXTINF:-1,VIP AL: Kinema 17 N HD
+http://93.115.20.208/cloud/play.php?chID=66107
+#EXTINF:-1,VIP AL: Kinema Agimi HD
+http://93.115.20.208/cloud/play.php?chID=66108
+#EXTINF:-1,VIP AL: Kinema Aksion
+http://93.115.20.208/cloud/play.php?chID=66109
+#EXTINF:-1,VIP AL: Kinema Aksion MAX
+http://93.115.20.208/cloud/play.php?chID=66110
+#EXTINF:-1,VIP AL: Kinema Dajti HD
+http://93.115.20.208/cloud/play.php?chID=66111
+#EXTINF:-1,VIP AL: Kinema Fantasy
+http://93.115.20.208/cloud/play.php?chID=66112
+#EXTINF:-1,VIP AL: Kinema Partizani HD
+http://93.115.20.208/cloud/play.php?chID=66113
+#EXTINF:-1,VIP AL: Kinema Republika HD
+http://93.115.20.208/cloud/play.php?chID=66114
+#EXTINF:-1,VIP AL: Kinema24 1 HD
+http://93.115.20.208/cloud/play.php?chID=66115
+#EXTINF:-1,VIP AL: Kinema24 2 HD
+http://93.115.20.208/cloud/play.php?chID=66116
+#EXTINF:-1,VIP AL: Kinema24 3 HD
+http://93.115.20.208/cloud/play.php?chID=66117
+#EXTINF:-1,VIP AL: Kinema24 4 HD
+http://93.115.20.208/cloud/play.php?chID=66118
+#EXTINF:-1,VIP AL: Kinema24 5 HD
+http://93.115.20.208/cloud/play.php?chID=66119
+#EXTINF:-1,VIP AL: Kinema24 6 HD
+http://93.115.20.208/cloud/play.php?chID=66120
+#EXTINF:-1,VIP AL: LionTV Gold 1 HD
+http://93.115.20.208/cloud/play.php?chID=66121
+#EXTINF:-1,VIP AL: LionTV Gold 2 HD
+http://93.115.20.208/cloud/play.php?chID=66122
+#EXTINF:-1,VIP AL: LionTV Gold 3 HD
+http://93.115.20.208/cloud/play.php?chID=66123
+#EXTINF:-1,VIP AL: LionTv Shqip HD
+http://93.115.20.208/cloud/play.php?chID=66124
+#EXTINF:-1,VIP AL: Lugina Islam
+http://93.115.20.208/cloud/play.php?chID=66125
+#EXTINF:-1,VIP AL: Lugina Islam 2
+http://93.115.20.208/cloud/play.php?chID=66126
+#EXTINF:-1,VIP AL: Lugina Kino HD
+http://93.115.20.208/cloud/play.php?chID=66127
+#EXTINF:-1,VIP AL: Lugina Popullore HD
+http://93.115.20.208/cloud/play.php?chID=66128
+#EXTINF:-1,VIP AL: Lugina Prank HD
+http://93.115.20.208/cloud/play.php?chID=66129
+#EXTINF:-1,VIP AL: Plisi TV HD
+http://93.115.20.208/cloud/play.php?chID=66145
+#EXTINF:-1,VIP AL: Plisi Çifteli HD
+http://93.115.20.208/cloud/play.php?chID=66146
+#EXTINF:-1,VIP AL: Plisi Fantazi HD
+http://93.115.20.208/cloud/play.php?chID=66144
+#EXTINF:-1,VIP AL: Plisi Fantasy HD
+http://93.115.20.208/cloud/play.php?chID=66143
+#EXTINF:-1,VIP AL: Plisi Action HD
+http://93.115.20.208/cloud/play.php?chID=66142
 
 
 
@@ -1808,13 +1417,13 @@ http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/23711
 
 #EXTINF:-1   group-title="-IPTV SHQIP 3-",
 #EXTINF:-1,Big Brother 1  VIP
-http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/84
+http://78.31.67.69:8080/MetiTV-falas/Gezuar2022/84
 #EXTINF:-1,Big Brother 2 VIP
-http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/85
+http://78.31.67.69:8080/MetiTV-falas/Gezuar2022/85
 #EXTINF:-1,Top channel HD
-http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/69
+http://78.31.67.69:8080/MetiTV-falas/Gezuar2022/69
 #EXTINF:-1,Top channel FHD
-http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/70
+http://78.31.67.69:8080/MetiTV-falas/Gezuar2022/70
 #EXTINF:-1,AL| TOP CHANNEL SD
 http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQJkGo79Vczjxk81ouajKHuk/ts
 #EXTINF:-1,AL: TOP Channel HD
@@ -1822,9 +1431,9 @@ http://stream.com-iptv.com:8080/TopChannelHD/index.m3u8?token=test
 #EXTINF:-1,Top Channel HD
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/131.ts
 #EXTINF:-1,Klan HD
-http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/67
+http://78.31.67.69:8080/MetiTV-falas/Gezuar2022/67
 #EXTINF:-1,Klan FHD
-http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/68
+http://78.31.67.69:8080/MetiTV-falas/Gezuar2022/68
 #EXTINF:-1,TV KLAN MOB
 http://79.106.90.114:3030/live/klanhdmob/playlist.m3u8
 
@@ -1976,7 +1585,7 @@ http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/75.ts
 #EXTINF:-1,Jolly FHD
 http://95.107.132.106/out/u/892_2.m3u8
 #EXTINF:-1,Tring Family HD
-http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/54
+http://78.31.67.69:8080/MetiTV-falas/Gezuar2022/54
 #EXTINF:-1,AL: Tring Family HD
 http://95.107.132.106/out/u/672_4.m3u8
 #EXTINF:-1,AL: Tring Collection HD
@@ -2055,51 +1664,51 @@ http://ran.no-ips.net:8888/AL/209420/mpegts
 #EXTINF:-1,RTSH Femije
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/129.ts
 #EXTINF:-1,TV Sole
-http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/168
+http://78.31.67.69:8080/MetiTV-falas/Gezuar2022/168
 
 
 #EXTINF:-1,Explorer Natyra
-http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/157
+http://78.31.67.69:8080/MetiTV-falas/Gezuar2022/157
 #EXTINF:-1,Explorer Histori
-http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/157
+http://78.31.67.69:8080/MetiTV-falas/Gezuar2022/157
 #EXTINF:-1,Explorer Shkence
-http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/159
+http://78.31.67.69:8080/MetiTV-falas/Gezuar2022/159
 
 
 #EXTINF:-1,AL: Folk +
 http://95.107.132.106/out/u/44_1.m3u8
 #EXTINF:-1,Tv llapi
-http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/134
+http://78.31.67.69:8080/MetiTV-falas/Gezuar2022/134
 #EXTINF:-1,RTV Mitrovica
-http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/135
+http://78.31.67.69:8080/MetiTV-falas/Gezuar2022/135
 #EXTINF:-1,TV SHARRI
-http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/136
+http://78.31.67.69:8080/MetiTV-falas/Gezuar2022/136
 #EXTINF:-1,BBF Music
-http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/137
+http://78.31.67.69:8080/MetiTV-falas/Gezuar2022/137
 #EXTINF:-1,Farme tv
-http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/138
+http://78.31.67.69:8080/MetiTV-falas/Gezuar2022/138
 #EXTINF:-1,Peace tv
-http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/139
+http://78.31.67.69:8080/MetiTV-falas/Gezuar2022/139
 #EXTINF:-1,Folk plus
-http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/140
+http://78.31.67.69:8080/MetiTV-falas/Gezuar2022/140
 #EXTINF:-1,Albuk
-http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/141
+http://78.31.67.69:8080/MetiTV-falas/Gezuar2022/141
 #EXTINF:-1,Koha tv
-http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/142
+http://78.31.67.69:8080/MetiTV-falas/Gezuar2022/142
 #EXTINF:-1,Flutra tv
-http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/143
+http://78.31.67.69:8080/MetiTV-falas/Gezuar2022/143
 #EXTINF:-1,Tv Shenja
-http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/144
+http://78.31.67.69:8080/MetiTV-falas/Gezuar2022/144
 #EXTINF:-1,First tv
-http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/145
+http://78.31.67.69:8080/MetiTV-falas/Gezuar2022/145
 #EXTINF:-1,Adrianet
-http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/146
+http://78.31.67.69:8080/MetiTV-falas/Gezuar2022/146
 #EXTINF:-1,Euro Channel
-http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/147
+http://78.31.67.69:8080/MetiTV-falas/Gezuar2022/147
 #EXTINF:-1,Club tv
-http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/148
+http://78.31.67.69:8080/MetiTV-falas/Gezuar2022/148
 #EXTINF:-1,Tirana tv
-http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/149
+http://78.31.67.69:8080/MetiTV-falas/Gezuar2022/149
 
 #EXTINF:-1,AL: Super Sport 1 HD
 http://stream.com-iptv.com:8080/SS1HD/index.m3u8?token=test
@@ -3899,21 +3508,21 @@ http://45.94.31.45:80/bar165002/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Bein Sport Premium 3 HD
 http://45.94.31.45:80/bar165003/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Super Sport 1 HD
-http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/87
+http://78.31.67.69:8080/MetiTV-falas/Gezuar2022/87
 #EXTINF:-1,Super Sport 2 HD
-http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/88
+http://78.31.67.69:8080/MetiTV-falas/Gezuar2022/88
 #EXTINF:-1,Super Sport 2 FHD
-http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/89
+http://78.31.67.69:8080/MetiTV-falas/Gezuar2022/89
 #EXTINF:-1,Super Sport 3 HD
-http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/90
+http://78.31.67.69:8080/MetiTV-falas/Gezuar2022/90
 #EXTINF:-1,Super Sport 4 HD
-http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/91
+http://78.31.67.69:8080/MetiTV-falas/Gezuar2022/91
 #EXTINF:-1,Tring Sport 1 HD
-http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/93
+http://78.31.67.69:8080/MetiTV-falas/Gezuar2022/93
 #EXTINF:-1,Tring Sport 2 FHD
-http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/94
+http://78.31.67.69:8080/MetiTV-falas/Gezuar2022/94
 #EXTINF:-1,Tring Sport 3 HD
-http://78.31.67.69:8080/Gezuar2022/MetiTV-kanaleeshqip/96
+http://78.31.67.69:8080/MetiTV-falas/Gezuar2022/96
 #EXTINF:-1,|FR| BEIN SPORT  1 HD 
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49493
 #EXTINF:-1,|FR| BEIN SPORT  2 HD 
@@ -8454,96 +8063,96 @@ http://93.115.20.208/clientline/play.php?chID=111308
 
 
 #EXTINF:-1,IL: YES 1 HD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/14775
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/14775
 #EXTINF:-1,IL: YES 2 HD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/14776
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/14776
 #EXTINF:-1,IL: Yes DOCU
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/24124
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/24124
 #EXTINF:-1,IL: Yes Knesest Tv
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/14783
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/14783
 #EXTINF:-1,IL: Yes Movies Action FHD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/196396
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/196396
 #EXTINF:-1,IL: YES Movies COMEDY
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/40607
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/40607
 #EXTINF:-1,IL: Yes Shopping
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/172319
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/172319
 #EXTINF:-1,IL: YES SPORT 1 HD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/172324
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/172324
 #EXTINF:-1,IL: YES SPORT 2 HD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/172322
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/172322
 #EXTINF:-1,IL: YES SPORT 3 HD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/196394
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/196394
 #EXTINF:-1,IL: YES SPORT 4 HD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/172320
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/172320
 #EXTINF:-1,IL: YES SPORT 5
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/172323
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/172323
 #EXTINF:-1,IL: YES SPORT 5 PLUS HD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/14789
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/14789
 #EXTINF:-1,IL: Yes TeenNick FHD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/196416
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/196416
 #EXTINF:-1,IL: Yes Travel Channel
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/171743
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/171743
 #EXTINF:-1,IL Yes Travel Channel
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/274394
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/274394
 #EXTINF:-1,IL: YES TV ACTION HD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/163479
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/163479
 #EXTINF:-1,IL: YES TV COMEDY HD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/14781
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/14781
 #EXTINF:-1,IL: YES TV DRAMA HD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/14782
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/14782
 #EXTINF:-1,IL: Yes Viva HD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/14786
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/14786
 #EXTINF:-1,IL: ZOOM HD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/90949
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/90949
 #EXTINF:-1,IL: HOT Z HD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/151379
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/151379
 #EXTINF:-1,IL: Baby TV
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/163444
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/163444
 #EXTINF:-1,IL Baby TV
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/274336
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/274336
 #EXTINF:-1,IL: BollyShow
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/90946
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/90946
 #EXTINF:-1,IL: CH 9
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/23362
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/23362
 #EXTINF:-1,IL: Disney Junior
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/163450
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/163450
 #EXTINF:-1,IL Disney Jr
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/274596
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/274596
 #EXTINF:-1,IL: HALA TV FHD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/147162
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/147162
 #EXTINF:-1,IL: Hidabroot Channel
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/24102
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/24102
 #EXTINF:-1,IL: HOME +
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/163453
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/163453
 #EXTINF:-1,IL: HOT 1
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/163448
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/163448
 #EXTINF:-1,IL: HOT 3 HD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/90952
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/90952
 #EXTINF:-1,IL: HOT C4
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/171758
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/171758
 #EXTINF:-1,IL: JUNIOR
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/90954
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/90954
 #EXTINF:-1,IL JUNIOR
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/274486
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/274486
 #EXTINF:-1,IL: Kabbalah TV
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/158596
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/158596
 #EXTINF:-1,IL: Keshet 12 HD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/23363
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/23363
 #EXTINF:-1,IL: Knesset Channel
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/24105
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/24105
 #EXTINF:-1,IL: MIKAN
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/163467
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/163467
 #EXTINF:-1,IL: MUSIC 24
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/90955
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/90955
 #EXTINF:-1,IL MUSIC 24
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/274792
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/274792
 #EXTINF:-1,IL: Reshet 13
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/14772
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/14772
 #EXTINF:-1,IL: Teen nick
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/163447
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/163447
 #EXTINF:-1,IL Teen nick
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/274983
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/274983
 #EXTINF:-1,IL: VIVA
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/163477
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/163477
 #EXTINF:-1,IL: VIVA PLUS
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/90947
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/90947
