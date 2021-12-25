@@ -1123,7 +1123,7 @@ http://78.31.67.69:8080/MetiTV-falas/Gezuar2022/69
 #EXTINF:-1,Top channel FHD
 http://78.31.67.69:8080/MetiTV-falas/Gezuar2022/70
 #EXTINF:-1,AL| TOP CHANNEL SD
-http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQJkGo79Vczjxk81ouajKHuk/ts
+http://alban0.ddns.net:8088/_TOP_CHANNEL_SD/index.m3u8?token=test
 #EXTINF:-1,AL: TOP Channel HD
 http://stream.com-iptv.com:8080/TopChannelHD/index.m3u8?token=test
 #EXTINF:-1,Top Channel HD
