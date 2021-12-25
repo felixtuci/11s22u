@@ -1,675 +1,373 @@
 #EXTINF:-1   group-title="-IPTV SHQIP 1-",
-#EXTINF:-1,VIP AL: BIG BROTHER VIP 1 HD
-http://93.115.20.208/cloud/play.php?chID=85404
-#EXTINF:-1,VIP AL: BIG BROTHER VIP 2 HD
-http://93.115.20.208/cloud/play.php?chID=85405
-#EXTINF:-1,AL: RTSH 1 HD
-http://93.115.20.208/cloud/play.php?chID=29894
-#EXTINF:-1,AL: RTSH 2 HD
-http://93.115.20.208/cloud/play.php?chID=29893
-#EXTINF:-1,AL: RTSH 3 HD
-http://93.115.20.208/cloud/play.php?chID=29892
-#EXTINF:-1,AL: RTV 21 MK
-http://93.115.20.208/cloud/play.php?chID=29860
-#EXTINF:-1,AL: Klan HD
-http://93.115.20.208/cloud/play.php?chID=15661
-#EXTINF:-1,AL: RTK 1
-http://93.115.20.208/cloud/play.php?chID=7919
-#EXTINF:-1,AL: RTK 2
-http://93.115.20.208/cloud/play.php?chID=7920
-#EXTINF:-1,AL: RTK 3
-http://93.115.20.208/cloud/play.php?chID=7921
-#EXTINF:-1,AL: RTK 4
-http://93.115.20.208/cloud/play.php?chID=7922
-#EXTINF:-1,AL: 21 Plus
-http://93.115.20.208/cloud/play.php?chID=2138
-#EXTINF:-1,AL: 24 Kitchen
-http://93.115.20.208/cloud/play.php?chID=29792
-#EXTINF:-1,AL: 360 Tune Box
-http://93.115.20.208/cloud/play.php?chID=29820
-#EXTINF:-1,AL: ABC News
-http://93.115.20.208/cloud/play.php?chID=26563
-#EXTINF:-1,AL: ASHK TV 2
-http://93.115.20.208/cloud/play.php?chID=7929
-#EXTINF:-1,AL: A TV HD
-http://93.115.20.208/cloud/play.php?chID=7923
-#EXTINF:-1,AL: ASHK TV 3
-http://93.115.20.208/cloud/play.php?chID=7928
-#EXTINF:-1,AL: Alb Humor 1 HD
-http://93.115.20.208/cloud/play.php?chID=7927
-#EXTINF:-1,AL: Alb Thriller HD
-http://93.115.20.208/cloud/play.php?chID=7926
-#EXTINF:-1,AL: Syri Vision
-http://93.115.20.208/cloud/play.php?chID=7925
-#EXTINF:-1,AL: RTSH Film
-http://93.115.20.208/cloud/play.php?chID=7924
-#EXTINF:-1,AL: Alb Tv Hits
-http://93.115.20.208/cloud/play.php?chID=2136
-#EXTINF:-1,AL: ASHK TV 1
-http://93.115.20.208/cloud/play.php?chID=7930
-#EXTINF:-1,AL: Alb-Swiss HD
-http://93.115.20.208/cloud/play.php?chID=54593
-#EXTINF:-1,AL: Alsat M
-http://93.115.20.208/cloud/play.php?chID=1082
-#EXTINF:-1,AL: Animal Planet
-http://93.115.20.208/cloud/play.php?chID=29793
-#EXTINF:-1,AL: Antena TV Shkoder
-http://93.115.20.208/cloud/play.php?chID=29895
-#EXTINF:-1,AL: BabyTV
-http://93.115.20.208/cloud/play.php?chID=29844
-#EXTINF:-1,AL: Bang Bang
-http://93.115.20.208/cloud/play.php?chID=1081
-#EXTINF:-1,AL: BBF
-http://93.115.20.208/cloud/play.php?chID=2135
-#EXTINF:-1,AL: BBF Muzik
-http://93.115.20.208/cloud/play.php?chID=2152
-#EXTINF:-1,AL: Boomerang
-http://93.115.20.208/cloud/play.php?chID=29843
-#EXTINF:-1,AL: Channel One
-http://93.115.20.208/cloud/play.php?chID=2134
-#EXTINF:-1,AL: City Tv
-http://93.115.20.208/cloud/play.php?chID=2133
-#EXTINF:-1,AL: Cufo
-http://93.115.20.208/cloud/play.php?chID=2160
-#EXTINF:-1,AL: Dasma
-http://93.115.20.208/cloud/play.php?chID=2159
-#EXTINF:-1,AL: Dasma TV
-http://93.115.20.208/cloud/play.php?chID=29870
-#EXTINF:-1,AL: Diaspora TV
-http://93.115.20.208/cloud/play.php?chID=29869
-#EXTINF:-1,AL: Dielli TV
-http://93.115.20.208/cloud/play.php?chID=21190
-#EXTINF:-1,AL: Doku Box
-http://93.115.20.208/cloud/play.php?chID=29817
-#EXTINF:-1,AL: Dukagjini HD
-http://93.115.20.208/cloud/play.php?chID=21189
-#EXTINF:-1,AL: Episode TV
-http://93.115.20.208/cloud/play.php?chID=28944
-#EXTINF:-1,AL: Euro Film
-http://93.115.20.208/cloud/play.php?chID=20978
-#EXTINF:-1,AL: Eurosport 1 HD
-http://93.115.20.208/cloud/play.php?chID=2116
-#EXTINF:-1,AL: Eurosport 2
-http://93.115.20.208/cloud/play.php?chID=29796
-#EXTINF:-1,AL: Explore Histori
-http://93.115.20.208/cloud/play.php?chID=245
-#EXTINF:-1,AL: Explore Natyra
-http://93.115.20.208/cloud/play.php?chID=244
-#EXTINF:-1,AL: Explore Shknece
-http://93.115.20.208/cloud/play.php?chID=243
-#EXTINF:-1,AL: Family HD
-http://93.115.20.208/cloud/play.php?chID=29818
-#EXTINF:-1,AL: Fax News
-http://93.115.20.208/cloud/play.php?chID=26566
-#EXTINF:-1,AL: Fight Box
-http://93.115.20.208/cloud/play.php?chID=29821
-#EXTINF:-1,AL: Film Aksion
-http://93.115.20.208/cloud/play.php?chID=242
-#EXTINF:-1,AL: Film Autor
-http://93.115.20.208/cloud/play.php?chID=241
-#EXTINF:-1,AL: Film Box Arthouse
-http://93.115.20.208/cloud/play.php?chID=29825
-#EXTINF:-1,AL: Film Box Extra
-http://93.115.20.208/cloud/play.php?chID=29824
-#EXTINF:-1,AL: Film Box Plus
-http://93.115.20.208/cloud/play.php?chID=29823
-#EXTINF:-1,AL: Film Box Premium
-http://93.115.20.208/cloud/play.php?chID=29826
-#EXTINF:-1,AL: Film Drama
-http://93.115.20.208/cloud/play.php?chID=240
-#EXTINF:-1,AL: Film Dy HD
-http://93.115.20.208/cloud/play.php?chID=239
-#EXTINF:-1,AL: Film GOLD 1
-http://93.115.20.208/cloud/play.php?chID=2151
-#EXTINF:-1,AL: Film GOLD 2
-http://93.115.20.208/cloud/play.php?chID=2150
-#EXTINF:-1,AL: Film GOLD 3
-http://93.115.20.208/cloud/play.php?chID=2149
-#EXTINF:-1,AL: Film GOLD 4
-http://93.115.20.208/cloud/play.php?chID=2148
-#EXTINF:-1,AL: Film Hits  1
-http://93.115.20.208/cloud/play.php?chID=2158
-#EXTINF:-1,AL: Film Hits HD
-http://93.115.20.208/cloud/play.php?chID=238
-#EXTINF:-1,AL: Film Komedi
-http://93.115.20.208/cloud/play.php?chID=237
-#EXTINF:-1,AL: Film NjE HD
-http://93.115.20.208/cloud/play.php?chID=236
-#EXTINF:-1,AL: Film Thriller
-http://93.115.20.208/cloud/play.php?chID=234
-#EXTINF:-1,AL: First Kosova
-http://93.115.20.208/cloud/play.php?chID=2147
-#EXTINF:-1,AL: Folk
-http://93.115.20.208/cloud/play.php?chID=1080
-#EXTINF:-1,AL: Folk Plus
-http://93.115.20.208/cloud/play.php?chID=2131
-#EXTINF:-1,AL: Fox Crime HD
-http://93.115.20.208/cloud/play.php?chID=21701
-#EXTINF:-1,AL: Fox HD
-http://93.115.20.208/cloud/play.php?chID=21702
-#EXTINF:-1,AL: Fox Life HD
-http://93.115.20.208/cloud/play.php?chID=21703
-#EXTINF:-1,AL: Fox Movies
-http://93.115.20.208/cloud/play.php?chID=2120
-#EXTINF:-1,AL: Game Toon
-http://93.115.20.208/cloud/play.php?chID=29822
-#EXTINF:-1,AL: HBO
-http://93.115.20.208/cloud/play.php?chID=21688
-#EXTINF:-1,AL: HBO 2
-http://93.115.20.208/cloud/play.php?chID=21687
-#EXTINF:-1,AL: HBO 3
-http://93.115.20.208/cloud/play.php?chID=21686
-#EXTINF:-1,AL: Islam Channel 1 HD
-http://93.115.20.208/cloud/play.php?chID=42921
-#EXTINF:-1,AL: Islam Channel 2 HD
-http://93.115.20.208/cloud/play.php?chID=42922
-#EXTINF:-1,AL: Islam Channel 3 HD
-http://93.115.20.208/cloud/play.php?chID=42923
-#EXTINF:-1,AL: Islam Channel Femije HD
-http://93.115.20.208/cloud/play.php?chID=42925
-#EXTINF:-1,AL: Islam Channel Quran HD
-http://93.115.20.208/cloud/play.php?chID=42924
-#EXTINF:-1,AL: Joly HD
-http://93.115.20.208/cloud/play.php?chID=2129
-#EXTINF:-1,AL: Istogu TV
-http://93.115.20.208/cloud/play.php?chID=2143
-#EXTINF:-1,AL: Junior TV
-http://93.115.20.208/cloud/play.php?chID=1079
-#EXTINF:-1,AL: K Sport 1
-http://93.115.20.208/cloud/play.php?chID=2115
-#EXTINF:-1,AL: K Sport 2
-http://93.115.20.208/cloud/play.php?chID=2114
-#EXTINF:-1,AL: K Sport 3
-http://93.115.20.208/cloud/play.php?chID=2113
-#EXTINF:-1,AL: K Sport 4
-http://93.115.20.208/cloud/play.php?chID=2112
-#EXTINF:-1,AL: K Sport 5
-http://93.115.20.208/cloud/play.php?chID=29798
-#EXTINF:-1,AL: Kanal 10 FHD
-http://93.115.20.208/cloud/play.php?chID=53673
-#EXTINF:-1,AL: Kanal D Drama FHD
-http://93.115.20.208/cloud/play.php?chID=1143
-#EXTINF:-1,AL: Kanali 7 News
-http://93.115.20.208/cloud/play.php?chID=26565
-#EXTINF:-1,AL: Klan Kosova
-http://93.115.20.208/cloud/play.php?chID=1078
-#EXTINF:-1,AL: KLAN PLUS HD
-http://93.115.20.208/cloud/play.php?chID=29897
-#EXTINF:-1,AL: KOS Humor 1
-http://93.115.20.208/cloud/play.php?chID=29840
-#EXTINF:-1,AL: KS HITS HD
-http://93.115.20.208/cloud/play.php?chID=29808
-#EXTINF:-1,AL: Ks LOL HD
-http://93.115.20.208/cloud/play.php?chID=29807
-#EXTINF:-1,AL: KS MUZIK HD
-http://93.115.20.208/cloud/play.php?chID=29806
-#EXTINF:-1,AL: KTV
-http://93.115.20.208/cloud/play.php?chID=1077
-#EXTINF:-1,AL: KTV Toksor
-http://93.115.20.208/cloud/play.php?chID=29898
-#EXTINF:-1,AL: Living HD
-http://93.115.20.208/cloud/play.php?chID=29791
-#EXTINF:-1,AL: MTV KOSOVA
-http://93.115.20.208/cloud/play.php?chID=29864
-#EXTINF:-1,AL: My Music
-http://93.115.20.208/cloud/play.php?chID=2107
-#EXTINF:-1,AL: National Geographic
-http://93.115.20.208/cloud/play.php?chID=2119
-#EXTINF:-1,AL: News 24 HD
-http://93.115.20.208/cloud/play.php?chID=26562
-#EXTINF:-1,AL: ON TV
-http://93.115.20.208/cloud/play.php?chID=29863
-#EXTINF:-1,AL: Ora News HD
-http://93.115.20.208/cloud/play.php?chID=2106
-#EXTINF:-1,AL: Peace Tv
-http://93.115.20.208/cloud/play.php?chID=2105
-#EXTINF:-1,AL: Plus HD
-http://93.115.20.208/cloud/play.php?chID=2104
-#EXTINF:-1,AL: RED TV
-http://93.115.20.208/cloud/play.php?chID=28943
-#EXTINF:-1,AL: Report TV
-http://93.115.20.208/cloud/play.php?chID=26567
-#EXTINF:-1,AL: Rrokum HD
-http://93.115.20.208/cloud/play.php?chID=29896
-#EXTINF:-1,AL: RTK 1FHD
-http://93.115.20.208/cloud/play.php?chID=50988
-#EXTINF:-1,AL: RTSH 24 HD
-http://93.115.20.208/cloud/play.php?chID=29890
-#EXTINF:-1,AL: RTSH Femije
-http://93.115.20.208/cloud/play.php?chID=29850
-#EXTINF:-1,AL: RTSH GJIROKASTRA
-http://93.115.20.208/cloud/play.php?chID=29889
-#EXTINF:-1,AL: RTSH KORÇA
-http://93.115.20.208/cloud/play.php?chID=29888
-#EXTINF:-1,AL: RTSH KUVEND
-http://93.115.20.208/cloud/play.php?chID=29887
-#EXTINF:-1,AL: Rtsh Muzike
-http://93.115.20.208/cloud/play.php?chID=2103
-#EXTINF:-1,AL: RTSH SAT HD
-http://93.115.20.208/cloud/play.php?chID=29886
-#EXTINF:-1,AL: RTSH SHQIP
-http://93.115.20.208/cloud/play.php?chID=29891
-#EXTINF:-1,AL: Rtsh Sport
-http://93.115.20.208/cloud/play.php?chID=2102
-#EXTINF:-1,AL: RTV 21
-http://93.115.20.208/cloud/play.php?chID=1076
-#EXTINF:-1,AL: RTV 21 Junior
-http://93.115.20.208/cloud/play.php?chID=29846
-#EXTINF:-1,AL: RTV 21 Maqedoni
-http://93.115.20.208/cloud/play.php?chID=2146
-#EXTINF:-1,AL: RTV 21 NewBiz
-http://93.115.20.208/cloud/play.php?chID=29899
-#EXTINF:-1,AL: RTV 21 Plus FHD
-http://93.115.20.208/cloud/play.php?chID=29862
-#EXTINF:-1,AL: RTV 21 Popullore
-http://93.115.20.208/cloud/play.php?chID=1083
-#EXTINF:-1,AL: RTV ALDI
-http://93.115.20.208/cloud/play.php?chID=29878
-#EXTINF:-1,AL: RTV Fontana
-http://93.115.20.208/cloud/play.php?chID=34833
-#EXTINF:-1,AL: RTV ILERIDA
-http://93.115.20.208/cloud/play.php?chID=29877
-#EXTINF:-1,AL: RTV Pendimi
-http://93.115.20.208/cloud/play.php?chID=29861
-#EXTINF:-1,AL: SKY AKSION
-http://93.115.20.208/cloud/play.php?chID=3582
-#EXTINF:-1,AL: SKY COMEDY
-http://93.115.20.208/cloud/play.php?chID=3581
-#EXTINF:-1,AL: SKY DRAMA
-http://93.115.20.208/cloud/play.php?chID=3578
-#EXTINF:-1,AL: SKY HISTORY
-http://93.115.20.208/cloud/play.php?chID=3580
-#EXTINF:-1,AL: SKY MAX
-http://93.115.20.208/cloud/play.php?chID=3579
-#EXTINF:-1,AL: SKY Novela
-http://93.115.20.208/cloud/play.php?chID=3576
-#EXTINF:-1,AL: SKY PLANET
-http://93.115.20.208/cloud/play.php?chID=3577
-#EXTINF:-1,AL: Smile
-http://93.115.20.208/cloud/play.php?chID=1075
-#EXTINF:-1,AL: Sofia HD
-http://93.115.20.208/cloud/play.php?chID=29848
-#EXTINF:-1,AL: Sport Kosova News HD
-http://93.115.20.208/cloud/play.php?chID=19812
-#EXTINF:-1,AL: Sport Kosova 1 HD
-http://93.115.20.208/cloud/play.php?chID=226
-#EXTINF:-1,AL: Sport Kosova 2 HD
-http://93.115.20.208/cloud/play.php?chID=225
-#EXTINF:-1,AL: Super Sport News HD
-http://93.115.20.208/cloud/play.php?chID=224
-#EXTINF:-1,AL: Super Sport 1 FHD
-http://93.115.20.208/cloud/play.php?chID=80227
-#EXTINF:-1,AL: Super Sport 2 FHD
-http://93.115.20.208/cloud/play.php?chID=80228
-#EXTINF:-1,AL: Super Sport 2 HD
-http://93.115.20.208/cloud/play.php?chID=223
-#EXTINF:-1,AL: Super Sport 3 FHD
-http://93.115.20.208/cloud/play.php?chID=80229
-#EXTINF:-1,AL: Super Sport 3 HD
-http://93.115.20.208/cloud/play.php?chID=222
-#EXTINF:-1,AL: Super Sport 4 FHD
-http://93.115.20.208/cloud/play.php?chID=80230
-#EXTINF:-1,AL: Super Sport 4 HD
-http://93.115.20.208/cloud/play.php?chID=221
-#EXTINF:-1,AL: Super Sport 5 FHD
-http://93.115.20.208/cloud/play.php?chID=80232
-#EXTINF:-1,AL: Super Sport 5 HD
-http://93.115.20.208/cloud/play.php?chID=19809
-#EXTINF:-1,AL: Super Sport 6 FHD
-http://93.115.20.208/cloud/play.php?chID=80233
-#EXTINF:-1,AL: Super Sport 6 HD
-http://93.115.20.208/cloud/play.php?chID=19810
-#EXTINF:-1,AL: Super Sport 7 HD
-http://93.115.20.208/cloud/play.php?chID=29797
-#EXTINF:-1,AL: Star+ Shkodra
-http://93.115.20.208/cloud/play.php?chID=2124
-#EXTINF:-1,AL: Stupcat HD
-http://93.115.20.208/cloud/play.php?chID=20960
-#EXTINF:-1,AL: Super Folk
-http://93.115.20.208/cloud/play.php?chID=2142
-#EXTINF:-1,AL: Supersonic
-http://93.115.20.208/cloud/play.php?chID=2118
-#EXTINF:-1,AL: T HD
-http://93.115.20.208/cloud/play.php?chID=1074
-#EXTINF:-1,AL: T7 HD
-http://93.115.20.208/cloud/play.php?chID=26629
-#EXTINF:-1,AL: TDC HD
-http://93.115.20.208/cloud/play.php?chID=29827
-#EXTINF:-1,AL: Tema TV
-http://93.115.20.208/cloud/play.php?chID=36015
-#EXTINF:-1,AL: Tip TV
-http://93.115.20.208/cloud/play.php?chID=29847
-#EXTINF:-1,AL: Tirana TV
-http://93.115.20.208/cloud/play.php?chID=29859
-#EXTINF:-1,AL: TNT Albania
-http://93.115.20.208/cloud/play.php?chID=29858
-#EXTINF:-1,AL: TOP Channel HD
-http://93.115.20.208/cloud/play.php?chID=1050
-#EXTINF:-1,AL: TOP Estrada
-http://93.115.20.208/cloud/play.php?chID=29868
-#EXTINF:-1,AL: Top News HD
-http://93.115.20.208/cloud/play.php?chID=26561
-#EXTINF:-1,AL: Tring 3+
-http://93.115.20.208/cloud/play.php?chID=1052
-#EXTINF:-1,AL: Tring Comedy
-http://93.115.20.208/cloud/play.php?chID=219
-#EXTINF:-1,AL: Tring Fantasy
-http://93.115.20.208/cloud/play.php?chID=218
-#EXTINF:-1,AL: Tring Action
-http://93.115.20.208/cloud/play.php?chID=29833
-#EXTINF:-1,AL: Tring Histori
-http://93.115.20.208/cloud/play.php?chID=2157
-#EXTINF:-1,AL: Tring International
-http://93.115.20.208/cloud/play.php?chID=29832
-#EXTINF:-1,AL: Tring Kids
-http://93.115.20.208/cloud/play.php?chID=29851
-#EXTINF:-1,AL: Tring Life
-http://93.115.20.208/cloud/play.php?chID=217
-#EXTINF:-1,AL: Tring Max
-http://93.115.20.208/cloud/play.php?chID=216
-#EXTINF:-1,AL: Tring Muse
-http://93.115.20.208/cloud/play.php?chID=2117
-#EXTINF:-1,AL: Tring Planet
-http://93.115.20.208/cloud/play.php?chID=215
-#EXTINF:-1,AL: Tring Shqip
-http://93.115.20.208/cloud/play.php?chID=214
-#EXTINF:-1,AL: Tring Sport 1
-http://93.115.20.208/cloud/play.php?chID=2156
-#EXTINF:-1,AL: Tring Sport 1 HD
-http://93.115.20.208/cloud/play.php?chID=213
-#EXTINF:-1,AL: Tring Sport 2
-http://93.115.20.208/cloud/play.php?chID=2155
-#EXTINF:-1,AL: Tring Sport 3
-http://93.115.20.208/cloud/play.php?chID=2154
-#EXTINF:-1,AL: Tring Sport 4
-http://93.115.20.208/cloud/play.php?chID=2153
-#EXTINF:-1,AL: Tring Sport News HD
-http://93.115.20.208/cloud/play.php?chID=212
-#EXTINF:-1,AL: Tring Super
-http://93.115.20.208/cloud/play.php?chID=211
-#EXTINF:-1,AL: Tring Tring
-http://93.115.20.208/cloud/play.php?chID=210
-#EXTINF:-1,AL: Tring World
-http://93.115.20.208/cloud/play.php?chID=209
-#EXTINF:-1,AL: TURBO Channel
-http://93.115.20.208/cloud/play.php?chID=29857
-#EXTINF:-1,AL: TV Dibra
-http://93.115.20.208/cloud/play.php?chID=29873
-#EXTINF:-1,AL: Tv Koha
-http://93.115.20.208/cloud/play.php?chID=2141
-#EXTINF:-1,AL: TV Kopliku HD
-http://93.115.20.208/cloud/play.php?chID=29885
-#EXTINF:-1,AL: TV Liria
-http://93.115.20.208/cloud/play.php?chID=36014
-#EXTINF:-1,AL: TV Mitrovica
-http://93.115.20.208/cloud/play.php?chID=41953
-#EXTINF:-1,AL: TV Uksana
-http://93.115.20.208/cloud/play.php?chID=29879
-#EXTINF:-1,AL: TV Vali
-http://93.115.20.208/cloud/play.php?chID=29875
-#EXTINF:-1,AL: TVSH
-http://93.115.20.208/cloud/play.php?chID=2139
-#EXTINF:-1,AL: UTV
-http://93.115.20.208/cloud/play.php?chID=29872
-#EXTINF:-1,AL: Vizion Plus HD
-http://93.115.20.208/cloud/play.php?chID=1051
-#EXTINF:-1,AL: VIZIONI TV
-http://93.115.20.208/cloud/play.php?chID=29855
-#EXTINF:-1,AL: ZJARR TV
-http://93.115.20.208/cloud/play.php?chID=29854
-#EXTINF:-1,VIP AL: Art Doku 1
-http://93.115.20.208/cloud/play.php?chID=29838
-#EXTINF:-1,VIP AL: Art Doku 2
-http://93.115.20.208/cloud/play.php?chID=29837
-#EXTINF:-1,VIP AL: Art Kino 1
-http://93.115.20.208/cloud/play.php?chID=29836
-#EXTINF:-1,VIP AL: Art Kino 2
-http://93.115.20.208/cloud/play.php?chID=29835
-#EXTINF:-1,VIP AL: Art Kino 3
-http://93.115.20.208/cloud/play.php?chID=29834
-#EXTINF:-1,VIP AL: Art Sport 1 FHD
-http://93.115.20.208/cloud/play.php?chID=29801
-#EXTINF:-1,VIP AL: Art Sport 2 FHD
-http://93.115.20.208/cloud/play.php?chID=29800
-#EXTINF:-1,VIP AL: Art Sport 3 FHD
-http://93.115.20.208/cloud/play.php?chID=29799
-#EXTINF:-1,VIP AL: Tele One 1 HD
-http://93.115.20.208/cloud/play.php?chID=42913
-#EXTINF:-1,VIP AL: Tele One 2 HD
-http://93.115.20.208/cloud/play.php?chID=42914
-#EXTINF:-1,VIP AL: Tele One 3 HD
-http://93.115.20.208/cloud/play.php?chID=42915
-#EXTINF:-1,VIP AL: Tele One 4 HD
-http://93.115.20.208/cloud/play.php?chID=42916
-#EXTINF:-1,VIP AL: Tele One 5 HD
-http://93.115.20.208/cloud/play.php?chID=42917
-#EXTINF:-1,VIP AL: Tele One 6 HD
-http://93.115.20.208/cloud/play.php?chID=42918
-#EXTINF:-1,VIP AL: Tele One Aksion HD
-http://93.115.20.208/cloud/play.php?chID=66133
-#EXTINF:-1,VIP AL: Tele One Crime HD
-http://93.115.20.208/cloud/play.php?chID=66134
-#EXTINF:-1,VIP AL: Tele One Drama HD
-http://93.115.20.208/cloud/play.php?chID=66135
-#EXTINF:-1,VIP AL: Tele One Epik HD
-http://93.115.20.208/cloud/play.php?chID=66136
-#EXTINF:-1,VIP AL: Tele One Fantazi HD
-http://93.115.20.208/cloud/play.php?chID=66137
-#EXTINF:-1,VIP AL: Tele One EPIC  HD
-http://93.115.20.208/cloud/play.php?chID=66141
-#EXTINF:-1,VIP AL: Tele One Thriller HD
-http://93.115.20.208/cloud/play.php?chID=66140
-#EXTINF:-1,VIP AL: Tele One Muzik Hits HD
-http://93.115.20.208/cloud/play.php?chID=66139
-#EXTINF:-1,VIP AL: Tele One GOLD Collection HD
-http://93.115.20.208/cloud/play.php?chID=66138
-#EXTINF:-1,VIP AL: FILMA24 ANIMUAR FHD 
-http://93.115.20.208/cloud/play.php?chID=82687
-#EXTINF:-1,VIP AL: FILMA24 AVENTUR FHD 
-http://93.115.20.208/cloud/play.php?chID=82686
-#EXTINF:-1,VIP AL: FILMA24 BIOGRAFI FHD 
-http://93.115.20.208/cloud/play.php?chID=82685
-#EXTINF:-1,VIP AL: FILMA24 DRAMA FHD 
-http://93.115.20.208/cloud/play.php?chID=82684
-#EXTINF:-1,VIP AL: FILMA24 FAMILJAR FHD 
-http://93.115.20.208/cloud/play.php?chID=82683
-#EXTINF:-1,VIP AL: FILMA24 FANTASY FHD 
-http://93.115.20.208/cloud/play.php?chID=82682
-#EXTINF:-1,VIP AL: FILMA24 HISTORI FHD 
-http://93.115.20.208/cloud/play.php?chID=82681
-#EXTINF:-1,VIP AL: FILMA24 KOMEDI FHD 
-http://93.115.20.208/cloud/play.php?chID=82680
-#EXTINF:-1,VIP AL: FILMA24 KRIM FHD 
-http://93.115.20.208/cloud/play.php?chID=82679
-#EXTINF:-1,VIP AL: FILMA24 MISTER FHD 
-http://93.115.20.208/cloud/play.php?chID=82678
-#EXTINF:-1,VIP AL: FILMA24 NETFLIX FHD 
-http://93.115.20.208/cloud/play.php?chID=82677
-#EXTINF:-1,VIP AL: FILMA24 NETFLIX 24 FHD 
-http://93.115.20.208/cloud/play.php?chID=82676
-#EXTINF:-1,VIP AL: FILMA24 ROMANCE FHD 
-http://93.115.20.208/cloud/play.php?chID=82675
-#EXTINF:-1,VIP AL: FILMA24 THRILLER FHD 
-http://93.115.20.208/cloud/play.php?chID=82674
-#EXTINF:-1,VIP AL: FILMA24 ACTION FHD 
-http://93.115.20.208/cloud/play.php?chID=82673
-#EXTINF:-1,VIP AL: Q PREMIUM 1 FHD 
-http://93.115.20.208/cloud/play.php?chID=82669
-#EXTINF:-1,VIP AL: Q PREMIUM 2 FHD 
-http://93.115.20.208/cloud/play.php?chID=82670
-#EXTINF:-1,VIP AL: Q PREMIUM 3 FHD 
-http://93.115.20.208/cloud/play.php?chID=82671
-#EXTINF:-1,VIP AL: Q PREMIUM 4 FHD 
-http://93.115.20.208/cloud/play.php?chID=82672
-#EXTINF:-1,VIP AL: X Dark HD
-http://93.115.20.208/cloud/play.php?chID=82572
-#EXTINF:-1,VIP AL: X Action HD
-http://93.115.20.208/cloud/play.php?chID=21692
-#EXTINF:-1,VIP AL: X Cifteli HD
-http://93.115.20.208/cloud/play.php?chID=29831
-#EXTINF:-1,VIP AL: X Comedy HD
-http://93.115.20.208/cloud/play.php?chID=21693
-#EXTINF:-1,VIP AL: X Drama HD
-http://93.115.20.208/cloud/play.php?chID=21690
-#EXTINF:-1,VIP AL: X Family HD
-http://93.115.20.208/cloud/play.php?chID=21691
-#EXTINF:-1,VIP AL: X Filma24 HD
-http://93.115.20.208/cloud/play.php?chID=29819
-#EXTINF:-1,VIP AL: X GOLD 1 HD
-http://93.115.20.208/cloud/play.php?chID=29813
-#EXTINF:-1,VIP AL: X GOLD 2 HD
-http://93.115.20.208/cloud/play.php?chID=29812
-#EXTINF:-1,VIP AL: X GOLD 3 HD
-http://93.115.20.208/cloud/play.php?chID=29811
-#EXTINF:-1,VIP AL: X GOLD 4 HD
-http://93.115.20.208/cloud/play.php?chID=29810
-#EXTINF:-1,VIP AL: X Premium 1 HD
-http://93.115.20.208/cloud/play.php?chID=232
-#EXTINF:-1,VIP AL: X Premium 2 HD
-http://93.115.20.208/cloud/play.php?chID=21700
-#EXTINF:-1,VIP AL: X Premium 3 HD
-http://93.115.20.208/cloud/play.php?chID=21699
-#EXTINF:-1,VIP AL: X Premium 4 HD
-http://93.115.20.208/cloud/play.php?chID=21698
-#EXTINF:-1,VIP AL: X Histori HD
-http://93.115.20.208/cloud/play.php?chID=29842
-#EXTINF:-1,VIP AL: X Humor HD
-http://93.115.20.208/cloud/play.php?chID=29839
-#EXTINF:-1,VIP AL: X KIDS
-http://93.115.20.208/cloud/play.php?chID=29849
-#EXTINF:-1,VIP AL: X Music Hits HD
-http://93.115.20.208/cloud/play.php?chID=29830
-#EXTINF:-1,VIP AL: X Natyra HD
-http://93.115.20.208/cloud/play.php?chID=29841
-#EXTINF:-1,VIP AL: X Popullore HD
-http://93.115.20.208/cloud/play.php?chID=29829
-#EXTINF:-1,VIP AL: X Romance HD
-http://93.115.20.208/cloud/play.php?chID=21694
-#EXTINF:-1,VIP AL: X ScyFy HD
-http://93.115.20.208/cloud/play.php?chID=230
-#EXTINF:-1,VIP AL: X Shkenca HD
-http://93.115.20.208/cloud/play.php?chID=21696
-#EXTINF:-1,VIP AL: X Thriller HD
-http://93.115.20.208/cloud/play.php?chID=21697
-#EXTINF:-1,VIP AL: X Western HD
-http://93.115.20.208/cloud/play.php?chID=29828
-#EXTINF:-1,VIP AL: 8ova Action HD
-http://93.115.20.208/cloud/play.php?chID=66080
-#EXTINF:-1,VIP AL: 8ova BBF HD
-http://93.115.20.208/cloud/play.php?chID=66081
-#EXTINF:-1,VIP AL: 8ova Drame HD
-http://93.115.20.208/cloud/play.php?chID=66082
-#EXTINF:-1,VIP AL: 8ove Gjurme Shqipetare TV
-http://93.115.20.208/cloud/play.php?chID=66083
-#EXTINF:-1,VIP AL: 8ova Gjurme Shqiptare HD
-http://93.115.20.208/cloud/play.php?chID=66084
-#EXTINF:-1,VIP AL: 8ova Humor HD
-http://93.115.20.208/cloud/play.php?chID=66085
-#EXTINF:-1,VIP AL: 8ova ilahi HD
-http://93.115.20.208/cloud/play.php?chID=66086
-#EXTINF:-1,VIP AL: 8ova islam HD
-http://93.115.20.208/cloud/play.php?chID=66087
-#EXTINF:-1,VIP AL: 8ova Komedi HD
-http://93.115.20.208/cloud/play.php?chID=66088
-#EXTINF:-1,VIP AL: 8ova Muzik HD
-http://93.115.20.208/cloud/play.php?chID=66089
-#EXTINF:-1,VIP AL: 8ova Çifteli HD
-http://93.115.20.208/cloud/play.php?chID=66092
-#EXTINF:-1,VIP AL: 8ova Popullore HD
-http://93.115.20.208/cloud/play.php?chID=66090
-#EXTINF:-1,VIP AL: 8ova Masha & bear
-http://93.115.20.208/cloud/play.php?chID=66130
-#EXTINF:-1,VIP AL: 8ova Masha dhe Ariu HD
-http://93.115.20.208/cloud/play.php?chID=66131
-#EXTINF:-1,VIP AL: 8ova Masha e Orso DE
-http://93.115.20.208/cloud/play.php?chID=66132
-#EXTINF:-1,VIP AL: 8ova Thriller HD
-http://93.115.20.208/cloud/play.php?chID=66091
-#EXTINF:-1,VIP AL: Divergent 1 HD
-http://93.115.20.208/cloud/play.php?chID=66093
-#EXTINF:-1,VIP AL: Divergent 2 HD
-http://93.115.20.208/cloud/play.php?chID=66094
-#EXTINF:-1,VIP AL: Divergent 3 HD
-http://93.115.20.208/cloud/play.php?chID=66095
-#EXTINF:-1,VIP AL: Divergent Beats HD
-http://93.115.20.208/cloud/play.php?chID=66096
-#EXTINF:-1,VIP AL: Divergent Class HD
-http://93.115.20.208/cloud/play.php?chID=66097
-#EXTINF:-1,VIP AL: Divergent Core HD
-http://93.115.20.208/cloud/play.php?chID=66098
-#EXTINF:-1,VIP AL: Divergent Gold HD
-http://93.115.20.208/cloud/play.php?chID=66099
-#EXTINF:-1,VIP AL: Divergent Happy HD
-http://93.115.20.208/cloud/play.php?chID=66100
-#EXTINF:-1,VIP AL: Divergent Premier HD
-http://93.115.20.208/cloud/play.php?chID=66101
-#EXTINF:-1,VIP AL: Divergent Wall HD
-http://93.115.20.208/cloud/play.php?chID=66102
-#EXTINF:-1,VIP AL: First Dramë HD
-http://93.115.20.208/cloud/play.php?chID=66104
-#EXTINF:-1,VIP AL: First Classic HD
-http://93.115.20.208/cloud/play.php?chID=66103
-#EXTINF:-1,VIP AL: First Horror HD
-http://93.115.20.208/cloud/play.php?chID=66105
-#EXTINF:-1,VIP AL: Kinema 1
-http://93.115.20.208/cloud/play.php?chID=66106
-#EXTINF:-1,VIP AL: Kinema 17 N HD
-http://93.115.20.208/cloud/play.php?chID=66107
-#EXTINF:-1,VIP AL: Kinema Agimi HD
-http://93.115.20.208/cloud/play.php?chID=66108
-#EXTINF:-1,VIP AL: Kinema Aksion
-http://93.115.20.208/cloud/play.php?chID=66109
-#EXTINF:-1,VIP AL: Kinema Aksion MAX
-http://93.115.20.208/cloud/play.php?chID=66110
-#EXTINF:-1,VIP AL: Kinema Dajti HD
-http://93.115.20.208/cloud/play.php?chID=66111
-#EXTINF:-1,VIP AL: Kinema Fantasy
-http://93.115.20.208/cloud/play.php?chID=66112
-#EXTINF:-1,VIP AL: Kinema Partizani HD
-http://93.115.20.208/cloud/play.php?chID=66113
-#EXTINF:-1,VIP AL: Kinema Republika HD
-http://93.115.20.208/cloud/play.php?chID=66114
-#EXTINF:-1,VIP AL: Kinema24 1 HD
-http://93.115.20.208/cloud/play.php?chID=66115
-#EXTINF:-1,VIP AL: Kinema24 2 HD
-http://93.115.20.208/cloud/play.php?chID=66116
-#EXTINF:-1,VIP AL: Kinema24 3 HD
-http://93.115.20.208/cloud/play.php?chID=66117
-#EXTINF:-1,VIP AL: Kinema24 4 HD
-http://93.115.20.208/cloud/play.php?chID=66118
-#EXTINF:-1,VIP AL: Kinema24 5 HD
-http://93.115.20.208/cloud/play.php?chID=66119
-#EXTINF:-1,VIP AL: Kinema24 6 HD
-http://93.115.20.208/cloud/play.php?chID=66120
-#EXTINF:-1,VIP AL: LionTV Gold 1 HD
-http://93.115.20.208/cloud/play.php?chID=66121
-#EXTINF:-1,VIP AL: LionTV Gold 2 HD
-http://93.115.20.208/cloud/play.php?chID=66122
-#EXTINF:-1,VIP AL: LionTV Gold 3 HD
-http://93.115.20.208/cloud/play.php?chID=66123
-#EXTINF:-1,VIP AL: LionTv Shqip HD
-http://93.115.20.208/cloud/play.php?chID=66124
-#EXTINF:-1,VIP AL: Lugina Islam
-http://93.115.20.208/cloud/play.php?chID=66125
-#EXTINF:-1,VIP AL: Lugina Islam 2
-http://93.115.20.208/cloud/play.php?chID=66126
-#EXTINF:-1,VIP AL: Lugina Kino HD
-http://93.115.20.208/cloud/play.php?chID=66127
-#EXTINF:-1,VIP AL: Lugina Popullore HD
-http://93.115.20.208/cloud/play.php?chID=66128
-#EXTINF:-1,VIP AL: Lugina Prank HD
-http://93.115.20.208/cloud/play.php?chID=66129
-#EXTINF:-1,VIP AL: Plisi TV HD
-http://93.115.20.208/cloud/play.php?chID=66145
-#EXTINF:-1,VIP AL: Plisi Çifteli HD
-http://93.115.20.208/cloud/play.php?chID=66146
-#EXTINF:-1,VIP AL: Plisi Fantazi HD
-http://93.115.20.208/cloud/play.php?chID=66144
-#EXTINF:-1,VIP AL: Plisi Fantasy HD
-http://93.115.20.208/cloud/play.php?chID=66143
-#EXTINF:-1,VIP AL: Plisi Action HD
-http://93.115.20.208/cloud/play.php?chID=66142
+#EXTINF:-1,Top Channel
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQLqU61d7ydwGPPejj526X2V/ts
+#EXTINF:-1,TOP CHANNEL  (Backup)
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQJkGo79Vczjxk81ouajKHuk/ts
+#EXTINF:-1,Vizion Plus
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQJl_4MftO86f_fu1tAUyxFI/ts
+#EXTINF:-1,Vizion Plus (Backup)
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQLETwexMV1hjW9pmh4-5JZ6/ts
+#EXTINF:-1,Klan
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQLRd9K4hCCpCJFILiZc3bWr/ts
+#EXTINF:-1,Klan (Backup)
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQKirLUrmORMXQQCHvU7aWPl/ts
+#EXTINF:-1,Klan Plus
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQJdQB2Fpkq5mwddHG5s16ma/ts
+#EXTINF:-1,Klan Plus (Backup)
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQIq9UcvKwAhDoilUfkqCa4J/ts
 
+
+#EXTINF:-1,RTSH 24
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQJu_kqWJv4LK0VBAR_OFpwm/ts
+#EXTINF:-1,Top News
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQKfEJH_1bAXkVA0LfLH-niQ/ts
+#EXTINF:-1,ORA News HD
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQJmRhZqYWPPseCMlZW8VG1N/ts
+#EXTINF:-1,Top News (Backup)
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQJ6neidpBGoCKVKMAY6YTP9/ts
+#EXTINF:-1,ABC News
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQIetEDvm-xuYuBxiQwc5vXG/ts
+#EXTINF:-1,News 24
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQJYFqXVLjS_rolYVeCY_Qed/ts
+#EXTINF:-1,A1 Report
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQKy3SyAH_l_2KOg3g_MTMJ_/ts
+#EXTINF:-1,Fax News
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQJ8UBqv_gwR0RlAjtzGw3-O/ts
+#EXTINF:-1,ARTA NEWS HD
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQKh1yXpBpasBsEvpU1W-FFF/ts
+
+
+#EXTINF:-1,ATV
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQLFj37sfVJk7JG9-OKYlq42/ts
+#EXTINF:-1,RTK 1 HD
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQJjnsVVRkSwXQZtPaGUTYA_/ts
+#EXTINF:-1,RTK 1 (Backup)
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQI_wMbVPdc1CkYPwDH3fzpb/ts
+#EXTINF:-1,RTK Serial
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQJ11KijNilRRpgoHtZVLzgi/ts
+#EXTINF:-1,KTV
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQLJoEgEk-MKTYjcFmUeIlNy/ts
+#EXTINF:-1,KTV (Backup)
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQIpVDKj6eQFc2aZM_WAPH08/ts
+#EXTINF:-1,RTV 21
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQLCFekBYieLiBWzf-0iW4jq/ts
+#EXTINF:-1,RTV21 (Backup)
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQK4fo6975vPx2qRnktLCKp7/ts
+#EXTINF:-1,Klan Kosova
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQL8YgE-owjGDRz3VBRPJTTV/ts
+#EXTINF:-1,Klan Kosova (Backup)
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQKvjGuSQViApP64N62yItjy/ts
+#EXTINF:-1,RTK 2
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQJlS0bKxf9ATfG9YFdhoJQd/ts
+#EXTINF:-1,RTK 2 (Backup)
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQKea0Z7d1m_p-F9hzR13a1S/ts
+#EXTINF:-1,RTK 3
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQIyKqqD_BmE7EUSe6E7LXN2/ts
+#EXTINF:-1,RTK 3 (Backup)
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQKrHFME9XYQ7uIaVoqiCmRl/ts
+#EXTINF:-1,RTK 4
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQK4KMuYNYuH_2jKaWSfN13S/ts
+#EXTINF:-1,RTK 4 (Backup)
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQIZHrmF9IJQ1BzV2nc-MUqC/ts
+#EXTINF:-1,TV Dukagjini HD
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQIAT2djCcNakgK8Pgahnwuv/ts
+#EXTINF:-1,TV Dukagjini (Backup)
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQJ8aR1sBE7rVO5eVDpRdhHm/ts
+
+
+#EXTINF:-1,Alsat M
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQLgHvi-GDlbFR98g3bf3bAt/ts
+#EXTINF:-1,Alsat M  (Backup)
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQIyBE1RZfYjgYq_-CtS3fHF/ts
+#EXTINF:-1,T7
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQLl6zRMIWv0SSrg4zobux0w/ts
+#EXTINF:-1,T7 (Backup)
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQIGlhQd93m65bJ_MFsTsAtn/ts
+#EXTINF:-1,VIP Rrokum
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQIRMMqaEbV1OHN7MtxcvE09/ts
+#EXTINF:-1,First TV
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQKXBHhm3fZ_o57rycZulJJg/ts
+
+
+#EXTINF:-1,DUGAGJINI TV HD
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQLxVeJGuWZppHaM1Au_o0H_/ts
+
+#EXTINF:-1,Koha TV HD
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQKZA8o2HUNNsLGVcpWa8eoE/ts
+
+#EXTINF:-1,ALB UK
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQIuGKX2qgM-HVJM9ABmtfH8/ts
+
+#EXTINF:-1,Peace TV Shqip HD
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQIoxH2rvRPHn_XT_2NgaeF8/ts
+#EXTINF:-1,Peace TV (Backup)
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQK58hKOnv0JHkgJfm37oBIg/ts
+#EXTINF:-1,Besa TV
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQK4ljFxe09mt5JA5Ry8CcBi/ts
+#EXTINF:-1,Mitrovica
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQLkYxursCc4uqEzB8nwyLlq/ts
+#EXTINF:-1,TV Mitrovica (Backup)
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQI0LmhEl86xW6N3ytP9uu0M/ts
+#EXTINF:-1,ERA TV
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQI8jijrRK-_4cXbFxny8yIC/ts
+#EXTINF:-1,Peace TV (English)
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQL7wrLv4uHyqsw43QauQfJF/ts
+#EXTINF:-1,Quran TV
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQLFaxFkUzWfu_XhbjqABMty/ts
+#EXTINF:-1,RTV Islam
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQLy65IEK9htSfLqQrwxL9cn/ts
+#EXTINF:-1,Mekka Live
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQKek3TxAs_nzWfwUBelg-WS/ts
+
+#EXTINF:-1,Explorer Shkence
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQI2UyQozQBkAPpIH2hY2LRy/ts
+#EXTINF:-1,Explorer Natyra
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQKkPkW-RbNRdRZbp5O1NUJ_/ts
+#EXTINF:-1,Explorer Histori
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQInscnAgo2JJvuMMQATlj-b/ts
+#EXTINF:-1,Tring Histori
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQJadqA8m4OtEoSZo6Ljk2b0/ts
+#EXTINF:-1,Tring Planet
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQKE5AlTB-9kgNS8AudynMns/ts
+#EXTINF:-1,Tring World
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQIUTgC5AmZ8HudVEDGgjbxQ/ts
+#EXTINF:-1,Nat Geo Wild
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQKOpAv8S1Fi531BS0vykhIn/ts
+#EXTINF:-1,Animal Planet HD
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQIALjzBJzHm5Cif7F8hPLB8/ts
+#EXTINF:-1,Discovery
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQLnd2kf9U2PGSVFXG9gePu8/ts
+
+#EXTINF:-1,Bang Bang
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQLU47ZJrZoj937e0FgvvZxR/ts
+#EXTINF:-1,Tring Tring
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQIDVDkm_xGhtE_Hp5-AzCxp/ts
+#EXTINF:-1,Duck TV
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQLg8JbL4KCOTxuojNtr6a2O/ts
+#EXTINF:-1,Cufo TV
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQL9X9jkE7MVPHGawS4uQPh_/ts
+#EXTINF:-1,AL: Tip Tv
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQK_0bCkC3pQ4hXa5Vtkw40E/ts
+#EXTINF:-1,AL: Junior TV
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQJtuPhRCJicoGK79YajG9Mh/ts
+#EXTINF:-1,Baby tv AL
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQJq8OyxtY-Mc4X8uSOS8iVx/ts
+#EXTINF:-1,RTV 21 Junior
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQLyFM16axKNYno3NagzFqJ5/ts
+#EXTINF:-1,ALB Kids
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQJL41ltjXtcLT1nUDolDeJm/ts
+
+#EXTINF:-1,MTV HITS
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQICBpdm5q1DT03d6G8iX0It/ts
+#EXTINF:-1,RTV 21 Plus HD
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQIFHwo5LX4O-G9i5AK_yMTo/ts
+#EXTINF:-1,RTV 21 Popullore
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQKFtGoKPetBEBspW-hcf6IB/ts
+#EXTINF:-1,Folk Plus
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQL3dC8uQ5LAu99ZUu_eV9AN/ts
+#EXTINF:-1,RTV Fontana
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQJApOD6_PRt1_8YT8EGWKqK/ts
+#EXTINF:-1,Top Estrada
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQKMid9qW7mXVmQ0hg6g39f6/ts
+#EXTINF:-1,TV Shenja
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQIY2Fv0liXHnki5gn0AGs-e/ts
+#EXTINF:-1,VIP Dasma TV
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQLvQMl6YloCqOGjkz9Rcdc4/ts
+#EXTINF:-1,Star Plus TV Albania
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQLuHYNcCLQ3x71m6hG3yU2m/ts
+#EXTINF:-1,TV Shari
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQIZMLWVpulA06v8ynvx-h5n/ts
+#EXTINF:-1,TV Elrodi
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQJAuSYdCfDk9aaFCPqCe4Ar/ts
+#EXTINF:-1,RTSH Shqip
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQLPiQb0E01mVEycs0vySWU7/ts
+#EXTINF:-1,RTSH 2 HD
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQJ2PzxTdi74ez-jo_-oaZE8/ts
+#EXTINF:-1,RTSH 24
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQI1GzPdqrSH4UTQ2YON543k/ts
+#EXTINF:-1,RTV Zeri HD
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQLxv-LRISEYzFJZKwCA6NPy/ts
+#EXTINF:-1,RTV 21 MIX
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQITdA3JIFXolULD4bcpPpkr/ts
+#EXTINF:-1,RTSH Muzike
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQLyO-gOB2ja3FPdA_PfZXfV/ts
+#EXTINF:-1,Living HD
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQLch-0bQfAWKMZTkb0YhK2e/ts
+#EXTINF:-1,Tring Smile
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQJJ-4bxa2YdQlBrKieBL1WY/ts
+
+
+#EXTINF:-1,Film Nje HD
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQJCDpl3iJ-leei_FNKJCow3/ts
+#EXTINF:-1,Film NJE (Backup)
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQJ-frTjOiMB8XKxYrtGFlnt/ts
+#EXTINF:-1,Film Dy HD
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQKQ_5-Rkmc9O0IC62M7V-4T/ts
+#EXTINF:-1,Family HD
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQLT-eQSrN99UAxEdE7J4RIX/ts
+#EXTINF:-1,Film Hits
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQLF5pMAw5p1KJOUF-IewrVi/ts
+#EXTINF:-1,Film Aksion
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQK1wHH-Oeqs_WyqEIXuaJ4_/ts
+#EXTINF:-1,Film Komedi
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQI0HxKzxLsPjVKR2yWM8qG5/ts
+#EXTINF:-1,Film Thriller
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQJNpMFPnofkybwgcYxHTM5x/ts
+#EXTINF:-1,Film Autor
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQKzEFc_IDdNW080n7zeaaXU/ts
+#EXTINF:-1,Film Drame
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQIAsjysjOD_wNLkk7wVYytt/ts
+#EXTINF:-1,Tring Jolly HD
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQK3zN6UtFDX9KDH0hnE-u8e/ts
+#EXTINF:-1,Jolly HD
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQIEWDd3CArQkuMrklw91WKr/ts
+#EXTINF:-1,Tring Super
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQLsOH-5A2NDfbqfuSfD-Vfr/ts
+#EXTINF:-1,Tring Shqip
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQLlE5KBah7o32gU64CBX8Ou/ts
+#EXTINF:-1,Tring Action
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQL4f4-XvWSxekXpMFoGfLqx/ts
+#EXTINF:-1,Tring Komedi
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQIa1G_mKj-PjZbtMy4IF0NB/ts
+#EXTINF:-1,Tring Fantasy
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQKerm4jEU5soLVNu5RsOmFE/ts
+#EXTINF:-1,Tring Life
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQL9N-K7zNN9YOfaOwLL2L0w/ts
+#EXTINF:-1,Tring Shqip
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQLWM-RsmmD4wRVkmi7mlmJM/ts
+#EXTINF:-1,Tring 3 Plus
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQJsSHM_Fbid5tKHXghVQv2f/ts
+#EXTINF:-1,Alb Humor
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQIfVhfCloDrwABs_-A1p2fQ/ts
+#EXTINF:-1,RTSH Film
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQJXGbz6SkPOwBY3_8vWQPc0/ts
+#EXTINF:-1,Film Gold 2
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQKlVxMeojL3b7EQhJ_705yE/ts
+#EXTINF:-1,Film Gold 3
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQKX2Mb2mANZxX4liapTViaM/ts
+#EXTINF:-1,Digi Gold 1 HD
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQLX4WMm7walCmlv79T2QBMJ/ts
+#EXTINF:-1,Digi Gold 2 HD
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQKLTiAcbTpAEwbzRvqEKCXN/ts
+#EXTINF:-1,Digi XGold 2 HD
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQI43WA68ASgPKOK4TmzKuwP/ts
+#EXTINF:-1,DIGI Gold 3
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQLAFscCxq0sPRAn_kIQleXb/ts
+#EXTINF:-1,DIGI Gold 4
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQK7VWAOcmN7kBmetiyPLuaB/ts
+#EXTINF:-1,Euro Film 1 HD
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQJAAzDvzaBKXxBcHYXnZkYv/ts
+#EXTINF:-1,Euro Film 2 HD
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQLM0KTVuixPONuSkguklmCX/ts
+#EXTINF:-1,Portocalli
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQI7YCWEREFEE5E3S3jf28KF/ts
+#EXTINF:-1,X Family HD
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQIXnjZdzTsseDZBbKjPUgZa/ts
+#EXTINF:-1,24 Kitchen
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQLWJ3ln4srjzvCUnZFPYeYE/ts
+#EXTINF:-1,RTV Aldi
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQI155sj3Sk54Amk-_DEVkuI/ts
+#EXTINF:-1,Sky Aksions
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQL8vBFVVPSP_BO4lENh7t4C/ts
+#EXTINF:-1,Sky Blue TV
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQIw1WeSdgCIfOh45IcLb_lc/ts
+#EXTINF:-1,Sky Histori
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQIDwIARIVkP2DQ6j1UWQDvN/ts
+#EXTINF:-1,Sky Komedi
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQICf8L91wsEGUMm5Pphw0-b/ts
+#EXTINF:-1,Sky Max
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQK8dbKH9Ba7mtcv43Z4tRcZ/ts
+#EXTINF:-1,Sky Novela
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQJZOsF4XIwShTU9C0cmndvK/ts
+#EXTINF:-1,Sky Shkence
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQK8zP8dhHEW6V-iZsSJBlkt/ts
+#EXTINF:-1,Kino Action
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQK_TLNM84yX06Bg_oApWT5U/ts
+#EXTINF:-1,AL: Kino Premiere 1 HD
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQJNiAK0w1F7ysN161qLa-w4/ts
+#EXTINF:-1,AL: Kino Premiere 2 HD
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQLMBnuP3ghdi2P2eiH4pfUx/ts
+#EXTINF:-1,AL: Kino Premiere 3 HD
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQJZkcrm8n7mEgcIUZ-n6okY/ts
+#EXTINF:-1,AL: ART Doku 1 HD
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQKRLa89NQsm9Cv3HVPfXUmy/ts
+#EXTINF:-1,AL: ART Doku 2 HD
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQKtyBvkpvm12mditk1Vlb9d/ts
+#EXTINF:-1,AL: ART Kino 1 HD
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQLxWqLadG1KuhuKvGY2LV_V/ts
+#EXTINF:-1,AL: ART Kino 2 HD
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQIQBp-I2Dp8Yz2CcMxkRP78/ts
+#EXTINF:-1,AL: ART Kino 3 HD
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQJZKEMhFqNsIvuMhJYpD7e7/ts
+#EXTINF:-1,X Premium 1 HD
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQIhdtKgto9psDGsD8VcgoP2/ts
+#EXTINF:-1,X Premium 2 HD
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQKvsz4bt8CkzLpH4nEaT2BA/ts
+#EXTINF:-1,X Premium 3 HD
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQJ0loGXRfPYB_qHbuJKIdZn/ts
+#EXTINF:-1,X Premium 4 HD
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQKWWhWD9MnHNI7vO7QNdzx4/ts
+#EXTINF:-1,X SHKENC
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQINC5DeaNn9LgfPyJCBiJqg/ts
+#EXTINF:-1,X NATYRE
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQKQsQ01JQL-bBXRPJ-HUJcw/ts
+#EXTINF:-1,X HUMOR
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQJKGlrNTUFofs6FLY2lx0bw/ts
+#EXTINF:-1,X DARK HD
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQKOKdDR15ccvW-suPmYrTqc/ts
+#EXTINF:-1,X ACTION
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQJ-OCjbSliAYcWjUImTllfi/ts
+#EXTINF:-1,X DRAME
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQJLXe5gkL515lC93tveDfJ2/ts
+#EXTINF:-1,X TRILER
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQKK-KiZmYFQuoT5npKjX1hL/ts
+#EXTINF:-1,X COMEDI
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQJp0kRTyNDE1ZRNILAiveWH/ts
+#EXTINF:-1,Alb Thriller
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQITy8Y3-G8F-YjVKUQdxZCi/ts
+#EXTINF:-1,Fox
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQIYlmA27GxfPtv0yBG-TQ0M/ts
+#EXTINF:-1,Fox Crime
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQIN959Q0HgICg30obpTB3t-/ts
+#EXTINF:-1,Fox Life
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQLd5mSU6VBT-7FKtQpuwywF/ts
+#EXTINF:-1,Fox Movies
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQKlHFuK0KO77ac0SsyNovme/ts
+#EXTINF:-1,HBO FHD
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQLrJSo5s64YUuhs0uFlNcMV/ts
+#EXTINF:-1,HBO 3 FHD
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQI8B-adNSIN20s2uWB0RrX5/ts
+#EXTINF:-1,HBO 2 FHD
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQI829rRW3lXFBQQHy1F2VhI/ts
+
+#EXTINF:-1,Super Sport 1
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQJnlcQ3BkzFyv-fwISRiwVH/ts
+#EXTINF:-1,Super Sport 2
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQIKXg4-RvtwjfoZ_PbFgGkk/ts
+#EXTINF:-1,Super Sport 3
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQITyh2t2uws3fBOULyQxHHP/ts
+#EXTINF:-1,Super Sport 4
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQINLlOhdc_ibFySngsz_WXB/ts
+#EXTINF:-1,KUJTESA SPORT 1 HD
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQIRU3T6SdjPmmOAVGTbfhfr/ts
+#EXTINF:-1,KUJTESA SPORT 2 HD
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQLu8vRdneLw0MX96_BThgUy/ts
+#EXTINF:-1,KUJTESA SPORT 3 HD
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQK_ZCjQnJPPm92iLRZHp6m3/ts
+#EXTINF:-1,KUJTESA SPORT 4 HD
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQIqwf-pFE4SZKzJScAfp9gP/ts
+#EXTINF:-1,RTSH Sport
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQK2dPDAxaUBqS3QyjI-41L-/ts
+#EXTINF:-1,Tring Sport 1
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQJsbL0x0iogWL5H5ec7hf5w/ts
+#EXTINF:-1,Tring Sport 2
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQLvrhwpFk12Bw3MRc4M7KFk/ts
+#EXTINF:-1,Tring Sport 3
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQJ9I55CG4ZkdqcmkF_L3dCD/ts
+#EXTINF:-1,Tring Sport 4
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQJa8GKlQA9gqM38Wc1U-Kl6/ts
+#EXTINF:-1,AL: TRING SPORT NEWS
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQL9601_UjITCX5-ZwaUODjw/ts
 
 
 
