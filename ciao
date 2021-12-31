@@ -1274,6 +1274,8 @@ http://stream.com-iptv.com:8080/FilmDrame/index.m3u8?token=test
 http://stream.com-iptv.com:8080/FilmThriller/index.m3u8?token=test
 #EXTINF:-1,AL: Euro Film
 http://stream.com-iptv.com:8080/Eurofilm/index.m3u8?token=test
+#EXTINF:-1,Tring International FHD
+http://95.107.132.105/out/u/606_1.m3u8
 #EXTINF:-1,Tring Family HD
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/176.ts
 #EXTINF:-1,AL: Tring Jolly HD
@@ -1320,7 +1322,8 @@ http://95.107.132.105/out/u/722_1.m3u8
 http://stream.com-iptv.com:8080/Tring3Plus/index.m3u8?token=test
 #EXTINF:-1,AL: Tring Novelas HD
 http://95.107.132.106/out/u/858_5.m3u8
-
+#EXTINF:-1,Tring 3 Plus FHD
+http://95.107.132.105/out/u/31_3.m3u8
 #EXTINF:-1,Tring 3 Plus
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/76.ts
 #EXTINF:-1,AL: Tring D Drama HD
@@ -1331,14 +1334,16 @@ http://95.107.132.106/out/u/356_1.m3u8
 
 
 
-
-
+#EXTINF:-1,Tring History HD
+http://95.107.132.105/out/u/600_3.m3u8
 #EXTINF:-1,Tring History
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/68.ts
-#EXTINF:-1,Tring Planet
-http://95.107.132.106/out/u/874_1.m3u8
+#EXTINF:-1,Tring Planet FHD
+http://95.107.132.105/out/u/592_2.m3u8
 #EXTINF:-1,Tring Planet
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/67.ts
+#EXTINF:-1,Tring World FHD
+http://95.107.132.105/out/u/591_3.m3u8
 #EXTINF:-1,Tring World
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/66.ts
 
@@ -1351,6 +1356,9 @@ http://stream.com-iptv.com:8080/CufoTV/index.m3u8?token=test
 http://95.107.132.106/out/u/898_1.m3u8
 #EXTINF:-1,Tring Tring
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/78.ts
+
+#EXTINF:-1,Tip TV FHD
+http://95.107.132.105/out/u/587_2.m3u8
 #EXTINF:-1,Tip TV
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/77.ts
 #EXTINF:-1,Tring Kids
