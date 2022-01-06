@@ -1126,10 +1126,9 @@ https://akamaicdn64-1.fastnews24.net:2083/client(albkanale.com)/EnXZ3GFphk6CmgLZ
 http://78.31.67.69:8080/Gezuar2022/MetiTV-kanale-shqiptare/84
 #EXTINF:-1,Big Brother 2 VIP HD
 http://78.31.67.69:8080/Gezuar2022/MetiTV-kanale-shqiptare/85
-#EXTINF:-1,Top channel HD
-http://78.31.67.69:8080/Gezuar2022/MetiTV-kanale-shqiptare/69
-#EXTINF:-1,Top channel FHD
-http://78.31.67.69:8080/Gezuar2022/MetiTV-kanale-shqiptare/70
+#EXTINF:-1,Top Channel HD
+http://185.204.32.49:6735/TopChannel/stream/playlist.m3u8
+
 #EXTINF:-1,AL| TOP CHANNEL SD
 http://alban0.ddns.net:8088/_TOP_CHANNEL_SD/index.m3u8?token=test
 #EXTINF:-1,AL: TOP Channel HD
@@ -1137,9 +1136,7 @@ http://stream.com-iptv.com:8080/TopChannelHD/index.m3u8?token=test
 #EXTINF:-1,Top Channel HD
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/131.ts
 #EXTINF:-1,Klan HD
-http://78.31.67.69:8080/Gezuar2022/MetiTV-kanale-shqiptare/67
-#EXTINF:-1,Klan FHD
-http://78.31.67.69:8080/Gezuar2022/MetiTV-kanale-shqiptare/68
+http://185.204.32.49:6735/KlanHD/stream/playlist.m3u8
 #EXTINF:-1,TV KLAN MOB
 http://79.106.90.114:3030/live/klanhdmob/playlist.m3u8
 
@@ -1282,6 +1279,14 @@ http://stream.com-iptv.com:8080/FilmDrame/index.m3u8?token=test
 http://stream.com-iptv.com:8080/FilmThriller/index.m3u8?token=test
 #EXTINF:-1,AL: Euro Film
 http://stream.com-iptv.com:8080/Eurofilm/index.m3u8?token=test
+
+#EXTINF:0,ART Kino 1 HD
+http://93.157.62.180/ArtFilm1/index.m3u8
+#EXTINF:0,ART Kino 2 HD
+http://93.157.62.180/ArtKino2/index.m3u8
+#EXTINF:0,ART Kino 3 HD
+http://93.157.62.180/ArtKino3/index.m3u8
+
 #EXTINF:-1,Tring International FHD
 http://95.107.132.105/out/u/606_1.m3u8
 #EXTINF:-1,Tring Family HD
@@ -1292,8 +1297,7 @@ http://stream.com-iptv.com:8080/JollyHD/index.m3u8?token=test
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/75.ts
 #EXTINF:-1,Jolly FHD
 http://95.107.132.106/out/u/892_2.m3u8
-#EXTINF:-1,Tring Family SD
-http://78.31.67.69:8080/Gezuar2022/MetiTV-kanale-shqiptare/54
+
 #EXTINF:-1,AL: Tring Family HD
 http://95.107.132.105/out/u/673_3.m3u8
 #EXTINF:-1,AL: Tring Family FHD
@@ -1384,11 +1388,11 @@ http://78.31.67.69:8080/Gezuar2022/MetiTV-kanale-shqiptare/168
 
 
 #EXTINF:-1,Explorer Natyra
-http://78.31.67.69:8080/Gezuar2022/MetiTV-kanale-shqiptare/157
+http://93.157.62.180/EXPNatyra/index.m3u8
 #EXTINF:-1,Explorer Histori
-http://78.31.67.69:8080/Gezuar2022/MetiTV-kanale-shqiptare/157
+http://93.157.62.180/EXPHistori/index.m3u8
 #EXTINF:-1,Explorer Shkence
-http://78.31.67.69:8080/Gezuar2022/MetiTV-kanale-shqiptare/159
+http://93.157.62.180/EXPShkence/index.m3u8
 
 
 #EXTINF:-1,AL: Folk +
@@ -2435,279 +2439,7 @@ http://93.115.20.208/portalgen/play.php?chID=13039
 
 
 
-#EXTINF:-1   group-title="-IPTV SHQIP 5-",
-#EXTINF:-1,Top Channel HD
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121026
-#EXTINF:-1,Klan TV
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121028
-#EXTINF:-1,Klan Plus
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121030
-#EXTINF:-1,VIZION PLUS
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121032
-#EXTINF:-1,RTSH 1
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121034
-#EXTINF:-1,RTSH 2
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121035
-#EXTINF:-1,RTSH 3
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121036
 
-#EXTINF:-1,AL| Family HD
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121189
-#EXTINF:-1,Film Nje HD
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121038
-#EXTINF:-1,Film Dy HD
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121039
-#EXTINF:-1,Film Hits
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121040
-#EXTINF:-1,Film Aksion
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121041
-#EXTINF:-1,Film Autor
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121042
-#EXTINF:-1,Film Thriller
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121043
-#EXTINF:-1,Film Drame
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121044
-#EXTINF:-1,Film Komedi
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121045
-#EXTINF:-1,Tring Action
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121047
-#EXTINF:-1,Tring Super
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121048
-#EXTINF:-1,Tring Fantasy
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121049
-#EXTINF:-1,Tring Life
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121050
-#EXTINF:-1,Tring Comedy
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121051
-#EXTINF:-1,Tring Shqip
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121056
-#EXTINF:-1,RTSH Shqip
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121057
-#EXTINF:-1,RTSH Film
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121058
-
-#EXTINF:-1,LIVING
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121061
-#EXTINF:-1,JOLLY HD
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121062
-#EXTINF:-1,3 Plus
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121063
-#EXTINF:-1,SMILE
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121066
-
-#EXTINF:-1,Tring Planet
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121096
-#EXTINF:-1,Tring World
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121097
-#EXTINF:-1,Tring History
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121098
-
-#EXTINF:-1,Junior TV
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121104
-#EXTINF:-1,Tring Tring
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121107
-#EXTINF:-1,Tip Tv
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121109
-#EXTINF:-1,AL| Rtv 21 Junior
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121201
-
-
-#EXTINF:-1,BBF
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121182
-#EXTINF:-1,Zico TV
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121184
-#EXTINF:-1,RTK 1
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121163
-#EXTINF:-1,RTK 2
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121164
-#EXTINF:-1,RTK 3
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121165
-#EXTINF:-1,RTK 4
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121166
-#EXTINF:-1,RTV 21 HD
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121168
-#EXTINF:-1,KTV HD
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121169
-#EXTINF:-1,Atv HD
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121170
-#EXTINF:-1,Klan Kosova
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121171
-#EXTINF:-1,RTV Dukagjini
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121175
-#EXTINF:-1,Alsat M
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121176
-#EXTINF:-1,AL| Kanal 10
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121190
-#EXTINF:-1,AL| Smile
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121192
-#EXTINF:-1,AL| TV Opinion
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121195
-#EXTINF:-1,AL| Peace Tv
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121197
-#EXTINF:-1,AL| Rtv Shenja
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121199
-#EXTINF:-1,AL| TV Besa
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121200
-
-#EXTINF:-1,AL| Discover Chanles
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121202
-#EXTINF:-1,AL| National Geographic
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121203
-#EXTINF:-1,AL| FOX
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121204
-#EXTINF:-1,AL| FOX Life
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121205
-#EXTINF:-1,AL| FOX Crime
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/121206
-
-
-#EXTINF:-1,SUPERSPORT 1 HD (AL)
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/116928
-#EXTINF:-1,SUPERSPORT 2 HD (AL)
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/116929
-#EXTINF:-1,SUPER SPORT 2 HD (AL)
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/116923
-#EXTINF:-1,SUPERSPORT 3 HD (AL)
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/116930
-#EXTINF:-1,SUPER SPORT 3 HD (AL)
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/116924
-#EXTINF:-1,SUPERSPORT 4 HD (AL)
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/116931
-#EXTINF:-1,SUPER SPORT 4 HD (AL)
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/116925
-#EXTINF:-1,SUPERSPORT 5 HD (AL)
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/116932
-#EXTINF:-1,SUPER SPORT 5 HD (AL)
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/116926
-#EXTINF:-1,SUPER SPORT 6 HD (AL)
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/116927
-#EXTINF:-1,TRING SPORT 1 HD (AL)
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/116933
-#EXTINF:-1,TRING SPORT 2 HD (AL)
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/116934
-#EXTINF:-1,TRING SPORT 3 HD (AL)
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/116935
-#EXTINF:-1,TRING SPORT 4 HD (AL)
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/116936
-#EXTINF:-1,KUJTESA SPORT 2 (AL)
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/116917
-#EXTINF:-1,A- Sport 1 HD BIH
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/85124
-#EXTINF:-1,A- Sport 1 HD SRB
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/85125
-#EXTINF:-1,A- Sport 2 HD SRB
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/85126
-#EXTINF:-1,A- Sport 3 HD SRB
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/85127
-#EXTINF:-1,A-Sport 4 HD SRB
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/85128
-#EXTINF:-1,A-Sport 1 HD HR
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/85129
-#EXTINF:-1,A- Sport 2 HD HR
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/85130
-#EXTINF:-1,A- Sport 3 HD HR
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/85131
-#EXTINF:-1,A- 4 HD HR
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/85132
-#EXTINF:-1,A- Sport 5 HD HR
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/85133
-#EXTINF:-1,A- Sport 6 HD HR
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/85134
-#EXTINF:-1,SK 1 SR
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/85137
-#EXTINF:-1,SK 2 SR
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/85138
-#EXTINF:-1,SK 3 SR
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/85139
-#EXTINF:-1,SK 4 SRB
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/85140
-#EXTINF:-1,SK 5 SRB
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/85141
-#EXTINF:-1,SK 6 SRB
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/85142
-#EXTINF:-1,SK 1 HR
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/85143
-#EXTINF:-1,SK 2 HR
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/85144
-#EXTINF:-1,SK 3 HR
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/85145
-#EXTINF:-1,SK HD
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/85149
-
-#EXTINF:-1,FIGHT CHANNEL HD
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/85153
-#EXTINF:-1,EUROSPORT 1 HD
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/85159
-#EXTINF:-1,EUROSPORT 2 HD
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/85160
-#EXTINF:-1,Sky Sport Bundesliga 3 HD
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/85182
-#EXTINF:-1,Sky (DE) Bundesliga 1
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/85220
-#EXTINF:-1,Sky (DE) Bundesliga 2 (ONLY ON MATCHDAY)
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/85221
-#EXTINF:-1,Sky (DE) Bundesliga 3 (ONLY ON MATCHDAY)
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/85222
-#EXTINF:-1,Sky (DE) Bundesliga 4 (ONLY ON MATCHDAY)
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/85223
-#EXTINF:-1,Sky (DE) Bundesliga 5 (ONLY ON MATCHDAY)
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/85224
-#EXTINF:-1,Sky (DE) Bundesliga 6
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/85225
-#EXTINF:-1,Sky (DE) Dazn Sport 1
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/85226
-#EXTINF:-1,Sky (DE) Dazn Sport 2
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/85227
-#EXTINF:-1,Sky (DE) Sport 1
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/85228
-#EXTINF:-1,Sky (DE) Sport 2
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/85229
-#EXTINF:-1,BG➤ Auto Motor Sport HD
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/117891
-#EXTINF:-1,BG➤ Eurosport 1 HD
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/117893
-#EXTINF:-1,BG➤ Eurosport 2 HD
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/117894
-#EXTINF:-1,BG➤ 100% Automoto
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/117895
-#EXTINF:-1,BG➤ Diema Sport HD
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/117883
-#EXTINF:-1,TR➤ Sports Tv HD
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/117227
-#EXTINF:-1,TR➤ Nba Tv HD
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/117228
-#EXTINF:-1,TR➤ Fightbox HD
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/117231
-#EXTINF:-1,Ufc Fight HD
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/117232
-#EXTINF:-1,TR➤ Nba League
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/117239
-#EXTINF:-1,TR➤ Fb Tv HD
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/117241
-#EXTINF:-1,TR➤ Sport Smart 2 HD
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/117207
-#EXTINF:-1,TR➤ Tivibu Spor 1 HD
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/117210
-#EXTINF:-1,TR➤ Tivibu Spor 2 HD
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/117213
-#EXTINF:-1,TR➤ Tivibu Spor 3 HD
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/117216
-#EXTINF:-1,TR➤ Trt Spor 2 HD
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/117223
-#EXTINF:-1,TR➤ Eurosport 1 HD
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/117224
-#EXTINF:-1,TR➤ Eurosport 2 HD
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/117225
-#EXTINF:-1,TR➤ Gs Tv HD
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/117226
-#EXTINF:-1,TR➤ S Sport 2 HD
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/117195
-#EXTINF:-1,TR➤ S Sport+
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/117198
-#EXTINF:-1,TR➤ Sport Smart HD
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/117200
-#EXTINF:-1,REAL MADRID TV (ES)
-http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/116915
 
 
 
@@ -2718,6 +2450,26 @@ http://super-media.giize.com:80/amigos2line/zwR4XcSSxY/116915
 
 
 #EXTINF:-1   group-title="-IPTV SPORT 1-",
+#EXTINF:0,Supersport 1
+http://185.204.32.49:6735/UltraNetS1/stream/playlist.m3u8
+#EXTINF:0,Supersport 2
+http://185.204.32.49:6735/UltraNetS2/stream/playlist.m3u8
+#EXTINF:0,Supersport 3
+http://185.204.32.49:6735/UltraNetS3/stream/playlist.m3u8
+#EXTINF:0,Supersport 4
+http://185.204.32.49:6735/UltraNetS4/stream/playlist.m3u8
+#EXTINF:0,Supersport 5
+http://185.204.32.49:6735/UltraNetS5/stream/playlist.m3u8
+#EXTINF:0,Supersport 6
+http://185.204.32.49:6735/UltraNetS6/stream/playlist.m3u8
+#EXTINF:0,Tring Sport 1
+http://185.204.32.49:6735/Sport1/stream/playlist.m3u8
+#EXTINF:0,Tring Sport 2
+http://185.204.32.49:6735/Sport2/stream/playlist.m3u8
+#EXTINF:0,Tring Sport 3
+http://185.204.32.49:6735/Sport3/stream/playlist.m3u8
+#EXTINF:0,Tring Sport 4
+http://185.204.32.49:6735/Sport4/stream/playlist.m3u8
 #EXTINF:-1,|FR| BEIN SPORT  1 HD 
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49493
 #EXTINF:-1,|FR| BEIN SPORT  2 HD 
