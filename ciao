@@ -1122,10 +1122,10 @@ https://akamaicdn64-1.fastnews24.net:2083/client(albkanale.com)/EnXZ3GFphk6CmgLZ
 
 
 
-#EXTINF:-1,Big Brother 1  VIP HD
-http://78.31.67.69:8080/Gezuar2022/MetiTV-kanale-shqiptare/84
-#EXTINF:-1,Big Brother 2 VIP HD
-http://78.31.67.69:8080/Gezuar2022/MetiTV-kanale-shqiptare/85
+#EXTINF:-1,AL: Big Brother 1 VIP
+http://ky-iptv.com:80/agent99/agent99/1782097.ts
+#EXTINF:-1,AL: Big Brother 2 VIP
+http://ky-iptv.com:80/agent99/agent99/1782098.ts
 #EXTINF:-1,Top Channel HD
 http://185.204.32.49:6735/TopChannel/stream/playlist.m3u8
 
@@ -1291,6 +1291,27 @@ http://93.157.62.180/ArtKino2/index.m3u8
 #EXTINF:0,ART Kino 3 HD
 http://93.157.62.180/ArtKino3/index.m3u8
 
+#EXTINF:-1,AL: Tele One Aksion HD
+http://ky-iptv.com:80/agent99/agent99/384645.ts
+#EXTINF:-1,AL: Tele One Aventure HD
+http://ky-iptv.com:80/agent99/agent99/384646.ts
+#EXTINF:-1,AL: Tele One Crime HD
+http://ky-iptv.com:80/agent99/agent99/384649.ts
+#EXTINF:-1,AL: Tele One Drame HD
+http://ky-iptv.com:80/agent99/agent99/384650.ts
+#EXTINF:-1,AL: Tele One Thriller HD
+http://ky-iptv.com:80/agent99/agent99/1358699.ts
+#EXTINF:-1,AL: Tele one EPIk HD
+http://ky-iptv.com:80/agent99/agent99/384447.ts
+#EXTINF:-1,AL: Kino Premiere1 HD
+http://ky-iptv.com:80/agent99/agent99/384432.ts
+#EXTINF:-1,AL: KINO PREMIERE 2 HD
+http://ky-iptv.com:80/agent99/agent99/384430.ts
+#EXTINF:-1,AL: Kino Premiere 3 HD
+http://ky-iptv.com:80/agent99/agent99/384431.ts
+
+
+
 #EXTINF:-1,Tring International FHD
 http://95.107.132.105/out/u/606_1.m3u8
 #EXTINF:-1,Tring Family HD
@@ -1363,9 +1384,10 @@ http://95.107.132.105/out/u/591_3.m3u8
 #EXTINF:-1,Tring World
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/66.ts
 
+#EXTINF:-1,AL: SOFIA HD
+http://ky-iptv.com:80/agent99/agent99/384611.ts
 #EXTINF:-1,AL: Bang Bang
 http://stream.com-iptv.com:8080/BangBang/index.m3u8?token=test
-
 #EXTINF:-1,AL: Cufo TV
 http://stream.com-iptv.com:8080/CufoTV/index.m3u8?token=test
 #EXTINF:-1,Tring Tring HD
@@ -1419,6 +1441,10 @@ http://stream.com-iptv.com:8080/SS4HD/index.m3u8?token=test
 http://stream.com-iptv.com:8080/SS5HD/index.m3u8?token=test
 #EXTINF:-1,AL: Super Sport 6 HD
 http://stream.com-iptv.com:8080/SS6HD/index.m3u8?token=test
+
+#EXTINF:-1,AL: Super Sport 7 HD
+http://ky-iptv.com:80/agent99/agent99/384633.ts
+
 #EXTINF:-1,Tring Sport News
 http://95.107.132.106/out/u/811_1.m3u8
 #EXTINF:-1,Tring Sport 1 HD
