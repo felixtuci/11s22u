@@ -3631,6 +3631,35 @@ http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26615
 #EXTINF:-1,|NL| FOX Sports 6 ᴴ²⁵⁶ ᴴᵉᵛᶜ
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26616
 
+#EXTINF:0,Dazn Sports 1 HD
+http://45.148.147.123:5079/play/a1246
+#EXTINF:0,Dazn Sports 2 HD
+http://45.148.147.123:5079/play/a1247
+#EXTINF:0,Dazn Sports 3 HD
+http://45.148.147.123:5079/play/a1248
+#EXTINF:0,Dazn Sports 4 HD
+http://45.148.147.123:5079/play/a1249
+#EXTINF:0,Dazn Sports 5 HD
+http://45.148.147.123:5079/play/a1250
+#EXTINF:0,Dazn Sports 6 HD
+http://45.148.147.123:5079/play/a1251
+#EXTINF:0,Dazn Sports 7 HD
+http://45.148.147.123:5079/play/a1252
+#EXTINF:0,Dazn Sports 8 HD
+http://45.148.147.123:5079/play/a1253
+#EXTINF:0,Dazn Sports 9 HD
+http://45.148.147.123:5079/play/a1254
+#EXTINF:0,Dazn Sports 10 HD
+http://45.148.147.123:5079/play/a1255
+#EXTINF:0,Dazn Sports 11 HD
+http://45.148.147.123:5079/play/a1256
+#EXTINF:0,Dazn Sports 12 HD
+http://45.148.147.123:5079/play/a1257
+#EXTINF:0,Dazn Sports 13 HD
+http://45.148.147.123:5079/play/a1258
+
+
+
 
 #EXTINF:-1   group-title="-IPTV SPORT 2-",
 #EXTINF:-1,SuperSport HD 1
@@ -3643,7 +3672,10 @@ http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/180.ts
 http://93.157.62.180/Supersport4/index.m3u8
 #EXTINF:-1,SuperSport HD 5
 http://93.157.62.180/Supersport5/index.m3u8
-
+#EXTINF:0,SuperSport 6
+http://93.157.62.180/Supersport6/index.m3u8
+#EXTINF:0 ,SuperSport 7
+http://93.157.62.180/Supersport7/index.m3u8
 
 #EXTINF:-1,AL: Art Sport 1 HD
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/183.ts
