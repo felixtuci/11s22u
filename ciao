@@ -1115,9 +1115,9 @@ http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/23711
 
 #EXTINF:-1   group-title="-IPTV SHQIP 3-",
 #EXTINF:-1,BIG BROTHER VIP 1 SD
-http://ky-iptv.com:80/freebeer/freebeer/1782097.ts
+http://ky-iptv.com:80/jwalters/jwalters/1782097.ts
 #EXTINF:-1,BIG BROTHER VIP 2 SD
-http://ky-iptv.com:80/freebeer/freebeer/1782098.ts
+http://ky-iptv.com:80/jwalters/jwalters/1782098.ts
 
 
 
@@ -1138,7 +1138,7 @@ http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/131.ts
 #EXTINF:-1,Klan HD
 http://185.204.32.49:6735/KlanHD/stream/playlist.m3u8
 #EXTINF:-1,TV KLAN MOB
-http://alban0.ddns.net:8088/_KLAN_SD/index.m3u8?token=test
+http://79.106.90.114:3030/live/klanhdmob/playlist.m3u8
 
 #EXTINF:-1,TV KLAN SD
 http://95.107.132.106/out/u/773_1.m3u8
@@ -1467,23 +1467,23 @@ http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/179.ts
 #EXTINF:-1,SS1 HD
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/178.ts
 #EXTINF:-1,BT Sports 1 HD
-http://vlaxos3.dyndns.info:2896/BT_Sports_1/mpegts?token=test
+http://uk.iptv-streamer.com/UK_BT_Sport_1_HD/index.m3u8?token=test
 #EXTINF:-1,BT Sports 2 HD
-http://vlaxos3.dyndns.info:2896/BT_Sports_2/mpegts?token=test
+http://uk.iptv-streamer.com/UK_BT_Sport_2_HD/index.m3u8?token=test
 #EXTINF:-1,BT Sports 3 HD
-http://vlaxos3.dyndns.info:2896/BT_Sports_3/mpegts?token=test
+http://uk.iptv-streamer.com/UK_BT_Sport_3_HD/index.m3u8?token=test
 #EXTINF:-1,Sky Sports Premier League
-http://vlaxos3.dyndns.info:2896/Sky_Sports_Premier_League/mpegts?token=test
+http://uk.iptv-streamer.com/UK_Sky_Sports_Premier_League_HD/index.m3u8?token=test
 #EXTINF:-1,Sky Sports Football
-http://vlaxos3.dyndns.info:2896/Sky_Sports_Football/mpegts?token=test
+http://uk.iptv-streamer.com/UK_Sky_Sports_Football_FHD/index.m3u8?token=test
 #EXTINF:-1,Sky Sports Main Events
-http://vlaxos3.dyndns.info:2896/Sky_Sports_Main_Events/mpegts?token=test
+http://uk.iptv-streamer.com/UK_SKY_SPORTS_MAIN_EVENT_HD/index.m3u8?token=test
 #EXTINF:-1,Sky Sports Mix
-http://vlaxos3.dyndns.info:2896/Sky_Sports_Mix/mpegts?token=test
+http://uk.iptv-streamer.com/UK_Sky_Sports_Mix_HD/index.m3u8?token=test
 #EXTINF:-1,Sky Sports Arena
-http://vlaxos3.dyndns.info:2896/Sky_Sports_Arena/mpegts?token=test
+http://uk.iptv-streamer.com/UK_Sky_Sports_Arena_HD/index.m3u8?token=test
 #EXTINF:-1,Sky Sports F1
-http://vlaxos3.dyndns.info:2896/Sky_Sports_F1/mpegts?token=test
+http://uk.iptv-streamer.com/UK_SKY_SPORTS_F1_FHD/index.m3u8?token=test
 
 
 
