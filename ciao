@@ -3446,6 +3446,13 @@ http://doniseriptv.com:8080/Kushtrim.k/F4uSVkGP6D/193
 
 
 #EXTINF:-1   group-title="-IPTV SPORT 1-",
+
+#EXTINF:0,Oversport 1 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290218
+#EXTINF:0,Oversport 3 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290537
+#EXTINF:0,Oversport 4 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290538
 #EXTINF:0,Supersport 1
 http://185.204.32.49:6735/UltraNetS1/stream/playlist.m3u8
 #EXTINF:0,Supersport 2
