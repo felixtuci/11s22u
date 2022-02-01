@@ -1130,7 +1130,7 @@ http://ky-iptv.com:80/agent99/agent99/1782098.ts
 http://185.204.32.49:6735/TopChannel/stream/playlist.m3u8
 
 #EXTINF:-1,AL| TOP CHANNEL SD
-http://alban0.ddns.net:8088/_TOP_CHANNEL_SD/index.m3u8?token=test
+http://2wb9.short.gy/iptvshqip/topchannelB.m3u8
 #EXTINF:-1,AL: TOP Channel HD
 http://stream.com-iptv.com:8080/TopChannelHD/index.m3u8?token=test
 #EXTINF:-1,Top Channel HD
