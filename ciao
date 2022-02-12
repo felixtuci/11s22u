@@ -4595,517 +4595,357 @@ http://ky-iptv.com:80/starisborn/starisborn/387111.ts
 
 
 #EXTINF:-1   group-title="-IPTV ITALIA 3- ",
-#EXTINF:-1,IT: Rai 1
-http://ky-iptv.com:80/jwalters/jwalters/387112.ts
-#EXTINF:-1,IT: Rai 2
-http://ky-iptv.com:80/jwalters/jwalters/387113.ts
-#EXTINF:-1,IT: Rai 4
-http://ky-iptv.com:80/jwalters/jwalters/387115.ts
-#EXTINF:-1,IT: RAI Italia
-http://ky-iptv.com:80/jwalters/jwalters/387117.ts
-#EXTINF:-1,IT: Rai Movie
-http://ky-iptv.com:80/jwalters/jwalters/387119.ts
-#EXTINF:-1,IT: Rai Scuola
-http://ky-iptv.com:80/jwalters/jwalters/387120.ts
-#EXTINF:-1,IT: Rai News24
-http://ky-iptv.com:80/jwalters/jwalters/387121.ts
-#EXTINF:-1,IT: Italia 1 FHD
-http://ky-iptv.com:80/jwalters/jwalters/227113.ts
-#EXTINF:-1,IT: Italia 2 HD
-http://ky-iptv.com:80/jwalters/jwalters/227114.ts
-#EXTINF:-1,IT: LA 5 MEDIASET HD
-http://ky-iptv.com:80/jwalters/jwalters/227121.ts
-#EXTINF:-1,IT: Canale 5
-http://ky-iptv.com:80/jwalters/jwalters/387050.ts
-#EXTINF:-1,IT: Mediaset Italia 1
-http://ky-iptv.com:80/jwalters/jwalters/387123.ts
-#EXTINF:-1,IT: Mediaset 20
-http://ky-iptv.com:80/jwalters/jwalters/387125.ts
-#EXTINF:-1,IT: Mediaset Extra
-http://ky-iptv.com:80/jwalters/jwalters/387126.ts
-#EXTINF:-1,IT: Rete 4 TV
-http://ky-iptv.com:80/jwalters/jwalters/387128.ts
-#EXTINF:-1,IT: La 5
-http://ky-iptv.com:80/jwalters/jwalters/387129.ts
-#EXTINF:-1,IT: La 7
-http://ky-iptv.com:80/jwalters/jwalters/387130.ts
-#EXTINF:-1,IT: Cine 34 HD
-http://ky-iptv.com:80/jwalters/jwalters/227007.ts
-#EXTINF:-1,IT: Tgcom 24
-http://ky-iptv.com:80/jwalters/jwalters/387132.ts
-#EXTINF:-1,IT: Sky Arte
-http://ky-iptv.com:80/jwalters/jwalters/387133.ts
-#EXTINF:-1,IT: Sky TG24 SD
-http://ky-iptv.com:80/jwalters/jwalters/387135.ts
-#EXTINF:-1,IT: RTL 102.5 TV
-http://ky-iptv.com:80/jwalters/jwalters/387137.ts
-#EXTINF:-1,IT: DEEJAY TV
-http://ky-iptv.com:80/jwalters/jwalters/387138.ts
-#EXTINF:-1,IT: RDS TV
-http://ky-iptv.com:80/jwalters/jwalters/387139.ts
-#EXTINF:-1,IT: VH1
-http://ky-iptv.com:80/jwalters/jwalters/387140.ts
-#EXTINF:-1,IT: Radio 51
-http://ky-iptv.com:80/jwalters/jwalters/387142.ts
-#EXTINF:-1,IT: Radio Capital TV
-http://ky-iptv.com:80/jwalters/jwalters/387143.ts
-#EXTINF:-1,IT: Premium Crime HD
-http://ky-iptv.com:80/jwalters/jwalters/387153.ts
-#EXTINF:-1,IT: Sky Serie A FHD
-http://ky-iptv.com:80/jwalters/jwalters/227326.ts
-#EXTINF:-1,IT: Sky Sport Uno
-http://ky-iptv.com:80/jwalters/jwalters/387155.ts
-#EXTINF:-1,IT: Sky Sport F1
-http://ky-iptv.com:80/jwalters/jwalters/387160.ts
-#EXTINF:-1,IT: Sky Sport MotoGP
-http://ky-iptv.com:80/jwalters/jwalters/387162.ts
-#EXTINF:-1,IT: Sky Sport Arena
-http://ky-iptv.com:80/jwalters/jwalters/387158.ts
-#EXTINF:-1,IT: Sky Cinema Collection
-http://ky-iptv.com:80/jwalters/jwalters/387159.ts
-#EXTINF:-1,IT: Sky Sport NBA
-http://ky-iptv.com:80/jwalters/jwalters/387161.ts
-#EXTINF:-1,IT: Sky Sport 24
-http://ky-iptv.com:80/jwalters/jwalters/387167.ts
-#EXTINF:-1,IT: Rai Sport+
-http://ky-iptv.com:80/jwalters/jwalters/387174.ts
-#EXTINF:-1,IT: Sport Italia HD
-http://ky-iptv.com:80/jwalters/jwalters/387175.ts
-#EXTINF:-1,IT: Inter Channel
-http://ky-iptv.com:80/jwalters/jwalters/387178.ts
-#EXTINF:-1,IT: RTV Sport 1 HD
-http://ky-iptv.com:80/jwalters/jwalters/387181.ts
-#EXTINF:-1,IT: Super Tennis
-http://ky-iptv.com:80/jwalters/jwalters/387182.ts
-#EXTINF:-1,IT: Dazn Sport 1 HD
-http://ky-iptv.com:80/jwalters/jwalters/387183.ts
-#EXTINF:-1,IT: Eurosport 2 HD
-http://ky-iptv.com:80/jwalters/jwalters/387186.ts
-#EXTINF:-1,IT: SKY PrimaFila 2 HD
-http://ky-iptv.com:80/jwalters/jwalters/387191.ts
-#EXTINF:-1,IT: SKY Primafila 4 HD
-http://ky-iptv.com:80/jwalters/jwalters/387193.ts
-#EXTINF:-1,IT: SKY Primafila 5 HD
-http://ky-iptv.com:80/jwalters/jwalters/387194.ts
-#EXTINF:-1,IT: SKY Primafila 7 HD
-http://ky-iptv.com:80/jwalters/jwalters/387196.ts
-#EXTINF:-1,IT: SKY Primafila 8 HD
-http://ky-iptv.com:80/jwalters/jwalters/387197.ts
-#EXTINF:-1,IT: SKY Primafila 9 HD
-http://ky-iptv.com:80/jwalters/jwalters/387198.ts
-#EXTINF:-1,IT: SKY Primafila 10 HD
-http://ky-iptv.com:80/jwalters/jwalters/387199.ts
-#EXTINF:-1,IT: SKY Primafila 12 HD
-http://ky-iptv.com:80/jwalters/jwalters/387201.ts
-#EXTINF:-1,IT: SKY Primafila 13 HD
-http://ky-iptv.com:80/jwalters/jwalters/387202.ts
-#EXTINF:-1,IT: SKY Primafila 15 HD
-http://ky-iptv.com:80/jwalters/jwalters/387204.ts
-#EXTINF:-1,IT: SKY Primafila 16 HD
-http://ky-iptv.com:80/jwalters/jwalters/387205.ts
-#EXTINF:-1,IT: Primafila 18 HD
-http://ky-iptv.com:80/jwalters/jwalters/227223.ts
-#EXTINF:-1,IT: SKY CINEMA UNO+24 HD
-http://ky-iptv.com:80/jwalters/jwalters/1195880.ts
-#EXTINF:-1,IT: Skylantic HD
-http://ky-iptv.com:80/jwalters/jwalters/227367.ts
+#EXTINF:-1,LA 5 IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14189
+#EXTINF:-1,Iris HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14157
+#EXTINF:-1,Rete 4 IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14200
+#EXTINF:-1,Rete Quattro HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23368
+#EXTINF:-1,20 Mediaset  FHD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23371
+#EXTINF:-1,Italia 1 IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/5234
+#EXTINF:-1,Italia 2 IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14193
+#EXTINF:-1,Canale 5 IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14209
+#EXTINF:-1,Canale 5 FHD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/1666
+#EXTINF:-1,TV 8 HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14179
+#EXTINF:-1,La 7 d IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/16568
+#EXTINF:-1,La 7 HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/16567
+#EXTINF:-1,Rai 4K IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/24698
+#EXTINF:-1,Rai 1 HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14207
+#EXTINF:-1,Rai 1 IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/1662
+#EXTINF:-1,Rai 2 HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14206
+#EXTINF:-1,Rai 2 IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/1663
+#EXTINF:-1,Rai 3 HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14205
+#EXTINF:-1,Rai 3 IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/1664
+#EXTINF:-1,Rai 4 HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14204
+#EXTINF:-1,Rai 4 IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/1709
+#EXTINF:-1,Rai 5 HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14203
+#EXTINF:-1,Rai Movie HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14100
+#EXTINF:-1,Rai Movie IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4108
+#EXTINF:-1,Rai News 24 HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8996
+#EXTINF:-1,Rai Premium HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14098
+#EXTINF:-1,Rai Scuola HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8998
+#EXTINF:-1,Rai Sport + HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14202
+#EXTINF:-1,Rai Sport IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14201
+#EXTINF:-1,Rai Yoyo HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8994
+#EXTINF:-1,Real Time HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14199
 
-#EXTINF:-1,IT: Sky Atlantic
-http://ky-iptv.com:80/jwalters/jwalters/387208.ts
-#EXTINF:-1,IT: Sky Cinema Due
-http://ky-iptv.com:80/jwalters/jwalters/387210.ts
-#EXTINF:-1,IT: Sky Cinema Due +24 HD
-http://ky-iptv.com:80/jwalters/jwalters/387212.ts
-#EXTINF:-1,IT: Sky Cinema Family
-http://ky-iptv.com:80/jwalters/jwalters/387215.ts
-#EXTINF:-1,IT: Sky Cinema Action
-http://ky-iptv.com:80/jwalters/jwalters/387216.ts
-#EXTINF:-1,IT: Sky Cinema Drama
-http://ky-iptv.com:80/jwalters/jwalters/387219.ts
-#EXTINF:-1,IT: Sky Cinema Romance HD
-http://ky-iptv.com:80/jwalters/jwalters/387220.ts
-#EXTINF:-1,IT: Rai Storia
-http://ky-iptv.com:80/jwalters/jwalters/387222.ts
-#EXTINF:-1,IT: Dmax
-http://ky-iptv.com:80/jwalters/jwalters/387223.ts
-#EXTINF:-1,IT: Discovery Science
-http://ky-iptv.com:80/jwalters/jwalters/387227.ts
-#EXTINF:-1,IT: CACCIA e Pesca
-http://ky-iptv.com:80/jwalters/jwalters/387235.ts
-#EXTINF:-1,IT: Real Time
-http://ky-iptv.com:80/jwalters/jwalters/387237.ts
-#EXTINF:-1,IT: TV 2000
-http://ky-iptv.com:80/jwalters/jwalters/387238.ts
-#EXTINF:-1,IT: Aurora Arte
-http://ky-iptv.com:80/jwalters/jwalters/387240.ts
-#EXTINF:-1,IT: Carina TV
-http://ky-iptv.com:80/jwalters/jwalters/387242.ts
-#EXTINF:-1,IT: Esperia TV
-http://ky-iptv.com:80/jwalters/jwalters/387244.ts
-#EXTINF:-1,IT: m2o TV
-http://ky-iptv.com:80/jwalters/jwalters/387247.ts
-#EXTINF:-1,IT: Rete veneta
-http://ky-iptv.com:80/jwalters/jwalters/387255.ts
-#EXTINF:-1,IT: TV Brescia
-http://ky-iptv.com:80/jwalters/jwalters/387259.ts
-#EXTINF:-1,IT: Telechiara
-http://ky-iptv.com:80/jwalters/jwalters/387262.ts
-#EXTINF:-1,IT: Tele Sondrio News HD
-http://ky-iptv.com:80/jwalters/jwalters/387264.ts
-#EXTINF:-1,IT: TV7 Triveneta
-http://ky-iptv.com:80/jwalters/jwalters/387270.ts
-#EXTINF:-1,IT: TVA Vicenza
-http://ky-iptv.com:80/jwalters/jwalters/387271.ts
-#EXTINF:-1,IT: Spike
-http://ky-iptv.com:80/jwalters/jwalters/387278.ts
-#EXTINF:-1,IT: RSI La 2 HD
-http://ky-iptv.com:80/jwalters/jwalters/387285.ts
-#EXTINF:-1,IT: FRISBEE
-http://ky-iptv.com:80/jwalters/jwalters/387286.ts
-#EXTINF:-1,IT: Discovery Channel
-http://ky-iptv.com:80/jwalters/jwalters/387226.ts
-#EXTINF:-1,IT: Focus
-http://ky-iptv.com:80/jwalters/jwalters/387231.ts
-#EXTINF:-1,IT: Nove TV
-http://ky-iptv.com:80/jwalters/jwalters/387232.ts
-#EXTINF:-1,IT: Teleromagna
-http://ky-iptv.com:80/jwalters/jwalters/227411.ts
-#EXTINF:-1,IT: Mediaset TGCOM 24
-http://ky-iptv.com:80/jwalters/jwalters/227148.ts
-#EXTINF:-1,IT: Discovery FRISBEE HD
-http://ky-iptv.com:80/jwalters/jwalters/227027.ts
-#EXTINF:-1,IT: TRACE Sport Stars HD
-http://ky-iptv.com:80/jwalters/jwalters/227425.ts
-#EXTINF:-1,IT: TV Yes Umbria
-http://ky-iptv.com:80/jwalters/jwalters/220980.ts
-#EXTINF:-1,IT: Sky Primafila HD
-http://ky-iptv.com:80/jwalters/jwalters/220936.ts
-#EXTINF:-1,IT: RADIO M20 TV
-http://ky-iptv.com:80/jwalters/jwalters/220881.ts
-#EXTINF:-1,IT: PREMIUM PARAMOUNT
-http://ky-iptv.com:80/jwalters/jwalters/220865.ts
-#EXTINF:-1,IT: History Channel HD
-http://ky-iptv.com:80/jwalters/jwalters/220824.ts
-#EXTINF:-1,IT: LA7d FHD
-http://ky-iptv.com:80/jwalters/jwalters/220835.ts
-#EXTINF:-1,IT: ITALIA 2 MEDIASET HD
-http://ky-iptv.com:80/jwalters/jwalters/220829.ts
-#EXTINF:-1,IT: Iris HD
-http://ky-iptv.com:80/jwalters/jwalters/220827.ts
-#EXTINF:-1,IT: Sky Calcio 3
-http://ky-iptv.com:80/jwalters/jwalters/387165.ts
-#EXTINF:-1,IT: SKY Primafila 3 HD
-http://ky-iptv.com:80/jwalters/jwalters/387192.ts
-#EXTINF:-1,IT: Studio 100
-http://ky-iptv.com:80/jwalters/jwalters/227378.ts
-#EXTINF:-1,IT: Sky Calcio 1
-http://ky-iptv.com:80/jwalters/jwalters/387163.ts
-#EXTINF:-1,IT: Super Tennis
-http://ky-iptv.com:80/jwalters/jwalters/514649.ts
-#EXTINF:-1,IT: Teleonda
-http://ky-iptv.com:80/jwalters/jwalters/387267.ts
-#EXTINF:-1,IT: RTTR
-http://ky-iptv.com:80/jwalters/jwalters/387256.ts
-#EXTINF:-1,IT: Top Crime
-http://ky-iptv.com:80/jwalters/jwalters/387122.ts
-#EXTINF:-1,IT: MEDIASET IRIS
-http://ky-iptv.com:80/jwalters/jwalters/227144.ts
-
-#EXTINF:-1,IT: Sophia TV
-http://ky-iptv.com:80/jwalters/jwalters/387258.ts
-#EXTINF:-1,IT: Elive TV Brescia
-http://ky-iptv.com:80/jwalters/jwalters/387243.ts
-#EXTINF:-1,IT: Sky Dazn Bar HD
-http://ky-iptv.com:80/jwalters/jwalters/227315.ts
-#EXTINF:-1,IT: TV8
-http://ky-iptv.com:80/jwalters/jwalters/387108.ts
-#EXTINF:-1,IT: Sky Uno HD
-http://ky-iptv.com:80/jwalters/jwalters/387207.ts
-#EXTINF:-1,IT: Sky Cinema Due +24 HD
-http://ky-iptv.com:80/jwalters/jwalters/227296.ts
-#EXTINF:-1,IT: RTV Reggio HD
-http://ky-iptv.com:80/jwalters/jwalters/387257.ts
-#EXTINF:-1,IT: Premium Action
-http://ky-iptv.com:80/jwalters/jwalters/387147.ts
-#EXTINF:-1,IT: Sky Sport Serie A
-http://ky-iptv.com:80/jwalters/jwalters/387156.ts
-#EXTINF:-1,IT: Sky Calcio 2 FHD
-http://ky-iptv.com:80/jwalters/jwalters/387164.ts
-#EXTINF:-1,IT: Orler TV
-http://ky-iptv.com:80/jwalters/jwalters/387248.ts
-#EXTINF:-1,IT: Eurosport 1 HD
-http://ky-iptv.com:80/jwalters/jwalters/387185.ts
-#EXTINF:-1,IT: Sky Sport 254
-http://ky-iptv.com:80/jwalters/jwalters/387171.ts
-#EXTINF:-1,IT: Rai Premium
-http://ky-iptv.com:80/jwalters/jwalters/387118.ts
-#EXTINF:-1,IT: RADIO ITALIA HD
-http://ky-iptv.com:80/jwalters/jwalters/387144.ts
-#EXTINF:-1,IT: DAZN SPORT 2
-http://ky-iptv.com:80/jwalters/jwalters/1585986.ts
-#EXTINF:-1,IT: Premium Cinema FHD
-http://ky-iptv.com:80/jwalters/jwalters/220858.ts
-#EXTINF:-1,IT: RADIO ITALIA TV HD
-http://ky-iptv.com:80/jwalters/jwalters/227232.ts
-#EXTINF:-1,IT: Quarta Rete TV
-http://ky-iptv.com:80/jwalters/jwalters/227226.ts
-#EXTINF:-1,IT: RTV Reggio
-http://ky-iptv.com:80/jwalters/jwalters/227275.ts
-#EXTINF:-1,IT: Telefoggia
-http://ky-iptv.com:80/jwalters/jwalters/227399.ts
-#EXTINF:-1,IT: TVRS
-http://ky-iptv.com:80/jwalters/jwalters/387272.ts
-#EXTINF:-1,IT: TeleVideo Agrigento
-http://ky-iptv.com:80/jwalters/jwalters/387268.ts
-#EXTINF:-1,IT: Rai 3
-http://ky-iptv.com:80/jwalters/jwalters/387114.ts
-#EXTINF:-1,IT: Food Network
-http://ky-iptv.com:80/jwalters/jwalters/387103.ts
-#EXTINF:-1,IT: RSI La 1 HD
-http://ky-iptv.com:80/jwalters/jwalters/387284.ts
-#EXTINF:-1,IT: Sky Cinema Uno
-http://ky-iptv.com:80/jwalters/jwalters/387209.ts
-#EXTINF:-1,IT: Iris Mediaset
-http://ky-iptv.com:80/jwalters/jwalters/387127.ts
-#EXTINF:-1,IT: Rai 5
-http://ky-iptv.com:80/jwalters/jwalters/387116.ts
-#EXTINF:-1,IT: Sky NAT GEO HD
-http://ky-iptv.com:80/jwalters/jwalters/227321.ts
-#EXTINF:-1,IT: RTV Sport 1 HD
-http://ky-iptv.com:80/jwalters/jwalters/227369.ts
-#EXTINF:-1,IT: Sky Sport Futboll
-http://ky-iptv.com:80/jwalters/jwalters/220946.ts
-#EXTINF:-1,IT: CAFE 24 HD
-http://ky-iptv.com:80/jwalters/jwalters/226990.ts
-#EXTINF:-1,IT: Euronews
-http://ky-iptv.com:80/jwalters/jwalters/227084.ts
-#EXTINF:-1,IT: Eagle Cinema Mitologia HD
-http://ky-iptv.com:80/jwalters/jwalters/1620746.ts
-#EXTINF:-1,IT: Sky Sport 255
-http://ky-iptv.com:80/jwalters/jwalters/387172.ts
-#EXTINF:-1,IT: NAT GEO HD
-http://ky-iptv.com:80/jwalters/jwalters/1287214.ts
-#EXTINF:-1,IT: Icaro TV
-http://ky-iptv.com:80/jwalters/jwalters/387245.ts
-#EXTINF:-1,IT: SKY Primafila 6 HD
-http://ky-iptv.com:80/jwalters/jwalters/387195.ts
-#EXTINF:-1,IT: SKY Primafila 14 HD
-http://ky-iptv.com:80/jwalters/jwalters/387203.ts
-#EXTINF:-1,IT: Sky Cinema Comedy
-http://ky-iptv.com:80/jwalters/jwalters/387218.ts
-#EXTINF:-1,IT: PREMIUM CINEMA EMOTION FHD
-http://ky-iptv.com:80/jwalters/jwalters/227192.ts
-#EXTINF:-1,IT: TeleBari Tv
-http://ky-iptv.com:80/jwalters/jwalters/227394.ts
-#EXTINF:-1,IT: Sport Seri A
-http://ky-iptv.com:80/jwalters/jwalters/227375.ts
-#EXTINF:-1,IT: FOX HD
-http://ky-iptv.com:80/jwalters/jwalters/387104.ts
-#EXTINF:-1,IT: Premium Cinema Energy
-http://ky-iptv.com:80/jwalters/jwalters/387150.ts
-#EXTINF:-1,IT: Fishing TV
-http://ky-iptv.com:80/jwalters/jwalters/387234.ts
-#EXTINF:-1,IT: Sport Italia
-http://ky-iptv.com:80/jwalters/jwalters/220958.ts
-#EXTINF:-1,IT: DAZN 4
-http://ky-iptv.com:80/jwalters/jwalters/1696529.ts
-
-#EXTINF:-1,IT: TelePace TV
-http://ky-iptv.com:80/jwalters/jwalters/227408.ts
-#EXTINF:-1,IT: Premium Cartoon Network
-http://ky-iptv.com:80/jwalters/jwalters/227185.ts
-#EXTINF:-1,IT: TELESTAR
-http://ky-iptv.com:80/jwalters/jwalters/227412.ts
-#EXTINF:-1,IT: Wine TV
-http://ky-iptv.com:80/jwalters/jwalters/1164694.ts
+#EXTINF:-1,Sky Sport Football HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/17371
+#EXTINF:-1,Sky Sport NBA HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14069
+#EXTINF:-1,Sky Sport Uno HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14073
+#EXTINF:-1,Sky Sport 24 HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/1686
+#EXTINF:-1,Sky Sport Arena HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/1689
+#EXTINF:-1,Sky Sport F1 HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/1691
+#EXTINF:-1,Sky Sport MotoGP HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/3639
+#EXTINF:-1,Sky Sport 5 HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8969
+#EXTINF:-1,Sky Sport 4 HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8968
+#EXTINF:-1,Sky Sport 3 HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8967
+#EXTINF:-1,Sky Sport 2 HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/1694
+#EXTINF:-1,Sky Sport 1 HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/1693
+#EXTINF:-1,Sky Sport Dazn Bar HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23266
 
 
-#EXTINF:-1,IT: Eagle Cinema 007 HD
-http://ky-iptv.com:80/jwalters/jwalters/1814230.ts
-#EXTINF:-1,IT: Eagle Cinema Animazione FHD
-http://ky-iptv.com:80/jwalters/jwalters/1814231.ts
-#EXTINF:-1,IT: Eagle Cinema Avventura FHD
-http://ky-iptv.com:80/jwalters/jwalters/1814232.ts
-#EXTINF:-1,IT: Eagle Cinema Azione FHD
-http://ky-iptv.com:80/jwalters/jwalters/1814233.ts
-#EXTINF:-1,IT: Eagle Cinema Biografico FHD
-http://ky-iptv.com:80/jwalters/jwalters/1814234.ts
-#EXTINF:-1,IT: Eagle Cinema Bud Spencer HD
-http://ky-iptv.com:80/jwalters/jwalters/1814235.ts
-#EXTINF:-1,IT: Eagle Cinema Comico Cult FHD
-http://ky-iptv.com:80/jwalters/jwalters/1814236.ts
-#EXTINF:-1,IT: Eagle Cinema Commedia FHD
-http://ky-iptv.com:80/jwalters/jwalters/1814237.ts
-#EXTINF:-1,IT: Eagle Cinema Drammatico FHD
-http://ky-iptv.com:80/jwalters/jwalters/1814238.ts
-#EXTINF:-1,IT: Eagle Cinema Famiglia FHD
-http://ky-iptv.com:80/jwalters/jwalters/1814239.ts
-#EXTINF:-1,IT: Eagle Cinema Fantascienza FHD
-http://ky-iptv.com:80/jwalters/jwalters/1814240.ts
-#EXTINF:-1,IT: Eagle Cinema Fantastico FHD
-http://ky-iptv.com:80/jwalters/jwalters/1814241.ts
-#EXTINF:-1,IT: Eagle Cinema Horror HD
-http://ky-iptv.com:80/jwalters/jwalters/1814244.ts
-#EXTINF:-1,IT: Eagle Cinema Passione FHD
-http://ky-iptv.com:80/jwalters/jwalters/1814245.ts
-#EXTINF:-1,IT: Eagle Cinema Prima Visione FHD
-http://ky-iptv.com:80/jwalters/jwalters/1814246.ts
-#EXTINF:-1,IT: Eagle Cinema Sorriso FHD
-http://ky-iptv.com:80/jwalters/jwalters/1814247.ts
-#EXTINF:-1,IT: Eagle Cinema Storico FHD
-http://ky-iptv.com:80/jwalters/jwalters/1814250.ts
-#EXTINF:-1,IT: Eagle Cinema Thriller FHD
-http://ky-iptv.com:80/jwalters/jwalters/1814251.ts
-#EXTINF:-1,IT: Eagle Cinepanettone FHD
-http://ky-iptv.com:80/jwalters/jwalters/1814252.ts
-#EXTINF:-1,IT: Eagle Nature Discovery HD
-http://ky-iptv.com:80/jwalters/jwalters/1814253.ts
-#EXTINF:-1,IT: Eagle Paolo Villagio HD
-http://ky-iptv.com:80/jwalters/jwalters/1814254.ts
-#EXTINF:-1,IT: Eagle Ultra 4k
-http://ky-iptv.com:80/jwalters/jwalters/1814255.ts
-#EXTINF:-1,IT: Alice & Marcopolo
-http://ky-iptv.com:80/jwalters/jwalters/387233.ts
-#EXTINF:-1,IT: Telepace 3
-http://ky-iptv.com:80/jwalters/jwalters/227406.ts
-#EXTINF:-1,IT: Rete Biella TV
-http://ky-iptv.com:80/jwalters/jwalters/227263.ts
-#EXTINF:-1,IT: Caccia HD
-http://ky-iptv.com:80/jwalters/jwalters/220789.ts
-#EXTINF:-1,IT: History
-http://ky-iptv.com:80/jwalters/jwalters/387134.ts
-#EXTINF:-1,IT: Telecitta
-http://ky-iptv.com:80/jwalters/jwalters/387263.ts
-#EXTINF:-1,IT: NAT GEO WILD HD
-http://ky-iptv.com:80/jwalters/jwalters/387225.ts
-#EXTINF:-1,IT: GAMBERO ROSSO FHD
-http://ky-iptv.com:80/jwalters/jwalters/1829517.ts
-#EXTINF:-1,IT: LAZIO Style FHD
-http://ky-iptv.com:80/jwalters/jwalters/227127.ts
-#EXTINF:-1,IT: Premium Stories
-http://ky-iptv.com:80/jwalters/jwalters/387152.ts
-#EXTINF:-1,IT: Lazio Channel FHD
-http://ky-iptv.com:80/jwalters/jwalters/387180.ts
-#EXTINF:-1,IT: Padre Pio TV
-http://ky-iptv.com:80/jwalters/jwalters/387250.ts
-#EXTINF:-1,IT: Videolina
-http://ky-iptv.com:80/jwalters/jwalters/1857052.ts
-#EXTINF:-1,IT: CANALE 2
-http://ky-iptv.com:80/jwalters/jwalters/226995.ts
-#EXTINF:-1,IT: Canale 10
-http://ky-iptv.com:80/jwalters/jwalters/226999.ts
-#EXTINF:-1,IT: Canale 51 HD
-http://ky-iptv.com:80/jwalters/jwalters/227001.ts
 
-#EXTINF:-1,IT: Discovery NOVE HD
-http://ky-iptv.com:80/jwalters/jwalters/227028.ts
-#EXTINF:-1,IT: DMAX 1 HD
-http://ky-iptv.com:80/jwalters/jwalters/227035.ts
-#EXTINF:-1,IT: Esperia TV 18
-http://ky-iptv.com:80/jwalters/jwalters/227081.ts
 
-#EXTINF:-1,IT: LUCANIA TV
-http://ky-iptv.com:80/jwalters/jwalters/227129.ts
-#EXTINF:-1,IT: M20 TV
-http://ky-iptv.com:80/jwalters/jwalters/227131.ts
-#EXTINF:-1,IT: Motor Trend FHD
-http://ky-iptv.com:80/jwalters/jwalters/227153.ts
-#EXTINF:-1,IT: MTV CLASSIC HD
-http://ky-iptv.com:80/jwalters/jwalters/227155.ts
-#EXTINF:-1,IT: MTV Hits
-http://ky-iptv.com:80/jwalters/jwalters/227156.ts
-#EXTINF:-1,IT: MTV 90'S HD
-http://ky-iptv.com:80/jwalters/jwalters/227157.ts
-#EXTINF:-1,IT: Icaro TV
-http://ky-iptv.com:80/jwalters/jwalters/227158.ts
-#EXTINF:-1,IT: OndaTV
-http://ky-iptv.com:80/jwalters/jwalters/227170.ts
-#EXTINF:-1,IT: Premium Action FHD
-http://ky-iptv.com:80/jwalters/jwalters/227181.ts
-#EXTINF:-1,IT: PREMIUM CINEMA 2 HD
-http://ky-iptv.com:80/jwalters/jwalters/227187.ts
-#EXTINF:-1,IT: PREMIUM CINEMA ENERGY HD
-http://ky-iptv.com:80/jwalters/jwalters/227193.ts
-#EXTINF:-1,IT: Premium Comedy HD
-http://ky-iptv.com:80/jwalters/jwalters/227196.ts
-#EXTINF:-1,IT: Premium Disney Junior
-http://ky-iptv.com:80/jwalters/jwalters/227200.ts
-#EXTINF:-1,IT: Primocanale
-http://ky-iptv.com:80/jwalters/jwalters/227224.ts
-#EXTINF:-1,IT: Rai Sport 1 HD
-http://ky-iptv.com:80/jwalters/jwalters/227251.ts
-#EXTINF:-1,IT: Giallo HD
-http://ky-iptv.com:80/jwalters/jwalters/227258.ts
-#EXTINF:-1,IT: Senato Della Rupublica
-http://ky-iptv.com:80/jwalters/jwalters/227278.ts
-#EXTINF:-1,IT: Sky UNO FHD
-http://ky-iptv.com:80/jwalters/jwalters/227282.ts
-#EXTINF:-1,IT: la 7D
-http://ky-iptv.com:80/jwalters/jwalters/227283.ts
+#EXTINF:-1,Sky Uno HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/1681
+#EXTINF:-1,SportItalia IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14120
+#EXTINF:-1,Super Tennis HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4084
+#EXTINF:-1,Super! HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14066
+#EXTINF:-1,TV2000 IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9002
+#EXTINF:-1,Top Crime IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8241
 
-#EXTINF:-1,IT: TELE MONTE NEVE 3
-http://ky-iptv.com:80/jwalters/jwalters/227389.ts
-#EXTINF:-1,IT: Telecolore HD
-http://ky-iptv.com:80/jwalters/jwalters/227396.ts
-#EXTINF:-1,IT: Telenord
-http://ky-iptv.com:80/jwalters/jwalters/227403.ts
-#EXTINF:-1,IT: Telepace 1
-http://ky-iptv.com:80/jwalters/jwalters/227404.ts
-#EXTINF:-1,IT: Telepace 2
-http://ky-iptv.com:80/jwalters/jwalters/227405.ts
-#EXTINF:-1,IT: Telepace 4
-http://ky-iptv.com:80/jwalters/jwalters/227407.ts
-#EXTINF:-1,IT: Teletricolore
-http://ky-iptv.com:80/jwalters/jwalters/227414.ts
-#EXTINF:-1,IT: TG Norba 24
-http://ky-iptv.com:80/jwalters/jwalters/227418.ts
-#EXTINF:-1,IT: TOP Crime Mediaset HD
-http://ky-iptv.com:80/jwalters/jwalters/227422.ts
-#EXTINF:-1,IT: TvA Vicenza
-http://ky-iptv.com:80/jwalters/jwalters/227431.ts
-#EXTINF:-1,IT: Uninettuno University TV
-http://ky-iptv.com:80/jwalters/jwalters/227438.ts
-#EXTINF:-1,IT: Unire Sat HD
-http://ky-iptv.com:80/jwalters/jwalters/227439.ts
-#EXTINF:-1,IT: VERA TV
-http://ky-iptv.com:80/jwalters/jwalters/227440.ts
-#EXTINF:-1,IT: VIDEO BRESCIA
-http://ky-iptv.com:80/jwalters/jwalters/227445.ts
-#EXTINF:-1,IT: Sky Italia Sport 24 HD
-http://ky-iptv.com:80/jwalters/jwalters/374631.ts
-#EXTINF:-1,IT: Rai Gulp
-http://ky-iptv.com:80/jwalters/jwalters/387035.ts
-#EXTINF:-1,IT: Rai Yoyo
-http://ky-iptv.com:80/jwalters/jwalters/387036.ts
-#EXTINF:-1,IT: Disney Junior
-http://ky-iptv.com:80/jwalters/jwalters/387038.ts
-#EXTINF:-1,IT: Boing
-http://ky-iptv.com:80/jwalters/jwalters/387041.ts
-#EXTINF:-1,IT: Cartoonito
-http://ky-iptv.com:80/jwalters/jwalters/387042.ts
-#EXTINF:-1,IT: Super!
-http://ky-iptv.com:80/jwalters/jwalters/387044.ts
-#EXTINF:-1,IT: Baby TV
-http://ky-iptv.com:80/jwalters/jwalters/387045.ts
-#EXTINF:-1,IT: NickJr
-http://ky-iptv.com:80/jwalters/jwalters/387047.ts
-#EXTINF:-1,IT: K2
-http://ky-iptv.com:80/jwalters/jwalters/387048.ts
+#EXTINF:-1,Milan TV IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/17244
+#EXTINF:-1,Baby TV IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/17330
+#EXTINF:-1,Lazio Style TV IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/17332
+#EXTINF:-1,Radio Freccia HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/17326
+#EXTINF:-1,Radionorba TV IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/17327
+#EXTINF:-1,RTL 102.5 HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/17328
 
-#EXTINF:-1,IT: Canale 2 Altamura
-http://ky-iptv.com:80/jwalters/jwalters/387051.ts
-#EXTINF:-1,IT: Canale 7
-http://ky-iptv.com:80/jwalters/jwalters/387052.ts
-#EXTINF:-1,IT: Canale 8
-http://ky-iptv.com:80/jwalters/jwalters/387053.ts
-#EXTINF:-1,IT: Canale 21
-http://ky-iptv.com:80/jwalters/jwalters/387054.ts
-#EXTINF:-1,IT: Eagle Le Fiabe Disney
-http://ky-iptv.com:80/jwalters/jwalters/387090.ts
-#EXTINF:-1,IT: Cielo
-http://ky-iptv.com:80/jwalters/jwalters/387109.ts
-#EXTINF:-1,IT: Paramount Network
-http://ky-iptv.com:80/jwalters/jwalters/387111.ts
+#EXTINF:-1,Radio Italia HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/18102
+#EXTINF:-1,Radio Italia Trend HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/28335
+#EXTINF:-1,Motor Trend FHD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23275
+#EXTINF:-1,Sky Arte HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/21544
+#EXTINF:-1,Rai Storia HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23367
+
+#EXTINF:-1,Spike Italia HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23373
+#EXTINF:-1,National Geographic Wild HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23376
+#EXTINF:-1,Pesca HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23377
+#EXTINF:-1,Italian Fishing TV IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23391
+#EXTINF:-1,Crime + Investigation HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23392
+#EXTINF:-1,History HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23397
+#EXTINF:-1,Paramount Channel IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23398
+#EXTINF:-1,Unire Sat HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23399
+#EXTINF:-1,Italia 1 FHD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23939
+#EXTINF:-1,Rai Premium IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23933
+#EXTINF:-1,Rai Gulp HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23932
+
+#EXTINF:-1,Sky Cinema Due HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/26904
+#EXTINF:-1,Sky Cinema Collection HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/26903
+#EXTINF:-1,Sky Cinema Romance HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/26902
+#EXTINF:-1,Sky Cinema Action HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/26901
+#EXTINF:-1,Sky Cinema Suspense HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/26900
+#EXTINF:-1,Sky Sport Action FHD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/89196
+#EXTINF:-1,Sky Atlantic HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/1682
+#EXTINF:-1,Sky Cinema Uno HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4077
+#EXTINF:-1,Sky Cinema Drama HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14083
+#EXTINF:-1,Sky Cinema Comedy HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/2011
+#EXTINF:-1,Sky Cinema Family HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/2010
+#EXTINF:-1,Sky Primafila 1 HD Live IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/1998
+#EXTINF:-1,Sky Primafila 2 HD Live IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/1999
+#EXTINF:-1,Sky Primafila 3 HD Live IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/2000
+#EXTINF:-1,Sky Primafila 4 HD Live IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/2001
+#EXTINF:-1,Sky Primafila 5 HD Live IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/2002
+#EXTINF:-1,Sky Primafila 6 HD Live IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/2003
+#EXTINF:-1,Sky Primafila 7 HD Live IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/2004
+#EXTINF:-1,Sky Primafila 8 HD Live IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/2005
+#EXTINF:-1,Sky Primafila 9 HD Live IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/2006
+#EXTINF:-1,Sky Primafila 10 HD Live IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/2007
+
+#EXTINF:-1,Eagle Cinema Prima HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23381
+#EXTINF:-1,Eagle Cinema Thriller HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23382
+#EXTINF:-1,Eagle Cinema Fantastico HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23383
+#EXTINF:-1,Eagle Cinema Azione HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23384
+#EXTINF:-1,Eagle Cinema Commedia HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23385
+#EXTINF:-1,Eagle Cinema Collection HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23386
+#EXTINF:-1,Eagle Cinema Horror HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23387
+#EXTINF:-1,Eagle Cinema Avventura HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23388
+#EXTINF:-1,Eagle Cinema Passione HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23389
+#EXTINF:-1,Eagle Cinema Storico HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23390
+#EXTINF:-1,Eagle Cinema Comico Cult HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/26905
+#EXTINF:-1,Eagle Cinema Drammatico HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/27227
+#EXTINF:-1,Eagle Cinema Sorriso FHD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/26886
+#EXTINF:-1,Eagle Cinema Mitologia IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/26888
+#EXTINF:-1,Eagle Cinema Religion HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/26889
+#EXTINF:-1,Eagle Cinema Western HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/26890
+#EXTINF:-1,Eagle Cinema Animazione HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/26887
+#EXTINF:-1,Top Calcio 24 IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/28203
+
+#EXTINF:-1,Euronews IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/34753
+#EXTINF:-1,Food Network HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/51401
+#EXTINF:-1,Boomerang  IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23403
+#EXTINF:-1,Cine 34 IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/70826
+#EXTINF:-1,Gambero Rosso IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8982
+
+
+#EXTINF:-1,DeA Kids IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14076
+#EXTINF:-1,DAZN 7 HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23363
+#EXTINF:-1,DAZN 8 HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/23364
+#EXTINF:-1,Sky Serie FHD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/87962
+#EXTINF:-1,Sky Nature HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/87964
+#EXTINF:-1,Sky Investigation HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/87965
+#EXTINF:-1,Sky Documentaries HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/87963
+#EXTINF:-1,Sky SuperCalcio HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/1692
+#EXTINF:-1,Sportitalia SoloCalcio HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14131
+#EXTINF:-1,Prime Video 1 HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/92237
+#EXTINF:-1,Sky Sport Bar Uno FHD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/93027
+#EXTINF:-1,Sky Sport Bar Due FHD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/93028
+#EXTINF:-1,Prime Video 2 HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/93029
+#EXTINF:-1,Prime Video 3 HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/93030
+#EXTINF:-1,Prime Video 4 HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/93031
+#EXTINF:-1,Prime Video 5 HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/93032
+#EXTINF:-1,Prime Video 6 HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/93033
+#EXTINF:-1,Sky Sport Tennis HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/93831
+#EXTINF:-1,Eurosport 1 HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14188
+#EXTINF:-1,Eurosport 2 HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14156
+#EXTINF:-1,VH1 IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/96639
+
+#EXTINF:-1,Alice IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8986
+#EXTINF:-1,MS Motor TV IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14210
+#EXTINF:-1,Boing IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14182
+#EXTINF:-1,Caccia HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8984
+
+#EXTINF:-1,Cartoon Network IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14176
+#EXTINF:-1,Cartoonito IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/7030
+#EXTINF:-1,Cielo IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/1671
+#EXTINF:-1,DMAX HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/5231
+#EXTINF:-1,NOVE HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14174
+#EXTINF:-1,Discovery Channel HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14171
+#EXTINF:-1,Discovery Science HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8980
+#EXTINF:-1,Disney + Film HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/4377
+#EXTINF:-1,Disney+ Animation IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/20119
+
+#EXTINF:-1,FOX HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/3713
+#EXTINF:-1,Focus IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8981
+#EXTINF:-1,Frisbee IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/7031
+#EXTINF:-1,Giallo FHD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9006
+#EXTINF:-1,Inter Channel IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14192
+
+#EXTINF:-1,K2 IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14155
+
+#EXTINF:-1,m2o tv IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/9005
+#EXTINF:-1,Mediaset Extra IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14194
+
+#EXTINF:-1,Nick IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/20120
+#EXTINF:-1,TGCom 24 IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/8238
+#EXTINF:-1,National Geographic HD IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/14141
+#EXTINF:-1,Radio 105 TV IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/5240
+#EXTINF:-1,Grande Fratello Vip Regia 1 IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/34797
+#EXTINF:-1,Grande Fratello Vip Regia 2 IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/34798
+#EXTINF:-1,Grande Fratello Vip Un'ora fa IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/88719
+#EXTINF:-1,Grande Fratello Vip Party IT
+http://tv.shqip.hitv.one:80/KozicaTar/R5QwtW333/88720
 
 
 
