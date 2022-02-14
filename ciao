@@ -1190,7 +1190,7 @@ http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/159.ts
 #EXTINF:-1,Euronews Albania
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/175.ts
 #EXTINF:-1,Euronews Albania SD
-http://95.107.132.106/out/u/818_1.m3u8
+http://95.107.132.105/out/u/818_1.m3u8
 #EXTINF:-1,Klan News
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/167.ts
 #EXTINF:-1,Abc News
@@ -1210,9 +1210,9 @@ http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/135.ts
 #EXTINF:-1,RTK 1 SD
 http://95.107.132.105/out/u/327_1.m3u8
 #EXTINF:-1,AL: RTK 3 HD
-https://srv1.iptviliria.com/RTK3/index.m3u8
+http://srv1.iptviliria.com/RTK3/index.m3u8
 #EXTINF:-1,AL: RTK 4 HD
-https://srv1.iptviliria.com/RTK4/index.m3u8
+http://srv1.iptviliria.com/RTK4/index.m3u8
 
 #EXTINF:-1,KTV 
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/136.ts
@@ -1240,17 +1240,17 @@ https://srv1.iptviliria.com/ShenjaTV/index.m3u8
 #EXTINF:-1,TV  Shenja SD
 http://95.107.132.105/out/u/144_1.m3u8
 #EXTINF:-1,AL: Klan Kosova HD
-http://stream.com-iptv.com:8080/KlanKosova/index.m3u8?token=test
+http://srv1.iptviliria.com/KlanKosova/index.m3u8?token=test
 #EXTINF:-1,Klan Kosova
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/110.ts
 #EXTINF:-1,Klan Kosova SD
 http://95.107.132.105/out/u/544_1.m3u8
 #EXTINF:-1,AL: Klan MACEDONIA
-http://stream.com-iptv.com:8080/KlanMacedonia/index.m3u8?token=test
+http://srv1.iptviliria.com/KlanMacedonia/index.m3u8?token=test
 #EXTINF:-1,Klan Macedonia
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/109.ts
 #EXTINF:-1,AL: Alsat M HD
-http://stream.com-iptv.com:8080/AlsatM/index.m3u8?token=test
+http://srv1.iptviliria.com/AlsatM/index.m3u8?token=test
 #EXTINF:-1,KANAL 10
 #EXTVLCOPT:http-user-agent=t0pka3ale.o3tt/4.0 Linux;Android 10 ExoPlayerLib/2.8.4
 https://home.fastnews24.net/new.localhost/akamaicdn-171/kanal10.m3u8
@@ -1259,30 +1259,30 @@ https://srv1.iptviliria.com/TVDukagjini/index.m3u8
 #EXTINF:-1,KANAL 10 HD
 https://abdyli.gjirafa.com/live/rcBFeREIqcMkNthqI6YCr3Riss97l2MC/yky0y1.m3u8
 #EXTINF:-1,AL: T HD
-http://stream.com-iptv.com:8080/THD/index.m3u8?token=test
+http://srv1.iptviliria.com/THD/index.m3u8?token=test
 #EXTINF:-1,AL: Family HD
-http://stream.com-iptv.com:8080/FamilyHD/index.m3u8?token=test
+http://srv1.iptviliria.com/FamilyHD/index.m3u8
 #EXTINF:-1,AL: Film Gold HD
-http://stream.com-iptv.com:8080/FilmNjeHD/index.m3u8?token=test
+http://srv1.iptviliria.com/FilmNje/index.m3u8?token=test
 #EXTINF:-1,AL: Film Max HD
-http://stream.com-iptv.com:8080/FilmDyHD/index.m3u8?token=test
+http://srv1.iptviliria.com/FilmDy/index.m3u8?token=test
 #EXTINF:-1,AL: Film Stinet
-http://stream.com-iptv.com:8080/Stinet/index.m3u8?token=test
+http://srv1.iptviliria.com/Stinet/index.m3u8?token=test
 #EXTINF:-1,AL: Film Hits HD
-http://stream.com-iptv.com:8080/FilmHitsHD/index.m3u8?token=test
+http://srv1.iptviliria.com/FilmHitsHD/index.m3u8?token=test
 #EXTINF:-1,AL: Film Aksion HD
-http://stream.com-iptv.com:8080/FilmAksionHD/index.m3u8?token=test
+http://srv1.iptviliria.com/FilmAksionHD/index.m3u8?token=test
 #EXTINF:-1,AL: Film Autor HD
-http://stream.com-iptv.com:8080/FilmAutor/index.m3u8?token=test
+http://srv1.iptviliria.com/FilmAutor/index.m3u8?token=test
 
 #EXTINF:-1,AL: Film Komedi HD
-http://stream.com-iptv.com:8080/FilmKomedi/index.m3u8?token=test
+http://srv1.iptviliria.com/FilmKomedi/index.m3u8
 #EXTINF:-1,AL: Film Drame HD
-http://stream.com-iptv.com:8080/FilmDrame/index.m3u8?token=test
+http://srv1.iptviliria.com/FilmDrame/index.m3u8?token=test
 #EXTINF:-1,AL: Film Thriller HD
-http://stream.com-iptv.com:8080/FilmThriller/index.m3u8?token=test
+http://srv1.iptviliria.com/FilmThriller/index.m3u8?token=test
 #EXTINF:-1,AL: Euro Film
-http://stream.com-iptv.com:8080/Eurofilm/index.m3u8?token=test
+http://srv1.iptviliria.com/Eurofilm/index.m3u8?token=test
 
 #EXTINF:0,ART Kino 1 HD
 http://93.157.62.180/ArtFilm1/index.m3u8
@@ -1430,18 +1430,19 @@ http://185.204.32.49:6735/Tv1Channel/stream/playlist.m3u8
 
 
 #EXTINF:-1,AL: Super Sport 1 HD
-http://stream.com-iptv.com:8080/SS1HD/index.m3u8?token=test
+http://93.157.62.180/Supersport1/index.m3u8
 #EXTINF:-1,AL: Super Sport 2 HD
-http://stream.com-iptv.com:8080/SS2HD/index.m3u8?token=test
+http://93.157.62.180/Supersport2/index.m3u8
 #EXTINF:-1,AL: Super Sport 3 HD
-http://stream.com-iptv.com:8080/SS3HD/index.m3u8?token=test
+http://93.157.62.180/Supersport3/index.m3u8
 #EXTINF:-1,AL: Super Sport 4 HD
-http://stream.com-iptv.com:8080/SS4HD/index.m3u8?token=test
+http://93.157.62.180/Supersport4/index.m3u8
 #EXTINF:-1,AL: Super Sport 5 HD
-http://stream.com-iptv.com:8080/SS5HD/index.m3u8?token=test
+http://93.157.62.180/Supersport5/index.m3u8
 #EXTINF:-1,AL: Super Sport 6 HD
-http://stream.com-iptv.com:8080/SS6HD/index.m3u8?token=test
-
+http://93.157.62.180/Supersport6/index.m3u8
+#EXTINF:-1,AL: Super Sport 7 HD
+http://93.157.62.180/Supersport7/index.m3u8
 #EXTINF:-1,AL: Super Sport 7 HD
 http://ky-iptv.com:80/winning/winning/384633.ts
 
