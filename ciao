@@ -1468,24 +1468,30 @@ http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/180.ts
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/179.ts
 #EXTINF:-1,SS1 HD
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/178.ts
-#EXTINF:-1,BT Sports 1 HD
-http://uk.iptv-streamer.com/UK_BT_Sport_1_HD/index.m3u8?token=test
-#EXTINF:-1,BT Sports 2 HD
-http://uk.iptv-streamer.com/UK_BT_Sport_2_HD/index.m3u8?token=test
-#EXTINF:-1,BT Sports 3 HD
-http://uk.iptv-streamer.com/UK_BT_Sport_3_HD/index.m3u8?token=test
-#EXTINF:-1,Sky Sports Premier League
-http://uk.iptv-streamer.com/UK_Sky_Sports_Premier_League_HD/index.m3u8?token=test
-#EXTINF:-1,Sky Sports Football
-http://uk.iptv-streamer.com/UK_Sky_Sports_Football_FHD/index.m3u8?token=test
-#EXTINF:-1,Sky Sports Main Events
-http://uk.iptv-streamer.com/UK_SKY_SPORTS_MAIN_EVENT_HD/index.m3u8?token=test
-#EXTINF:-1,Sky Sports Mix
-http://uk.iptv-streamer.com/UK_Sky_Sports_Mix_HD/index.m3u8?token=test
-#EXTINF:-1,Sky Sports Arena
-http://uk.iptv-streamer.com/UK_Sky_Sports_Arena_HD/index.m3u8?token=test
-#EXTINF:-1,Sky Sports F1
-http://uk.iptv-streamer.com/UK_SKY_SPORTS_F1_FHD/index.m3u8?token=test
+
+
+
+#EXTINF:0,Supersport 1 Ultra
+http://185.204.32.49:6735/UltraNetS1/stream/playlist.m3u8
+#EXTINF:0,Supersport 2
+http://185.204.32.49:6735/UltraNetS2/stream/playlist.m3u8
+#EXTINF:0,Supersport 3
+http://185.204.32.49:6735/UltraNetS3/stream/playlist.m3u8
+#EXTINF:0,Supersport 4
+http://185.204.32.49:6735/UltraNetS4/stream/playlist.m3u8
+#EXTINF:0,Supersport 5
+http://185.204.32.49:6735/UltraNetS5/stream/playlist.m3u8
+#EXTINF:0,Supersport 6
+http://185.204.32.49:6735/UltraNetS6/stream/playlist.m3u8
+#EXTINF:0,Tring Sport 1
+http://185.204.32.49:6735/Sport1/stream/playlist.m3u8
+#EXTINF:0,Tring Sport 2
+http://185.204.32.49:6735/Sport2/stream/playlist.m3u8
+#EXTINF:0,Tring Sport 3
+http://185.204.32.49:6735/Sport3/stream/playlist.m3u8
+#EXTINF:0,Tring Sport 4
+http://185.204.32.49:6735/Sport4/stream/playlist.m3u8
+
 
 
 
@@ -1557,474 +1563,178 @@ http://2wb9.short.gy/x3m/klub5.mp4
 
 
 #EXTINF:-1   group-title="-IPTV SHQIP 4-",
-#EXTINF:-1,ALB: TOP Channel HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41497
-#EXTINF:-1,ALB: TOP Channel FHD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41498
-#EXTINF:-1,ALB: Klan TV HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41512
-#EXTINF:-1,ALB: Klan TV FHD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41513
-#EXTINF:-1,ALB: KLan Plus HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41514
-#EXTINF:-1,ALB: Klan Plus FHD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41515
-#EXTINF:-1,ALB: Vizion Plus HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41516
-#EXTINF:-1,ALB: Vizion Plus
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41517
-#EXTINF:-1,ALB: RTSH 1 HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41491
-#EXTINF:-1,ALB: RTSH 2 HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41492
-#EXTINF:-1,ALB: RTSH 3 HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41493
-#EXTINF:-1,ALB: RTSH 24 HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41494
-#EXTINF:-1,ALB: RTSH Shqip
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41495
-#EXTINF:-1,ALB: RTSH Film
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41496
-#EXTINF:-1,ALB: RTK 1 HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41486
-#EXTINF:-1,ALB: RTK 1 FHD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41487
-#EXTINF:-1,ALB: RTK 2 HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41488
-#EXTINF:-1,ALB: RTK 3 FHD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41489
-#EXTINF:-1,ALB: RTK 4 HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41490
+#EXTINF:-1,|AL| Top Channel HD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64424
+#EXTINF:-1,|AL| Klan HD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64426
+#EXTINF:-1,|AL| Klan Plus HD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64427
+#EXTINF:-1,|AL| RTK HD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64416
+#EXTINF:-1,|AL| RTK 1 HD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64417
+#EXTINF:-1,|AL| RTK 2 HD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64418
+#EXTINF:-1,|AL| RTK 3 HD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64419
+#EXTINF:-1,|AL| RTK 4 HD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64420
+#EXTINF:-1,|AL| Alsat M FHD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64421
+#EXTINF:-1,|AL| T7 FHD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64422
+#EXTINF:-1,|AL| TV Dukagjini HD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64423
+
+#EXTINF:-1,|AL| Klan Kosova HD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64425
+
+#EXTINF:-1,|AL| KTV HD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64428
+#EXTINF:-1,|AL| RTV 21 HD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64429
+#EXTINF:-1,|AL| First Chanel FHD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64430
+
+#EXTINF:-1,|AL| Tring Sport News
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64432
+#EXTINF:-1,|AL| Super Sport 1 HD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64433
+#EXTINF:-1,|AL| Super Sport 2 HD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64434
+#EXTINF:-1,|AL| Super Sport 3 HD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64435
+#EXTINF:-1,|AL| Super Sport 4 HD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64436
+#EXTINF:-1,|AL| EuroSport 2 FHD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64437
+#EXTINF:-1,|AL| EuroSport 1 FHD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64438
+#EXTINF:-1,|AL| Tring Sport 1
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64439
+#EXTINF:-1,|AL| Tring Sport 2
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64440
+#EXTINF:-1,|AL| Tring Sport 3
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64441
+#EXTINF:-1,|AL| Tring Sport 4
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64442
 
 
-#EXTINF:-1,ALB: Top News HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41499
-#EXTINF:-1,ALB: RTV 21 FHD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41500
-#EXTINF:-1,ALB: RTV 21 HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41501
-#EXTINF:-1,ALB: RTV 21 Maqedonia HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41502
-#EXTINF:-1,ALB: RTV 21 Maqedonia FHD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41503
-#EXTINF:-1,ALB: RTV 21 Mix HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41504
-#EXTINF:-1,ALB: RTV 21 Plus HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41505
-#EXTINF:-1,ALB: RTV 21 Popullore
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41506
-#EXTINF:-1,ALB: KTV HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41507
-#EXTINF:-1,ALB: KTV FHD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41508
-#EXTINF:-1,ALB: Klan Kosova HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41509
-#EXTINF:-1,ALB: Klan Kosova FHD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41510
-#EXTINF:-1,ALB: Klan Macedonia HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41511
+#EXTINF:-1,|AL| Channel 7
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64445
 
+#EXTINF:-1,|AL| Top News
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64447
+#EXTINF:-1,|AL| Abc News FHD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64448
+#EXTINF:-1,|AL| News 24 HD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64449
+#EXTINF:-1,|AL| Ora News FHD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64450
+#EXTINF:-1,|AL| RTSH 1
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64451
+#EXTINF:-1,|AL| RTSH 2
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64452
+#EXTINF:-1,|AL| RTSH 24
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64453
+#EXTINF:-1,|AL| RTSH 3 HD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64454
+#EXTINF:-1,|AL| RTSH Shqip
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64455
+#EXTINF:-1,|AL| RTSH Plus
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64456
+#EXTINF:-1,|AL| RTSH Kukesi
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64457
+#EXTINF:-1,|AL| RTSH Korca
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64458
+#EXTINF:-1,|AL| RTSH Sport FHD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64459
+#EXTINF:-1,|AL| RTSH Film
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64460
+#EXTINF:-1,|AL| A2 cnn
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64461
+#EXTINF:-1,|AL| Tv Sharri HD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64462
+#EXTINF:-1,|AL| TV Presheva
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64463
+#EXTINF:-1,|AL| TV Opoja
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64464
+#EXTINF:-1,|AL| Drita TV
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64465
+#EXTINF:-1,|AL| Tring Living HD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64466
+#EXTINF:-1,|AL| Living FHD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64467
+#EXTINF:-1,|AL| Euronews Albania
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64468
 
-#EXTINF:-1,ALB: T7 HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41519
-#EXTINF:-1,ALB: T7 FHD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41520
-#EXTINF:-1,ALB: First Channel HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41521
-#EXTINF:-1,ALB: Shenja TV HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41522
-#EXTINF:-1,ALB: TV ERA
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41523
-#EXTINF:-1,ALB: TV Tetova
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41524
-#EXTINF:-1,ALB: TV Koha
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41525
-#EXTINF:-1,ALB: MRT 2
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41526
-#EXTINF:-1,ALB: News 24
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41527
-#EXTINF:-1,ALB: A2 CNN
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41528
-#EXTINF:-1,ALB: ABC News
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41529
-#EXTINF:-1,ALB: Euronews  Albania
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41530
-#EXTINF:-1,ALB: Report TV
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41531
-#EXTINF:-1,ALB: Ora News FHD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41532
-#EXTINF:-1,ALB: ALBUK
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41533
-#EXTINF:-1,ALB: Arta News FHD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41534
-#EXTINF:-1,ALB: Tema TV
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41535
-#EXTINF:-1,ALB: 7 News
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41536
-#EXTINF:-1,ALB: Rtv Pendimi
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41537
-#EXTINF:-1,ALB: Peace TV
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41538
-#EXTINF:-1,ALB: Peace TV Anglisht
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41539
-#EXTINF:-1,ALB: Rtv Islam
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41540
-#EXTINF:-1,ALB: Mekka Live
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41541
-#EXTINF:-1,ALB: Medina Live
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41542
-#EXTINF:-1,ALB: Rrokum  HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41544
-#EXTINF:-1,ALB: Dukagjini TV FHD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41545
-#EXTINF:-1,ALB: GlobiTV
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41546
-#EXTINF:-1,ALB: Boin UK
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41547
-#EXTINF:-1,ALB: Stinet
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41548
-#EXTINF:-1,ALB: 24 Kitchen
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41549
-#EXTINF:-1,ALB: Tring Muse
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41550
-#EXTINF:-1,ALB: Star Plus Shkoder
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41551
-#EXTINF:-1,ALB: BESA
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41552
-#EXTINF:-1,ALB: Syri Vision
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41553
-#EXTINF:-1,ALB: Tv Opinion
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41554
-#EXTINF:-1,ALB: RTSH Korca
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41555
-#EXTINF:-1,ALB: OPINIONI tv
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41556
-#EXTINF:-1,ALB: Tv Mitrovica
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41557
-#EXTINF:-1,ALB: TV Presheva
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41559
-#EXTINF:-1,ALB: Star Plus TV HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41560
-#EXTINF:-1,ALB: Alsat M HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41561
-#EXTINF:-1,ALB: Alsat M FHD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41562
-#EXTINF:-1,ALB: ZjarrTV
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41563
-#EXTINF:-1,ALB: 7Tv
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41564
-#EXTINF:-1,ALB: X Humor HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41566
-#EXTINF:-1,ALB: X Stupcat
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41567
-#EXTINF:-1,ALB: Alb UK
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41571
-#EXTINF:-1,ALB: Zeri TV
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41572
-#EXTINF:-1,ALB: FASHION TV FHD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41573
-#EXTINF:-1,ALB: RTV 21 BUSINESS
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41574
-#EXTINF:-1,ALB: TRING INTERNATIONAL
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41575
-#EXTINF:-1,ALB: Fax News
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41576
-#EXTINF:-1,ALB: Kanali 7
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41577
-#EXTINF:-1,ALB: RTSH PLUS
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41578
-#EXTINF:-1,ALB: Art Kino 1 FHD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41579
-#EXTINF:-1,ALB: Art Kino 2 FHD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41580
-#EXTINF:-1,ALB: Art Kino 3 FHD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41581
-#EXTINF:-1,ALB: TDC Serial FHD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41518
-#EXTINF:-1,ALB: Episode FHD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41582
-#EXTINF:-1,ALB: Film Nje HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41584
-#EXTINF:-1,ALB: Film Nje FHD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41585
-#EXTINF:-1,ALB: Film Dy HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41586
-#EXTINF:-1,ALB: Film Dy FHD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41587
-#EXTINF:-1,ALB: Film Aksion
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41588
-#EXTINF:-1,ALB: Film Aksion FHD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41589
-#EXTINF:-1,ALB: Film Thriller
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41590
-#EXTINF:-1,ALB: Film Hits FHD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41591
-#EXTINF:-1,ALB: Film Autor
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41592
-#EXTINF:-1,ALB: Film Drame
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41593
-#EXTINF:-1,ALB: Film Komedi
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41594
-#EXTINF:-1,ALB: Euro Film
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41595
-#EXTINF:-1,ALB: Film Stinet
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41596
-#EXTINF:-1,ALB: Family FHD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41597
-#EXTINF:-1,ALB: T FHD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41598
-#EXTINF:-1,ALB: Fox
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41599
-#EXTINF:-1,ALB: Fox Movies
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41600
-#EXTINF:-1,ALB: Fox Life
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41601
-#EXTINF:-1,ALB: Tring 3+
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41602
-#EXTINF:-1,ALB: Tring Super
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41603
-#EXTINF:-1,ALB: Tring Super FHD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41604
-#EXTINF:-1,ALB: Tring Action HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41605
-#EXTINF:-1,ALB: Tring Comedy
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41606
-#EXTINF:-1,ALB: Tring Life
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41607
-#EXTINF:-1,ALB: Tring Fantasy
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41608
-#EXTINF:-1,ALB: Tring Shqip
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41609
-#EXTINF:-1,ALB: Jolly FHD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41610
-#EXTINF:-1,ALB: Tring Smile
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41611
-#EXTINF:-1,ALB: DIGI Gold HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41612
-#EXTINF:-1,ALB: DIGI Gold 1 HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41613
-#EXTINF:-1,ALB: DIGI Gold 2 HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41614
-#EXTINF:-1,ALB: DIGI Gold 3 HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41615
-#EXTINF:-1,ALB: DIGI Gold 4 HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41616
-#EXTINF:-1,ALB: X Filma24 HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41617
-#EXTINF:-1,ALB: X Premium 1 HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41618
-#EXTINF:-1,ALB: X Premium 2 HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41619
-#EXTINF:-1,ALB: X Premium 3 HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41620
-#EXTINF:-1,ALB: X Premium 4 HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41621
-#EXTINF:-1,ALB: X Action HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41622
-#EXTINF:-1,ALB: X Comedy HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41623
-#EXTINF:-1,ALB: X Family HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41624
-#EXTINF:-1,ALB: X Sci-Fi HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41625
-#EXTINF:-1,ALB: X Romance HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41626
-#EXTINF:-1,ALB: X Thriller HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41627
-#EXTINF:-1,ALB: X Drama HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41628
-#EXTINF:-1,ALB: X Dark HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41629
-#EXTINF:-1,ALB: X Western HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41630
-#EXTINF:-1,ALB: Star HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41631
-#EXTINF:-1,ALB: Sky Max
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41633
-#EXTINF:-1,ALB: Sky Aksion
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41634
-#EXTINF:-1,ALB: Sky Drame
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41635
-#EXTINF:-1,ALB: Sky Novela
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41636
-#EXTINF:-1,ALB: Art Doku 1
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41637
-#EXTINF:-1,ALB: Art Doku 2
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41638
-#EXTINF:-1,ALB: Exp Shkenca
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41639
-#EXTINF:-1,ALB: Exp Natyra
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41640
-#EXTINF:-1,ALB: Exp History
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41641
-#EXTINF:-1,ALB: Living FHD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41642
-#EXTINF:-1,ALB: Tring World
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41643
-#EXTINF:-1,ALB: Tring Planet
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41644
-#EXTINF:-1,ALB: Tring History
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41645
-#EXTINF:-1,ALB: X Natyra HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41647
-#EXTINF:-1,ALB: X Histori HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41648
-#EXTINF:-1,ALB: National Geo FHD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41649
-#EXTINF:-1,ALB: Travel Channel FHD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41650
-#EXTINF:-1,ALB: Animal Planet HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41651
-#EXTINF:-1,ALB: Discovery Showcase FHD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41652
-#EXTINF:-1,ALB: Discovery Channel
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41653
-#EXTINF:-1,ALB: Discovery Science FHD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41654
-#EXTINF:-1,ALB: Fine Living
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41656
-#EXTINF:-1,ALB: Bang Bang
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41657
-#EXTINF:-1,ALB: Cufo
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41658
-#EXTINF:-1,ALB: Tom & Jerry HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41659
-#EXTINF:-1,ALB: Sole TV
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41660
-#EXTINF:-1,ALB: Tring Kids
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41661
-#EXTINF:-1,ALB: Tring Tring
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41662
-#EXTINF:-1,ALB: Tip TV
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41663
-#EXTINF:-1,ALB: Junior TV
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41664
-#EXTINF:-1,ALB: Sofia HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41665
-#EXTINF:-1,ALB: BabyTV
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41666
-#EXTINF:-1,ALB: Boomerang
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41667
-#EXTINF:-1,ALB: Duck TV
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41668
-#EXTINF:-1,ALB: RTV 21 Junior
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41669
-#EXTINF:-1,ALB: Masha dhe Ariu
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41670
-#EXTINF:-1,ALB: SMILE HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41671
-#EXTINF:-1,ALB: DARK KIDS
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41672
-#EXTINF:-1,ALB: RTSH FEMIJE
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41673
-#EXTINF:-1,ALB: RTV Fontana
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41674
-#EXTINF:-1,ALB: X Music Hits HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41675
-#EXTINF:-1,ALB: X Popullore HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41676
-#EXTINF:-1,ALB: Elrodi TV HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41678
-#EXTINF:-1,ALB: Folk +
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41679
-#EXTINF:-1,ALB: BBF Music HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41680
-#EXTINF:-1,ALB: MFM Music
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41681
-#EXTINF:-1,ALB: MTV Kosova
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41682
-#EXTINF:-1,ALB: My Music
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41683
-#EXTINF:-1,ALB: Dasma TV
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41684
-#EXTINF:-1,ALB: TV Opoja
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41685
-#EXTINF:-1,ALB: TV SHARRI FHD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41686
-#EXTINF:-1,ALB: ZICO TV FHD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41687
-#EXTINF:-1,ALB: ON TV
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41688
-#EXTINF:-1,ALB: STV Folk
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41689
-#EXTINF:-1,ALB: Supersonic Muzik
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41690
-#EXTINF:-1,ALB: AMOL HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41691
-#EXTINF:-1,ALB: Roma TV FHD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41692
-#EXTINF:-1,ALB: Ballkanika Music
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41693
-#EXTINF:-1,ALB: Tirana TV
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41694
-#EXTINF:-1,ALB: Turbo Channel
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41695
-#EXTINF:-1,ALB: Euro Al
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41696
-#EXTINF:-1,ALB: ALBUK Music
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41697
-#EXTINF:-1,ALB: Melody.tv
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41698
-#EXTINF:-1,ALB: TOP ESTRADA
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41699
-#EXTINF:-1,ALB: TV Dielli
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41700
-#EXTINF:-1,ALB: DeeJay TV
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41701
-#EXTINF:-1,ALB: TV LIRIA
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41702
-#EXTINF:-1,ALB: ALBSWISS FHD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41704
-#EXTINF:-1,ALB: DARK CIFTELI
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41706
-#EXTINF:-1,ALB: DARK POPULLORE
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41708
-#EXTINF:-1,ALB: RTSH MUZIKE
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41709
-#EXTINF:-1,ALB: Super Sport 1 HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41710
-#EXTINF:-1,ALB: Super Sport 2 HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41711
-#EXTINF:-1,ALB: Super Sport 3 HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41712
-#EXTINF:-1,ALB: Super Sport 4 HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41713
-#EXTINF:-1,ALB: Super Sport 5 HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41714
-#EXTINF:-1,ALB: Tring Sport News
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41715
-#EXTINF:-1,ALB: Tring Sport 1 HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41716
-#EXTINF:-1,ALB: Tring Sport 2 HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41717
-#EXTINF:-1,ALB: Tring Sport 3 HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41718
-#EXTINF:-1,ALB: Tring Sport 4 HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41719
-#EXTINF:-1,ALB: Tring Sport 1 FHD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41720
-#EXTINF:-1,ALB: Tring Sport 2 FHD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41721
-#EXTINF:-1,ALB: Tring Sport 3 FHD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41722
-#EXTINF:-1,ALB: Tring Sport 4 FHD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41723
-#EXTINF:-1,ALB: RTSH Sport FHD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41724
-#EXTINF:-1,ALB: Kujtesa Sport 1 HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41725
-#EXTINF:-1,ALB: Kujtesa Sport 2 HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41726
-#EXTINF:-1,ALB: Kujtesa Sport 3 HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41727
-#EXTINF:-1,ALB: Kujtesa Sport 4 HD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41728
-#EXTINF:-1,ALB: Art Sport 1 FHD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41730
-#EXTINF:-1,ALB: Art Sport 2 FHD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41731
-#EXTINF:-1,ALB: Art Sport 3 FHD
-http://ip.xtremetv.eu:8000/extreme/lNrIEZN5wR/41732
+#EXTINF:-1,|AL| Exp Shkenca
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64470
+#EXTINF:-1,|AL| Exp Natyra
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64471
+#EXTINF:-1,|AL| Exp History
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64472
+#EXTINF:-1,|AL| Tring Planet
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64473
+#EXTINF:-1,|AL| Tring History
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64474
+#EXTINF:-1,|AL| Tring World
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64475
+#EXTINF:-1,|AL| Animal Planet FHD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64476
+#EXTINF:-1,|AL| National Geographic
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64477
+
+#EXTINF:-1,|AL| Junior
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64479
+#EXTINF:-1,|AL| Cufo
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64480
+#EXTINF:-1,|AL| Tring Tring
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64481
+
+#EXTINF:-1,|AL| RTV 21 Junior
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64483
+
+#EXTINF:-1,|AL| Fox
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64485
+#EXTINF:-1,|AL| Fox Crime
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64486
+#EXTINF:-1,|AL| Fox Life
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64487
+#EXTINF:-1,|AL| HBO FHD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64488
+#EXTINF:-1,|AL| HBO 3 FHD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64489
+#EXTINF:-1,|AL| HBO 2 FHD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64490
+#EXTINF:-1,|AL| Fight Box
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64491
+#EXTINF:-1,|AL| T FHD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64446
+#EXTINF:-1,|AL| Tring Jolly HD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64444
+#EXTINF:-1,|AL| Tring Super FHD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64482
+#EXTINF:-1,|AL| Tring Aksion FHD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64493
+#EXTINF:-1,|AL| Tring Smile
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64494
+#EXTINF:-1,|AL| Tring Shqip
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64495
+#EXTINF:-1,|AL| Tring Muse
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64496
+#EXTINF:-1,|AL| Tring Life
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64497
+#EXTINF:-1,|AL| Tring Kids
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64498
+#EXTINF:-1,|AL| Tring International
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64499
+#EXTINF:-1,|AL| Tring Fantasy
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64500
+#EXTINF:-1,|AL| Tring Comedy
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64501
+#EXTINF:-1,|AL| Tring 3+
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64502
 
 
 
@@ -3016,26 +2726,7 @@ http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/290
 http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/290537
 #EXTINF:0,Oversport 4 HD
 http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/290538
-#EXTINF:0,Supersport 1
-http://185.204.32.49:6735/UltraNetS1/stream/playlist.m3u8
-#EXTINF:0,Supersport 2
-http://185.204.32.49:6735/UltraNetS2/stream/playlist.m3u8
-#EXTINF:0,Supersport 3
-http://185.204.32.49:6735/UltraNetS3/stream/playlist.m3u8
-#EXTINF:0,Supersport 4
-http://185.204.32.49:6735/UltraNetS4/stream/playlist.m3u8
-#EXTINF:0,Supersport 5
-http://185.204.32.49:6735/UltraNetS5/stream/playlist.m3u8
-#EXTINF:0,Supersport 6
-http://185.204.32.49:6735/UltraNetS6/stream/playlist.m3u8
-#EXTINF:0,Tring Sport 1
-http://185.204.32.49:6735/Sport1/stream/playlist.m3u8
-#EXTINF:0,Tring Sport 2
-http://185.204.32.49:6735/Sport2/stream/playlist.m3u8
-#EXTINF:0,Tring Sport 3
-http://185.204.32.49:6735/Sport3/stream/playlist.m3u8
-#EXTINF:0,Tring Sport 4
-http://185.204.32.49:6735/Sport4/stream/playlist.m3u8
+
 
 #EXTINF:0,Kujtesa Sport 1
 http://93.157.62.180/KSport1/index.m3u8
