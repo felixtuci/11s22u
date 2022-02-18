@@ -2742,15 +2742,20 @@ http://93.157.62.180/ArtSport1HD/index.m3u8
 http://93.157.62.180/ArtSport2/index.m3u8
 #EXTINF:0,ART Sport 3
 http://93.157.62.180/ArtSport3/index.m3u8
-
-
 #EXTINF:-1,|FR| BEIN SPORT  1 HD 
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49493
 #EXTINF:-1,|FR| BEIN SPORT  2 HD 
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49494
 #EXTINF:-1,|FR| BEIN SPORT  3 HD 
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49495
-
+#EXTINF:-1,|FR| INFOSPORT HD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49496
+#EXTINF:-1,|FR| CANAL+ SPORTS HD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49497
+#EXTINF:-1,|FR| CANAL+ LIGUE 1 FHD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49498
+#EXTINF:-1,|FR| L Equipe 21
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49499
 #EXTINF:-1,|FR| BEIN SPORT MAX 4
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49500
 #EXTINF:-1,|FR| BEIN SPORT MAX 5
@@ -2763,25 +2768,6 @@ http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49503
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49504
 #EXTINF:-1,|FR| BEIN SPORT MAX 9
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49505
-
-#EXTINF:-1,|AR| BEIN P SPORT  1 HD 
-http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
-#EXTINF:-1,|AR| BEIN P SPORT  2 HD 
-http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
-#EXTINF:-1,|AR| BEIN P SPORT  3 HD 
-http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
-
-
-#EXTINF:-1,|FR| INFOSPORT HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49496
-#EXTINF:-1,|FR| CANAL+ SPORTS HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49497
-#EXTINF:-1,|FR| CANAL+ LIGUE 1 FHD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49498
-#EXTINF:-1,|UK| beIN SPORTS
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416
-#EXTINF:-1,|UK| BOX NATION
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61417
 #EXTINF:-1,|UK| BT SPORT 1
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61418
 #EXTINF:-1,|UK| BT SPORT 2
@@ -2790,21 +2776,10 @@ http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61419
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61420
 #EXTINF:-1,|UK| BT SPORT ESPN
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61421
-#EXTINF:-1,|UK| Eir Sport 1
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61422
-#EXTINF:-1,|UK| Eir Sport 2
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61423
 #EXTINF:-1,|UK| Eurosport 1
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61424
 #EXTINF:-1,|UK| Eurosport 2
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61425
-
-#EXTINF:-1,|UK| SKY SPORTS ARENA
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61431
-#EXTINF:-1,|UK| SKY SPORTS BOX OFFICE
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61432
-#EXTINF:-1,|UK| SKY SPORTS CRICKET
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61433
 #EXTINF:-1,|UK| SKY SPORTS F1
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61434
 #EXTINF:-1,|UK| SKY SPORTS FOOTBALL
@@ -2815,36 +2790,10 @@ http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61436
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61437
 #EXTINF:-1,|UK| SKY SPORTS MIX
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61438
-#EXTINF:-1,|UK| SKY SPORTS NFL
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61439
-#EXTINF:-1,|UK| SKY SPORTS RACING
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61440
-#EXTINF:-1,|UK| UFC Fight Pass
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61441
-#EXTINF:-1,|UK| WWE PPV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61442
 #EXTINF:-1,|UK| beIN SPORTS 2
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
 #EXTINF:-1,|UK| beIN SPORTS 3
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61444
-#EXTINF:-1,|PL| CANAL+ SPORT HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/63756
-#EXTINF:-1,|PL| CANAL+ SPORT 2 HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/63757
-#EXTINF:-1,|PL| CANAL+ SPORT 3 HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/63758
-#EXTINF:-1,|PL| CANAL+ SPORT 4 HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/63759
-#EXTINF:-1,|PL| ELEVEN Sport HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/63760
-#EXTINF:-1,|PL| Eleven Sports 1 HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/63761
-#EXTINF:-1,|PL| Eleven Sports 2 HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/63762
-#EXTINF:-1,|PL| Eleven Sports 3 HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/63763
-#EXTINF:-1,|PL| Eleven Sports 4 HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/63764
 #EXTINF:-1,|PT| ELEVEN SPORTS 1
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64346
 #EXTINF:-1,|PT| ELEVEN SPORTS 2
@@ -2867,30 +2816,8 @@ http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64354
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64355
 #EXTINF:-1,|PT|  SPORT TV 3
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64356
-#EXTINF:-1,SPORT TV 5
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64357
-#EXTINF:-1,|NL| Ziggo Sport ᴴ²⁵⁶ ᴴᵉᵛᶜ
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26606
-#EXTINF:-1,|NL| Ziggo Sport Select ᴴ²⁵⁶ ᴴᵉᵛᶜ
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26607
-#EXTINF:-1,|NL| Ziggo Sport Voetbal ᴴ²⁵⁶ ᴴᵉᵛᶜ
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26608
-#EXTINF:-1,|NL| Ziggo Sport Golf ᴴ²⁵⁶ ᴴᵉᵛᶜ
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26609
-#EXTINF:-1,|NL| Ziggo Sport Racing ᴴ²⁵⁶ ᴴᵉᵛᶜ
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26610
-#EXTINF:-1,|NL| Fox Sports 1 ᴴ²⁵⁶ ᴴᵉᵛᶜ
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26611
-#EXTINF:-1,|NL| Fox Sports 2 ᴴ²⁵⁶ ᴴᵉᵛᶜ
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26612
-#EXTINF:-1,|NL| Fox Sports 3 ᴴ²⁵⁶ ᴴᵉᵛᶜ
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26613
-#EXTINF:-1,|NL| Fox Sports 4 ᴴ²⁵⁶ ᴴᵉᵛᶜ
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26614
-#EXTINF:-1,|NL| FOX Sports 5 ᴴ²⁵⁶ ᴴᵉᵛᶜ
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26615
-#EXTINF:-1,|NL| FOX Sports 6 ᴴ²⁵⁶ ᴴᵉᵛᶜ
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26616
+
+
 
 #EXTINF:0,Dazn Sports 1 HD
 http://45.148.147.123:5079/play/a1246
