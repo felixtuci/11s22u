@@ -1471,26 +1471,7 @@ http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/178.ts
 
 
 
-#EXTINF:0,Supersport 1 Ultra
-http://185.204.32.49:6735/UltraNetS1/stream/playlist.m3u8
-#EXTINF:0,Supersport 2
-http://185.204.32.49:6735/UltraNetS2/stream/playlist.m3u8
-#EXTINF:0,Supersport 3
-http://185.204.32.49:6735/UltraNetS3/stream/playlist.m3u8
-#EXTINF:0,Supersport 4
-http://185.204.32.49:6735/UltraNetS4/stream/playlist.m3u8
-#EXTINF:0,Supersport 5
-http://185.204.32.49:6735/UltraNetS5/stream/playlist.m3u8
-#EXTINF:0,Supersport 6
-http://185.204.32.49:6735/UltraNetS6/stream/playlist.m3u8
-#EXTINF:0,Tring Sport 1
-http://185.204.32.49:6735/Sport1/stream/playlist.m3u8
-#EXTINF:0,Tring Sport 2
-http://185.204.32.49:6735/Sport2/stream/playlist.m3u8
-#EXTINF:0,Tring Sport 3
-http://185.204.32.49:6735/Sport3/stream/playlist.m3u8
-#EXTINF:0,Tring Sport 4
-http://185.204.32.49:6735/Sport4/stream/playlist.m3u8
+
 
 
 
@@ -1504,20 +1485,7 @@ http://95.107.132.105/out/u/75_1.m3u8
 
 
 
-#EXTINF:-1,Sky Cinema Uno FHD
-http://54.36.106.156:8080/SkyCinemaUnoHD/index.m3u8?token=test
-#EXTINF:-1,Sky Cinema Suspense FHD
-http://54.36.106.156:8080/SkyCinemaSuspenseFullHD/index.m3u8?token=test
-#EXTINF:-1,Sky Cinema Action FHD
-http://54.36.106.156:8080/SkyCinemaActionHD/index.m3u8?token=test
-#EXTINF:-1,Sky Cinema Due FHD
-http://54.36.106.156:8080/SkyCinemaDueHD/index.m3u8?token=test
-#EXTINF:-1,Sky Cinema Comedy FHD
-http://54.36.106.156:8080/SkyCinemaComedyHD/index.m3u8?token=test
-#EXTINF:-1,Sky Cinema Family FHD
-http://54.36.106.156:8080/SkyCinemaFamilyHD/index.m3u8?token=test
-#EXTINF:-1,Sky Cinema Romance FHD
-http://54.36.106.156:8080/SkyCinemaRomanceHD/index.m3u8?token=test
+
 
 #EXTINF:-1,UNIX KINEMA 1 HD
 http://2wb9.short.gy/x3m/kinema1.mp4
@@ -2719,15 +2687,32 @@ http://doniseriptv.com:8080/Kushtrim.k/F4uSVkGP6D/193
 
 
 #EXTINF:-1   group-title="-IPTV SPORT 1-",
-
+#EXTINF:0,Supersport 1 Ultra
+http://185.204.32.49:6735/UltraNetS1/stream/playlist.m3u8
+#EXTINF:0,Supersport 2
+http://185.204.32.49:6735/UltraNetS2/stream/playlist.m3u8
+#EXTINF:0,Supersport 3
+http://185.204.32.49:6735/UltraNetS3/stream/playlist.m3u8
+#EXTINF:0,Supersport 4
+http://185.204.32.49:6735/UltraNetS4/stream/playlist.m3u8
+#EXTINF:0,Supersport 5
+http://185.204.32.49:6735/UltraNetS5/stream/playlist.m3u8
+#EXTINF:0,Supersport 6
+http://185.204.32.49:6735/UltraNetS6/stream/playlist.m3u8
+#EXTINF:0,Tring Sport 1
+http://185.204.32.49:6735/Sport1/stream/playlist.m3u8
+#EXTINF:0,Tring Sport 2
+http://185.204.32.49:6735/Sport2/stream/playlist.m3u8
+#EXTINF:0,Tring Sport 3
+http://185.204.32.49:6735/Sport3/stream/playlist.m3u8
+#EXTINF:0,Tring Sport 4
+http://185.204.32.49:6735/Sport4/stream/playlist.m3u8
 #EXTINF:0,Oversport 1 HD
 http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/290218
 #EXTINF:0,Oversport 3 HD
 http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/290537
 #EXTINF:0,Oversport 4 HD
 http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/290538
-
-
 #EXTINF:0,Kujtesa Sport 1
 http://93.157.62.180/KSport1/index.m3u8
 #EXTINF:0,Kujtesa Sport 2
@@ -2742,6 +2727,86 @@ http://93.157.62.180/ArtSport1HD/index.m3u8
 http://93.157.62.180/ArtSport2/index.m3u8
 #EXTINF:0,ART Sport 3
 http://93.157.62.180/ArtSport3/index.m3u8
+
+
+#EXTINF:-1,BeinVIP : BEIN SPORTS 1 Premium HD
+http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/95651
+#EXTINF:-1,BeinVIP : BEIN SPORTS 1 Premium FHD
+http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/95650
+#EXTINF:-1,BeinVIP : BEIN SPORTS 2 Premium HD
+http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/95649
+#EXTINF:-1,BeinVIP : BEIN SPORTS 2 Premium FHD
+http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/95648
+#EXTINF:-1,BeinVIP : BEIN SPORTS 3 Premium HD
+http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/95647
+#EXTINF:-1,BeinVIP : BEIN SPORTS 3 Premium FHD
+http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/95646
+#EXTINF:-1,BeinVIP : BEIN SPORTS 1HD EN
+http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/95645
+#EXTINF:-1,BeinVIP : BEIN SPORTS 2HD EN
+http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/95644
+#EXTINF:-1,BeinVIP : BEIN SPORTS 1HD FR
+http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/95643
+#EXTINF:-1,BeinVIP : BEIN SPORTS 2HD FR
+http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/95642
+#EXTINF:-1,BeinVIP : BEIN SPORTS 3HD FR
+http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/95641
+#EXTINF:-1,BeinVIP : BEIN SPORTS XTRA 1 HD
+http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/95640
+#EXTINF:-1,BeinVIP : BEIN SPORTS XTRA 2 HD
+http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/95639
+#EXTINF:-1,BeinVIP : beIN Sports 1 FHD
+http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/59881
+#EXTINF:-1,BeinVIP : beIN Sports 1 HD
+http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/59882
+#EXTINF:-1,BeinVIP : beIN Sports 2 FHD
+http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/59883
+#EXTINF:-1,BeinVIP : beIN Sports 2 HD
+http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/59884
+#EXTINF:-1,BeinVIP : beIN Sports  3 FHD
+http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/59885
+#EXTINF:-1,BeinVIP : beIN Sports  3 HD
+http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/59886
+#EXTINF:-1,BeinVIP : beIN Sports  4 FHD
+http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/59887
+#EXTINF:-1,BeinVIP : beIN Sports  4 HD
+http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/59888
+#EXTINF:-1,BeinVIP : beIN Sports  5 FHD
+http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/59889
+#EXTINF:-1,BeinVIP : beIN Sports  5 HD
+http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/59890
+#EXTINF:-1,BeinVIP : beIN Sports  6 FHD
+http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/59891
+#EXTINF:-1,BeinVIP : beIN Sports  6 HD
+http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/59892
+#EXTINF:-1,BeinVIP : beIN Sports  7 FHD
+http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/59893
+#EXTINF:-1,BeinVIP : beIN Sports  7 HD
+http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/59894
+#EXTINF:-1,BeinSports10
+http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/18407
+#EXTINF:-1,BeinSports9
+http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/18408
+#EXTINF:-1,BeinSports8
+http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/18409
+#EXTINF:-1,BeinSports7
+http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/18410
+#EXTINF:-1,BeinSports6
+http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/18411
+#EXTINF:-1,BeinSports5
+http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/18412
+#EXTINF:-1,BeinSports4
+http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/18413
+#EXTINF:-1,BeinSports3
+http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/18414
+#EXTINF:-1,BeinSports2
+http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/18415
+#EXTINF:-1,BeinSports1
+http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/18416
+
+
+
+
 #EXTINF:-1,|FR| BEIN SPORT  1 HD 
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49493
 #EXTINF:-1,|FR| BEIN SPORT  2 HD 
@@ -2819,34 +2884,32 @@ http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64356
 
 
 
-#EXTINF:0,Dazn Sports 1 HD
-http://45.148.147.123:5079/play/a1246
-#EXTINF:0,Dazn Sports 2 HD
-http://45.148.147.123:5079/play/a1247
-#EXTINF:0,Dazn Sports 3 HD
-http://45.148.147.123:5079/play/a1248
-#EXTINF:0,Dazn Sports 4 HD
-http://45.148.147.123:5079/play/a1249
-#EXTINF:0,Dazn Sports 5 HD
-http://45.148.147.123:5079/play/a1250
-#EXTINF:0,Dazn Sports 6 HD
-http://45.148.147.123:5079/play/a1251
-#EXTINF:0,Dazn Sports 7 HD
-http://45.148.147.123:5079/play/a1252
-#EXTINF:0,Dazn Sports 8 HD
-http://45.148.147.123:5079/play/a1253
-#EXTINF:0,Dazn Sports 9 HD
-http://45.148.147.123:5079/play/a1254
-#EXTINF:0,Dazn Sports 10 HD
-http://45.148.147.123:5079/play/a1255
-#EXTINF:0,Dazn Sports 11 HD
-http://45.148.147.123:5079/play/a1256
-#EXTINF:0,Dazn Sports 12 HD
-http://45.148.147.123:5079/play/a1257
-#EXTINF:0,Dazn Sports 13 HD
-http://45.148.147.123:5079/play/a1258
 
 
+#EXTINF:-1,|DSTV| SuperSport Premier League
+http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/60667
+#EXTINF:-1,|DSTV| SuperSport La Liga
+http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/60668
+#EXTINF:-1,|DSTV| SuperSport Football
+http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/60669
+#EXTINF:-1,|DSTV| SuperSport Variety 1
+http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/60670
+#EXTINF:-1,|DSTV| SuperSport Variety 2
+http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/60671
+#EXTINF:-1,|DSTV| SuperSport Variety 3
+http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/60672
+#EXTINF:-1,|DSTV| SuperSport Variety 4
+http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/60673
+#EXTINF:-1,|DSTV| SuperSport Action
+http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/60674
+#EXTINF:-1,|DSTV| SuperSport Rugby
+http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/60675
+#EXTINF:-1,|DSTV| SuperSport Cricket
+http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/60676
+#EXTINF:-1,|DSTV| SuperSport Blitz
+http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/64873
+#EXTINF:-1,|DSTV| SuperSport maximo
+http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/64874
 
 
 #EXTINF:-1   group-title="-IPTV SPORT 2-",
