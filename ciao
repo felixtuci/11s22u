@@ -1149,8 +1149,7 @@ http://stream.com-iptv.com:8080/KlanHd/index.m3u8?token=test
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/106.ts
 #EXTINF:-1,TV KLAN Plus MOB
 http://79.106.90.114:3030/live/klanplusmob/playlist.m3u8
-#EXTINF:-1,AL: Klan Plus HD
-http://stream.com-iptv.com:8080/KlanPlusHd/index.m3u8?token=test
+
 #EXTINF:-1,Klan Plus
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/107.ts
 #EXTINF:-1,VIZION PLUS SD
@@ -1485,8 +1484,10 @@ http://95.107.132.105/out/u/75_1.m3u8
 
 
 
-
-
+#EXTINF:-1,KINEMA BIG 1 HD
+https://2wb9.short.gy/iptvshqip/bb1.m3u8
+#EXTINF:-1,KINEMA BIG 2 HD
+https://2wb9.short.gy/iptvshqip/bb2.m3u8
 #EXTINF:-1,UNIX KINEMA 1 HD
 http://2wb9.short.gy/x3m/kinema1.mp4
 #EXTINF:-1,UNIX KINEMA 2 HD
@@ -1517,15 +1518,15 @@ http://2wb9.short.gy/x3m/kinema13.mp4
 http://2wb9.short.gy/x3m/kinema14.mp4
 #EXTINF:-1,UNIX KINEMA 15 HD
 http://2wb9.short.gy/x3m/kinema15.mp4
-#EXTINF:-1,UNIX CINEMA 1 HD
+#EXTINF:-1,KINEMA KLUB 1 HD
 http://2wb9.short.gy/x3m/klub1.mp4
-#EXTINF:-1,UNIX CINEMA 2 HD
+#EXTINF:-1,KINEMA KLUB 2 HD
 http://2wb9.short.gy/x3m/klub2.mp4
-#EXTINF:-1,UNIX CINEMA 3 HD
+#EXTINF:-1,KINEMA KLUB 3 HD
 http://2wb9.short.gy/x3m/klub3.mp4
-#EXTINF:-1,UNIX CINEMA 4 HD
+#EXTINF:-1,KINEMA KLUB 4 HD
 http://2wb9.short.gy/x3m/klub4.mp4
-#EXTINF:-1,UNIX CINEMA 5 HD
+#EXTINF:-1,KINEMA KLUB 5 HD
 http://2wb9.short.gy/x3m/klub5.mp4
 
 
