@@ -1137,25 +1137,25 @@ http://stream.com-iptv.com:8080/TopChannelHD/index.m3u8?token=test
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/131.ts
 #EXTINF:-1,Klan HD
 http://srv1.iptviliria.com/TVKlanHD/tracks-v1a1/index-1630911540-now.m3u8?token=undefined
+#EXTINF:-1,TV Klan U
 http://185.204.32.49:6735/KlanHD/stream/playlist.m3u8
 #EXTINF:-1,TV KLAN MOB
 http://79.106.90.114:3030/live/klanhdmob/playlist.m3u8
 
 #EXTINF:-1,TV KLAN SD
 http://95.107.132.106/out/u/773_1.m3u8
-#EXTINF:-1,AL: Klan TV HD
-http://stream.com-iptv.com:8080/KlanHd/index.m3u8?token=test
 #EXTINF:-1,Klan HD
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/106.ts
 #EXTINF:-1,TV KLAN Plus MOB
 http://79.106.90.114:3030/live/klanplusmob/playlist.m3u8
-
+#EXTINF:-1,Klan Plus U
+http://185.204.32.49:6735/KlanPlus/stream/playlist.m3u8
 #EXTINF:-1,Klan Plus
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/107.ts
 #EXTINF:-1,VIZION PLUS SD
 http://95.107.132.106/out/u/810_1.m3u8
-#EXTINF:-1,AL: VISION PLUS HD
-http://stream.com-iptv.com:8080/VizionPlus/index.m3u8?token=test
+#EXTINF:-1,AL: VISION PLUS U
+http://185.204.32.49:6735/VizionPlus/stream/playlist.m3u8
 #EXTINF:-1,Vizion Plus HD
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/111.ts
 
@@ -1171,6 +1171,8 @@ http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/121.ts
 http://ran.no-ips.net:8888/AL/209506/mpegts?token=test
 #EXTINF:-1,AL: MCNTV
 http://edge01eu.ekranet.com/mcntv/index.m3u8?e=018accae745180337768e41d11cc1580&c=mcntv&medium=websocket
+#EXTINF:-1,StarPlus Shkoder U
+http://185.204.32.49:6735/StarPlus/stream/playlist.m3u8
 #EXTINF:-1,KoplikuTV  SD
 http://95.107.132.105/out/u/151_1.m3u8
 #EXTINF:-1,BesaTV  SD
@@ -1185,6 +1187,10 @@ http://79.106.90.114:3030/live/syritvmob/playlist.m3u8
 http://95.107.132.106/out/u/363_2.m3u8
 #EXTINF:-1,AL: Ora News HD
 https://live1.mediadesk.al/oranews.m3u8
+#EXTINF:-1,News 24 U
+http://185.204.32.49:6735/News24/stream/playlist.m3u8
+#EXTINF:-1,News 24 HD
+http://95.107.132.105/out/u/661_2.m3u8
 #EXTINF:-1,News 24
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/159.ts
 #EXTINF:-1,Euronews Albania
@@ -1198,7 +1204,7 @@ http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/160.ts
 #EXTINF:-1,Abc News SD
 http://95.107.132.105/out/u/650_1.m3u8
 #EXTINF:-1,Klan News HD
-http://95.107.132.105/out/u/826_1.m3u8
+http://95.107.132.106/out/u/826_2.m3u8
 #EXTINF:-1,A2 News
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/141.ts
 #EXTINF:-1,NTV
@@ -1332,31 +1338,31 @@ http://95.107.132.106/out/u/847_3.m3u8
 #EXTINF:-1,AL: Tring Classic HD
 http://95.107.132.106/out/u/842_4.m3u8
 #EXTINF:-1,AL: Tring Action HD
-http://stream.com-iptv.com:8080/TringAction/index.m3u8?token=test
+http://185.204.32.49:6735/TringAksion/stream/playlist.m3u8
 #EXTINF:-1,AL: Tring Super FHD
 http://95.107.132.106/out/u/890_1.m3u8
 #EXTINF:-1,AL: Tring Super HD
-http://stream.com-iptv.com:8080/TringSuperHD/index.m3u8?token=test
+http://185.204.32.49:6735/TringSuper/stream/playlist.m3u8
 #EXTINF:-1,AL: Tring Fantasy
-http://stream.com-iptv.com:8080/TringFantasy/index.m3u8?token=test
+http://185.204.32.49:6735/TringFantasy/stream/playlist.m3u8
 #EXTINF:-1,AL: Tring Fantasy HD
 http://95.107.132.105/out/u/611_1.m3u8
 #EXTINF:-1,AL: Tring Comedy HD
 http://95.107.132.106/out/u/884_1.m3u8
 #EXTINF:-1,AL: Tring Comedy
-http://stream.com-iptv.com:8080/TringComedy/index.m3u8?token=test
+http://185.204.32.49:6735/Comedy/stream/playlist.m3u8
 #EXTINF:-1,AL: Tring Life
-http://stream.com-iptv.com:8080/TringLife/index.m3u8?token=test
+http://185.204.32.49:6735/TringLife/stream/playlist.m3u8
 #EXTINF:-1,AL: Tring Shqip SD
 http://95.107.132.105/out/u/682_1.m3u8
 #EXTINF:-1,AL: Tring Shqip
-http://stream.com-iptv.com:8080/TringShqip/index.m3u8?token=test
+http://185.204.32.49:6735/TringShqip/stream/playlist.m3u8
 #EXTINF:-1,AL: Tring Internacional
 http://95.107.132.105/out/u/606_1.m3u8
 #EXTINF:-1,AL: Tring 3 Plus HD
 http://95.107.132.105/out/u/722_1.m3u8
 #EXTINF:-1,AL: Tring 3 Plus
-http://stream.com-iptv.com:8080/Tring3Plus/index.m3u8?token=test
+http://185.204.32.49:6735/3Plus/stream/playlist.m3u8
 #EXTINF:-1,AL: Tring Novelas HD
 http://95.107.132.106/out/u/858_5.m3u8
 #EXTINF:-1,Tring 3 Plus FHD
@@ -1364,7 +1370,7 @@ http://95.107.132.105/out/u/31_3.m3u8
 #EXTINF:-1,Tring 3 Plus
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/76.ts
 #EXTINF:-1,AL: Tring D Drama HD
-http://stream.com-iptv.com:8080/KanalDDramaHD/index.m3u8?token=test
+http://95.107.132.105/out/u/549_1.m3u8
 #EXTINF:-1,AL: Tring Euro Channel
 http://95.107.132.106/out/u/356_1.m3u8
 
@@ -1387,9 +1393,9 @@ http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/66.ts
 #EXTINF:-1,AL: SOFIA HD
 http://ky-iptv.com:80/agent99/agent99/384611.ts
 #EXTINF:-1,AL: Bang Bang
-http://stream.com-iptv.com:8080/BangBang/index.m3u8?token=test
+http://93.157.62.180/BangBang/index.m3u8
 #EXTINF:-1,AL: Cufo TV
-http://stream.com-iptv.com:8080/CufoTV/index.m3u8?token=test
+http://93.157.62.180/Cufo/index.m3u8
 #EXTINF:-1,Tring Tring HD
 http://95.107.132.106/out/u/898_1.m3u8
 #EXTINF:-1,Tring Tring
