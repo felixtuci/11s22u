@@ -1112,12 +1112,13 @@ http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/237
 
 #EXTINF:-1   group-title="-IPTV SHQIP 3-",
 #EXTINF:-1,Top Channel HD
+http://links.iptvlogin.com:80/play/kJ86_nt3Nzb3EZlORE-yFX1kz7pwUuojYpt5eNCpv3eKi-_mLGGobzjxuFy-iw6MBhpnT7A0eAXIxsYduE4AhA/ts
 http://93.157.62.180/TopChannel/index.m3u8
 
 #EXTINF:-1,AL| TOP CHANNEL SD
 http://2wb9.short.gy/iptvshqip/topchannelB.m3u8
 #EXTINF:-1,AL: TOP Channel HD
-http://stream.com-iptv.com:8080/TopChannelHD/index.m3u8?token=test
+http://185.226.88.5:2036/live/YNaq3rSoU9/G8QHdXi9k6/131.ts
 #EXTINF:-1,Top Channel HD
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/131.ts
 #EXTINF:-1,Klan HD
@@ -2194,439 +2195,293 @@ http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/279
 
 
 #EXTINF:-1   group-title="-IPTV ITALIA 1- ",
-#EXTINF:-1,IT - RAI 1 HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/3
-#EXTINF:-1,IT - Rai 2 HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/5
-#EXTINF:-1,IT - Rai 3 HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/7
-#EXTINF:-1,IT - Rete 4 HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/9
-#EXTINF:-1,IT - Canale 5 HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/11
-#EXTINF:-1,IT - Canale 5 FHD
+#EXTINF:-1,IT: Rai 1 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/898
+#EXTINF:-1,IT: Rai 2 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/899
+#EXTINF:-1,IT: Rai 3 HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1979
+#EXTINF:-1,IT: Rai 4 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/900
+#EXTINF:-1,IT: Rete 4 HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1989
+#EXTINF:-1,IT: Rai 5 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/901
+#EXTINF:-1,IT: Rai 4K
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/290520
+
+#EXTINF:-1,IT: Canale 5 FHD
 http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/902
-#EXTINF:-1,IT - Italia 1 HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/13
-#EXTINF:-1,IT - LA 7 HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/14
-#EXTINF:-1,IT - LA 7d HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/15
-#EXTINF:-1,IT - 7 Gold
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/758
-#EXTINF:-1,IT - TV 8
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/16
-#EXTINF:-1,IT - Nove Deejay TV HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/17
-#EXTINF:-1,IT - Radio 105
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/20
-#EXTINF:-1,IT - Radio Monte Carlo TV
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/21
-#EXTINF:-1,IT - RTL 102.5 HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/22
-#EXTINF:-1,IT - Radio Italia Trend TV HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/23
-#EXTINF:-1,IT - Radio Freccia HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/25
-#EXTINF:-1,IT - Radio Italia TV HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/26
-#EXTINF:-1,IT - Radio Norba TV
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/27
-#EXTINF:-1,IT - VH1 HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/28
-#EXTINF:-1,IT - 20 Mediaset HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/31
-#EXTINF:-1,IT - Paramount Network HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/32
-#EXTINF:-1,IT - Iris
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/33
-#EXTINF:-1,IT - Rai Movie HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/34
-#EXTINF:-1,IT - Topcrime
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/35
-#EXTINF:-1,IT - Giallo HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/36
-#EXTINF:-1,IT - Mediaset Extra
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/37
-#EXTINF:-1,IT - Mediaset Italia 2
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/38
-#EXTINF:-1,IT - Cielo
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/756
-#EXTINF:-1,IT - Real Time HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/39
-#EXTINF:-1,IT - TV 2000 HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/40
-#EXTINF:-1,IT - Padre Pio TV HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/41
-#EXTINF:-1,IT - La 5
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/42
-#EXTINF:-1,IT - Rai Premium HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/43
-#EXTINF:-1,IT - Rai 4
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/44
-#EXTINF:-1,IT - Rai 5 HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/45
-#EXTINF:-1,IT - TV Luna
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/46
-#EXTINF:-1,IT - Canale 8
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/47
-#EXTINF:-1,IT - Canale 21
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/48
-#EXTINF:-1,IT - Televomero
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/49
-#EXTINF:-1,IT - Videolina
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/50
-#EXTINF:-1,IT - Sportitalia
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/51
-#EXTINF:-1,IT - Super Tennis HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/55
-#EXTINF:-1,IT - Automoto Tv
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/56
-#EXTINF:-1,IT - Uniresat HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/57
-#EXTINF:-1,IT - Telelombardia
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/58
-#EXTINF:-1,IT - Antenna 3
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/59
-#EXTINF:-1,IT - Top Calcio 24
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/760
-#EXTINF:-1,IT - Spike HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/60
-#EXTINF:-1,IT - Focus
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/62
-#EXTINF:-1,IT - Dmax HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/63
-#EXTINF:-1,IT - Rai Scuola HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/65
-#EXTINF:-1,IT - Food Network HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/66
-#EXTINF:-1,IT - Italian Fishing Tv
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/68
-#EXTINF:-1,IT - Marco Polo
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/69
-#EXTINF:-1,IT - Super!
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/70
-#EXTINF:-1,IT - K2
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/71
-#EXTINF:-1,IT - Frisbee
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/72
-#EXTINF:-1,IT - Rai YoYo HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/73
-#EXTINF:-1,IT - Rai Gulp HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/74
-#EXTINF:-1,IT - Baby TV
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/75
-#EXTINF:-1,IT - Boing
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/76
-#EXTINF:-1,IT - Cartoonito
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/77
-#EXTINF:-1,IT - SKY TG 24
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/78
-#EXTINF:-1,IT - Rai News 24 HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/79
-#EXTINF:-1,IT - TGCom 24
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/80
-#EXTINF:-1,IT - TG NORBA 24
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/81
-#EXTINF:-1,IT - Euronews
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/82
+#EXTINF:-1,IT: Italia 1 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/986
+#EXTINF:-1,IT: Rete 4 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1989
+#EXTINF:-1,IT: TV 8 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/50463
+#EXTINF:-1,IT: Iris HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/2002
+#EXTINF:-1,IT: Italia 2 HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/987
+#EXTINF:-1,IT: Italia 2 Mediaset HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/169480
+#EXTINF:-1,IT: La 5 HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/3541
+#EXTINF:-1,IT: La 7 d HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/988
+#EXTINF:-1,IT: La 7 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1996
+#EXTINF:-1,IT: Mediaset Extra HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/992
 
-
-#EXTINF:-1,IT - Mediasport Channel
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/919
-#EXTINF:-1,IT - Motor Trend HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1341
-#EXTINF:-1,IT - Radio 101 TV
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1343
-#EXTINF:-1,IT - Virgin Radio Tv
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1344
-#EXTINF:-1,IT - Rai Storia
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/64
-#EXTINF:-1,IT - Alice
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/67
-#EXTINF:-1,IT - Boing Plus
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/542
-#EXTINF:-1,IT : Antenna Sud
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1758
-#EXTINF:-1,IT : Canale 7
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1759
-#EXTINF:-1,IT : Radio Norba
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1760
-#EXTINF:-1,IT : Studio 100
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1761
-#EXTINF:-1,IT : Teledehon
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1762
-#EXTINF:-1,IT : TRC Puglia
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1764
-#EXTINF:-1,IT : Tele Bari
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1765
-#EXTINF:-1,IT : Tele Foggia
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1766
-#EXTINF:-1,IT : Canale 85
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1767
-#EXTINF:-1,IT : Radio Zeta HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1936
-#EXTINF:-1,IT : RTL 102.5 News ASPI
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1937
-
-
-#EXTINF:-1,Premium Cinema 1
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1735
-#EXTINF:-1,Premium Cinema 2
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1737
-#EXTINF:-1,Premium Cinema 3
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1738
-#EXTINF:-1,IT - Premium Action
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/85
-#EXTINF:-1,Premium Action
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1739
-#EXTINF:-1,Premium Crime
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1740
-#EXTINF:-1,Premium Stories
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1741
-#EXTINF:-1,IT: Sky Cinema Uno FHD
-http://93.115.20.208/portalgen/play.php?chID=1346
-#EXTINF:-1,Sky Cinema Uno HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1348
-#EXTINF:-1,Sky Cinema Uno +1 HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1349
-#EXTINF:-1,Sky Cinema Uno +24 HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1350
-#EXTINF:-1,Sky Cinema Due HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1351
-#EXTINF:-1,Sky Cinema Due +1 HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1352
-#EXTINF:-1,Sky Cinema Due +24 HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1353
-#EXTINF:-1,Sky Cinema Collection  HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1354
-#EXTINF:-1,IT: Sky Cinema Collection FHD
-http://93.115.20.208/portalgen/play.php?chID=55026
-#EXTINF:-1,Sky Cinema Family HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1355
+#EXTINF:-1,IT: Sky Cinema Uno HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/282264
+#EXTINF:-1,IT: Sky Cinema Due HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/998
 #EXTINF:-1,IT: Sky Cinema Action FHD
-http://93.115.20.208/portalgen/play.php?chID=55367
-#EXTINF:-1,Sky Cinema Action HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1356
-#EXTINF:-1,Sky Cinema Suspense FHD
-http://93.115.20.208/portalgen/play.php?chID=48357
-#EXTINF:-1,Sky Cinema Suspense HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1357
-#EXTINF:-1,Sky Cinema Drama HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1358
-#EXTINF:-1,Sky Cinema Romance FHD
-http://93.115.20.208/portalgen/play.php?chID=48660
-#EXTINF:-1,Sky Cinema Romance HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1359
-#EXTINF:-1,Sky Cinema Comedy HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1360
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/913
+#EXTINF:-1,IT: Sky Cinema Classic FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/77244
+#EXTINF:-1,IT: Sky Cinema Collection HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/9473
+#EXTINF:-1,IT: Sky Cinema Comedy HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/914
+#EXTINF:-1,IT: Sky Cinema Drama FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/9490
+#EXTINF:-1,IT: Sky Cinema Family HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/916
+#EXTINF:-1,IT: Sky Cinema Romance FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/917
+#EXTINF:-1,IT: Sky Cinema Suspense FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/9486
+#EXTINF:-1,IT: Sky Atlantic FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/9507
 
-#EXTINF:-1,Sky Uno HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1362
-#EXTINF:-1,Sky Uno +1 HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1363
-#EXTINF:-1,Sky Atlantic HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1364
-#EXTINF:-1,Sky Atlantic +1 HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1365
-#EXTINF:-1,Fox HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1366
-#EXTINF:-1,Fox +1 HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1367
-#EXTINF:-1,Fox Crime HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1368
-#EXTINF:-1,Fox Crime +1 HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1369
-#EXTINF:-1,Fox Crime +2 HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1370
-#EXTINF:-1,Crime Investigation HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1371
-#EXTINF:-1,Blaze HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1372
-#EXTINF:-1,Comedy Central
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1373
+#EXTINF:-1,IT: Sky Uno HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/91704
+#EXTINF:-1,IT: Top Crime HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1997
+#EXTINF:-1,IT: Giallo HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/2004
+#EXTINF:-1,IT: Fox FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/282054
+#EXTINF:-1,IT: Fox Life HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/3565
+#EXTINF:-1,IT Fox Life HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/273956
+#EXTINF:-1,IT: FOX Comedy FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/266635
+#EXTINF:-1,IT: Fox Crime HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1002
+#EXTINF:-1,IT: Cine 34 HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/75589
+#EXTINF:-1,IT: 20 Mediaset FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/961
+#EXTINF:-1,IT: Spike HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/8170
 
-#EXTINF:-1,Sky Sport 24 HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1375
-#EXTINF:-1,Sky Sport Uno HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1376
-#EXTINF:-1,Sky Sport Football HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1377
-#EXTINF:-1,Sky Sport Arena HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1378
-#EXTINF:-1,Sky Sport Collection HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1379
-#EXTINF:-1,Sky Sport NBA HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1380
-#EXTINF:-1,IT : Eurosport 1 HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1381
-#EXTINF:-1,IT : Eurosport 2 HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1382
-#EXTINF:-1,Sky Sport Formula 1 HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1384
-#EXTINF:-1,Sky Sport Moto GP HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1396
-#EXTINF:-1,Sky Sport Serie A HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1436
-#EXTINF:-1,Sky Sport 251 HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1437
-#EXTINF:-1,Sky Sport 252 HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1439
-#EXTINF:-1,Sky Sport 253 HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1440
-#EXTINF:-1,Sky Sport 254 HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1441
-#EXTINF:-1,Sky Sport 255 HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1442
-#EXTINF:-1,Sky Sport 256 HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1443
-#EXTINF:-1,Sky Sport 257 HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1444
-#EXTINF:-1,Sky Sport 258 HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1445
-#EXTINF:-1,Milan Tv
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1446
-#EXTINF:-1,Inter Tv
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1447
-#EXTINF:-1,Roma TV
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1448
-#EXTINF:-1,Torino Channel
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1449
-#EXTINF:-1,Lazio Style Channel
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1450
 
-#EXTINF:-1,National Geo HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1531
-#EXTINF:-1,National Geo Wild HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1532
-#EXTINF:-1,Discovery Channel HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1533
-#EXTINF:-1,Discovery Sci HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1534
-#EXTINF:-1,History HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1535
-#EXTINF:-1,Sky Arte HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1536
-#EXTINF:-1,Gambero Rosso HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1537
-#EXTINF:-1,Caccia
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1538
-#EXTINF:-1,Pesca
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1539
+#EXTINF:-1,IT: Primafila 1 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/2009
+#EXTINF:-1,IT: Primafila 2 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/2017
+#EXTINF:-1,IT: Primafila 3 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/932
+#EXTINF:-1,IT: Primafila 4 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/933
+#EXTINF:-1,IT: Primafila 5 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/2013
+#EXTINF:-1,IT: Primafila 6 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/2014
+#EXTINF:-1,IT: Primafila 7 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/937
+#EXTINF:-1,IT: Primafila 8 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/938
+#EXTINF:-1,IT: Primafila 9 4K
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/2016
+#EXTINF:-1,IT: Primafila 10 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/280029
+#EXTINF:-1,IT: Primafila 11 HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/922
+#EXTINF:-1,IT: Primafila 12 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/7895
+#EXTINF:-1,IT: Primafila 14 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/83439
+#EXTINF:-1,IT: Primafila 15 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/78494
+#EXTINF:-1,IT: Primafila 16 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/83440
+#EXTINF:-1,IT: Primafila 17 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/83434
+#EXTINF:-1,IT: Primafila 18 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/151601
+#EXTINF:-1,IT: Primafila Premiere 1 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/169935
+#EXTINF:-1,IT: Primafila Premiere 10 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/169932
+#EXTINF:-1,IT: Primafila Super FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/2020
+#EXTINF:-1,IT: Eagle Checco Zalone Channel FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/279926
+#EXTINF:-1,IT: Eagle Cinema 007 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/942
+#EXTINF:-1,IT: Eagle Cinema Animazione FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/943
+#EXTINF:-1,IT: Eagle Cinema Avventura FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/944
+#EXTINF:-1,IT: Eagle Cinema Azione HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/945
+#EXTINF:-1,IT: Eagle Cinema Biografico FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/75657
+#EXTINF:-1,IT: Eagle Cinema Bud Spencer FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/158444
+#EXTINF:-1,IT: Eagle Cinema Comico Cult HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/148117
+#EXTINF:-1,IT: Eagle Cinema Commedia FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/947
+#EXTINF:-1,IT: Eagle Cinema Drammatico FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/948
+#EXTINF:-1,IT: Eagle Cinema Famiglia FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/158445
+#EXTINF:-1,IT: Eagle Cinema Fantascienza FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/75654
+#EXTINF:-1,IT: Eagle Cinema Fantastico FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/148119
+#EXTINF:-1,IT: Eagle Cinema Film in Sala FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/75653
+#EXTINF:-1,IT: Eagle Cinema Horror HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/951
+#EXTINF:-1,IT: Eagle Cinema Mitologia HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/148116
+#EXTINF:-1,IT: Eagle Cinema Passione FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/952
+#EXTINF:-1,IT: Eagle Cinema Prima Visione FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/953
+#EXTINF:-1,IT: Eagle Cinema Religion FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/148115
+#EXTINF:-1,IT: Eagle Cinema Sorriso HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/954
+#EXTINF:-1,IT: Eagle Cinema Spaghetti Western FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/158446
+#EXTINF:-1,IT: Eagle Cinema Storico FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/148118
+#EXTINF:-1,IT: Eagle Cinema Thriller HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/956
+#EXTINF:-1,IT: Eagle Cinema Western FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/50679
+#EXTINF:-1,IT: Eagle Cinepanettone HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/158447
+#EXTINF:-1,IT: Eagle DC s Legends of Tomorrow 5 Sub FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/279930
+#EXTINF:-1,IT: Eagle Fiabe Magiche HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/50675
+#EXTINF:-1,IT: Eagle Nature Discovery 4K
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/59528
+#EXTINF:-1,IT Eagle Nature Discovery 4K
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/282883
+#EXTINF:-1,IT: Eagle Nature Explorer FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/958
+#EXTINF:-1,IT: Eagle Paolo Villagio FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/279925
+#EXTINF:-1,IT: Eagle Peppa Pig FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/158450
+#EXTINF:-1,IT: Eagle Ultra 4k
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/158443
 
-#EXTINF:-1,Cartoon Network
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1543
-#EXTINF:-1,Boomerang
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1544
-#EXTINF:-1,Nickelodeon
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1545
-#EXTINF:-1,Nick Junior
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1546
-#EXTINF:-1,DeA Junior
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1547
-#EXTINF:-1,DeA Kids
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1548
-#EXTINF:-1,Baby TV
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1549
+#EXTINF:-1,IT: History FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/264522
+#EXTINF:-1,IT History FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/274277
+#EXTINF:-1,IT: Focus HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/8163
+#EXTINF:-1,IT: DMAX FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/2006
+#EXTINF:-1,IT DMAX FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/274657
+#EXTINF:-1,IT: Blaze FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/14747
+#EXTINF:-1,IT: Discovery Channel HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/7868
+#EXTINF:-1,IT Discovery Channel HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/273718
+#EXTINF:-1,IT: Discovery Science FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/287758
+#EXTINF:-1,IT Discovery Science FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/290071
+#EXTINF:-1,IT: NAT GEO FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/2512
+#EXTINF:-1,IT NAT GEO FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/274093
+#EXTINF:-1,IT: NAT GEO Wild HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/279657
+#EXTINF:-1,IT NAT GEO Wild HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/279868
+#EXTINF:-1,IT: Crime+ Investigation FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/287401
+#EXTINF:-1,IT Crime+ Investigation FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/290038
+#EXTINF:-1,IT: Italian Fishing TV FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/63265
+#EXTINF:-1,IT: Motor Trend HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/75151
 
-#EXTINF:-1,Tgcom 24
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1552
 
-#EXTINF:-1,Tv 8 Full HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1663
-#EXTINF:-1,Rsi La 1 Full HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1664
-#EXTINF:-1,Rsi La 2 Full HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1665
-#EXTINF:-1,Crime Investigation Full HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1689
-#EXTINF:-1,Sky Sport 24 Full HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1699
-#EXTINF:-1,Sky Sport Uno Full HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1700
-#EXTINF:-1,Sky Sport Football Full HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1701
-#EXTINF:-1,Sky Sport Arena Full HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1702
-#EXTINF:-1,Sky Sport Formula 1 Full HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1705
-#EXTINF:-1,Sky Sport Moto Gp Full HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1706
-#EXTINF:-1,Supertennis Full HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1709
-#EXTINF:-1,Moto Trend Full HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1710
 
-#EXTINF:-1,Sky Sport Serie A Full HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1712
-#EXTINF:-1,Sky Sport 254 Full HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1717
-#EXTINF:-1,Sky Sport 255 Full HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1718
-#EXTINF:-1,Sky Sport 256 Full HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1719
-#EXTINF:-1,Dazn One Full HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1720
-#EXTINF:-1,Dazn One +1 Full HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1721
+#EXTINF:-1,IT: Boing HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/966
+#EXTINF:-1,IT: Boomerang HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/9565
+#EXTINF:-1,IT: Frisbee HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/2003
+#EXTINF:-1,IT: Disney junior HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1988
+#EXTINF:-1,IT Disney junior HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/290105
+#EXTINF:-1,IT: Disney+ FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/50687
+#EXTINF:-1,IT Disney+ FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/274574
+#EXTINF:-1,IT: Disney+ Film FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/279927
+#EXTINF:-1,IT Disney+ Film FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/282975
+#EXTINF:-1,IT: Cartoon Network HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/9567
+#EXTINF:-1,IT Cartoon Network HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/290040
+#EXTINF:-1,IT: Cartoonito HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/975
+#EXTINF:-1,IT Cartoonito HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/274295
+#EXTINF:-1,IT: K2 HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/8158
 
-#EXTINF:-1,National Geo Full HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1723
-#EXTINF:-1,National Geo Wild Full HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1724
-#EXTINF:-1,Discovery Channel Full HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1725
-#EXTINF:-1,History Full HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1727
 
-#EXTINF:-1,IT - Rai Sport   HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/54
-#EXTINF:-1,MTV HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1743
-#EXTINF:-1,Bike TV 
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1756
-#EXTINF:-1,WWE USA H24
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1795
-#EXTINF:-1,Nove Tv HD
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2243
-#EXTINF:-1,solocalcio
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2245
-#EXTINF:-1,Si live 24
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2246
-#EXTINF:-1,Napoli nel cuore tv
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2247
-#EXTINF:-1,20 Mediaset Diretto
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1769
-#EXTINF:-1,Radio Montecarlo TV Diretto
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1786
-#EXTINF:-1,Radio Virgin Tv Diretto
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1785
-#EXTINF:-1,Radio 101 TV Diretto
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1784
-#EXTINF:-1,Radio 105 TV Diretto
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1783
-#EXTINF:-1,TgCom 24 Diretto
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1782
-#EXTINF:-1,Boing Diretto
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1780
-#EXTINF:-1,Top Crime Diretto
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1779
-#EXTINF:-1,Iris Diretto
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1778
-#EXTINF:-1,La 5 Diretto
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1773
-#EXTINF:-1,Italia 2 Diretto
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1774
-#EXTINF:-1,Cine 34 Diretto
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1775
-#EXTINF:-1,Mediaset Extra Diretto
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1776
-#EXTINF:-1,Focus Diretto
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1777
-#EXTINF:-1,Cartoonito Diretto 
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1781
-#EXTINF:-1,Top Planet Juventus
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1790
+#EXTINF:-1,IT: Sky Sport 24 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/2535
+#EXTINF:-1,IT Sky Sport 24 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/290646
+#EXTINF:-1,IT: Sky Sport Arena FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/2541
+#EXTINF:-1,IT: Sky Sport F1 HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/2542
+#EXTINF:-1,IT: Sky Sport Football FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/2543
+#EXTINF:-1,IT: Sky Sport MotoGP FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/9880
+#EXTINF:-1,IT: Sky Sport NBA HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1047
+#EXTINF:-1,IT: Sky Sport Serie A HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/2546
+#EXTINF:-1,IT: Sky Sport Uno FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/278706
+#EXTINF:-1,IT: DAZN 1 HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/79220
+#EXTINF:-1,IT DAZN 1 HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/275028
+#EXTINF:-1,IT: DAZN 2 HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/39497
+#EXTINF:-1,IT DAZN 2 HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/275021
 
 
 
