@@ -2487,517 +2487,1043 @@ http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/275
 
 
 #EXTINF:-1   group-title="-IPTV ITALIA 2- ",
-#EXTINF:-1,IT: Rai 1
-http://ky-iptv.com:80/starisborn/starisborn/387112.ts
-#EXTINF:-1,IT: Rai 2
-http://ky-iptv.com:80/starisborn/starisborn/387113.ts
-#EXTINF:-1,IT: Rai 4
-http://ky-iptv.com:80/starisborn/starisborn/387115.ts
-#EXTINF:-1,IT: RAI Italia
-http://ky-iptv.com:80/starisborn/starisborn/387117.ts
-#EXTINF:-1,IT: Rai Movie
-http://ky-iptv.com:80/starisborn/starisborn/387119.ts
-#EXTINF:-1,IT: Rai Scuola
-http://ky-iptv.com:80/starisborn/starisborn/387120.ts
-#EXTINF:-1,IT: Rai News24
-http://ky-iptv.com:80/starisborn/starisborn/387121.ts
-#EXTINF:-1,IT: Italia 1 FHD
-http://ky-iptv.com:80/starisborn/starisborn/227113.ts
-#EXTINF:-1,IT: Italia 2 HD
-http://ky-iptv.com:80/starisborn/starisborn/227114.ts
-#EXTINF:-1,IT: LA 5 MEDIASET HD
-http://ky-iptv.com:80/starisborn/starisborn/227121.ts
-#EXTINF:-1,IT: Canale 5
-http://ky-iptv.com:80/starisborn/starisborn/387050.ts
-#EXTINF:-1,IT: Mediaset Italia 1
-http://ky-iptv.com:80/starisborn/starisborn/387123.ts
-#EXTINF:-1,IT: Mediaset 20
-http://ky-iptv.com:80/starisborn/starisborn/387125.ts
-#EXTINF:-1,IT: Mediaset Extra
-http://ky-iptv.com:80/starisborn/starisborn/387126.ts
-#EXTINF:-1,IT: Rete 4 TV
-http://ky-iptv.com:80/starisborn/starisborn/387128.ts
-#EXTINF:-1,IT: La 5
-http://ky-iptv.com:80/starisborn/starisborn/387129.ts
-#EXTINF:-1,IT: La 7
-http://ky-iptv.com:80/starisborn/starisborn/387130.ts
-#EXTINF:-1,IT: Cine 34 HD
-http://ky-iptv.com:80/starisborn/starisborn/227007.ts
-#EXTINF:-1,IT: Tgcom 24
-http://ky-iptv.com:80/starisborn/starisborn/387132.ts
-#EXTINF:-1,IT: Sky Arte
-http://ky-iptv.com:80/starisborn/starisborn/387133.ts
-#EXTINF:-1,IT: Sky TG24 SD
-http://ky-iptv.com:80/starisborn/starisborn/387135.ts
-#EXTINF:-1,IT: RTL 102.5 TV
-http://ky-iptv.com:80/starisborn/starisborn/387137.ts
-#EXTINF:-1,IT: DEEJAY TV
-http://ky-iptv.com:80/starisborn/starisborn/387138.ts
-#EXTINF:-1,IT: RDS TV
-http://ky-iptv.com:80/starisborn/starisborn/387139.ts
-#EXTINF:-1,IT: VH1
-http://ky-iptv.com:80/starisborn/starisborn/387140.ts
-#EXTINF:-1,IT: Radio 51
-http://ky-iptv.com:80/starisborn/starisborn/387142.ts
-#EXTINF:-1,IT: Radio Capital TV
-http://ky-iptv.com:80/starisborn/starisborn/387143.ts
-#EXTINF:-1,IT: Premium Crime HD
-http://ky-iptv.com:80/starisborn/starisborn/387153.ts
-#EXTINF:-1,IT: Sky Serie A FHD
-http://ky-iptv.com:80/starisborn/starisborn/227326.ts
-#EXTINF:-1,IT: Sky Sport Uno
-http://ky-iptv.com:80/starisborn/starisborn/387155.ts
-#EXTINF:-1,IT: Sky Sport F1
-http://ky-iptv.com:80/starisborn/starisborn/387160.ts
-#EXTINF:-1,IT: Sky Sport MotoGP
-http://ky-iptv.com:80/starisborn/starisborn/387162.ts
-#EXTINF:-1,IT: Sky Sport Arena
-http://ky-iptv.com:80/starisborn/starisborn/387158.ts
-#EXTINF:-1,IT: Sky Cinema Collection
-http://ky-iptv.com:80/starisborn/starisborn/387159.ts
-#EXTINF:-1,IT: Sky Sport NBA
-http://ky-iptv.com:80/starisborn/starisborn/387161.ts
-#EXTINF:-1,IT: Sky Sport 24
-http://ky-iptv.com:80/starisborn/starisborn/387167.ts
-#EXTINF:-1,IT: Rai Sport+
-http://ky-iptv.com:80/starisborn/starisborn/387174.ts
-#EXTINF:-1,IT: Sport Italia HD
-http://ky-iptv.com:80/starisborn/starisborn/387175.ts
-#EXTINF:-1,IT: Inter Channel
-http://ky-iptv.com:80/starisborn/starisborn/387178.ts
-#EXTINF:-1,IT: RTV Sport 1 HD
-http://ky-iptv.com:80/starisborn/starisborn/387181.ts
-#EXTINF:-1,IT: Super Tennis
-http://ky-iptv.com:80/starisborn/starisborn/387182.ts
-#EXTINF:-1,IT: Dazn Sport 1 HD
-http://ky-iptv.com:80/starisborn/starisborn/387183.ts
-#EXTINF:-1,IT: Eurosport 2 HD
-http://ky-iptv.com:80/starisborn/starisborn/387186.ts
-#EXTINF:-1,IT: SKY PrimaFila 2 HD
-http://ky-iptv.com:80/starisborn/starisborn/387191.ts
-#EXTINF:-1,IT: SKY Primafila 4 HD
-http://ky-iptv.com:80/starisborn/starisborn/387193.ts
-#EXTINF:-1,IT: SKY Primafila 5 HD
-http://ky-iptv.com:80/starisborn/starisborn/387194.ts
-#EXTINF:-1,IT: SKY Primafila 7 HD
-http://ky-iptv.com:80/starisborn/starisborn/387196.ts
-#EXTINF:-1,IT: SKY Primafila 8 HD
-http://ky-iptv.com:80/starisborn/starisborn/387197.ts
-#EXTINF:-1,IT: SKY Primafila 9 HD
-http://ky-iptv.com:80/starisborn/starisborn/387198.ts
-#EXTINF:-1,IT: SKY Primafila 10 HD
-http://ky-iptv.com:80/starisborn/starisborn/387199.ts
-#EXTINF:-1,IT: SKY Primafila 12 HD
-http://ky-iptv.com:80/starisborn/starisborn/387201.ts
-#EXTINF:-1,IT: SKY Primafila 13 HD
-http://ky-iptv.com:80/starisborn/starisborn/387202.ts
-#EXTINF:-1,IT: SKY Primafila 15 HD
-http://ky-iptv.com:80/starisborn/starisborn/387204.ts
-#EXTINF:-1,IT: SKY Primafila 16 HD
-http://ky-iptv.com:80/starisborn/starisborn/387205.ts
-#EXTINF:-1,IT: Primafila 18 HD
-http://ky-iptv.com:80/starisborn/starisborn/227223.ts
-#EXTINF:-1,IT: SKY CINEMA UNO+24 HD
-http://ky-iptv.com:80/starisborn/starisborn/1195880.ts
-#EXTINF:-1,IT: Skylantic HD
-http://ky-iptv.com:80/starisborn/starisborn/227367.ts
+#EXTINF:-1,IT| RAI 1 UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9832
+#EXTINF:-1,IT| RAI 1 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9833
+#EXTINF:-1,IT| RAI 2 UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9834
+#EXTINF:-1,IT| RAI 3 UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9835
+#EXTINF:-1,IT| RAI 2 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9836
+#EXTINF:-1,IT| RAI 3 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9837
+#EXTINF:-1,IT| RETE 4 UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9838
+#EXTINF:-1,IT| RETE 4 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9839
+#EXTINF:-1,IT| CANALE 5 UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9840
+#EXTINF:-1,IT| CANALE 5 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9841
+#EXTINF:-1,IT| ITALIA 1 UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9842
+#EXTINF:-1,IT| ITALIA 1 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9843
+#EXTINF:-1,IT| LA 7 UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9844
+#EXTINF:-1,IT| LA 7 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9845
+#EXTINF:-1,IT| RSI LA 1 UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9846
+#EXTINF:-1,IT| RSI LA 2 UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9847
+#EXTINF:-1,IT| LA 7D UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9848
+#EXTINF:-1,IT| LA 7D 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9849
+#EXTINF:-1,IT| TV8 UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9850
+#EXTINF:-1,IT| NOVE UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9851
+#EXTINF:-1,IT| NOVE 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9852
+#EXTINF:-1,IT| CINE34 UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9853
+#EXTINF:-1,IT| RAI PREMIUM UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9854
+#EXTINF:-1,IT| RAI PREMIUM 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9855
+#EXTINF:-1,IT| RAI MOVIE UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9856
+#EXTINF:-1,IT| RAI MOVIE 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9857
+#EXTINF:-1,IT| RAI 4 UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9858
+#EXTINF:-1,IT| RAI 4 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9859
+#EXTINF:-1,IT| RAI 5 UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9860
+#EXTINF:-1,IT| RAI 5 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9861
+#EXTINF:-1,IT| TV2000 UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9862
+#EXTINF:-1,IT| PADREPIO UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9863
+#EXTINF:-1,IT| TOP CRIME UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9864
+#EXTINF:-1,IT| MEDIA EXTRA UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9865
+#EXTINF:-1,IT| CANALE 20 UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9866
+#EXTINF:-1,IT| CANALE 20 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9867
+#EXTINF:-1,IT| ITALIA 2 UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9868
+#EXTINF:-1,IT| LA 5 UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9869
+#EXTINF:-1,IT| IRIS UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9870
+#EXTINF:-1,IT| GIALLO UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9871
+#EXTINF:-1,IT| FOOD NETWORK UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9872
+#EXTINF:-1,IT| NASATV UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9873
+#EXTINF:-1,IT| QVC UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9874
+#EXTINF:-1,IT| HSE24 UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9875
+#EXTINF:-1,IT| PARAMOUNT UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9876
+#EXTINF:-1,IT| SPIKE UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9877
+#EXTINF:-1,IT| VH1 UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9878
+#EXTINF:-1,IT| TV 2000 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9879
+#EXTINF:-1,IT| REALTIME UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9880
+#EXTINF:-1,IT| REALTIME 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9881
+#EXTINF:-1,IT| CIELO UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9882
+#EXTINF:-1,IT| CIELO 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9883
+#EXTINF:-1,IT| DMAX UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9884
+#EXTINF:-1,IT| DMAX 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9885
+#EXTINF:-1,IT| RAI SPORT UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9886
+#EXTINF:-1,IT| RAI SPORT 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9887
+#EXTINF:-1,IT| SKY CINEMA UNO UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9888
+#EXTINF:-1,IT| SKY CINEMA UNO 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9889
+#EXTINF:-1,IT| SKY CINEMA UNO24 UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9890
+#EXTINF:-1,IT| SKY CINEMA UNO24 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9891
+#EXTINF:-1,IT| SKY CINEMA DUE UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9892
+#EXTINF:-1,IT| SKY CINEMA DUE 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9893
+#EXTINF:-1,IT| SKY CINEMA DUE24 UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9894
+#EXTINF:-1,IT| SKY CINEMA DUE24 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9895
+#EXTINF:-1,IT| SKY CINEMA COLLECTION 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9896
+#EXTINF:-1,IT| SKY CINEMA COLLECTION UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9897
+#EXTINF:-1,IT| SKY CINEMA FAMILY UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9898
+#EXTINF:-1,IT| SKY CINEMA FAMILY 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9899
+#EXTINF:-1,IT| SKY CINEMA ACTION UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9900
+#EXTINF:-1,IT| SKY CINEMA ACTION 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9901
+#EXTINF:-1,IT| SKY CINEMA SUSPENSE UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9902
+#EXTINF:-1,IT| SKY CINEMA SUSPENSE 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9903
+#EXTINF:-1,IT| SKY CINEMA ROMANCE UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9904
+#EXTINF:-1,IT| SKY CINEMA DRAMA UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9905
+#EXTINF:-1,IT| SKY CINEMA DRAMA 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9906
+#EXTINF:-1,IT| SKY CINEMA ROMANCE 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9907
+#EXTINF:-1,IT| SKY CINEMA COMEDY UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9908
+#EXTINF:-1,IT| SKY CINEMA COMEDY 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9909
+#EXTINF:-1,IT| SKY BLAZE UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9910
+#EXTINF:-1,IT| SKY BLAZE 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9911
+#EXTINF:-1,IT| SKY UNO UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9912
+#EXTINF:-1,IT| SKY UNO 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9913
+#EXTINF:-1,IT| SKY ATLANTIC UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9914
+#EXTINF:-1,IT| SKY ATLANTIC 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9915
+#EXTINF:-1,IT| SKY FOX UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9916
+#EXTINF:-1,IT| SKY FOX 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9917
+#EXTINF:-1,IT| SKY SPORT ACTION UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9918
+#EXTINF:-1,IT| SKY SPORT ACTION 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9919
+#EXTINF:-1,IT| SKY CRIME INVEST UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9920
+#EXTINF:-1,IT| SKY CRIME INVEST 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9921
+#EXTINF:-1,IT| SKY COMEDY CENTRAL UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9922
+#EXTINF:-1,IT| CLASSICA UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9923
+#EXTINF:-1,IT| MTV MUSIC UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9924
+#EXTINF:-1,IT| MTV  UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9925
+#EXTINF:-1,IT| MTV 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9926
+#EXTINF:-1,IT| SKY GAMBERO UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9927
+#EXTINF:-1,IT| SKY GAMBERO 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9928
+#EXTINF:-1,IT| SKY LAF UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9929
+#EXTINF:-1,IT| SKY LAF 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9930
+#EXTINF:-1,IT| SUPER TENNIS 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9931
+#EXTINF:-1,IT| SPORT ITALIA 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9932
+#EXTINF:-1,IT| MOTORTREND
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9933
+#EXTINF:-1,IT| SKY SPORT 24 UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9934
+#EXTINF:-1,IT| SKY SPORT 24 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9935
+#EXTINF:-1,IT| SKY SPORT NBA UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9936
+#EXTINF:-1,IT| SKY SPORT NBA 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9937
+#EXTINF:-1,IT| SKY SPORT UNO UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9938
+#EXTINF:-1,IT| SKY SPORT UNO 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9939
+#EXTINF:-1,IT| SKY SPORT FOOTBALL UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9940
+#EXTINF:-1,IT| SKY SPORT FOOTBALL 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9941
+#EXTINF:-1,IT| SKY SPORT ARENA UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9942
+#EXTINF:-1,IT| SKY SPORT ARENA 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9943
+#EXTINF:-1,IT| SKY SPORT COLLECTION UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9944
+#EXTINF:-1,IT| SKY SPORT COLLECTION 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9945
+#EXTINF:-1,IT| SKY SPORT F1 UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9946
+#EXTINF:-1,IT| SKY SPORT F1 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9947
+#EXTINF:-1,IT| SKY SPORT MOTOGP UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9948
+#EXTINF:-1,IT| SKY SPORT MOTOGP 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9949
+#EXTINF:-1,IT| SKY EUROSPORT 1 UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9950
+#EXTINF:-1,IT| SKY EUROSPORT 1 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9951
+#EXTINF:-1,IT| SKY EUROSPORT 2 UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9952
+#EXTINF:-1,IT| SKY EUROSPORT 2 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9953
+#EXTINF:-1,IT| SKY CACCIA UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9954
+#EXTINF:-1,IT| SKY PESCA UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9955
+#EXTINF:-1,IT| SKY SPORT CALCIO UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9956
+#EXTINF:-1,IT| SKY SPORT CALCIO 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9957
+#EXTINF:-1,IT| SKY CALCIO 1 UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9958
+#EXTINF:-1,IT| SKY CALCIO 1 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9959
+#EXTINF:-1,IT| SKY CALCIO 2 UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9960
+#EXTINF:-1,IT| SKY CALCIO 2 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9961
+#EXTINF:-1,IT| SKY CALCIO 3 UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9962
+#EXTINF:-1,IT| SKY CALCIO 3 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9963
+#EXTINF:-1,IT| SKY CALCIO 4 UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9964
+#EXTINF:-1,IT| SKY CALCIO 5 UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9965
+#EXTINF:-1,IT| SKY CALCIO 6 UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9966
+#EXTINF:-1,IT| SKY CALCIO 5 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9967
+#EXTINF:-1,IT| SKY CALCIO 6 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9968
+#EXTINF:-1,IT| SKY CALCIO 7 UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9969
+#EXTINF:-1,IT| SKY CALCIO 7 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9970
+#EXTINF:-1,IT| TOP CALCIO
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9971
+#EXTINF:-1,IT| SKY MILAN TV UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9972
+#EXTINF:-1,IT| SKY INTER TV UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9973
+#EXTINF:-1,IT| SKY LAZIO UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9974
+#EXTINF:-1,IT| SKY CALCIO 4 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9975
+#EXTINF:-1,IT| DAZN DIRETTA GOL SERIE A UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9976
+#EXTINF:-1,IT| DAZN DIRETTA GOL SERIE B UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9977
+#EXTINF:-1,IT| SKY DAZN 1 UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9978
+#EXTINF:-1,IT| SKY DAZN 1 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9979
+#EXTINF:-1,IT| SKY ARTE UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9980
+#EXTINF:-1,IT| SKY ARTE 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9981
+#EXTINF:-1,IT| SKY NAT GEO  UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9982
+#EXTINF:-1,IT| SKY NAT GEO  4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9983
+#EXTINF:-1,IT| SKY NAT GEO WILD UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9984
+#EXTINF:-1,IT| SKY NAT GEO WILD 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9985
+#EXTINF:-1,IT| SKY DISCOVERY  UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9986
+#EXTINF:-1,IT| SKY DISCOVERY  4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9987
+#EXTINF:-1,IT| SKY  DISCOVERY SCI UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9988
+#EXTINF:-1,IT| SKY DISCOVERY SCI 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9989
+#EXTINF:-1,IT| SKY HISTORY UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9990
+#EXTINF:-1,IT| SKY HISTORY 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9991
+#EXTINF:-1,IT| RAI STORIA UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9992
+#EXTINF:-1,IT| RAI STORIA 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9993
+#EXTINF:-1,IT| RAI SCUOLA 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9994
+#EXTINF:-1,IT| RAI SCUOLA UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9995
+#EXTINF:-1,IT| ALMA MARCOPOLO
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9996
+#EXTINF:-1,IT| CLASS TV MODA
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9997
+#EXTINF:-1,IT| FOCUS 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9998
+#EXTINF:-1,IT| FOCUS HD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/9999
+#EXTINF:-1,IT| SKY DEAJUNIOR UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10000
+#EXTINF:-1,IT| SKY DEAJUNIOR 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10001
+#EXTINF:-1,IT| SKY DEAKIDS UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10002
+#EXTINF:-1,IT| SKY DEAKIDS 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10003
+#EXTINF:-1,IT| SKY NICKJR UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10004
+#EXTINF:-1,IT| SKY NICKJR 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10005
+#EXTINF:-1,IT| SKY NICKELODEON UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10006
+#EXTINF:-1,IT| SKY NICKELODEON 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10007
+#EXTINF:-1,IT| SKY BOOMERANG UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10008
+#EXTINF:-1,IT| SKY CARTOON NETWORK UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10009
+#EXTINF:-1,IT| SKY CARTOON NETWORK 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10010
+#EXTINF:-1,IT| SKY BABY UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10011
+#EXTINF:-1,IT| SKY BABY 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10012
+#EXTINF:-1,IT| BOING PLUS
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10013
+#EXTINF:-1,IT| RAI GULP 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10014
+#EXTINF:-1,IT| RAI GULP HD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10015
+#EXTINF:-1,IT| RAI YOYO 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10016
+#EXTINF:-1,IT| RAI YOYO HD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10017
+#EXTINF:-1,IT| BOING
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10018
+#EXTINF:-1,IT| CARTOONITO
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10019
+#EXTINF:-1,IT| K2
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10020
+#EXTINF:-1,IT| FRISBEE
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10021
+#EXTINF:-1,IT| SUPER!
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10022
+#EXTINF:-1,IT| EURONEWS ITA
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10023
+#EXTINF:-1,IT| SKY TG24 UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10024
+#EXTINF:-1,IT| SKY TG24 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10025
+#EXTINF:-1,IT| RAI NEWS 24
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10026
+#EXTINF:-1,IT| TGCOM24
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10027
+#EXTINF:-1,IT| TG NORBA 24
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10028
 
-#EXTINF:-1,IT: Sky Atlantic
-http://ky-iptv.com:80/starisborn/starisborn/387208.ts
-#EXTINF:-1,IT: Sky Cinema Due
-http://ky-iptv.com:80/starisborn/starisborn/387210.ts
-#EXTINF:-1,IT: Sky Cinema Due +24 HD
-http://ky-iptv.com:80/starisborn/starisborn/387212.ts
-#EXTINF:-1,IT: Sky Cinema Family
-http://ky-iptv.com:80/starisborn/starisborn/387215.ts
-#EXTINF:-1,IT: Sky Cinema Action
-http://ky-iptv.com:80/starisborn/starisborn/387216.ts
-#EXTINF:-1,IT: Sky Cinema Drama
-http://ky-iptv.com:80/starisborn/starisborn/387219.ts
-#EXTINF:-1,IT: Sky Cinema Romance HD
-http://ky-iptv.com:80/starisborn/starisborn/387220.ts
-#EXTINF:-1,IT: Rai Storia
-http://ky-iptv.com:80/starisborn/starisborn/387222.ts
-#EXTINF:-1,IT: Dmax
-http://ky-iptv.com:80/starisborn/starisborn/387223.ts
-#EXTINF:-1,IT: Discovery Science
-http://ky-iptv.com:80/starisborn/starisborn/387227.ts
-#EXTINF:-1,IT: CACCIA e Pesca
-http://ky-iptv.com:80/starisborn/starisborn/387235.ts
-#EXTINF:-1,IT: Real Time
-http://ky-iptv.com:80/starisborn/starisborn/387237.ts
-#EXTINF:-1,IT: TV 2000
-http://ky-iptv.com:80/starisborn/starisborn/387238.ts
-#EXTINF:-1,IT: Aurora Arte
-http://ky-iptv.com:80/starisborn/starisborn/387240.ts
-#EXTINF:-1,IT: Carina TV
-http://ky-iptv.com:80/starisborn/starisborn/387242.ts
-#EXTINF:-1,IT: Esperia TV
-http://ky-iptv.com:80/starisborn/starisborn/387244.ts
-#EXTINF:-1,IT: m2o TV
-http://ky-iptv.com:80/starisborn/starisborn/387247.ts
-#EXTINF:-1,IT: Rete veneta
-http://ky-iptv.com:80/starisborn/starisborn/387255.ts
-#EXTINF:-1,IT: TV Brescia
-http://ky-iptv.com:80/starisborn/starisborn/387259.ts
-#EXTINF:-1,IT: Telechiara
-http://ky-iptv.com:80/starisborn/starisborn/387262.ts
-#EXTINF:-1,IT: Tele Sondrio News HD
-http://ky-iptv.com:80/starisborn/starisborn/387264.ts
-#EXTINF:-1,IT: TV7 Triveneta
-http://ky-iptv.com:80/starisborn/starisborn/387270.ts
-#EXTINF:-1,IT: TVA Vicenza
-http://ky-iptv.com:80/starisborn/starisborn/387271.ts
-#EXTINF:-1,IT: Spike
-http://ky-iptv.com:80/starisborn/starisborn/387278.ts
-#EXTINF:-1,IT: RSI La 2 HD
-http://ky-iptv.com:80/starisborn/starisborn/387285.ts
-#EXTINF:-1,IT: FRISBEE
-http://ky-iptv.com:80/starisborn/starisborn/387286.ts
-#EXTINF:-1,IT: Discovery Channel
-http://ky-iptv.com:80/starisborn/starisborn/387226.ts
-#EXTINF:-1,IT: Focus
-http://ky-iptv.com:80/starisborn/starisborn/387231.ts
-#EXTINF:-1,IT: Nove TV
-http://ky-iptv.com:80/starisborn/starisborn/387232.ts
-#EXTINF:-1,IT: Teleromagna
-http://ky-iptv.com:80/starisborn/starisborn/227411.ts
-#EXTINF:-1,IT: Mediaset TGCOM 24
-http://ky-iptv.com:80/starisborn/starisborn/227148.ts
-#EXTINF:-1,IT: Discovery FRISBEE HD
-http://ky-iptv.com:80/starisborn/starisborn/227027.ts
-#EXTINF:-1,IT: TRACE Sport Stars HD
-http://ky-iptv.com:80/starisborn/starisborn/227425.ts
-#EXTINF:-1,IT: TV Yes Umbria
-http://ky-iptv.com:80/starisborn/starisborn/220980.ts
-#EXTINF:-1,IT: Sky Primafila HD
-http://ky-iptv.com:80/starisborn/starisborn/220936.ts
-#EXTINF:-1,IT: RADIO M20 TV
-http://ky-iptv.com:80/starisborn/starisborn/220881.ts
-#EXTINF:-1,IT: PREMIUM PARAMOUNT
-http://ky-iptv.com:80/starisborn/starisborn/220865.ts
-#EXTINF:-1,IT: History Channel HD
-http://ky-iptv.com:80/starisborn/starisborn/220824.ts
-#EXTINF:-1,IT: LA7d FHD
-http://ky-iptv.com:80/starisborn/starisborn/220835.ts
-#EXTINF:-1,IT: ITALIA 2 MEDIASET HD
-http://ky-iptv.com:80/starisborn/starisborn/220829.ts
-#EXTINF:-1,IT: Iris HD
-http://ky-iptv.com:80/starisborn/starisborn/220827.ts
-#EXTINF:-1,IT: Sky Calcio 3
-http://ky-iptv.com:80/starisborn/starisborn/387165.ts
-#EXTINF:-1,IT: SKY Primafila 3 HD
-http://ky-iptv.com:80/starisborn/starisborn/387192.ts
-#EXTINF:-1,IT: Studio 100
-http://ky-iptv.com:80/starisborn/starisborn/227378.ts
-#EXTINF:-1,IT: Sky Calcio 1
-http://ky-iptv.com:80/starisborn/starisborn/387163.ts
-#EXTINF:-1,IT: Super Tennis
-http://ky-iptv.com:80/starisborn/starisborn/514649.ts
-#EXTINF:-1,IT: Teleonda
-http://ky-iptv.com:80/starisborn/starisborn/387267.ts
-#EXTINF:-1,IT: RTTR
-http://ky-iptv.com:80/starisborn/starisborn/387256.ts
-#EXTINF:-1,IT: Top Crime
-http://ky-iptv.com:80/starisborn/starisborn/387122.ts
-#EXTINF:-1,IT: MEDIASET IRIS
-http://ky-iptv.com:80/starisborn/starisborn/227144.ts
+#EXTINF:-1,IT| RAI 1 HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10030
+#EXTINF:-1,IT| RAI 2 HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10031
+#EXTINF:-1,IT| RAI 3 HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10032
+#EXTINF:-1,IT| RETE 4 HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10033
+#EXTINF:-1,IT| FOCUS HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10034
+#EXTINF:-1,IT| SKY LAEFE HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10035
+#EXTINF:-1,IT| DMAX HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10036
+#EXTINF:-1,IT| BABY TV HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10037
+#EXTINF:-1,IT| TV 8 HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10038
+#EXTINF:-1,IT| SKY TG24 HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10039
+#EXTINF:-1,IT| CANALE 5 HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10040
+#EXTINF:-1,IT| ITALIA 1 HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10041
+#EXTINF:-1,IT| CIELO HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10042
+#EXTINF:-1,IT| REALTIME HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10043
+#EXTINF:-1,IT| SKY NATURE HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10044
+#EXTINF:-1,IT| SKY ARTE HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10045
+#EXTINF:-1,IT| SKY DISCOVERY HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10046
+#EXTINF:-1,IT| SKY DISCOVERY SCI HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10047
+#EXTINF:-1,IT| SKY HISTORY HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10048
+#EXTINF:-1,IT| SKY NAT GEO HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10049
+#EXTINF:-1,IT| SKY NAT GEO WILD HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10050
+#EXTINF:-1,IT| SKY FOOD NETWORK HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10051
+#EXTINF:-1,IT| SKY CARTOON NETWORK HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10052
+#EXTINF:-1,IT| SKY NICKELODEON HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10053
+#EXTINF:-1,IT| SKY NICK JR HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10054
+#EXTINF:-1,IT| SKY CACCIA E PESCA HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10055
+#EXTINF:-1,IT| SKY PESCA E CACCIA HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10056
+#EXTINF:-1,IT| SKY GINX ESPORT TV HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10057
+#EXTINF:-1,IT| SKY HORSE TV HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10058
+#EXTINF:-1,IT| SKY CRIME INVESTIGATION HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10059
+#EXTINF:-1,IT| SKY BLAZE HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10060
+#EXTINF:-1,IT| SKY ATLANTIC HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10061
+#EXTINF:-1,IT| SKY COMEDY CENTRAL HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10062
+#EXTINF:-1,IT| SKY MTV HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10063
+#EXTINF:-1,IT| SKY CINEMA UNO HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10064
+#EXTINF:-1,IT| SKY CINEMA UNO 24 HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10065
+#EXTINF:-1,IT| SKY CINEMA SUSPENSE HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10066
+#EXTINF:-1,IT| SKY CINEMA ROMANCE HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10067
+#EXTINF:-1,IT| SKY CINEMA FAMILY HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10068
+#EXTINF:-1,IT| SKY CINEMA DUE HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10069
+#EXTINF:-1,IT| SKY CINEMA DUE 24 HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10070
+#EXTINF:-1,IT| SKY CINEMA DRAMA HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10071
+#EXTINF:-1,IT| SKY CINEMA COMEDY HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10072
+#EXTINF:-1,IT| SKY CINEMA COLLECTION HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10073
+#EXTINF:-1,IT| SKY CINEMA ACTION HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10074
+#EXTINF:-1,IT| SKY PREMIUM CINEMA 1 HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10075
+#EXTINF:-1,IT| SKY PREMIUM CINEMA 2 HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10076
+#EXTINF:-1,IT| SKY PREMIUM CINEMA 3 HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10077
+#EXTINF:-1,IT| SKY PREMIUM CINEMA 1 +24 HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10078
+#EXTINF:-1,IT| SKY UNO HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10079
+#EXTINF:-1,IT| SKY PREMIUM STORIES HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10080
+#EXTINF:-1,IT| SKY PREMIUM CRIME HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10081
+#EXTINF:-1,IT| SKY PREMIUM ACTION HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10082
+#EXTINF:-1,IT| SKY SPORT ACTION HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10083
+#EXTINF:-1,IT| SKY FOX HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10084
+#EXTINF:-1,IT| SKY LAZIO HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10085
+#EXTINF:-1,IT| SKY MILAN HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10086
+#EXTINF:-1,IT| SKY EUROSPORT1 HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10087
+#EXTINF:-1,IT| SKY EUROSPORT2 HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10088
+#EXTINF:-1,IT| EUROSPORT PLAYER LIVE 1
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10089
+#EXTINF:-1,IT| EUROSPORT PLAYER LIVE 2
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10090
+#EXTINF:-1,IT| EUROSPORT PLAYER LIVE 3
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10091
+#EXTINF:-1,IT| EUROSPORT PLAYER LIVE 4
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10092
+#EXTINF:-1,IT| EUROSPORT PLAYER LIVE 5
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10093
+#EXTINF:-1,IT| EUROSPORT PLAYER LIVE 6
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10094
+#EXTINF:-1,IT| EUROSPORT PLAYER LIVE 7
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10095
+#EXTINF:-1,IT| EUROSPORT PLAYER LIVE 8
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10096
+#EXTINF:-1,IT| EUROSPORT PLAYER LIVE 9
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10097
+#EXTINF:-1,IT| EUROSPORT PLAYER LIVE 10
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10098
+#EXTINF:-1,IT| EUROSPORT PLAYER LIVE 11
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10099
+#EXTINF:-1,IT| EUROSPORT PLAYER LIVE 12
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10100
+#EXTINF:-1,IT| EUROSPORT PLAYER LIVE 13
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10101
+#EXTINF:-1,IT| EUROSPORT PLAYER LIVE 14
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10102
+#EXTINF:-1,IT| EUROSPORT PLAYER LIVE 15
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10103
+#EXTINF:-1,IT| EUROSPORT PLAYER LIVE 16
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10104
+#EXTINF:-1,IT| EUROSPORT PLAYER LIVE 17
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10105
+#EXTINF:-1,IT| EUROSPORT PLAYER LIVE 18
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10106
+#EXTINF:-1,IT| EUROSPORT PLAYER LIVE 19
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10107
+#EXTINF:-1,IT| EUROSPORT PLAYER LIVE 20
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10108
+#EXTINF:-1,IT| EUROSPORT PLAYER LIVE 21
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10109
+#EXTINF:-1,IT| EUROSPORT PLAYER LIVE 22
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10110
+#EXTINF:-1,IT| EUROSPORT PLAYER LIVE 23
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10111
+#EXTINF:-1,IT| EUROSPORT PLAYER LIVE 24
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10112
+#EXTINF:-1,IT| EUROSPORT PLAYER LIVE 25
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10113
+#EXTINF:-1,IT| SKY SPORT MOTO GP HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10114
+#EXTINF:-1,IT| SKY SPORT F1 HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10115
+#EXTINF:-1,IT| SKY SPORT TENNIS HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10116
+#EXTINF:-1,IT| SKY SPORT ARENA HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10117
+#EXTINF:-1,IT| SKY SPORT FOOTBALL HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10118
+#EXTINF:-1,IT| SKY SPORT UNO HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10119
+#EXTINF:-1,IT| SKY SPORT NBA HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10120
+#EXTINF:-1,IT| SKY SPORT 24 HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10121
+#EXTINF:-1,IT| SKY CALCIO 1 HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10122
+#EXTINF:-1,IT| SKY CALCIO 2 HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10123
+#EXTINF:-1,IT| SKY CALCIO 3 HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10124
+#EXTINF:-1,IT| SKY CALCIO 4 HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10125
+#EXTINF:-1,IT| SKY CALCIO 5 HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10126
+#EXTINF:-1,IT| SKY CALCIO 6 HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10127
+#EXTINF:-1,IT| SKY SPORT CALCIO HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10128
+#EXTINF:-1,IT| SKY INTER HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10129
+#EXTINF:-1,IT| SKY DAZN BAR HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10130
+#EXTINF:-1,IT| SKY INVESTIGATION HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10131
+#EXTINF:-1,IT| SKY SERIE HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10132
+#EXTINF:-1,IT| SKY DOCUMENTARIES HEVC
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10133
 
-#EXTINF:-1,IT: Sophia TV
-http://ky-iptv.com:80/starisborn/starisborn/387258.ts
-#EXTINF:-1,IT: Elive TV Brescia
-http://ky-iptv.com:80/starisborn/starisborn/387243.ts
-#EXTINF:-1,IT: Sky Dazn Bar HD
-http://ky-iptv.com:80/starisborn/starisborn/227315.ts
-#EXTINF:-1,IT: TV8
-http://ky-iptv.com:80/starisborn/starisborn/387108.ts
-#EXTINF:-1,IT: Sky Uno HD
-http://ky-iptv.com:80/starisborn/starisborn/387207.ts
-#EXTINF:-1,IT: Sky Cinema Due +24 HD
-http://ky-iptv.com:80/starisborn/starisborn/227296.ts
-#EXTINF:-1,IT: RTV Reggio HD
-http://ky-iptv.com:80/starisborn/starisborn/387257.ts
-#EXTINF:-1,IT: Premium Action
-http://ky-iptv.com:80/starisborn/starisborn/387147.ts
-#EXTINF:-1,IT: Sky Sport Serie A
-http://ky-iptv.com:80/starisborn/starisborn/387156.ts
-#EXTINF:-1,IT: Sky Calcio 2 FHD
-http://ky-iptv.com:80/starisborn/starisborn/387164.ts
-#EXTINF:-1,IT: Orler TV
-http://ky-iptv.com:80/starisborn/starisborn/387248.ts
-#EXTINF:-1,IT: Eurosport 1 HD
-http://ky-iptv.com:80/starisborn/starisborn/387185.ts
-#EXTINF:-1,IT: Sky Sport 254
-http://ky-iptv.com:80/starisborn/starisborn/387171.ts
-#EXTINF:-1,IT: Rai Premium
-http://ky-iptv.com:80/starisborn/starisborn/387118.ts
-#EXTINF:-1,IT: RADIO ITALIA HD
-http://ky-iptv.com:80/starisborn/starisborn/387144.ts
-#EXTINF:-1,IT: DAZN SPORT 2
-http://ky-iptv.com:80/starisborn/starisborn/1585986.ts
-#EXTINF:-1,IT: Premium Cinema FHD
-http://ky-iptv.com:80/starisborn/starisborn/220858.ts
-#EXTINF:-1,IT: RADIO ITALIA TV HD
-http://ky-iptv.com:80/starisborn/starisborn/227232.ts
-#EXTINF:-1,IT: Quarta Rete TV
-http://ky-iptv.com:80/starisborn/starisborn/227226.ts
-#EXTINF:-1,IT: RTV Reggio
-http://ky-iptv.com:80/starisborn/starisborn/227275.ts
-#EXTINF:-1,IT: Telefoggia
-http://ky-iptv.com:80/starisborn/starisborn/227399.ts
-#EXTINF:-1,IT: TVRS
-http://ky-iptv.com:80/starisborn/starisborn/387272.ts
-#EXTINF:-1,IT: TeleVideo Agrigento
-http://ky-iptv.com:80/starisborn/starisborn/387268.ts
-#EXTINF:-1,IT: Rai 3
-http://ky-iptv.com:80/starisborn/starisborn/387114.ts
-#EXTINF:-1,IT: Food Network
-http://ky-iptv.com:80/starisborn/starisborn/387103.ts
-#EXTINF:-1,IT: RSI La 1 HD
-http://ky-iptv.com:80/starisborn/starisborn/387284.ts
-#EXTINF:-1,IT: Sky Cinema Uno
-http://ky-iptv.com:80/starisborn/starisborn/387209.ts
-#EXTINF:-1,IT: Iris Mediaset
-http://ky-iptv.com:80/starisborn/starisborn/387127.ts
-#EXTINF:-1,IT: Rai 5
-http://ky-iptv.com:80/starisborn/starisborn/387116.ts
-#EXTINF:-1,IT: Sky NAT GEO HD
-http://ky-iptv.com:80/starisborn/starisborn/227321.ts
-#EXTINF:-1,IT: RTV Sport 1 HD
-http://ky-iptv.com:80/starisborn/starisborn/227369.ts
-#EXTINF:-1,IT: Sky Sport Futboll
-http://ky-iptv.com:80/starisborn/starisborn/220946.ts
-#EXTINF:-1,IT: CAFE 24 HD
-http://ky-iptv.com:80/starisborn/starisborn/226990.ts
-#EXTINF:-1,IT: Euronews
-http://ky-iptv.com:80/starisborn/starisborn/227084.ts
-#EXTINF:-1,IT: Eagle Cinema Mitologia HD
-http://ky-iptv.com:80/starisborn/starisborn/1620746.ts
-#EXTINF:-1,IT: Sky Sport 255
-http://ky-iptv.com:80/starisborn/starisborn/387172.ts
-#EXTINF:-1,IT: NAT GEO HD
-http://ky-iptv.com:80/starisborn/starisborn/1287214.ts
-#EXTINF:-1,IT: Icaro TV
-http://ky-iptv.com:80/starisborn/starisborn/387245.ts
-#EXTINF:-1,IT: SKY Primafila 6 HD
-http://ky-iptv.com:80/starisborn/starisborn/387195.ts
-#EXTINF:-1,IT: SKY Primafila 14 HD
-http://ky-iptv.com:80/starisborn/starisborn/387203.ts
-#EXTINF:-1,IT: Sky Cinema Comedy
-http://ky-iptv.com:80/starisborn/starisborn/387218.ts
-#EXTINF:-1,IT: PREMIUM CINEMA EMOTION FHD
-http://ky-iptv.com:80/starisborn/starisborn/227192.ts
-#EXTINF:-1,IT: TeleBari Tv
-http://ky-iptv.com:80/starisborn/starisborn/227394.ts
-#EXTINF:-1,IT: Sport Seri A
-http://ky-iptv.com:80/starisborn/starisborn/227375.ts
-#EXTINF:-1,IT: FOX HD
-http://ky-iptv.com:80/starisborn/starisborn/387104.ts
-#EXTINF:-1,IT: Premium Cinema Energy
-http://ky-iptv.com:80/starisborn/starisborn/387150.ts
-#EXTINF:-1,IT: Fishing TV
-http://ky-iptv.com:80/starisborn/starisborn/387234.ts
-#EXTINF:-1,IT: Sport Italia
-http://ky-iptv.com:80/starisborn/starisborn/220958.ts
-#EXTINF:-1,IT: DAZN 4
-http://ky-iptv.com:80/starisborn/starisborn/1696529.ts
+#EXTINF:-1,IT| MEDIASET ITALIA (NA)
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10135
+#EXTINF:-1,IT| RAI ITALIA HD (NA)
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10136
+#EXTINF:-1,IT| RAI WORLD (NA)
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10137
+#EXTINF:-1,IT| RAI NEWS 24 (NA)
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10138
+#EXTINF:-1,IT| SKY TG24 (NA)
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10139
+#EXTINF:-1,IT| TELEBIMBI (NA)
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10140
+#EXTINF:-1,IT| TLN HD (NA)
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10141
+#EXTINF:-1,IT| RAI 1 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10142
+#EXTINF:-1,IT| RAI 1 HD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10143
+#EXTINF:-1,IT| RAI 1 SD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10144
+#EXTINF:-1,IT| RAI 2 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10145
+#EXTINF:-1,IT| RAI 2 HD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10146
+#EXTINF:-1,IT| RAI 2 SD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10147
+#EXTINF:-1,IT| RAI 3 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10148
+#EXTINF:-1,IT| RAI 3 HD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10149
+#EXTINF:-1,IT| RAI 3 SD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10150
+#EXTINF:-1,IT| RAI 4 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10151
+#EXTINF:-1,IT| RAI 4 HD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10152
+#EXTINF:-1,IT| RAI 5 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10153
+#EXTINF:-1,IT| RAI 5 HD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10154
+#EXTINF:-1,IT| RAI MOVIE 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10155
+#EXTINF:-1,IT| RAI MOVIE HD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10156
+#EXTINF:-1,IT| RAI NEWS 24 HD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10157
+#EXTINF:-1,IT| RAI PREMIUM 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10158
+#EXTINF:-1,IT| RAI PREMIUM HD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10159
+#EXTINF:-1,IT| RAI SCUOLA 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10160
+#EXTINF:-1,IT| RAI SCUOLA HD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10161
+#EXTINF:-1,IT| RAI STORIA 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10162
+#EXTINF:-1,IT| RAI STORIA HD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10163
+#EXTINF:-1,IT| RAI ITALIA
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10164
+#EXTINF:-1,IT| RDS TV
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10165
+#EXTINF:-1,IT| REALITY TV
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10166
+#EXTINF:-1,IT| RETE 4 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10167
+#EXTINF:-1,IT| RETE 4 HD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10168
+#EXTINF:-1,IT| RETE 4 SD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10169
+#EXTINF:-1,IT| LA 5
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10170
+#EXTINF:-1,IT| LA 7
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10171
+#EXTINF:-1,IT| LA 7 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10172
+#EXTINF:-1,IT| LA 7D
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10173
+#EXTINF:-1,IT| LA 7D 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10174
+#EXTINF:-1,IT| ITALIA 1 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10175
+#EXTINF:-1,IT| ITALIA 1 HD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10176
+#EXTINF:-1,IT| ITALIA 1 SD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10177
+#EXTINF:-1,IT| ITALIA 2
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10178
+#EXTINF:-1,IT| CANALE 20 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10179
+#EXTINF:-1,IT| CANALE 20 HD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10180
+#EXTINF:-1,IT| CANALE 5 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10181
+#EXTINF:-1,IT| CANALE 5 HD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10182
+#EXTINF:-1,IT| CANALE 5 SD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10183
+#EXTINF:-1,IT| SKY REAL TIME 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10184
+#EXTINF:-1,IT| SKY RETE 7
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10185
+#EXTINF:-1,IT| SKY TG 24 HD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10186
+#EXTINF:-1,IT| SKY TG24 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10187
+#EXTINF:-1,IT| SKY UNO 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10188
+#EXTINF:-1,IT| SKY UNO HD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10189
+#EXTINF:-1,IT| SKY UNO SD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10190
+#EXTINF:-1,IT| SKY EXPLORER TV FHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10191
+#EXTINF:-1,IT| SKY EXPLORER TV HD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10192
+#EXTINF:-1,IT| SPIKE
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10193
+#EXTINF:-1,IT| FUEL TV
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10194
+#EXTINF:-1,IT| FAILARMY
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10195
+#EXTINF:-1,IT| THE PET COLLECTIVE
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10196
+#EXTINF:-1,IT| SPOTLIGHT
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10197
+#EXTINF:-1,IT| PEOPLE ARE AWESOME
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10198
+#EXTINF:-1,IT| A3SERIES
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10199
+#EXTINF:-1,IT| CANALE EUROPA
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10200
+#EXTINF:-1,IT| FASHION TV
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10201
+#EXTINF:-1,IT| SOFY.TV
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10202
+#EXTINF:-1,IT| RAI PREMIUM SD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10203
+#EXTINF:-1,IT| ALICE
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10204
+#EXTINF:-1,IT| BLAZE SD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10205
+#EXTINF:-1,IT| CIELO
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10206
+#EXTINF:-1,IT| CINE 34
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10207
+#EXTINF:-1,IT| CLASS TV MODA
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10208
+#EXTINF:-1,IT| EURONEWS ITALIAN
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10209
+#EXTINF:-1,IT| IRIS
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10210
+#EXTINF:-1,IT| ITALIAN FISHING TV
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10211
+#EXTINF:-1,IT| MEDIAPRO CHANNEL
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10212
+#EXTINF:-1,IT| MEDIASET EXTRA
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10213
+#EXTINF:-1,IT| NASA TV UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10214
+#EXTINF:-1,IT| PADREPIO
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10215
+#EXTINF:-1,IT| PARAMOUNT CHANNEL
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10216
+#EXTINF:-1,IT| QVC 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10217
+#EXTINF:-1,IT| TG NORBA 24
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10218
+#EXTINF:-1,IT| TGCOM24
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10219
+#EXTINF:-1,IT| TOP CALCIO 24
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10220
+#EXTINF:-1,IT| TOP CRIME
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10221
+#EXTINF:-1,IT| TV 8
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10222
+#EXTINF:-1,IT| TV2000
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10223
+#EXTINF:-1,IT| UNIRESAT HD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10224
+#EXTINF:-1,IT| WINE TV
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10225
+#EXTINF:-1,IT| RSI LA 1 HD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10226
+#EXTINF:-1,IT| RSI LA 2 HD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10227
+#EXTINF:-1,IT| CANALE 21
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10228
+#EXTINF:-1,IT| BIKE SMART MOBILITY
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10229
+#EXTINF:-1,IT| TOP PLANET
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10230
+#EXTINF:-1,IT| DEEJAY TV HD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10231
+#EXTINF:-1,IT| HSE 24 HD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10232
+#EXTINF:-1,IT| RTL 102.5 HD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10233
+#EXTINF:-1,IT| VH1
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10234
+#EXTINF:-1,IT| TELEFRIULI HD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10235
+#EXTINF:-1,IT| TELE NORBA
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10236
+#EXTINF:-1,IT| LOMBARDIA
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10237
+#EXTINF:-1,IT| GRANDE FRATELLO DIRETTA 1
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10238
+#EXTINF:-1,IT| GRANDE FRATELLO DIRETTA 2
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10239
+#EXTINF:-1,IT| GRANDE FRATELLO VIP DIRETTA 1
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10240
+#EXTINF:-1,IT| GRANDE FRATELLO VIP DIRETTA +1
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10241
+#EXTINF:-1,IT| GRANDE FRATELLO VIP DIRETTA 2
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10242
+#EXTINF:-1,IT| GRANDE FRATELLO GF VIP PARTY
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10243
 
-#EXTINF:-1,IT: TelePace TV
-http://ky-iptv.com:80/starisborn/starisborn/227408.ts
-#EXTINF:-1,IT: Premium Cartoon Network
-http://ky-iptv.com:80/starisborn/starisborn/227185.ts
-#EXTINF:-1,IT: TELESTAR
-http://ky-iptv.com:80/starisborn/starisborn/227412.ts
-#EXTINF:-1,IT: Wine TV
-http://ky-iptv.com:80/starisborn/starisborn/1164694.ts
-
-
-#EXTINF:-1,IT: Eagle Cinema 007 HD
-http://ky-iptv.com:80/starisborn/starisborn/1814230.ts
-#EXTINF:-1,IT: Eagle Cinema Animazione FHD
-http://ky-iptv.com:80/starisborn/starisborn/1814231.ts
-#EXTINF:-1,IT: Eagle Cinema Avventura FHD
-http://ky-iptv.com:80/starisborn/starisborn/1814232.ts
-#EXTINF:-1,IT: Eagle Cinema Azione FHD
-http://ky-iptv.com:80/starisborn/starisborn/1814233.ts
-#EXTINF:-1,IT: Eagle Cinema Biografico FHD
-http://ky-iptv.com:80/starisborn/starisborn/1814234.ts
-#EXTINF:-1,IT: Eagle Cinema Bud Spencer HD
-http://ky-iptv.com:80/starisborn/starisborn/1814235.ts
-#EXTINF:-1,IT: Eagle Cinema Comico Cult FHD
-http://ky-iptv.com:80/starisborn/starisborn/1814236.ts
-#EXTINF:-1,IT: Eagle Cinema Commedia FHD
-http://ky-iptv.com:80/starisborn/starisborn/1814237.ts
-#EXTINF:-1,IT: Eagle Cinema Drammatico FHD
-http://ky-iptv.com:80/starisborn/starisborn/1814238.ts
-#EXTINF:-1,IT: Eagle Cinema Famiglia FHD
-http://ky-iptv.com:80/starisborn/starisborn/1814239.ts
-#EXTINF:-1,IT: Eagle Cinema Fantascienza FHD
-http://ky-iptv.com:80/starisborn/starisborn/1814240.ts
-#EXTINF:-1,IT: Eagle Cinema Fantastico FHD
-http://ky-iptv.com:80/starisborn/starisborn/1814241.ts
-#EXTINF:-1,IT: Eagle Cinema Horror HD
-http://ky-iptv.com:80/starisborn/starisborn/1814244.ts
-#EXTINF:-1,IT: Eagle Cinema Passione FHD
-http://ky-iptv.com:80/starisborn/starisborn/1814245.ts
-#EXTINF:-1,IT: Eagle Cinema Prima Visione FHD
-http://ky-iptv.com:80/starisborn/starisborn/1814246.ts
-#EXTINF:-1,IT: Eagle Cinema Sorriso FHD
-http://ky-iptv.com:80/starisborn/starisborn/1814247.ts
-#EXTINF:-1,IT: Eagle Cinema Storico FHD
-http://ky-iptv.com:80/starisborn/starisborn/1814250.ts
-#EXTINF:-1,IT: Eagle Cinema Thriller FHD
-http://ky-iptv.com:80/starisborn/starisborn/1814251.ts
-#EXTINF:-1,IT: Eagle Cinepanettone FHD
-http://ky-iptv.com:80/starisborn/starisborn/1814252.ts
-#EXTINF:-1,IT: Eagle Nature Discovery HD
-http://ky-iptv.com:80/starisborn/starisborn/1814253.ts
-#EXTINF:-1,IT: Eagle Paolo Villagio HD
-http://ky-iptv.com:80/starisborn/starisborn/1814254.ts
-#EXTINF:-1,IT: Eagle Ultra 4k
-http://ky-iptv.com:80/starisborn/starisborn/1814255.ts
-#EXTINF:-1,IT: Alice & Marcopolo
-http://ky-iptv.com:80/starisborn/starisborn/387233.ts
-#EXTINF:-1,IT: Telepace 3
-http://ky-iptv.com:80/starisborn/starisborn/227406.ts
-#EXTINF:-1,IT: Rete Biella TV
-http://ky-iptv.com:80/starisborn/starisborn/227263.ts
-#EXTINF:-1,IT: Caccia HD
-http://ky-iptv.com:80/starisborn/starisborn/220789.ts
-#EXTINF:-1,IT: History
-http://ky-iptv.com:80/starisborn/starisborn/387134.ts
-#EXTINF:-1,IT: Telecitta
-http://ky-iptv.com:80/starisborn/starisborn/387263.ts
-#EXTINF:-1,IT: NAT GEO WILD HD
-http://ky-iptv.com:80/starisborn/starisborn/387225.ts
-#EXTINF:-1,IT: GAMBERO ROSSO FHD
-http://ky-iptv.com:80/starisborn/starisborn/1829517.ts
-#EXTINF:-1,IT: LAZIO Style FHD
-http://ky-iptv.com:80/starisborn/starisborn/227127.ts
-#EXTINF:-1,IT: Premium Stories
-http://ky-iptv.com:80/starisborn/starisborn/387152.ts
-#EXTINF:-1,IT: Lazio Channel FHD
-http://ky-iptv.com:80/starisborn/starisborn/387180.ts
-#EXTINF:-1,IT: Padre Pio TV
-http://ky-iptv.com:80/starisborn/starisborn/387250.ts
-#EXTINF:-1,IT: Videolina
-http://ky-iptv.com:80/starisborn/starisborn/1857052.ts
-#EXTINF:-1,IT: CANALE 2
-http://ky-iptv.com:80/starisborn/starisborn/226995.ts
-#EXTINF:-1,IT: Canale 10
-http://ky-iptv.com:80/starisborn/starisborn/226999.ts
-#EXTINF:-1,IT: Canale 51 HD
-http://ky-iptv.com:80/starisborn/starisborn/227001.ts
-
-#EXTINF:-1,IT: Discovery NOVE HD
-http://ky-iptv.com:80/starisborn/starisborn/227028.ts
-#EXTINF:-1,IT: DMAX 1 HD
-http://ky-iptv.com:80/starisborn/starisborn/227035.ts
-#EXTINF:-1,IT: Esperia TV 18
-http://ky-iptv.com:80/starisborn/starisborn/227081.ts
-
-#EXTINF:-1,IT: LUCANIA TV
-http://ky-iptv.com:80/starisborn/starisborn/227129.ts
-#EXTINF:-1,IT: M20 TV
-http://ky-iptv.com:80/starisborn/starisborn/227131.ts
-#EXTINF:-1,IT: Motor Trend FHD
-http://ky-iptv.com:80/starisborn/starisborn/227153.ts
-#EXTINF:-1,IT: MTV CLASSIC HD
-http://ky-iptv.com:80/starisborn/starisborn/227155.ts
-#EXTINF:-1,IT: MTV Hits
-http://ky-iptv.com:80/starisborn/starisborn/227156.ts
-#EXTINF:-1,IT: MTV 90'S HD
-http://ky-iptv.com:80/starisborn/starisborn/227157.ts
-#EXTINF:-1,IT: Icaro TV
-http://ky-iptv.com:80/starisborn/starisborn/227158.ts
-#EXTINF:-1,IT: OndaTV
-http://ky-iptv.com:80/starisborn/starisborn/227170.ts
-#EXTINF:-1,IT: Premium Action FHD
-http://ky-iptv.com:80/starisborn/starisborn/227181.ts
-#EXTINF:-1,IT: PREMIUM CINEMA 2 HD
-http://ky-iptv.com:80/starisborn/starisborn/227187.ts
-#EXTINF:-1,IT: PREMIUM CINEMA ENERGY HD
-http://ky-iptv.com:80/starisborn/starisborn/227193.ts
-#EXTINF:-1,IT: Premium Comedy HD
-http://ky-iptv.com:80/starisborn/starisborn/227196.ts
-#EXTINF:-1,IT: Premium Disney Junior
-http://ky-iptv.com:80/starisborn/starisborn/227200.ts
-#EXTINF:-1,IT: Primocanale
-http://ky-iptv.com:80/starisborn/starisborn/227224.ts
-#EXTINF:-1,IT: Rai Sport 1 HD
-http://ky-iptv.com:80/starisborn/starisborn/227251.ts
-#EXTINF:-1,IT: Giallo HD
-http://ky-iptv.com:80/starisborn/starisborn/227258.ts
-#EXTINF:-1,IT: Senato Della Rupublica
-http://ky-iptv.com:80/starisborn/starisborn/227278.ts
-#EXTINF:-1,IT: Sky UNO FHD
-http://ky-iptv.com:80/starisborn/starisborn/227282.ts
-#EXTINF:-1,IT: la 7D
-http://ky-iptv.com:80/starisborn/starisborn/227283.ts
-
-#EXTINF:-1,IT: TELE MONTE NEVE 3
-http://ky-iptv.com:80/starisborn/starisborn/227389.ts
-#EXTINF:-1,IT: Telecolore HD
-http://ky-iptv.com:80/starisborn/starisborn/227396.ts
-#EXTINF:-1,IT: Telenord
-http://ky-iptv.com:80/starisborn/starisborn/227403.ts
-#EXTINF:-1,IT: Telepace 1
-http://ky-iptv.com:80/starisborn/starisborn/227404.ts
-#EXTINF:-1,IT: Telepace 2
-http://ky-iptv.com:80/starisborn/starisborn/227405.ts
-#EXTINF:-1,IT: Telepace 4
-http://ky-iptv.com:80/starisborn/starisborn/227407.ts
-#EXTINF:-1,IT: Teletricolore
-http://ky-iptv.com:80/starisborn/starisborn/227414.ts
-#EXTINF:-1,IT: TG Norba 24
-http://ky-iptv.com:80/starisborn/starisborn/227418.ts
-#EXTINF:-1,IT: TOP Crime Mediaset HD
-http://ky-iptv.com:80/starisborn/starisborn/227422.ts
-#EXTINF:-1,IT: TvA Vicenza
-http://ky-iptv.com:80/starisborn/starisborn/227431.ts
-#EXTINF:-1,IT: Uninettuno University TV
-http://ky-iptv.com:80/starisborn/starisborn/227438.ts
-#EXTINF:-1,IT: Unire Sat HD
-http://ky-iptv.com:80/starisborn/starisborn/227439.ts
-#EXTINF:-1,IT: VERA TV
-http://ky-iptv.com:80/starisborn/starisborn/227440.ts
-#EXTINF:-1,IT: VIDEO BRESCIA
-http://ky-iptv.com:80/starisborn/starisborn/227445.ts
-#EXTINF:-1,IT: Sky Italia Sport 24 HD
-http://ky-iptv.com:80/starisborn/starisborn/374631.ts
-#EXTINF:-1,IT: Rai Gulp
-http://ky-iptv.com:80/starisborn/starisborn/387035.ts
-#EXTINF:-1,IT: Rai Yoyo
-http://ky-iptv.com:80/starisborn/starisborn/387036.ts
-#EXTINF:-1,IT: Disney Junior
-http://ky-iptv.com:80/starisborn/starisborn/387038.ts
-#EXTINF:-1,IT: Boing
-http://ky-iptv.com:80/starisborn/starisborn/387041.ts
-#EXTINF:-1,IT: Cartoonito
-http://ky-iptv.com:80/starisborn/starisborn/387042.ts
-#EXTINF:-1,IT: Super!
-http://ky-iptv.com:80/starisborn/starisborn/387044.ts
-#EXTINF:-1,IT: Baby TV
-http://ky-iptv.com:80/starisborn/starisborn/387045.ts
-#EXTINF:-1,IT: NickJr
-http://ky-iptv.com:80/starisborn/starisborn/387047.ts
-#EXTINF:-1,IT: K2
-http://ky-iptv.com:80/starisborn/starisborn/387048.ts
-
-#EXTINF:-1,IT: Canale 2 Altamura
-http://ky-iptv.com:80/starisborn/starisborn/387051.ts
-#EXTINF:-1,IT: Canale 7
-http://ky-iptv.com:80/starisborn/starisborn/387052.ts
-#EXTINF:-1,IT: Canale 8
-http://ky-iptv.com:80/starisborn/starisborn/387053.ts
-#EXTINF:-1,IT: Canale 21
-http://ky-iptv.com:80/starisborn/starisborn/387054.ts
-#EXTINF:-1,IT: Eagle Le Fiabe Disney
-http://ky-iptv.com:80/starisborn/starisborn/387090.ts
-#EXTINF:-1,IT: Cielo
-http://ky-iptv.com:80/starisborn/starisborn/387109.ts
-#EXTINF:-1,IT: Paramount Network
-http://ky-iptv.com:80/starisborn/starisborn/387111.ts
+#EXTINF:-1,IT| SKY CINEMA ACTION 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10332
+#EXTINF:-1,IT| SKY CINEMA ACTION HD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10333
+#EXTINF:-1,IT| SKY CINEMA ACTION SD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10334
+#EXTINF:-1,IT| SKY CINEMA COLLECTION 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10335
+#EXTINF:-1,IT| SKY CINEMA COLLECTION HD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10336
+#EXTINF:-1,IT| SKY CINEMA COLLECTION SD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10337
+#EXTINF:-1,IT| SKY CINEMA COMEDY 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10338
+#EXTINF:-1,IT| SKY CINEMA COMEDY HD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10339
+#EXTINF:-1,IT| SKY CINEMA COMEDY SD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10340
+#EXTINF:-1,IT| SKY CINEMA DRAMA 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10341
+#EXTINF:-1,IT| SKY CINEMA DRAMA HD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10342
+#EXTINF:-1,IT| SKY CINEMA DRAMA SD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10343
+#EXTINF:-1,IT| SKY CINEMA DUE  24 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10344
+#EXTINF:-1,IT| SKY CINEMA DUE  24 HD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10345
+#EXTINF:-1,IT| SKY CINEMA DUE 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10346
+#EXTINF:-1,IT| SKY CINEMA DUE HD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10347
+#EXTINF:-1,IT| SKY CINEMA DUE SD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10348
+#EXTINF:-1,IT| SKY CINEMA FAMILY 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10349
+#EXTINF:-1,IT| SKY CINEMA FAMILY HD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10350
+#EXTINF:-1,IT| SKY CINEMA FAMILY SD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10351
+#EXTINF:-1,IT| SKY CINEMA ROMANCE 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10352
+#EXTINF:-1,IT| SKY CINEMA ROMANCE HD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10353
+#EXTINF:-1,IT| SKY CINEMA ROMANCE SD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10354
+#EXTINF:-1,IT| SKY CINEMA SUSPENSE 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10355
+#EXTINF:-1,IT| SKY CINEMA SUSPENSE HD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10356
+#EXTINF:-1,IT| SKY CINEMA SUSPENSE SD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10357
+#EXTINF:-1,IT| SKY CINEMA UNO 24 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10358
+#EXTINF:-1,IT| SKY CINEMA UNO 24 HD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10359
+#EXTINF:-1,IT| SKY CINEMA UNO 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10360
+#EXTINF:-1,IT| SKY CINEMA UNO HD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10361
+#EXTINF:-1,IT| SKY CINEMA UNO SD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10362
+#EXTINF:-1,IT| SKY CIELO 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10363
+#EXTINF:-1,IT| SKY CLASSICA 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10364
+#EXTINF:-1,IT| SKY COMEDY CENTRAL 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10365
+#EXTINF:-1,IT| SKY ARTE 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10366
+#EXTINF:-1,IT| SKY ARTE HD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10367
+#EXTINF:-1,IT| SKY ATLANTIC 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10368
+#EXTINF:-1,IT| SKY ATLANTIC HD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10369
+#EXTINF:-1,IT| SKY ATLANTIC SD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10370
+#EXTINF:-1,IT| SKY PESCA E CACCIA 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10371
+#EXTINF:-1,IT| SKY PREMIUM ACTION 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10372
+#EXTINF:-1,IT| SKY PREMIUM ACTION HD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10373
+#EXTINF:-1,IT| SKY FOX 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10374
+#EXTINF:-1,IT| SKY FOX HD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10375
+#EXTINF:-1,IT| SKY FOX SD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10376
+#EXTINF:-1,IT| SKY PRIMAFILA PREMIERE VETRINA HD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10377
+#EXTINF:-1,IT| SKY PRIMAFILA PREMIERE 1 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10378
+#EXTINF:-1,IT| SKY PRIMAFILA PREMIERE 2 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10379
+#EXTINF:-1,IT| SKY PRIMAFILA PREMIERE 3 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10380
+#EXTINF:-1,IT| SKY PRIMAFILA PREMIERE 4 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10381
+#EXTINF:-1,IT| SKY PRIMAFILA PREMIERE 5 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10382
+#EXTINF:-1,IT| SKY PRIMAFILA PREMIERE 6 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10383
+#EXTINF:-1,IT| SKY PRIMAFILA PREMIERE 7 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10384
+#EXTINF:-1,IT| SKY PRIMAFILA PREMIERE 8 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10385
+#EXTINF:-1,IT| SKY PRIMAFILA PREMIERE 9 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10386
+#EXTINF:-1,IT| SKY PRIMAFILA PREMIERE 10 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10387
+#EXTINF:-1,IT| SKY PRIMAFILA PREMIERE 11 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10388
+#EXTINF:-1,IT| SKY PRIMAFILA PREMIERE 12 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10389
+#EXTINF:-1,IT| SKY PRIMAFILA PREMIERE 13 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10390
+#EXTINF:-1,IT| SKY PRIMAFILA PREMIERE 14 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10391
+#EXTINF:-1,IT| SKY PRIMAFILA PREMIERE 15 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10392
+#EXTINF:-1,IT| SKY PRIMAFILA PREMIERE 16 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10393
+#EXTINF:-1,IT| SKY PRIMAFILA PREMIERE 17 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10394
+#EXTINF:-1,IT| SKY PRIMAFILA PREMIERE 18 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10395
+#EXTINF:-1,IT| VETRINA SKY PRIMAFILA UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10396
+#EXTINF:-1,IT| SKY PRIMAFILA 1 UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10397
+#EXTINF:-1,IT| SKY PRIMAFILA 2 UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10398
+#EXTINF:-1,IT| SKY PRIMAFILA 3 UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10399
+#EXTINF:-1,IT| SKY PRIMAFILA 4 UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10400
+#EXTINF:-1,IT| SKY PRIMAFILA 5 UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10401
+#EXTINF:-1,IT| SKY PRIMAFILA 6 UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10402
+#EXTINF:-1,IT| SKY PRIMAFILA 7 UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10403
+#EXTINF:-1,IT| SKY PRIMAFILA 8 UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10404
+#EXTINF:-1,IT| SKY PRIMAFILA 9 UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10405
+#EXTINF:-1,IT| SKY PRIMA FILA 1
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10406
+#EXTINF:-1,IT| SKY PRIMA FILA 2
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10407
+#EXTINF:-1,IT| SKY PRIMA FILA 3
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10408
+#EXTINF:-1,IT| SKY PRIMA FILA 4
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10409
+#EXTINF:-1,IT| SKY PRIMA FILA 5
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10410
+#EXTINF:-1,IT| SKY PRIMA FILA 6
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10411
+#EXTINF:-1,IT| SKY PRIMA FILA 7
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10412
+#EXTINF:-1,IT| SKY PRIMA FILA 8
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10413
+#EXTINF:-1,IT| SKY PRIMA FILA 9
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10414
+#EXTINF:-1,IT| SKY PRIMA FILA 10
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10415
+#EXTINF:-1,IT| SKY PRIMA FILA 11
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10416
+#EXTINF:-1,IT| SKY PRIMA FILA 12
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10417
+#EXTINF:-1,IT| SKY PRIMA FILA 13
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10418
+#EXTINF:-1,IT| SKY PRIMA FILA 14
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10419
+#EXTINF:-1,IT| SKY PRIMA FILA 15
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10420
+#EXTINF:-1,IT| SKY PRIMA FILA 16
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10421
+#EXTINF:-1,IT| SKY PRIMA FILA 17
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10422
+#EXTINF:-1,IT| SKY PRIMA FILA 18
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10423
+#EXTINF:-1,IT| SKY PRIMA FILA 19
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10424
+#EXTINF:-1,IT| RAKUTEN TV COMMEDIA
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10425
+#EXTINF:-1,IT| RAKUTEN TV DOCUMENTARI
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10426
+#EXTINF:-1,IT| RAKUTEN TV DRAMMATICO
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10427
+#EXTINF:-1,IT| RAKUTEN TV FILM D'AZIONE
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10428
+#EXTINF:-1,IT| RAKUTEN TV FILM TOP
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10429
+#EXTINF:-1,IT| RAKUTEN TV CLASSICO
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10430
+#EXTINF:-1,IT| RAKUTEN TV THRILLER
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10431
+#EXTINF:-1,IT| CINEMA UHD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10432
+#EXTINF:-1,IT| CINEMA 007 HD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10433
+#EXTINF:-1,IT| CINEMA ANIMAZIONE 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10434
+#EXTINF:-1,IT| CINEMA AVVENTURA 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10435
+#EXTINF:-1,IT| CINEMA AZIONE 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10436
+#EXTINF:-1,IT| CINEMA BUD SPENCER HD
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10437
+#EXTINF:-1,IT| CINEMA COMICO CULT 4K
+http://gamistra.ddns.net:8554/MARCO-italy/zrLeTCDx9eY7/10438
 
 
 
