@@ -1202,84 +1202,79 @@ http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/135.ts
 #EXTINF:-1,RTK 1 SD
 http://95.107.132.105/out/u/327_1.m3u8
 #EXTINF:-1,AL: RTK 3 HD
-http://srv1.iptviliria.com/RTK3/index.m3u8
+http://162.55.88.21/rtk3stream/rtk3.stream/chunklist_w382095650.m3u8
 #EXTINF:-1,AL: RTK 4 HD
 http://srv1.iptviliria.com/RTK4/index.m3u8
-
+#EXTINF:-1,KTV HD
+http://95.107.132.105/out/u/38_3.m3u8
 #EXTINF:-1,KTV 
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/136.ts
-#EXTINF:-1,KTV HD
-https://srv1.iptviliria.com/KTV/index.m3u8
 #EXTINF:-1,KTV FHD
 http://185.204.32.49:6735/KTV/stream/playlist.m3u8
 #EXTINF:-1,T7 Kosova HD
-https://srv1.iptviliria.com/T7/index.m3u8
-#EXTINF:-1,RTV 21 SD
+https://ub1doy938d.gjirafa.net/live/mtAOO7iGIzVAs3PFPnAFubierryMwW3V/yzg0yt.m3u8
+#EXTINF:-1,RTV 21 HD
 http://95.107.132.105/out/u/488_1.m3u8
-#EXTINF:-1,AL: RTV 21 HD
-https://srv1.iptviliria.com/RTV21/index.m3u8
 #EXTINF:-1,AL: RTV 21 FHD
 http://185.204.32.49:6735/RTV21/stream/playlist.m3u8
-#EXTINF:-1, RTV 21 MIX SD
+#EXTINF:-1, RTV 21 MIX HD
 http://95.107.132.105/out/u/135_1.m3u8
 #EXTINF:-1, RTV 21 Makedonia SD
 http://95.107.132.105/out/u/159_1.m3u8
 #EXTINF:-1,ATV
 #EXTVLCOPT:http-user-agent=t0pka3ale.o3tt/4.0 Linux;Android 10 ExoPlayerLib/2.8.4
 http://home.fastnews24.net/new.localhost/akamaicdn-83/atv.m3u8
-#EXTINF:-1,TV  Shenja 
-https://srv1.iptviliria.com/ShenjaTV/index.m3u8
-#EXTINF:-1,TV  Shenja SD
+
+#EXTINF:-1,TV  Shenja HD
 http://95.107.132.105/out/u/144_1.m3u8
-#EXTINF:-1,AL: Klan Kosova HD
-http://srv1.iptviliria.com/KlanKosova/index.m3u8?token=test
+
 #EXTINF:-1,Klan Kosova
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/110.ts
 #EXTINF:-1,Klan Kosova SD
 http://95.107.132.105/out/u/544_1.m3u8
-#EXTINF:-1,AL: Klan MACEDONIA
-http://srv1.iptviliria.com/KlanMacedonia/index.m3u8?token=test
+
 #EXTINF:-1,Klan Macedonia
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/109.ts
 #EXTINF:-1,AL: Alsat M HD
-http://srv1.iptviliria.com/AlsatM/index.m3u8?token=test
+http://95.107.132.105/out/u/645_1.m3u8
 #EXTINF:-1,Dukagjini TV
-https://srv1.iptviliria.com/TVDukagjini/index.m3u8
+https://ub1doy938d.gjirafa.net/live/V5VHPPcRRtIuWFdnDuwjefzSqTKyBrW3/ygqkzt720/index.m3u8
 #EXTINF:-1,KANAL 10 HD
 https://abdyli.gjirafa.com/live/rcBFeREIqcMkNthqI6YCr3Riss97l2MC/yky0y1.m3u8
-#EXTINF:-1,AL: T HD
-http://srv1.iptviliria.com/THD/index.m3u8?token=test
-#EXTINF:-1,AL: Family HD
-http://srv1.iptviliria.com/FamilyHD/index.m3u8
-#EXTINF:-1,AL: Film Gold HD
-http://srv1.iptviliria.com/FilmNje/index.m3u8?token=test
-#EXTINF:-1,AL: Film Max HD
-http://srv1.iptviliria.com/FilmDy/index.m3u8?token=test
+
+
+#EXTINF:-1,AL: T FHD
+http://ky-iptv.com:80/starisborn/starisborn/384641.ts
+#EXTINF:-1,AL: FILM DRAME HD
+http://ky-iptv.com:80/starisborn/starisborn/384370.ts
+#EXTINF:-1,AL: FILM DY FHD
+http://ky-iptv.com:80/starisborn/starisborn/384371.ts
+#EXTINF:-1,AL: Film GOLD 1
+http://ky-iptv.com:80/starisborn/starisborn/384373.ts
+#EXTINF:-1,AL: Film Gold 2
+http://ky-iptv.com:80/starisborn/starisborn/384374.ts
+#EXTINF:-1,AL: Film Gold 3 HD
+http://ky-iptv.com:80/starisborn/starisborn/384375.ts
+#EXTINF:-1,AL: FILM HITS FHD
+http://ky-iptv.com:80/starisborn/starisborn/384377.ts
+#EXTINF:-1,AL: B GOLD 4 HD
+http://ky-iptv.com:80/starisborn/starisborn/384378.ts
+#EXTINF:-1,AL: FILM KOMEDI
+http://ky-iptv.com:80/starisborn/starisborn/384379.ts
+#EXTINF:-1,AL: FILM NJË HD
+http://ky-iptv.com:80/starisborn/starisborn/384380.ts
+#EXTINF:-1,AL: FILM THRILLER
+http://ky-iptv.com:80/starisborn/starisborn/384383.ts
+#EXTINF:-1,AL: FILM AKSION FHD
+http://ky-iptv.com:80/starisborn/starisborn/384364.ts
+#EXTINF:-1,AL: FILM AUTOR
+http://ky-iptv.com:80/starisborn/starisborn/384365.ts
+#EXTINF:-1,AL: EURO FILM
+http://ky-iptv.com:80/starisborn/starisborn/384345.ts
 #EXTINF:-1,AL: Film Stinet
-http://srv1.iptviliria.com/Stinet/index.m3u8?token=test
-#EXTINF:-1,AL: Film Hits HD
-http://srv1.iptviliria.com/FilmHitsHD/index.m3u8?token=test
-#EXTINF:-1,AL: Film Aksion HD
-http://srv1.iptviliria.com/FilmAksionHD/index.m3u8?token=test
-#EXTINF:-1,AL: Film Autor HD
-http://srv1.iptviliria.com/FilmAutor/index.m3u8?token=test
-
-#EXTINF:-1,AL: Film Komedi HD
-http://srv1.iptviliria.com/FilmKomedi/index.m3u8
-#EXTINF:-1,AL: Film Drame HD
-http://srv1.iptviliria.com/FilmDrame/index.m3u8?token=test
-#EXTINF:-1,AL: Film Thriller HD
-http://srv1.iptviliria.com/FilmThriller/index.m3u8?token=test
-#EXTINF:-1,AL: Euro Film
-http://srv1.iptviliria.com/Eurofilm/index.m3u8?token=test
-
-#EXTINF:0,ART Kino 1 HD
-http://93.157.62.180/ArtFilm1/index.m3u8
-#EXTINF:0,ART Kino 2 HD
-http://93.157.62.180/ArtKino2/index.m3u8
-#EXTINF:0,ART Kino 3 HD
-http://93.157.62.180/ArtKino3/index.m3u8
-
+http://ky-iptv.com:80/starisborn/starisborn/384620.ts
+#EXTINF:-1,AL: Tele one EPIk HD
+http://ky-iptv.com:80/starisborn/starisborn/384447.ts
 #EXTINF:-1,AL: Tele One Aksion HD
 http://ky-iptv.com:80/agent99/agent99/384645.ts
 #EXTINF:-1,AL: Tele One Aventure HD
@@ -1375,10 +1370,12 @@ http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/66.ts
 
 #EXTINF:-1,AL: SOFIA HD
 http://ky-iptv.com:80/agent99/agent99/384611.ts
-#EXTINF:-1,AL: Bang Bang
-http://93.157.62.180/BangBang/index.m3u8
-#EXTINF:-1,AL: Cufo TV
-http://93.157.62.180/Cufo/index.m3u8
+#EXTINF:-1,AL: CUFO TV
+http://ky-iptv.com:80/starisborn/starisborn/384746.ts
+#EXTINF:-1,AL: BANG BANG
+http://ky-iptv.com:80/starisborn/starisborn/384280.ts
+#EXTINF:-1,AL: JUNIOR HD
+http://ky-iptv.com:80/starisborn/starisborn/384416.ts
 #EXTINF:-1,Tring Tring HD
 http://95.107.132.106/out/u/898_1.m3u8
 #EXTINF:-1,Tring Tring
@@ -1394,20 +1391,19 @@ http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/79.ts
 http://95.107.132.106/out/u/339_1.m3u8
 #EXTINF:-1,RTV 21 Junior
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/55.ts
-#EXTINF:-1,AL: Junior TV
-http://ran.no-ips.net:8888/AL/209420/mpegts
+
 #EXTINF:-1,RTSH Femije
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/129.ts
 #EXTINF:-1,TV Sole
 http://78.31.67.69:8080/Gezuar2022/MetiTV-kanale-shqiptare/168
 
 
-#EXTINF:-1,Explorer Natyra
-http://93.157.62.180/EXPNatyra/index.m3u8
-#EXTINF:-1,Explorer Histori
-http://93.157.62.180/EXPHistori/index.m3u8
-#EXTINF:-1,Explorer Shkence
-http://93.157.62.180/EXPShkence/index.m3u8
+#EXTINF:-1,AL: Explore Histori
+http://ky-iptv.com:80/starisborn/starisborn/384354.ts
+#EXTINF:-1,AL: EXPLORER NATYRA
+http://ky-iptv.com:80/starisborn/starisborn/384358.ts
+#EXTINF:-1,AL: EXPLORER SHKENCE
+http://ky-iptv.com:80/starisborn/starisborn/384359.ts
 
 
 #EXTINF:-1,AL: Folk +
