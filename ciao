@@ -372,743 +372,437 @@ http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQL96
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: TOP Channel FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/ccdd2ccdf1cface8d5a14186566daf84.png" group-title="-IPTV SHQIP 2-",AL: TOP Channel FHD
+#EXTINF:-1   group-title="-IPTV SHQIP 2-",
+#EXTINF:-1,AL: TOP Channel FHD
 http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1311
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: TV Klan FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/46595988f0083f19afd11068bd05c6d0.png" group-title="-IPTV SHQIP 2-",AL: TV Klan FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1853
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Klan Plus FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/f366c3269e64ff77d0a400580951a96e.png" group-title="-IPTV SHQIP 2-",AL: Klan Plus FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/2562
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Vizion Plus FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/81af6d3489034eab2c610279a903cd4f.png" group-title="-IPTV SHQIP 2-",AL: Vizion Plus FHD
+#EXTINF:-1,AL: Vizion Plus FHD
 http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1299
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: RTSH 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/28a05ee96bc1fbd7fde5e9a4dd012990.png" group-title="-IPTV SHQIP 2-",AL: RTSH 1 FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/4123
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: RTSH 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/1b7a68a90cf484e72e37aa298264576c.png" group-title="-IPTV SHQIP 2-",AL: RTSH 2 HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1854
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: RTSH 3 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/26e1aebb76b9db167c5d88bdb0d5e15e.png" group-title="-IPTV SHQIP 2-",AL: RTSH 3 HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1855
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: RTSH Plus HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/f805dd4a1480c8e8658c6fea0b86e05d.png" group-title="-IPTV SHQIP 2-",AL: RTSH Plus HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/169831
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Syri News TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/ed3dbf8a740b1bc955155b9711c19b7b.png" group-title="-IPTV SHQIP 2-",AL: Syri News TV FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/4100
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: News 24 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/1cb7e13ea26f0a51688517b8cd84ca4a.png" group-title="-IPTV SHQIP 2-",AL: News 24 HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/5127
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: A2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/7afd3e9758c5a864fc4a3b67d6b5690c.jpg" group-title="-IPTV SHQIP 2-",AL: A2 FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/281857
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: ABC News HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/fb31ad95ec4bbc4be881e750ea856a89.png" group-title="-IPTV SHQIP 2-",AL: ABC News HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/2551
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: TOP News HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/eba7a81a10dcbc247ee6245ced118cf8.png" group-title="-IPTV SHQIP 2-",AL: TOP News HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/5122
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: MCN TV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: MCN TV FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/286798
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Kanali 10 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Kanali 10 FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/281986
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: A TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/18edbd274dedadec3ec46e3f76067df0.jpg" group-title="-IPTV SHQIP 2-",AL: A TV FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/171891
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: TV Dukagjini FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/fa3c38ea620be6656c37ec59faa83bdd.png" group-title="-IPTV SHQIP 2-",AL: TV Dukagjini FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/6708
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Klan Kosova FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/f5069fbc944f9b037859da85c68e725e.png" group-title="-IPTV SHQIP 2-",AL: Klan Kosova FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/2561
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: T7 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: T7 FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/281851
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Alsat FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/42d1900de20abd0c974cfc349b8ad82e.png" group-title="-IPTV SHQIP 2-",AL: Alsat FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1346
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: TV Shenja HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/aa88b829791137383b8bcce2abf94f02.png" group-title="-IPTV SHQIP 2-",AL: TV Shenja HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/173463
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: KTV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: KTV FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/284209
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: KTV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: KTV FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/284211
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: RTV 1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: RTV 1 FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/281994
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: RTV 2 MIX HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: RTV 2 MIX HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/280143
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: 24 Kitchen HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/0bc804a09638d8aec9bfa209a7fa027a.png" group-title="-IPTV SHQIP 2-",AL: 24 Kitchen HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1343
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: 8ova Action HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: 8ova Action HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/263764
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: 8ova BBF HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: 8ova BBF HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/263768
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: 8ova cifteli FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: 8ova cifteli FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/263771
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: 8ova Drame HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: 8ova Drame HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/263766
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: 8OVA Gjurme Shqipetare TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: 8OVA Gjurme Shqipetare TV HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/197067
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: 8ova Gjurme Shqiptare TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: 8ova Gjurme Shqiptare TV HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/193733
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: 8ova Humor HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: 8ova Humor HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/263772
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: 8ova islam HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: 8ova islam HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/263769
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: 8ova Komedi HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: 8ova Komedi HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/263767
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: 8ova Music HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: 8ova Music HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/263774
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: 8ova Popullore HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: 8ova Popullore HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/263773
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: 8ova Thriller HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: 8ova Thriller HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/263765
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: ACTV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: ACTV HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/281966
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: AD TV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: AD TV FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/282007
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Adria Net HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/14d129f8ec6816cad21143371b1480ad.png" group-title="-IPTV SHQIP 2-",AL: Adria Net HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/173470
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Aksion HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Aksion HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/4091
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: ALB Humor 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: ALB Humor 2 HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/43078
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: ALB Muzik HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: ALB Muzik HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/44994
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Alb Swiss FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2c256ac15878937116944c6ce51a3aaa.jpg" group-title="-IPTV SHQIP 2-",AL: Alb Swiss FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/12437
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Alb Tom & Jerry HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Alb Tom & Jerry HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/43081
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Alba Box Aksion FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Alba Box Aksion FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/281970
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Alba Box Drame HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Alba Box Drame HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/281972
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Alba Box Hindi FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Alba Box Hindi FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/281973
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Alba Box Komedi FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Alba Box Komedi FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/281975
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Alba Box Muzike HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Alba Box Muzike HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/281971
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Alba Box Premium 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Alba Box Premium 1 HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/281977
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Alba Box Premium 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Alba Box Premium 2 HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/281978
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Alba Box Premium 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Alba Box Premium 3 HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/281979
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Alba Box Shqipe HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Alba Box Shqipe HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/281974
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Alba Box Western FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Alba Box Western FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/281976
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Albuk FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/5bff9d821ee487f9df8d1e70eb830194.png" group-title="-IPTV SHQIP 2-",AL: Albuk FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/4037
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Alpo HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Alpo HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/278528
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Amol TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Amol TV HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/281387
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: ANIMAL PLANET FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/9afa447ec356f42e26e6a01e01774e0f.png" group-title="-IPTV SHQIP 2-",AL: ANIMAL PLANET FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/15558
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Apollon TV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Apollon TV FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/281856
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Arena Sport 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/577d05bbbff32984817bb5651dc77549.png" group-title="-IPTV SHQIP 2-",AL: Arena Sport 1 FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/193741
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Arena Sport 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/14078476ccd04f73e80473edc0a0037c.png" group-title="-IPTV SHQIP 2-",AL: Arena Sport 2 HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/171883
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Arena Sport 4 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/0b368e483f287a3f3e07bab3dd8f652f.png" group-title="-IPTV SHQIP 2-",AL: Arena Sport 4 FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/193744
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Arena Sport 5 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/d5681f9e3564d378ff7769b8037581dc.png" group-title="-IPTV SHQIP 2-",AL: Arena Sport 5 HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/57711
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Art Doku 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/0a29f149fdf9ea0b75c430524b097d38.png" group-title="-IPTV SHQIP 2-",AL: Art Doku 1 FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/146080
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Art Doku 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/b4c398265f61972391d66dc127cad1bb.png" group-title="-IPTV SHQIP 2-",AL: Art Doku 2 HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/146081
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Art Kino 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/7fe45f2f1833f7f70be27cb3dc073c39.png" group-title="-IPTV SHQIP 2-",AL: Art Kino 1 FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/146084
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Art Kino 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/8f5cb8018c2f482d7bc3aebecf5d5e87.png" group-title="-IPTV SHQIP 2-",AL: Art Kino 2 FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/146085
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Art Kino 3 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/48fe0b00bb6214ce00ed429c2004ffa0.png" group-title="-IPTV SHQIP 2-",AL: Art Kino 3 FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/146086
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: ART Sport 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/d016a2c0dd5d33df89a4f85a016b9299.png" group-title="-IPTV SHQIP 2-",AL: ART Sport 1 FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/23143
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: ART Sport 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/1f3685cf082119f422fe1bd584cbb48c.png" group-title="-IPTV SHQIP 2-",AL: ART Sport 2 FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/23146
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: ART Sport 3 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/7977d0e43fed7b4efd627df97b1a4e29.png" group-title="-IPTV SHQIP 2-",AL: ART Sport 3 HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/40061
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Arti TV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Arti TV FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/278529
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: B Aksion HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: B Aksion HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/188231
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: B Film Shqip HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: B Film Shqip HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/278577
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: B FILMA TURKE HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: B FILMA TURKE HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/188233
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: B Gold 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: B Gold 1 HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/188234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: B Gold 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: B Gold 2 HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/12458
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: B Gold 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: B Gold 3 HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/188236
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: B Gold 4 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: B Gold 4 HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/188237
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: B Hindi Muzike HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: B Hindi Muzike HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/188239
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: B Ilahi FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: B Ilahi FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/188242
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: B Kemal Sunal TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: B Kemal Sunal TV HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/188245
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: B Muzike HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: B Muzike HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/188247
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: B Muzikë Turke HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: B Muzikë Turke HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/166472
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: B Popullore HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: B Popullore HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/266683
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Baby TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/bfffd3dcc537580d993145acb49d47d4.png" group-title="-IPTV SHQIP 2-",AL: Baby TV HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/4040
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Balkanika Music TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/b36762b5f8e5dae8443c0beeee623e3b.png" group-title="-IPTV SHQIP 2-",AL: Balkanika Music TV HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/281981
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Bang Bang HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/96e9592c36c5590a5503a86aa8c84042.png" group-title="-IPTV SHQIP 2-",AL: Bang Bang HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1342
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Cufo HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/4fe3cc13a7cd65569e49171ad91e51ee.png" group-title="-IPTV SHQIP 2-",AL: Cufo HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1339
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: BBF Music HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/4153e6d9d92367e3d7faf527c32c8f34.png" group-title="-IPTV SHQIP 2-",AL: BBF Music HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/4041
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Besa TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0a91d2c1caa0fca1a548de9508c8a9ad.png" group-title="-IPTV SHQIP 2-",AL: Besa TV HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/4042
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Blue Sky TV Music HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Blue Sky TV Music HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/280117
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Boomerang HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/18f4f54f7148e2049f237e8b2a2ed8ba.png" group-title="-IPTV SHQIP 2-",AL: Boomerang HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1341
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Cartoonito FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Cartoonito FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/283189
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: CBS News FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/4ad143a98e113119c2d645bf3f828306.png" group-title="-IPTV SHQIP 2-",AL: CBS News FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/283188
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Channel One HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/e6d08469f6bd81f9f7e7180f1e853bc9.png" group-title="-IPTV SHQIP 2-",AL: Channel One HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/5139
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: City TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/3aa2373085c649f57b0917ac67c4e1f0.png" group-title="-IPTV SHQIP 2-",AL: City TV HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/281899
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Click HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b93f3ea577764cf67133258c8902ccca.png" group-title="-IPTV SHQIP 2-",AL: Click HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/16447
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Comedy Central Extra HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/314b0a42fca90aa03a4a78a8fbfe9100.png" group-title="-IPTV SHQIP 2-",AL: Comedy Central Extra HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/166512
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Dark action FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Dark action FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/12464
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Dark Aventure FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Dark Aventure FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/266411
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Dark Balade HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Dark Balade HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/266409
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Dark Baskia Humor HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Dark Baskia Humor HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/166528
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Dark Bitonia FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Dark Bitonia FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/267055
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Dark ChuChu TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Dark ChuChu TV HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/266402
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Dark Drame FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Dark Drame FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/266396
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Dark GEZUAR FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Dark GEZUAR FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/278588
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Dark Gold 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Dark Gold 1 HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/166537
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Dark Gold 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Dark Gold 2 FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/2553
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Dark Gold 3 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Dark Gold 3 FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/2554
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Dark Gold 4 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Dark Gold 4 FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/16460
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Dark GOLD 5 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Dark GOLD 5 FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/266392
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Dark GOLD 6 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Dark GOLD 6 FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/266393
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Dark GOLD 7 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Dark GOLD 7 FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/266394
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Dark GOLD 8 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Dark GOLD 8 FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/266395
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Dark Hindi FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Dark Hindi FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/266419
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Dark Hip Hop HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Dark Hip Hop HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/166534
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Dark Horror FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Dark Horror FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/188263
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Dark iStar Seriali HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Dark iStar Seriali HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/247879
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Dark Kafeneja jone HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Dark Kafeneja jone HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/188264
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Dark KOMEDI FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Dark KOMEDI FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/166517
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Dark Netflix FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Dark Netflix FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/195797
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Dark O sa mire HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Dark O sa mire HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/188270
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Dark Peralla HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Dark Peralla HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/266401
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Dark Pink Panther HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Dark Pink Panther HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/266399
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Dark Popullore 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Dark Popullore 2 FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/188272
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Dark Popullore 3 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Dark Popullore 3 FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/266407
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Dark POPULLORE HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Dark POPULLORE HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/166533
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Dark Premier Kids HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Dark Premier Kids HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/266397
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Dark Romance HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Dark Romance HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/157409
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Dark sci-fi FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Dark sci-fi FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/4065
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: DARK Shengen Visa HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: DARK Shengen Visa HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/195799
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Dark Shpk Nazi HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Dark Shpk Nazi HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/166522
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Dark Stupcat HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Dark Stupcat HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/166520
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Dark Tallava FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Dark Tallava FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/166536
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Dark Te BaXha FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Dark Te BaXha FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/267054
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Dark Thriller FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Dark Thriller FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/12465
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Dark Turke FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Dark Turke FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/266415
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Dark western FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Dark western FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/16442
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Dark Çifteli FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Dark Çifteli FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/166535
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Dasma TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/c74b35e347364e92bcf0954616bbb62f.jpg" group-title="-IPTV SHQIP 2-",AL: Dasma TV HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/8288
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Digi Gold 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Digi Gold 1 HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/281904
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Discovery Science HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/a7d06d7d3e50a7d0083022428489eef0.png" group-title="-IPTV SHQIP 2-",AL: Discovery Science HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/166530
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Discovery World HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/adb9caa8cbd330d2ecaa6b15531fefa9.png" group-title="-IPTV SHQIP 2-",AL: Discovery World HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/4046
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Disney Junior FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/218b80728b2371099f57f0b9a8caf84c.png" group-title="-IPTV SHQIP 2-",AL: Disney Junior FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/44959
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Dizi Channel HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/ad925ce87f052744679fa16e1c46e2b2.png" group-title="-IPTV SHQIP 2-",AL: Dizi Channel HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/41309
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Drita TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/eef24b5325b4ef4f581c2bb68ec7c942.png" group-title="-IPTV SHQIP 2-",AL: Drita TV FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/41318
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Elrodi TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/a0a4ddd17042ba3635b68af08c08c370.png" group-title="-IPTV SHQIP 2-",AL: Elrodi TV HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/2557
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Era TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Era TV HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/13864
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: ESPN 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/5d15bf032deaf9002d84fe53506226c8.png" group-title="-IPTV SHQIP 2-",AL: ESPN 2 HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/283198
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: ESPN HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/6d198f8cfc2000b4fc1a140f017208d9.png" group-title="-IPTV SHQIP 2-",AL: ESPN HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/283199
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Euro AL HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5e5fbc5b4a9cbaf591b2dd67b81fb7f2.png" group-title="-IPTV SHQIP 2-",AL: Euro AL HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/42818
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Eurofilm HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/79aa3642c99a124bafc4d22b5221699b.png" group-title="-IPTV SHQIP 2-",AL: Eurofilm HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/5952
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: euronews -IPTV SHQIP 2- FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/cee60d23cf0e39f75c012c4e67bc1985.png" group-title="-IPTV SHQIP 2-",AL: euronews -IPTV SHQIP 2- FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/169839
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: EUROSPORT 1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/f1cecaaf5d587858aabdde39a3a50e15.png" group-title="-IPTV SHQIP 2-",AL: EUROSPORT 1 HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/45047
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: EUROSPORT 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/58c261282f835c1c845666c27004ad9c.png" group-title="-IPTV SHQIP 2-",AL: EUROSPORT 2 FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/16454
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Explorer History HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/f9e77d5547d8e675d2793fd8b2f99747.png" group-title="-IPTV SHQIP 2-",AL: Explorer History HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1336
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Explorer Natyra HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/4aec94ce4233b555af20339d1a9fb49d.png" group-title="-IPTV SHQIP 2-",AL: Explorer Natyra HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/4048
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Explorer Shkence HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-02/7a79ebe3df2d6efb9fb670aedcc397d0.png" group-title="-IPTV SHQIP 2-",AL: Explorer Shkence HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/5961
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: T Channel FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/467332097ca9cb8ee909414e4c46ad8c.png" group-title="-IPTV SHQIP 2-",AL: T Channel FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/4101
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Family FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/685f18a2fc7e513d67d14f78b632e824.png" group-title="-IPTV SHQIP 2-",AL: Family FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/4063
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Film Aksion FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/beaf84d6b29cd990d3809d7398ddaba3.png" group-title="-IPTV SHQIP 2-",AL: Film Aksion FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/2558
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Film Autor HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/e16b653c615b5edfde75936d7c1390cb.png" group-title="-IPTV SHQIP 2-",AL: Film Autor HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1333
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Film Drame HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/9f640745f5d13a1a2cd8ec2088f9d716.png" group-title="-IPTV SHQIP 2-",AL: Film Drame HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1332
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Film DY FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/3ed4911d4408efb8e81506bc4d3a48eb.png" group-title="-IPTV SHQIP 2-",AL: Film DY FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1331
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Film Gold FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Film Gold FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/283212
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Film Hits FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/2056af42bfede55def9433e27e7c9a2d.png" group-title="-IPTV SHQIP 2-",AL: Film Hits FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1330
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Film Komedi HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/1f9d633d207c14503547c47cbe5b217a.png" group-title="-IPTV SHQIP 2-",AL: Film Komedi HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1329
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Film Max FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Film Max FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/283213
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Film Nje FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/f06d00b082573cdf5d57167a3edfd5b5.png" group-title="-IPTV SHQIP 2-",AL: Film Nje FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/2559
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Film Stinet HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/a850dafc10aea99f3c2d743d9dd77c2a.png" group-title="-IPTV SHQIP 2-",AL: Film Stinet HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/4096
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Film Thriller HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/a841fc5895554026a19ba23d20421304.png" group-title="-IPTV SHQIP 2-",AL: Film Thriller HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1328
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: FilmBox Arthouse HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/c0c1373a50dcc5d542848c614bb7e1b2.png" group-title="-IPTV SHQIP 2-",AL: FilmBox Arthouse HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/145895
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: FOX HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/8ee2e1172fc51f015ad925c15485cfcf.png" group-title="-IPTV SHQIP 2-",AL: FOX HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/5133
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Fox Crime FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/9aa21e733f137a5526791fddec3f4810.png" group-title="-IPTV SHQIP 2-",AL: Fox Crime FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/4055
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Film & Arts HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/c2173f848e98ccdf5bae1b97a19c871c.png" group-title="-IPTV SHQIP 2-",AL: Film & Arts HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/285148
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: FilmBox Extra FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/e573ad1433a230b358a8095be1164351.png" group-title="-IPTV SHQIP 2-",AL: FilmBox Extra FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/145896
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: FilmBox Premium HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/c77104eab4777aada326742c6724d53b.jpg" group-title="-IPTV SHQIP 2-",AL: FilmBox Premium HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/145894
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: First Channel FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/923acc12abe81fa8849fb36f7a071955.png" group-title="-IPTV SHQIP 2-",AL: First Channel FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/281855
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Flutra TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Flutra TV HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/280142
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Folk+ HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/abbd8b8bd69bc1f6881e45c60d238ad9.jpg" group-title="-IPTV SHQIP 2-",AL: Folk+ HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/4053
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Fox Life FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/30d2125bd2a9b95aa37d432aa55d314e.png" group-title="-IPTV SHQIP 2-",AL: Fox Life FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/5132
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Fox Movies HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/f2aee728753182282d3b8fe502bbc978.png" group-title="-IPTV SHQIP 2-",AL: Fox Movies HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/4056
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Fox News HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/65259128a7f8d93d9f19f846179231fe.png" group-title="-IPTV SHQIP 2-",AL: Fox News HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/5136
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Frame TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Frame TV HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/281967
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: FreeSports HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/af1813468b12d517cd993a48f5a14f05.png" group-title="-IPTV SHQIP 2-",AL: FreeSports HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/197068
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: HBO 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/e4d71274884261995916467241a66d8d.png" group-title="-IPTV SHQIP 2-",AL: HBO 2 FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/26161
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: HBO 3 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/948e628c670df382770d30ab57fab8a4.png" group-title="-IPTV SHQIP 2-",AL: HBO 3 FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/26156
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: HBO HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/01fb3c74d58f9d37b24700124bcdb048.png" group-title="-IPTV SHQIP 2-",AL: HBO HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/26155
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: HS Tallava HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: HS Tallava HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/6715
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: I Love Tropoja TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: I Love Tropoja TV HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/266657
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Istogu Channel FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/380361ddc17c2063a695ae151b6a41e4.jpg" group-title="-IPTV SHQIP 2-",AL: Istogu Channel FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/41305
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: JimJam HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/3a6586daad3b4be2d4fe2e36bba1f35f.png" group-title="-IPTV SHQIP 2-",AL: JimJam HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/145871
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Junior TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/7ea9318cd70c5d2660473316c5394844.jpg" group-title="-IPTV SHQIP 2-",AL: Junior TV HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/2560
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: K Sport 1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7b4d3d4bcb7f01fc9d9d633995198bff.jpg" group-title="-IPTV SHQIP 2-",AL: K Sport 1 HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1863
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: K Sport 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0bcdad89b4447a2a1a50f8b6e6f27d2b.jpg" group-title="-IPTV SHQIP 2-",AL: K Sport 2 HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1864
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: K Sport 3 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/374268c45e28a927265cafd3d15bca99.jpg" group-title="-IPTV SHQIP 2-",AL: K Sport 3 HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1865
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: K Sport 4 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e97db585bf968f9c3df5945b962726d1.jpg" group-title="-IPTV SHQIP 2-",AL: K Sport 4 HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1866
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Kanali 7 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/55138217ab079c60497daf3f4f722a44.png" group-title="-IPTV SHQIP 2-",AL: Kanali 7 HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/4062
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Kinema Aksion HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Kinema Aksion HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/264844
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Kinema Aksion Max HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Kinema Aksion Max HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/166495
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Kinema Classics HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Kinema Classics HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/264843
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Kinema Drane HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Kinema Drane HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/266388
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Kinema Gold HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Kinema Gold HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/188073
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Kinema Hits HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Kinema Hits HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/188072
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Kinema Milenium HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Kinema Milenium HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/280140
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Klan Music HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/3fefb1cce7c6c660ebe0d8d1443f0fbe.jpg" group-title="-IPTV SHQIP 2-",AL: Klan Music HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/166503
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Koha TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e2ced51fa8b30b734ccf765b85b7f2f8.jpg" group-title="-IPTV SHQIP 2-",AL: Koha TV HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/4115
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Lion TV Shqip HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Lion TV Shqip HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/145930
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: KS Cifteli FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: KS Cifteli FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/198665
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: KS Comedy FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: KS Comedy FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/23793
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: KS Filma24 Family FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: KS Filma24 Family FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/278247
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: KS Popullore FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: KS Popullore FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/30180
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: KS Stupcat HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: KS Stupcat HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/59022
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Liria TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Liria TV HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/163401
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Living FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e2d646e5b32546a6dbe83001b0414e56.png" group-title="-IPTV SHQIP 2-",AL: Living FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/4070
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Llapi TV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Llapi TV FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/196489
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Lobi TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Lobi TV HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/169871
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Malisheva TV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Malisheva TV FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/198450
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Masha & bear FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Masha & bear FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/263737
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Max HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Max HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/169857
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Melody TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/94c4d86a383db413cd3b7fb0a53aaeb8.png" group-title="-IPTV SHQIP 2-",AL: Melody TV HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/41326
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: MFM Music FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a0d688a0c1b50a2ea7c5b8cca2c39b9f.jpg" group-title="-IPTV SHQIP 2-",AL: MFM Music FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/45019
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: MTV Hits HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/df7f0093c1e589e1601f9aff633ca27a.png" group-title="-IPTV SHQIP 2-",AL: MTV Hits HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/12434
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: MTV Kosova HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8c62bf6c87574289bf103877b09ee901.jpg" group-title="-IPTV SHQIP 2-",AL: MTV Kosova HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/16483
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Muse TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/8c1c24c42cedcc683029fe78e86f2b2f.png" group-title="-IPTV SHQIP 2-",AL: Muse TV HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/4072
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: My Music HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/e59d0fb982c4fa1155a269326360887f.png" group-title="-IPTV SHQIP 2-",AL: My Music HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/171895
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: NAT GEO HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/a03f99967979ee5b44560a41b66fd0ee.png" group-title="-IPTV SHQIP 2-",AL: NAT GEO HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/6737
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: NAT GEO Wild FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/c7f6d07134945917945808b3d302c731.png" group-title="-IPTV SHQIP 2-",AL: NAT GEO Wild FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/23753
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Netflix Aksion HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Netflix Aksion HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/193772
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Netflix Arnold Schwarzenegger HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Netflix Arnold Schwarzenegger HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/198444
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Netflix Aventure HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Netflix Aventure HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/198437
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Netflix Bud Spencer & Terence Hill HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Netflix Bud Spencer & Terence Hill HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/198443
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Netflix Dwayne Johnson HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Netflix Dwayne Johnson HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/198448
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Netflix Epik HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Netflix Epik HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/198440
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Netflix Fantazi FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Netflix Fantazi FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/198435
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Netflix Femije HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Netflix Femije HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/198439
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Netflix Horror HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Netflix Horror HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/193771
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Netflix Jackie Chan HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Netflix Jackie Chan HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/198446
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Netflix Komedi HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Netflix Komedi HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/193773
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Netflix Relaks FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Netflix Relaks FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/198431
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Netflix Romance FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Netflix Romance FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/198660
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Netflix Spider-Man HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Netflix Spider-Man HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/198445
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Netflix Sylvester Stallone HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Netflix Sylvester Stallone HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/198442
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Netflix Van Damme HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Netflix Van Damme HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/198661
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: NickToons HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/72cdb54bb3a0700c51f05f46ecd5a1e1.png" group-title="-IPTV SHQIP 2-",AL: NickToons HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/44956
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: ON TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: ON TV HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/12440
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Ora News HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/d4ac2713819e179c78c678ae6c1636bb.png" group-title="-IPTV SHQIP 2-",AL: Ora News HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/5126
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Peace TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/127fed99e14527d5771aee47da055db8.jpeg" group-title="-IPTV SHQIP 2-",AL: Peace TV HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/15562
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Pollogu HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Pollogu HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/264836
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Report TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/144beb981ee21f4b042307d63fb10d30.png" group-title="-IPTV SHQIP 2-",AL: Report TV FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/4077
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Rozafa News HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/66f956374d354d9bd40704f13010f5c9.jpg" group-title="-IPTV SHQIP 2-",AL: Rozafa News HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/6730
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: RTSH 24 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/68f0f45f9c9d66d4d114fec146cff58f.png" group-title="-IPTV SHQIP 2-",AL: RTSH 24 FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/5962
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: RTSH Agro HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: RTSH Agro HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/193717
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: RTSH Femije HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/2cb2016a12a7ff9d828f9bfd82bbefaf.png" group-title="-IPTV SHQIP 2-",AL: RTSH Femije HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/5146
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: RTSH Film HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/3186cb3b8ff49e0911f7feb8f1c11e24.png" group-title="-IPTV SHQIP 2-",AL: RTSH Film HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/5145
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: RTSH Gjirokastra HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: RTSH Gjirokastra HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/23700
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: RTSH Kids HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: RTSH Kids HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/284740
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: RTSH Korca HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/1cd1b44aa7cacfa3fb97ef9e2a3a4d00.png" group-title="-IPTV SHQIP 2-",AL: RTSH Korca HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/23708
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: RTSH Kukesi HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/4eef9f8483abd39e7c0eb21804f1042e.png" group-title="-IPTV SHQIP 2-",AL: RTSH Kukesi HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/198663
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: RTSH Kuvend HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/1f39d5eda641d8957a48a27bc2a2a093.png" group-title="-IPTV SHQIP 2-",AL: RTSH Kuvend HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/22434
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: RTSH Muzike HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/739fb9989f77a2a8023742c976564442.png" group-title="-IPTV SHQIP 2-",AL: RTSH Muzike HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/5144
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: RTSH Sat HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: RTSH Sat HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/284741
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: RTSH Satelit FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: RTSH Satelit FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/282301
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: RTSH Shkodra HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: RTSH Shkodra HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/284742
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: RTSH Shkollë HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: RTSH Shkollë HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1856
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: RTSH Shqip HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/bd6e205ddd68ac5bfa1de5c3b7f25483.png" group-title="-IPTV SHQIP 2-",AL: RTSH Shqip HD
+#EXTINF:-1,AL: TV Klan FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1853
+#EXTINF:-1,AL: Klan TV FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/291197
+#EXTINF:-1,AL: Klan Plus FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/2562
+#EXTINF:-1,AL: RTSH Shqip HD
 http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/5143
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: RTSH Sport FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/45f826a3eae01cde403b7e2d76d6ec75.png" group-title="-IPTV SHQIP 2-",AL: RTSH Sport FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/2568
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: RTV 3 Femije HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: RTV 3 Femije HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/284225
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: RTV Ahireti HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: RTV Ahireti HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/281987
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: RTV Aldi HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: RTV Aldi HD
+#EXTINF:-1,AL: RTSH Plus HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/169831
+#EXTINF:-1,AL: RTSH 1 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/4123
+#EXTINF:-1,AL: RTSH 2 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1854
+#EXTINF:-1,AL: RTSH 3 HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1855
+#EXTINF:-1,AL: RTSH Agro HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/193717
+#EXTINF:-1,AL: RTSH Film HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/5145
+#EXTINF:-1,AL: RTSH Gjirokastra HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/23700
+#EXTINF:-1,AL: RTSH Korca HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/23708
+#EXTINF:-1,AL: RTSH Kukesi HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/198663
+#EXTINF:-1,AL: RTSH Muzike HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/5144
+#EXTINF:-1,AL RTSH Muzike HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/274700
+#EXTINF:-1,AL: RTSH Satelit FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/282301
+#EXTINF:-1,AL: RTSH Shkolle HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1856
+
+#EXTINF:-1,AL: Syri News TV HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/4100
+#EXTINF:-1,AL: Euronews Albania FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/169839
+#EXTINF:-1,AL: MCN TV FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/286798
+#EXTINF:-1,AL: News 24 HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/5127
+#EXTINF:-1,AL: ABC FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/2551
+#EXTINF:-1,AL: Ora News HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/5126
+#EXTINF:-1,AL: Report TV FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/4077
+#EXTINF:-1,AL: TOP News HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/5122
+
+#EXTINF:-1,AL: TV Dukagjini FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/6708
+#EXTINF:-1,AL: Shenja TV HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/12414
+#EXTINF:-1,AL: RTV Aldi HD
 http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/282008
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: RTV Fontana HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: RTV Fontana HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/282006
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: RTV Ilirida HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: RTV Ilirida HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/284743
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: RTV Pendimi HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: RTV Pendimi HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/281982
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: S TV Folk HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/465219bab2600443bab77ef3f3afb4f4.png" group-title="-IPTV SHQIP 2-",AL: S TV Folk HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/30178
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Scan TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/f39d0c070d20b6cf58b37d2fc5aad240.png" group-title="-IPTV SHQIP 2-",AL: Scan TV FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/23735
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Shota TV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Shota TV FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/151743
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Sky Max HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Sky Max HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/26127
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Spin TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Spin TV HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/6714
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Sport Klub 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/36b7fec9a109db065fd74126381940f2.jpg" group-title="-IPTV SHQIP 2-",AL: Sport Klub 1 FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/15575
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Sport Klub 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/f2162c891092e2ac6253ca3df64b0e10.png" group-title="-IPTV SHQIP 2-",AL: Sport Klub 2 FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/15572
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Star Plus HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/aeb4d3ba777598eb409ebf6d6a1f7e2f.png" group-title="-IPTV SHQIP 2-",AL: Star Plus HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/12428
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Super Sonic TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/780ca28c4b7d72fbb4584650714e9012.png" group-title="-IPTV SHQIP 2-",AL: Super Sonic TV HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/4098
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: SuperSport 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/dd40a0c54e5a3acb0ffce128dc90de94.png" group-title="-IPTV SHQIP 2-",AL: SuperSport 1 FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1316
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: SuperSport 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/9519a058698941aadb6473f8721e58b1.png" group-title="-IPTV SHQIP 2-",AL: SuperSport 2 FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1312
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: SuperSport 3 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/dd3c9c967ec530a8b19978ca6aac4588.png" group-title="-IPTV SHQIP 2-",AL: SuperSport 3 FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1319
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: SuperSport 4 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/e0c350049cb9584a4a13c63aaf405857.png" group-title="-IPTV SHQIP 2-",AL: SuperSport 4 FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1318
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: SuperSport 5 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/6aa451c7c6a38430edde9104eacef07c.png" group-title="-IPTV SHQIP 2-",AL: SuperSport 5 HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1860
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: SuperSport 6 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/f2f8128ce788087140b3d84a313fe6e8.png" group-title="-IPTV SHQIP 2-",AL: SuperSport 6 FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/3638
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: SuperSport 7 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c5604482ce228140e41b0490653ae79b.png" group-title="-IPTV SHQIP 2-",AL: SuperSport 7 FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/174441
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: SuperSport KOSOVA 1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: SuperSport KOSOVA 1 FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/276161
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: SuperSport News FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: SuperSport News FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1313
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Syri HD FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Syri HD FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/285864
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Syri TV Blue HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/893bcd8b9372ec43ad09bf7f778c9873.png" group-title="-IPTV SHQIP 2-",AL: Syri TV Blue HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/4099
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Tele One 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Tele One 1 HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/145897
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Tele One Aksion HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cc23bf93adce0432111f2594f8df7947.png" group-title="-IPTV SHQIP 2-",AL: Tele One Aksion HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/264853
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Tele One Aventure HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cc64804b91979ed89880d584646bc4d7.png" group-title="-IPTV SHQIP 2-",AL: Tele One Aventure HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/264852
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Tele One Epik Film HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d48c87a9189abbb7f3285b0e271f8e34.png" group-title="-IPTV SHQIP 2-",AL: Tele One Epik Film HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/247865
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Tele One Film Crime HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/df21da5fe4b322f4e34aa765e7d1a714.png" group-title="-IPTV SHQIP 2-",AL: Tele One Film Crime HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/247861
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Tele One Film Drame HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/083814c1c332e2c38c17e3fdbf94409f.png" group-title="-IPTV SHQIP 2-",AL: Tele One Film Drame HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/264854
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: TELE one FILM FANTAZI HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: TELE one FILM FANTAZI HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/247863
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Tele One Film Thriller HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a60e734165ebc15509fe6b7bf317307c.png" group-title="-IPTV SHQIP 2-",AL: Tele One Film Thriller HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/247864
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Tele One Gold Collection HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2baa1f68946f7ea2a1160bcc1470504f.png" group-title="-IPTV SHQIP 2-",AL: Tele One Gold Collection HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/247862
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Kanal D Drama FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/0a43ac4e7afac393bd3c378011eff512.png" group-title="-IPTV SHQIP 2-",AL: Kanal D Drama FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/26182
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Episode HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Episode HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/169877
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Tring Super FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/841e40fc4581a7d0668fa892ee975757.png" group-title="-IPTV SHQIP 2-",AL: Tring Super FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1303
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Tring Novelas FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Tring Novelas FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/23754
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Tring Action FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/9e6071e3273a53b9e66dfc99f89fa264.png" group-title="-IPTV SHQIP 2-",AL: Tring Action FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1308
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Tring Comedy HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/15f347a715450c9fd7bdad3f88c2095c.png" group-title="-IPTV SHQIP 2-",AL: Tring Comedy HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1310
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Tring Fantasy HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/ab00f2f37ac3229fd0848ac48d53b7b9.png" group-title="-IPTV SHQIP 2-",AL: Tring Fantasy HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/2577
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Tring Shqip HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/169f8a4c444563e3c490d92a886cb487.png" group-title="-IPTV SHQIP 2-",AL: Tring Shqip HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1307
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Tring Life HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/d00e09b01730e8508e41db3e72f2f04c.jpg" group-title="-IPTV SHQIP 2-",AL: Tring Life HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1309
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: TRING INTERNATIONAL FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: TRING INTERNATIONAL FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/15535
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Tring Jolly FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/b79c09949503f11deedd8452f966d6ee.png" group-title="-IPTV SHQIP 2-",AL: Tring Jolly FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1327
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Tring Kids HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/7f798ebf0224602cf264275c9922602d.png" group-title="-IPTV SHQIP 2-",AL: Tring Kids HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/44952
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Tring Tring FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/a7c16d47b5668b4e414829112d1198f8.png" group-title="-IPTV SHQIP 2-",AL: Tring Tring FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1302
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Tip TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/4d9ee786fddd6132b4f5954940f272dd.png" group-title="-IPTV SHQIP 2-",AL: Tip TV HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/2574
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Sofia FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e0fe5b4edba418760e1e30390a84c8f0.png" group-title="-IPTV SHQIP 2-",AL: Sofia FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/15539
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Prince Kids HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Prince Kids HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/44949
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Tring Smile HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/9cde1e4e258b128a544f7f7c3a8a5b37.png" group-title="-IPTV SHQIP 2-",AL: Tring Smile HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1322
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Tring Sport 1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/159a3e53a509523324405a783571860a.png" group-title="-IPTV SHQIP 2-",AL: Tring Sport 1 HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1306
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Tring Sport 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/43c29acadbe04ba7cccb93430e73d373.png" group-title="-IPTV SHQIP 2-",AL: Tring Sport 2 HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1305
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Tring Sport 3 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/85de7720019eb796d9dfe20898807b36.png" group-title="-IPTV SHQIP 2-",AL: Tring Sport 3 FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1304
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Tring Sport 4 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/6a7cf8d9da4b44e4a17d4874a96de13f.png" group-title="-IPTV SHQIP 2-",AL: Tring Sport 4 HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1862
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Tring Sport News HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/d336e84b188eca200534666d82b422c9.png" group-title="-IPTV SHQIP 2-",AL: Tring Sport News HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1861
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Tring History HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/a81d374e125c00c3bedd06afe18904fd.png" group-title="-IPTV SHQIP 2-",AL: Tring History HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1345
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Tring World HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/34c55c1b943922779da04d17f001fa41.png" group-title="-IPTV SHQIP 2-",AL: Tring World HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1301
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Tring Planet HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/afc0149ae70eca0a72841295dbb499ea.png" group-title="-IPTV SHQIP 2-",AL: Tring Planet HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1344
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: 3 Plus HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/334e9b6f9375aa39e5883948275850d6.jpg" group-title="-IPTV SHQIP 2-",AL: 3 Plus HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/4105
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Turbo Channel HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/81ac7a7326e6d0748bc4026019628f35.png" group-title="-IPTV SHQIP 2-",AL: Turbo Channel HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/6717
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: TV 7 -IPTV SHQIP 2- HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: TV 7 -IPTV SHQIP 2- HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/196347
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: TV 7 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: TV 7 HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/6762
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: TV Apollon HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: TV Apollon HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/267037
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: TV Diaspora FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: TV Diaspora FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/281350
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: TV Dielli HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/fe3b554c186d7250608586118d158ffc.png" group-title="-IPTV SHQIP 2-",AL: TV Dielli HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/12418
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: TV Kopliku FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/27a583c58d8f59b668672b6e56878ee8.jpg" group-title="-IPTV SHQIP 2-",AL: TV Kopliku FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/173458
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: TV Mitrovica HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ac3961e6a01fb2835eaf8d2e37294eb9.jpg" group-title="-IPTV SHQIP 2-",AL: TV Mitrovica HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/4118
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: TV Opoja HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6b8e20e7506a44c0e98dafdcfec30c35.jpg" group-title="-IPTV SHQIP 2-",AL: TV Opoja HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/4119
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: TV Presheva HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: TV Presheva HD
+#EXTINF:-1,AL: TV Presheva HD
 http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/280160
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: TV Puls FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3283fa042f4e7cd082d7387fa4f13ff6.png" group-title="-IPTV SHQIP 2-",AL: TV Puls FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/4076
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: TV Sharri FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/03bf7ee22afa23be577be153f1748038.png" group-title="-IPTV SHQIP 2-",AL: TV Sharri FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/12416
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: TV Uskana HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4e3321ac3a41d9c75471c2c4f590bd35.jpg" group-title="-IPTV SHQIP 2-",AL: TV Uskana HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/12421
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: TV Vali HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fd20dcad456acc41acf430e0b50ca30d.jpg" group-title="-IPTV SHQIP 2-",AL: TV Vali HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/278583
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Ulqini TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Ulqini TV HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/278582
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Web Star Action FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Web Star Action FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/281984
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Web Star Channel HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Web Star Channel HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/266677
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Web Star Cifteli HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Web Star Cifteli HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/281985
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Web Star Cinema HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Web Star Cinema HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/193706
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Web Star Drame HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Web Star Drame HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/193705
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Web Star Film 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Web Star Film 1 HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/193704
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Web Star Islam HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Web Star Islam HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/193701
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Web Star Komedi HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Web Star Komedi HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/193700
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Web Star Masha & Bear HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Web Star Masha & Bear HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/281983
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Web Star Masha Orso HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Web Star Masha Orso HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/188051
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Web Star Music CH HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Web Star Music CH HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/193698
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Web Star Muzik HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Web Star Muzik HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/193696
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Web Star Popullore FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Web Star Popullore FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/193694
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Web Star Thriller HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Web Star Thriller HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/193691
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: WebStar Qifteli HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: WebStar Qifteli HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/193693
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: X premiere 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: X premiere 1 HD
+#EXTINF:-1,AL: A TV FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/171891
+#EXTINF:-1,AL: T7 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/281851
+#EXTINF:-1,AL: KTV FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/284209
+#EXTINF:-1,AL: Klan Kosova HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/2561
+#EXTINF:-1,AL: Kanal 10 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/198840
+#EXTINF:-1,AL: Kanali 10 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/281986
+#EXTINF:-1,AL: Alsat M FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1346
+#EXTINF:-1,AL: RTV 1 HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/281994
+#EXTINF:-1,AL: RTV 2 MIX HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/280143
+
+#EXTINF:-1,AL: Explorer History HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1336
+#EXTINF:-1,AL Explorer History HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/274198
+#EXTINF:-1,AL: Explorer Natyra HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/4048
+#EXTINF:-1,AL: Explorer Shkence HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/5961
+#EXTINF:-1,AL: Art Doku 1 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/146080
+#EXTINF:-1,AL: Art Doku 2 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/146081
+#EXTINF:-1,AL: Tring History HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1345
+#EXTINF:-1,AL Tring History HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/274306
+#EXTINF:-1,AL: Tring Planet HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1344
+#EXTINF:-1,AL: Tring World HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1301
+#EXTINF:-1,AL: NAT GEO FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/6737
+#EXTINF:-1,AL NAT GEO FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/274107
+
+
+#EXTINF:-1,AL: Tring Super FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1303
+#EXTINF:-1,AL: Tring Action FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1308
+#EXTINF:-1,AL: Tring Classic HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/290516
+#EXTINF:-1,AL: Tring Comedy HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1310
+#EXTINF:-1,AL: Tring Family FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/4063
+#EXTINF:-1,AL: Tring Fantasy HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/2577
+#EXTINF:-1,AL: Tring International HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/15535
+#EXTINF:-1,AL: Tring Life HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1309
+#EXTINF:-1,AL Tring Life HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/273548
+
+
+#EXTINF:-1,AL: Tring Shqip HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1307
+#EXTINF:-1,AL: Tring Smile HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1322
+#EXTINF:-1,AL: Tring Novelas HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/23754
+#EXTINF:-1,AL: Tring Jolly FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1327
+#EXTINF:-1,AL: Tring 3+ HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/290208
+#EXTINF:-1,AL: Kanal D Drama FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/26182
+#EXTINF:-1,AL: Episode HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/169877
+#EXTINF:-1,AL: Dizi Channel HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/41309
+#EXTINF:-1,AL: T Channel FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/4101
+#EXTINF:-1,AL: Film Hits FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1330
+#EXTINF:-1,AL: Film Aksion FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/2558
+#EXTINF:-1,AL: Film Thriller 
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1328
+#EXTINF:-1,AL: Film Autor 
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1333
+#EXTINF:-1,AL: Film Drame 
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1332
+#EXTINF:-1,AL: Film Komedi 
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1329
+#EXTINF:-1,AL: Film Stinet 
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/4096
+#EXTINF:-1,AL: Film DY FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/287740
+#EXTINF:-1,AL: Film Gold HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/283212
+#EXTINF:-1,AL: Film Max FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1331
+#EXTINF:-1,AL: Film Nje FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/2559
+#EXTINF:-1,AL: Eurofilm HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/5952
+#EXTINF:-1,AL: Art Kino 1 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/146084
+#EXTINF:-1,AL: Art Kino 2 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/146085
+#EXTINF:-1,AL: Art Kino 3 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/146086
+#EXTINF:-1,AL: FOX HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/5133
+#EXTINF:-1,AL: I Love Tropoja TV HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/266657
+
+#EXTINF:-1,AL: Dark Gold 1 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/166537
+#EXTINF:-1,AL: Dark Gold 2 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/2553
+#EXTINF:-1,AL: Dark Gold 3 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/2554
+#EXTINF:-1,AL: Dark Gold 4 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/16460
+#EXTINF:-1,AL: Dark Gold 5 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/266392
+#EXTINF:-1,AL: Dark Gold 6 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/266393
+#EXTINF:-1,AL: Dark Gold 7 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/266394
+#EXTINF:-1,AL: Dark Gold 8 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/266395
+#EXTINF:-1,AL: Dark Popullore HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/166533
+#EXTINF:-1,AL: Dark Romance FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/157409
+#EXTINF:-1,AL: Dark Stupcat HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/166520
+#EXTINF:-1,AL: Kinema Aksion HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/264844
+#EXTINF:-1,AL: Kinema Aksion Max HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/166495
+#EXTINF:-1,AL: Kinema Classics HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/264843
+#EXTINF:-1,AL: Kinema Drane HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/266388
+#EXTINF:-1,AL: Kinema Duck HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/281969
+#EXTINF:-1,AL: Kinema Family HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/282004
+#EXTINF:-1,AL: Kinema Gold HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/188073
+#EXTINF:-1,AL: Kinema Hits HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/188072
+#EXTINF:-1,AL: Kinema Milenium HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/280140
+#EXTINF:-1,AL: KS Action FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/23798
+#EXTINF:-1,AL: KS Comedy HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/23793
+#EXTINF:-1,AL: KS Horror FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/173474
+#EXTINF:-1,AL: KS EPIC HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/173475
+#EXTINF:-1,AL: KS Filma24 Family HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/278247
+#EXTINF:-1,AL: KS Filma24 Premiere FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/278255
+
+#EXTINF:-1,AL: KS Premiere 1 HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/294446
+#EXTINF:-1,AL: kS premiere 2 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/281898
+#EXTINF:-1,AL: KS Premiere 3 HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/173465
+#EXTINF:-1,AL: KS Premiere 4 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/173479
+#EXTINF:-1,AL: Netflix Aksion FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/193772
+#EXTINF:-1,AL: Netflix Arnold Schwarzenegger HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/198444
+#EXTINF:-1,AL: Netflix Aventure HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/198437
+#EXTINF:-1,AL: Netflix Bud Spencer & Terence Hill HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/198443
+#EXTINF:-1,AL: Netflix Dwayne Johnson FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/198448
+#EXTINF:-1,AL: Netflix Epik HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/198440
+#EXTINF:-1,AL: Netflix Fantazi FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/198435
+#EXTINF:-1,AL: Netflix Femije HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/198439
+#EXTINF:-1,AL: Netflix Horror HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/193771
+#EXTINF:-1,AL: Netflix Jackie Chan HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/198446
+#EXTINF:-1,AL: Netflix Komedi HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/193773
+#EXTINF:-1,AL: Netflix Relaks FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/198431
+#EXTINF:-1,AL: Netflix Romance FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/198660
+#EXTINF:-1,AL: Netflix Spider Man HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/198445
+#EXTINF:-1,AL: Netflix Sylvester Stallone HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/198442
+#EXTINF:-1,AL: Netflix Van Damme HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/198661
+#EXTINF:-1,AL: Tele One 1 HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/145897
+#EXTINF:-1,AL: Tele One 2 HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/151734
+#EXTINF:-1,AL: Tele One 4 HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/151732
+#EXTINF:-1,AL: Tele one 5 HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/151737
+#EXTINF:-1,AL: Tele one 6 HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/151733
+#EXTINF:-1,AL: Tele One Aksion HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/264853
+#EXTINF:-1,AL: Tele One Aventure HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/264852
+#EXTINF:-1,AL: Tele One Epik Film HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/247865
+#EXTINF:-1,AL: Tele One Fantasy HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/264855
+#EXTINF:-1,AL: Tele One Film Crime HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/247861
+#EXTINF:-1,AL: Tele One Film Drame HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/264854
+#EXTINF:-1,AL: Tele One Film Thriller HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/247864
+#EXTINF:-1,AL: Tele One Gags HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/264856
+#EXTINF:-1,AL: Tele One Gold Collection HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/247862
+#EXTINF:-1,AL: X premiere 1 HD
 http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/12457
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: X premiere 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: X premiere 2 HD
+#EXTINF:-1,AL: X Premiere 2 HD
 http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/40535
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: X premiere 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: X premiere 3 HD
+#EXTINF:-1,AL: X premiere 3 HD
 http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/84133
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Zeri FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="-IPTV SHQIP 2-",AL: Zeri FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/91064
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL: Zjarr TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/72835de4dabb3cfe6d8543b3c818fbb3.png" group-title="-IPTV SHQIP 2-",AL: Zjarr TV HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/23711
+#EXTINF:-1,AL: Sky Max HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/26127
+#EXTINF:-1,AL: Lion TV Shqip HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/145930
 
 
+#EXTINF:-1,AL: OVERSPORT 1 HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/290218
+#EXTINF:-1,AL: OVERSPORT 3 HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/290537
+#EXTINF:-1,AL: OVERSPORT 4 HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/290538
+#EXTINF:-1,AL: SuperSport News FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1313
+#EXTINF:-1,AL: SuperSport 1 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1316
+#EXTINF:-1,AL: SuperSport 2 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1312
+#EXTINF:-1,AL: SuperSport 3 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1319
+#EXTINF:-1,AL: SuperSport 4 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1318
+#EXTINF:-1,AL: SuperSport 5 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1860
+#EXTINF:-1,AL: SuperSport 6 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/3638
+#EXTINF:-1,AL: Tring Sport 1 HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1306
+#EXTINF:-1,AL: Tring Sport 2 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1305
+#EXTINF:-1,AL: Tring Sport 3 HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1304
+#EXTINF:-1,AL: Tring Sport 4 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1862
+#EXTINF:-1,AL: Tring Sport News HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1861
+#EXTINF:-1,AL: ART Sport 1 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/23143
+#EXTINF:-1,AL: ART Sport 2 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/23146
+#EXTINF:-1,AL: ART Sport 3 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/40061
+#EXTINF:-1,AL: ART Sport 4 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/295216
+#EXTINF:-1,AL: ART Sport 5 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/295215
+#EXTINF:-1,AL: ART Sport 6 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/295217
+#EXTINF:-1,AL: K Sport 1 HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1863
+#EXTINF:-1,AL: K Sport 2 HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1864
+#EXTINF:-1,AL: K Sport 3 HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1865
+#EXTINF:-1,AL: K Sport 4 HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1866
+#EXTINF:-1,AL: RTSH Sport HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/2568
+
+#EXTINF:-1,AL: Cufo HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1339
+#EXTINF:-1,AL: Bang Bang HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1342
+#EXTINF:-1,AL: Junior TV HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/2560
+#EXTINF:-1,AL Junior TV HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/274444
+#EXTINF:-1,AL: RTSH Femije HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/5146
+#EXTINF:-1,AL: Tip TV HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/2574
+#EXTINF:-1,AL: Tring Kids HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/44952
+#EXTINF:-1,AL: Tring Tring HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1302
+#EXTINF:-1,AL: Sofia HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/15539
+#EXTINF:-1,AL: Sole TV FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/15540
+#EXTINF:-1,AL: Prince Kids FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/44949
+#EXTINF:-1,AL: Tom & Jerry HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/15543
+#EXTINF:-1,AL: KS Kids FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/151740
 
 
-
+#EXTINF:-1,AL: KS Cifteli HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/198665
+#EXTINF:-1,AL: TV Sharri FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/12416
+#EXTINF:-1,AL: TV Uskana HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/12421
+#EXTINF:-1,AL: TV1 Shkoder HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/188076
+#EXTINF:-1,AL: TV2 Gostivar FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/169842
+#EXTINF:-1,AL: Ulqini TV HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/278582
+#EXTINF:-1,AL: TV Kopliku HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/173458
+#EXTINF:-1,AL: TV Mitrovica HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/4118
+#EXTINF:-1,AL: TV Opoja HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/4119
+#EXTINF:-1,AL: TV Puls FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/4076
+#EXTINF:-1,AL: TOP Estrada HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/16502
+#EXTINF:-1,AL: S TV Folk HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/30178
+#EXTINF:-1,AL: SHOTA TV FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/151743
+#EXTINF:-1,AL: RTV Fontana HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/282006
+#EXTINF:-1,AL: My Music HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/171895
+#EXTINF:-1,AL My Music HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/274826
+#EXTINF:-1,AL: KS Hits FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/198433
 
 #EXTINF:-1   group-title="-IPTV SHQIP 3-",
 #EXTINF:-1,Top Channel HD
