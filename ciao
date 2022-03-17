@@ -1886,14 +1886,6 @@ http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64502
 
 
 
-
-
-
-
-
-
-
-
 #EXTINF:-1   group-title="-IPTV SPORT 1-",
 #EXTINF:0,Supersport 1 Ultra
 http://185.204.32.49:6735/UltraNetS1/stream/playlist.m3u8
@@ -1998,75 +1990,48 @@ http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64355
 #EXTINF:-1,|PT|  SPORT TV 3
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64356
 
-#EXTINF:-1,UK VIP: SKY SPORT F1
-http://dragoniptv.iptf.me:8080/live:.cid.94e0d35e7ae40219/kC6EPNXS13yp/10423
-#EXTINF:-1,UK VIP: Sky Sport F1 HD
-http://dragoniptv.iptf.me:8080/live:.cid.94e0d35e7ae40219/kC6EPNXS13yp/22179
-#EXTINF:-1,UK VIP: SKY SPORT FOOTBALL
-http://dragoniptv.iptf.me:8080/live:.cid.94e0d35e7ae40219/kC6EPNXS13yp/10425
-#EXTINF:-1,UK VIP: Sky Sport Football HD
-http://dragoniptv.iptf.me:8080/live:.cid.94e0d35e7ae40219/kC6EPNXS13yp/22180
-#EXTINF:-1,UK VIP: SKY SPORT MAIN EVENT
-http://dragoniptv.iptf.me:8080/live:.cid.94e0d35e7ae40219/kC6EPNXS13yp/10427
-#EXTINF:-1,UK VIP: SKY SPORT MAIN EVENT HD
-http://dragoniptv.iptf.me:8080/live:.cid.94e0d35e7ae40219/kC6EPNXS13yp/22182
-#EXTINF:-1,UK VIP: SKY SPORT MIX
-http://dragoniptv.iptf.me:8080/live:.cid.94e0d35e7ae40219/kC6EPNXS13yp/10428
-#EXTINF:-1,UK VIP: Sky Sport Mix HD
-http://dragoniptv.iptf.me:8080/live:.cid.94e0d35e7ae40219/kC6EPNXS13yp/22183
-#EXTINF:-1,UK VIP: beIN SPORT USA
-http://dragoniptv.iptf.me:8080/live:.cid.94e0d35e7ae40219/kC6EPNXS13yp/76621
-#EXTINF:-1,UK VIP: beIN SPORT La Liga
-http://dragoniptv.iptf.me:8080/live:.cid.94e0d35e7ae40219/kC6EPNXS13yp/76620
-#EXTINF:-1,UK VIP: BEIN SPORT 11
-http://dragoniptv.iptf.me:8080/live:.cid.94e0d35e7ae40219/kC6EPNXS13yp/76617
-
-#EXTINF:-1,UK VIP: BT SPORT 1 HD
-http://dragoniptv.iptf.me:8080/live:.cid.94e0d35e7ae40219/kC6EPNXS13yp/22000
-#EXTINF:-1,UK VIP: BT Sport 2
-http://dragoniptv.iptf.me:8080/live:.cid.94e0d35e7ae40219/kC6EPNXS13yp/10224
-#EXTINF:-1,UK VIP: BT SPORT 2 HD
-http://dragoniptv.iptf.me:8080/live:.cid.94e0d35e7ae40219/kC6EPNXS13yp/22001
-#EXTINF:-1,UK VIP: BT Sport 3
-http://dragoniptv.iptf.me:8080/live:.cid.94e0d35e7ae40219/kC6EPNXS13yp/10225
-#EXTINF:-1,UK VIP: BT SPORT 3 HD
-http://dragoniptv.iptf.me:8080/live:.cid.94e0d35e7ae40219/kC6EPNXS13yp/22002
-#EXTINF:-1,UK VIP: BT SPORT BOX OFFICE PPV
-http://dragoniptv.iptf.me:8080/live:.cid.94e0d35e7ae40219/kC6EPNXS13yp/22003
-#EXTINF:-1,UK VIP: BT SPORT BOX OFFICE PPV HD
-http://dragoniptv.iptf.me:8080/live:.cid.94e0d35e7ae40219/kC6EPNXS13yp/22004
-#EXTINF:-1,UK VIP: BT SPORT ESPN
-http://dragoniptv.iptf.me:8080/live:.cid.94e0d35e7ae40219/kC6EPNXS13yp/10222
-#EXTINF:-1,UK VIP: BT SPORT ESPN HD
-http://dragoniptv.iptf.me:8080/live:.cid.94e0d35e7ae40219/kC6EPNXS13yp/22005
-#EXTINF:-1,UK VIP: BT SPORT EXTRA
-http://dragoniptv.iptf.me:8080/live:.cid.94e0d35e7ae40219/kC6EPNXS13yp/10227
-#EXTINF:-1,UK VIP: BT SPORT EXTRA 1
-http://dragoniptv.iptf.me:8080/live:.cid.94e0d35e7ae40219/kC6EPNXS13yp/10228
-#EXTINF:-1,UK VIP: BT SPORT EXTRA 1 HD
-http://dragoniptv.iptf.me:8080/live:.cid.94e0d35e7ae40219/kC6EPNXS13yp/37445
-#EXTINF:-1,UK VIP: BT SPORT EXTRA 2
-http://dragoniptv.iptf.me:8080/live:.cid.94e0d35e7ae40219/kC6EPNXS13yp/10229
-#EXTINF:-1,UK VIP: BT SPORT EXTRA 3
-http://dragoniptv.iptf.me:8080/live:.cid.94e0d35e7ae40219/kC6EPNXS13yp/10230
-#EXTINF:-1,UK VIP: BT SPORT EXTRA 4
-http://dragoniptv.iptf.me:8080/live:.cid.94e0d35e7ae40219/kC6EPNXS13yp/10231
-#EXTINF:-1,UK VIP: BT SPORT EXTRA 5
-http://dragoniptv.iptf.me:8080/live:.cid.94e0d35e7ae40219/kC6EPNXS13yp/10232
-#EXTINF:-1,UK VIP: BT SPORT EXTRA 6
-http://dragoniptv.iptf.me:8080/live:.cid.94e0d35e7ae40219/kC6EPNXS13yp/23288
-#EXTINF:-1,UK VIP: SUPERSPORT 1
-http://dragoniptv.iptf.me:8080/live:.cid.94e0d35e7ae40219/kC6EPNXS13yp/10449
-#EXTINF:-1,UK VIP: SUPERSPORT 2
-http://dragoniptv.iptf.me:8080/live:.cid.94e0d35e7ae40219/kC6EPNXS13yp/10450
-#EXTINF:-1,UK VIP: SUPERSPORT 3
-http://dragoniptv.iptf.me:8080/live:.cid.94e0d35e7ae40219/kC6EPNXS13yp/10451
-#EXTINF:-1,UK VIP: SUPERSPORT 4
-http://dragoniptv.iptf.me:8080/live:.cid.94e0d35e7ae40219/kC6EPNXS13yp/10452
-#EXTINF:-1,UK VIP: SUPERSPORT 5
-http://dragoniptv.iptf.me:8080/live:.cid.94e0d35e7ae40219/kC6EPNXS13yp/10453
-
-
+#EXTINF:-1,AR SPORTS: beIN SPORTS 11 FHD
+http://shashe.dianshiwang.vip:27000/live/4zfcRBDqVh-Kuch/LUBRXZBclG461/71491.ts
+#EXTINF:-1,AR SPORTS: beIN SPORTS 10 FHD
+http://shashe.dianshiwang.vip:27000/live/4zfcRBDqVh-Kuch/LUBRXZBclG461/71492.ts
+#EXTINF:-1,AR SPORTS: beIN SPORTS 9 FHD
+http://shashe.dianshiwang.vip:27000/live/4zfcRBDqVh-Kuch/LUBRXZBclG461/71493.ts
+#EXTINF:-1,AR SPORTS: beIN SPORTS 8 FHD
+http://shashe.dianshiwang.vip:27000/live/4zfcRBDqVh-Kuch/LUBRXZBclG461/71494.ts
+#EXTINF:-1,AR SPORTS: beIN SPORTS 7 FHD
+http://shashe.dianshiwang.vip:27000/live/4zfcRBDqVh-Kuch/LUBRXZBclG461/71495.ts
+#EXTINF:-1,AR SPORTS: beIN SPORTS 5 FHD
+http://shashe.dianshiwang.vip:27000/live/4zfcRBDqVh-Kuch/LUBRXZBclG461/71497.ts
+#EXTINF:-1,AR SPORTS: beIN SPORTS 2 FHD
+http://shashe.dianshiwang.vip:27000/live/4zfcRBDqVh-Kuch/LUBRXZBclG461/71500.ts
+#EXTINF:-1,AR SPORTS: beIN SPORTS 1 FHD
+http://shashe.dianshiwang.vip:27000/live/4zfcRBDqVh-Kuch/LUBRXZBclG461/71501.ts
+#EXTINF:-1,AR SPORTS: beIN SPORTS 3 FHD
+http://shashe.dianshiwang.vip:27000/live/4zfcRBDqVh-Kuch/LUBRXZBclG461/1499.ts
+#EXTINF:-1,AR SPORTS: beIN SPORTS 4 FHD
+http://shashe.dianshiwang.vip:27000/live/4zfcRBDqVh-Kuch/LUBRXZBclG461/1498.ts
+#EXTINF:-1,AR SPORTS: beIN SPORTS 6 FHD
+http://shashe.dianshiwang.vip:27000/live/4zfcRBDqVh-Kuch/LUBRXZBclG461/1496.ts
+#EXTINF:-1,AR SPORTS: beIN SPORTS 12 FHD
+http://shashe.dianshiwang.vip:27000/live/4zfcRBDqVh-Kuch/LUBRXZBclG461/1490.ts
+#EXTINF:-1,AR SPORTS: beIN SPORTS 13 FHD
+http://shashe.dianshiwang.vip:27000/live/4zfcRBDqVh-Kuch/LUBRXZBclG461/1489.ts
+#EXTINF:-1,ES DAZN 1 FHD
+http://shashe.dianshiwang.vip:27000/live/4zfcRBDqVh-Kuch/LUBRXZBclG461/77231.ts
+#EXTINF:-1,ES:_DAZN 2 FHD
+http://shashe.dianshiwang.vip:27000/live/4zfcRBDqVh-Kuch/LUBRXZBclG461/77232.ts
+#EXTINF:-1,ES DAZN 2 FHD
+http://shashe.dianshiwang.vip:27000/live/4zfcRBDqVh-Kuch/LUBRXZBclG461/77233.ts
+#EXTINF:-1,ES:_DAZN 3 FHD
+http://shashe.dianshiwang.vip:27000/live/4zfcRBDqVh-Kuch/LUBRXZBclG461/77234.ts
+#EXTINF:-1,ES DAZN 3 FHD
+http://shashe.dianshiwang.vip:27000/live/4zfcRBDqVh-Kuch/LUBRXZBclG461/77235.ts
+#EXTINF:-1,ES:_DAZN 4 FHD
+http://shashe.dianshiwang.vip:27000/live/4zfcRBDqVh-Kuch/LUBRXZBclG461/77236.ts
+#EXTINF:-1,ES DAZN 4 FHD
+http://shashe.dianshiwang.vip:27000/live/4zfcRBDqVh-Kuch/LUBRXZBclG461/77237.ts
+#EXTINF:-1,ES:_DAZN F1 FHD
+http://shashe.dianshiwang.vip:27000/live/4zfcRBDqVh-Kuch/LUBRXZBclG461/77238.ts
 
 
 #EXTINF:-1   group-title="-IPTV SPORT 2-",
