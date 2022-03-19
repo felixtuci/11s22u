@@ -1115,20 +1115,22 @@ http://185.204.32.49:6735/BlueSky/srteam/playlist.m3u8
 http://185.204.32.49:6735/Tv1Channel/stream/playlist.m3u8
 #EXTINF:-1,21 Popullore HD
 http://84.22.33.254/unicast.21popullorehd/video.m3u8?token=1
+#EXTINF:-1,21 Plus HD
+http://84.22.33.254/unicast.21plushd/video.m3u8?token=1
 
 
 #EXTINF:-1,AL: Super Sport 1 HD
-http://93.157.62.180/Supersport1/index.m3u8
+http://84.22.33.214/ArenaSport1/index.m3u8
 #EXTINF:-1,AL: Super Sport 2 HD
-http://93.157.62.180/Supersport2/index.m3u8
+http://84.22.33.214/ArenaSport2/index.m3u8
 #EXTINF:-1,AL: Super Sport 3 HD
-http://93.157.62.180/Supersport3/index.m3u8
+http://84.22.33.214/ArenaSport3/index.m3u8
 #EXTINF:-1,AL: Super Sport 4 HD
-http://93.157.62.180/Supersport4/index.m3u8
+http://84.22.33.214/ArenaSport4/index.m3u8
 #EXTINF:-1,AL: Super Sport 5 HD
-http://93.157.62.180/Supersport5/index.m3u8
+http://84.22.33.214/ArenaSport5/index.m3u8
 #EXTINF:-1,AL: Super Sport 6 HD
-http://93.157.62.180/Supersport6/index.m3u8
+http://84.22.33.214/ArenaSport6/index.m3u8
 #EXTINF:-1,AL: Super Sport 7 HD
 http://93.157.62.180/Supersport7/index.m3u8
 #EXTINF:-1,AL: Super Sport 7 HD
@@ -1916,12 +1918,7 @@ http://185.204.32.49:6735/Sport2/stream/playlist.m3u8
 http://185.204.32.49:6735/Sport3/stream/playlist.m3u8
 #EXTINF:0,Tring Sport 4
 http://185.204.32.49:6735/Sport4/stream/playlist.m3u8
-#EXTINF:0,Oversport 1 HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/290218
-#EXTINF:0,Oversport 3 HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/290537
-#EXTINF:0,Oversport 4 HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/290538
+
 
 
 #EXTINF:-1,|FR| BEIN SPORT  1 HD 
@@ -1999,81 +1996,62 @@ http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64355
 #EXTINF:-1,|PT|  SPORT TV 3
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64356
 
-#EXTINF:-1,AR SPORTS: beIN SPORTS 11 FHD
-http://shashe.dianshiwang.vip:27000/live/4zfcRBDqVh-Kuch/LUBRXZBclG461/71491.ts
-#EXTINF:-1,AR SPORTS: beIN SPORTS 10 FHD
-http://shashe.dianshiwang.vip:27000/live/4zfcRBDqVh-Kuch/LUBRXZBclG461/71492.ts
-#EXTINF:-1,AR SPORTS: beIN SPORTS 9 FHD
-http://shashe.dianshiwang.vip:27000/live/4zfcRBDqVh-Kuch/LUBRXZBclG461/71493.ts
-#EXTINF:-1,AR SPORTS: beIN SPORTS 8 FHD
-http://shashe.dianshiwang.vip:27000/live/4zfcRBDqVh-Kuch/LUBRXZBclG461/71494.ts
-#EXTINF:-1,AR SPORTS: beIN SPORTS 7 FHD
-http://shashe.dianshiwang.vip:27000/live/4zfcRBDqVh-Kuch/LUBRXZBclG461/71495.ts
-#EXTINF:-1,AR SPORTS: beIN SPORTS 5 FHD
-http://shashe.dianshiwang.vip:27000/live/4zfcRBDqVh-Kuch/LUBRXZBclG461/71497.ts
-#EXTINF:-1,AR SPORTS: beIN SPORTS 2 FHD
-http://shashe.dianshiwang.vip:27000/live/4zfcRBDqVh-Kuch/LUBRXZBclG461/71500.ts
-#EXTINF:-1,AR SPORTS: beIN SPORTS 1 FHD
-http://shashe.dianshiwang.vip:27000/live/4zfcRBDqVh-Kuch/LUBRXZBclG461/71501.ts
-#EXTINF:-1,AR SPORTS: beIN SPORTS 3 FHD
-http://shashe.dianshiwang.vip:27000/live/4zfcRBDqVh-Kuch/LUBRXZBclG461/1499.ts
-#EXTINF:-1,AR SPORTS: beIN SPORTS 4 FHD
-http://shashe.dianshiwang.vip:27000/live/4zfcRBDqVh-Kuch/LUBRXZBclG461/1498.ts
-#EXTINF:-1,AR SPORTS: beIN SPORTS 6 FHD
-http://shashe.dianshiwang.vip:27000/live/4zfcRBDqVh-Kuch/LUBRXZBclG461/1496.ts
-#EXTINF:-1,AR SPORTS: beIN SPORTS 12 FHD
-http://shashe.dianshiwang.vip:27000/live/4zfcRBDqVh-Kuch/LUBRXZBclG461/1490.ts
-#EXTINF:-1,AR SPORTS: beIN SPORTS 13 FHD
-http://shashe.dianshiwang.vip:27000/live/4zfcRBDqVh-Kuch/LUBRXZBclG461/1489.ts
-#EXTINF:-1,ES DAZN 1 FHD
-http://shashe.dianshiwang.vip:27000/live/4zfcRBDqVh-Kuch/LUBRXZBclG461/77231.ts
-#EXTINF:-1,ES:_DAZN 2 FHD
-http://shashe.dianshiwang.vip:27000/live/4zfcRBDqVh-Kuch/LUBRXZBclG461/77232.ts
-#EXTINF:-1,ES DAZN 2 FHD
-http://shashe.dianshiwang.vip:27000/live/4zfcRBDqVh-Kuch/LUBRXZBclG461/77233.ts
-#EXTINF:-1,ES:_DAZN 3 FHD
-http://shashe.dianshiwang.vip:27000/live/4zfcRBDqVh-Kuch/LUBRXZBclG461/77234.ts
-#EXTINF:-1,ES DAZN 3 FHD
-http://shashe.dianshiwang.vip:27000/live/4zfcRBDqVh-Kuch/LUBRXZBclG461/77235.ts
-#EXTINF:-1,ES:_DAZN 4 FHD
-http://shashe.dianshiwang.vip:27000/live/4zfcRBDqVh-Kuch/LUBRXZBclG461/77236.ts
-#EXTINF:-1,ES DAZN 4 FHD
-http://shashe.dianshiwang.vip:27000/live/4zfcRBDqVh-Kuch/LUBRXZBclG461/77237.ts
-#EXTINF:-1,ES:_DAZN F1 FHD
-http://shashe.dianshiwang.vip:27000/live/4zfcRBDqVh-Kuch/LUBRXZBclG461/77238.ts
+
 
 
 #EXTINF:-1   group-title="-IPTV SPORT 2-",
-#EXTINF:-1,SuperSport HD 1
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/178.ts
-#EXTINF:-1,SuperSport HD 2
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/179.ts
-#EXTINF:-1,SuperSport HD 3
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/180.ts
-#EXTINF:-1,SuperSport HD 4
-http://93.157.62.180/Supersport4/index.m3u8
-#EXTINF:-1,SuperSport HD 5
-http://93.157.62.180/Supersport5/index.m3u8
-#EXTINF:0,SuperSport 6
-http://93.157.62.180/Supersport6/index.m3u8
-#EXTINF:0,SuperSport 7
-http://93.157.62.180/Supersport7/index.m3u8
-
-#EXTINF:-1,AL: Art Sport 1 HD
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/183.ts
-#EXTINF:-1,AL: Art Sport 2 HD
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/182.ts
-#EXTINF:-1,AL: Art Sport 3 HD
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/181.ts
-
-#EXTINF:-1,AL: Tring Sport 1 FHD
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/63.ts
-#EXTINF:-1,AL Tring Sport 2 FHD
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/63.ts
-#EXTINF:-1,AL Tring Sport 3 FHD
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/61.ts
-#EXTINF:-1,AL Tring Sport 4 FHD
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/60.ts
+#EXTINF:-1,AL: OVERSPORT 1 HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/290218
+#EXTINF:-1,AL: OVERSPORT 3 HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/290537
+#EXTINF:-1,AL: OVERSPORT 4 HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/290538
+#EXTINF:-1,AL: SuperSport News FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1313
+#EXTINF:-1,AL: SuperSport 1 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1316
+#EXTINF:-1,AL: SuperSport 2 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1312
+#EXTINF:-1,AL: SuperSport 3 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1319
+#EXTINF:-1,AL: SuperSport 4 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1318
+#EXTINF:-1,AL: SuperSport 5 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1860
+#EXTINF:-1,AL: SuperSport 6 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/3638
+#EXTINF:-1,AL: Tring Sport 1 HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1306
+#EXTINF:-1,AL: Tring Sport 2 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1305
+#EXTINF:-1,AL: Tring Sport 3 HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1304
+#EXTINF:-1,AL: Tring Sport 4 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1862
+#EXTINF:-1,AL: Tring Sport News HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1861
+#EXTINF:-1,AL: ART Sport 1 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/23143
+#EXTINF:-1,AL: ART Sport 2 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/23146
+#EXTINF:-1,AL: ART Sport 3 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/40061
+#EXTINF:-1,AL: ART Sport 4 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/295216
+#EXTINF:-1,AL: ART Sport 5 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/295215
+#EXTINF:-1,AL: ART Sport 6 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/295217
+#EXTINF:-1,AL: K Sport 1 HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1863
+#EXTINF:-1,AL: K Sport 2 HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1864
+#EXTINF:-1,AL: K Sport 3 HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1865
+#EXTINF:-1,AL: K Sport 4 HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1866
+#EXTINF:-1,AL: RTSH Sport HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/2568
 
 
 
