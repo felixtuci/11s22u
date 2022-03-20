@@ -1910,16 +1910,88 @@ http://185.204.32.49:6735/UltraNetS4/stream/playlist.m3u8
 http://185.204.32.49:6735/UltraNetS5/stream/playlist.m3u8
 #EXTINF:0,Supersport 6
 http://185.204.32.49:6735/UltraNetS6/stream/playlist.m3u8
-#EXTINF:0,Tring Sport 1
-http://185.204.32.49:6735/Sport1/stream/playlist.m3u8
-#EXTINF:0,Tring Sport 2
-http://185.204.32.49:6735/Sport2/stream/playlist.m3u8
-#EXTINF:0,Tring Sport 3
-http://185.204.32.49:6735/Sport3/stream/playlist.m3u8
-#EXTINF:0,Tring Sport 4
-http://185.204.32.49:6735/Sport4/stream/playlist.m3u8
+
+#EXTINF:0,Tring Sport 1 HD
+http://199.127.60.117:8081/live/ts1/playlist.m3u8
+#EXTINF:0,Tring Sport 2 HD
+http://199.127.60.117:8081/live/ts2/playlist.m3u8
+
+#EXTINF:-1,|FR| BEIN SPORTS 1 HD
+http://ultimateiptv.me:8080/worldiptv.one/yoMzARx08R/85
+#EXTINF:-1,|FR| BEIN SPORTS 2 HD
+http://ultimateiptv.me:8080/worldiptv.one/yoMzARx08R/2
+#EXTINF:-1,|FR| BEIN SPORTS 3 HD
+http://ultimateiptv.me:8080/worldiptv.one/yoMzARx08R/3011
+#EXTINF:-1,|FR| BEIN MAX 4 HD
+http://ultimateiptv.me:8080/worldiptv.one/yoMzARx08R/1209
+#EXTINF:-1,|FR| BEIN MAX 5 HD
+http://ultimateiptv.me:8080/worldiptv.one/yoMzARx08R/894
+#EXTINF:-1,|FR| BEIN MAX 6 HD
+http://ultimateiptv.me:8080/worldiptv.one/yoMzARx08R/903
+#EXTINF:-1,|FR| BEIN MAX 7 HD
+http://ultimateiptv.me:8080/worldiptv.one/yoMzARx08R/902
+#EXTINF:-1,|FR| BEIN MAX 8 HD
+http://ultimateiptv.me:8080/worldiptv.one/yoMzARx08R/901
+#EXTINF:-1,|FR| BEIN MAX 9 HD
+http://ultimateiptv.me:8080/worldiptv.one/yoMzARx08R/2680
+#EXTINF:-1,|FR| BEIN MAX 10 HD
+http://ultimateiptv.me:8080/worldiptv.one/yoMzARx08R/2770
+#EXTINF:-1,|FR| CANAL+  SPORT HD
+http://ultimateiptv.me:8080/worldiptv.one/yoMzARx08R/77
+#EXTINF:-1,|AR.BEIN| beIN SPORTS 1 HEVC
+http://ultimateiptv.me:8080/worldiptv.one/yoMzARx08R/8567
+#EXTINF:-1,|AR.BEIN| beIN SPORTS 2 HEVC
+http://ultimateiptv.me:8080/worldiptv.one/yoMzARx08R/8566
+#EXTINF:-1,|AR.BEIN| beIN SPORTS 3 HEVC
+http://ultimateiptv.me:8080/worldiptv.one/yoMzARx08R/8565
+#EXTINF:-1,|AR.BEIN| beIN SPORTS 4 HEVC
+http://ultimateiptv.me:8080/worldiptv.one/yoMzARx08R/8564
+#EXTINF:-1,|AR.BEIN| beIN SPORTS 5 HEVC
+http://ultimateiptv.me:8080/worldiptv.one/yoMzARx08R/8563
+#EXTINF:-1,|AR.BEIN| beIN SPORTS 6 HEVC
+http://ultimateiptv.me:8080/worldiptv.one/yoMzARx08R/8562
+#EXTINF:-1,|AR.BEIN| beIN SPORTS 7 HEVC
+http://ultimateiptv.me:8080/worldiptv.one/yoMzARx08R/8561
+#EXTINF:-1,AR.BEIN| BEIN SPORTS 1 FHD
+http://ultimateiptv.me:8080/worldiptv.one/yoMzARx08R/6814
+#EXTINF:-1,AR.BEIN| BEIN SPORTS 2 FHD
+http://ultimateiptv.me:8080/worldiptv.one/yoMzARx08R/6813
+#EXTINF:-1,AR.BEIN| BEIN SPORTS 3 FHD
+http://ultimateiptv.me:8080/worldiptv.one/yoMzARx08R/6812
+#EXTINF:-1,AR.BEIN| BEIN SPORTS 4 FHD
+http://ultimateiptv.me:8080/worldiptv.one/yoMzARx08R/6815
+#EXTINF:-1,AR.BEIN| BEIN SPORTS 5 FHD
+http://ultimateiptv.me:8080/worldiptv.one/yoMzARx08R/6816
+#EXTINF:-1,AR.BEIN| BEIN SPORTS 6 FHD
+http://ultimateiptv.me:8080/worldiptv.one/yoMzARx08R/6817
+#EXTINF:-1,AR.BEIN| BEIN SPORTS 7 FHD
+http://ultimateiptv.me:8080/worldiptv.one/yoMzARx08R/6818
+#EXTINF:-1,AR.BEIN| BEIN SPORTS 8 FHD
+http://ultimateiptv.me:8080/worldiptv.one/yoMzARx08R/6819
+#EXTINF:-1,AR.BEIN| BEIN SPORTS 9 FHD
+http://ultimateiptv.me:8080/worldiptv.one/yoMzARx08R/6820
+#EXTINF:-1,AR.BEIN| BEIN SPORTS 10 FHD
+http://ultimateiptv.me:8080/worldiptv.one/yoMzARx08R/6821
+#EXTINF:-1,|AR.BEIN| BEIN SPORTS 11 FHD
+http://ultimateiptv.me:8080/worldiptv.one/yoMzARx08R/3609
+#EXTINF:-1,|AR.BEIN| BEIN SPORTS 12 FHD
+http://ultimateiptv.me:8080/worldiptv.one/yoMzARx08R/3610
 
 
+#EXTINF:-1,|UK| BT SPORT 1 HD
+http://ultimateiptv.me:8080/worldiptv.one/yoMzARx08R/4199
+#EXTINF:-1,|UK| BT SPORT 2 HD
+http://ultimateiptv.me:8080/worldiptv.one/yoMzARx08R/4196
+#EXTINF:-1,|UK| BT SPORT 3 HD
+http://ultimateiptv.me:8080/worldiptv.one/yoMzARx08R/4194
+#EXTINF:-1,|UK| SKY SPORTS PREMIER LEAGUE HD
+http://ultimateiptv.me:8080/worldiptv.one/yoMzARx08R/4214
+#EXTINF:-1,|UK| SKY SPORTS MIX HD
+http://ultimateiptv.me:8080/worldiptv.one/yoMzARx08R/4201
+#EXTINF:-1,|UK| SKY SPORTS FOOTBALL HD
+http://ultimateiptv.me:8080/worldiptv.one/yoMzARx08R/4212
+#EXTINF:-1,|UK| SKY SPORTS F1 HD
+http://ultimateiptv.me:8080/worldiptv.one/yoMzARx08R/4181
 
 #EXTINF:-1,|FR| BEIN SPORT  1 HD 
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49493
