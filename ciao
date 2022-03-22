@@ -850,10 +850,7 @@ http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/120.ts
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/121.ts
 #EXTINF:-1,AL: RTSH Sports HD
 http://ran.no-ips.net:8888/AL/209506/mpegts?token=test
-#EXTINF:-1,AL: MCNTV
-http://edge01eu.ekranet.com/mcntv_234p/index.m3u8
-#EXTINF:-1,AL: MCNTV U
-http://185.204.32.49:6735/MCNTV/stream/playlist.m3u8
+
 #EXTINF:-1,StarPlus Shkoder U
 http://185.204.32.49:6735/StarPlus/stream/playlist.m3u8
 #EXTINF:-1,KoplikuTV  SD
@@ -865,9 +862,13 @@ http://edge01eu.ekranet.com/shijaktv/index.m3u8
 #EXTINF:-1,TV Johaniter
 http://monamour.agency/webstream554joanitr/index.m3u8
 #EXTINF:-1,Fax News HD
-http://95.107.132.105/out/u/229_1.m3u8
-#EXTINF:-1,AL: OraHD
+http://95.107.132.105/out/u/229_3.m3u8
+#EXTINF:-1,AL: TV Ora HD
 http://live1.mediadesk.al/oratv.m3u8
+#EXTINF:-1,AL: MCNTV
+http://edge01eu.ekranet.com/mcntv_234p/index.m3u8
+#EXTINF:-1,AL: MCNTV U
+http://185.204.32.49:6735/MCNTV/stream/playlist.m3u8
 #EXTINF:-1,TV Syri MOB
 http://79.106.48.2:3131/live/syritvmob/playlist.m3u8
 #EXTINF:-1,TV Syri HD
@@ -945,56 +946,9 @@ https://abdyli.gjirafa.com/live/rcBFeREIqcMkNthqI6YCr3Riss97l2MC/yky0y1.m3u8
 
 
 #EXTINF:-1,AL: T FHD
-http://ky-iptv.com:80/starisborn/starisborn/384641.ts
-#EXTINF:-1,AL: FILM DRAME HD
-http://ky-iptv.com:80/starisborn/starisborn/384370.ts
-#EXTINF:-1,AL: FILM DY FHD
-http://ky-iptv.com:80/starisborn/starisborn/384371.ts
-#EXTINF:-1,AL: Film GOLD 1
-http://ky-iptv.com:80/starisborn/starisborn/384373.ts
-#EXTINF:-1,AL: Film Gold 2
-http://ky-iptv.com:80/starisborn/starisborn/384374.ts
-#EXTINF:-1,AL: Film Gold 3 HD
-http://ky-iptv.com:80/starisborn/starisborn/384375.ts
-#EXTINF:-1,AL: FILM HITS FHD
-http://ky-iptv.com:80/starisborn/starisborn/384377.ts
-#EXTINF:-1,AL: B GOLD 4 HD
-http://ky-iptv.com:80/starisborn/starisborn/384378.ts
-#EXTINF:-1,AL: FILM KOMEDI
-http://ky-iptv.com:80/starisborn/starisborn/384379.ts
-#EXTINF:-1,AL: FILM NJË HD
-http://ky-iptv.com:80/starisborn/starisborn/384380.ts
-#EXTINF:-1,AL: FILM THRILLER
-http://ky-iptv.com:80/starisborn/starisborn/384383.ts
+https://bit.ly/3Ne6S9JThd
 #EXTINF:-1,AL: FILM AKSION FHD
-http://ky-iptv.com:80/starisborn/starisborn/384364.ts
-#EXTINF:-1,AL: FILM AUTOR
-http://ky-iptv.com:80/starisborn/starisborn/384365.ts
-#EXTINF:-1,AL: EURO FILM
-http://ky-iptv.com:80/starisborn/starisborn/384345.ts
-#EXTINF:-1,AL: Film Stinet
-http://ky-iptv.com:80/starisborn/starisborn/384620.ts
-#EXTINF:-1,AL: Tele one EPIk HD
-http://ky-iptv.com:80/starisborn/starisborn/384447.ts
-#EXTINF:-1,AL: Tele One Aksion HD
-http://ky-iptv.com:80/agent99/agent99/384645.ts
-#EXTINF:-1,AL: Tele One Aventure HD
-http://ky-iptv.com:80/agent99/agent99/384646.ts
-#EXTINF:-1,AL: Tele One Crime HD
-http://ky-iptv.com:80/agent99/agent99/384649.ts
-#EXTINF:-1,AL: Tele One Drame HD
-http://ky-iptv.com:80/agent99/agent99/384650.ts
-#EXTINF:-1,AL: Tele One Thriller HD
-http://ky-iptv.com:80/agent99/agent99/1358699.ts
-#EXTINF:-1,AL: Tele one EPIk HD
-http://ky-iptv.com:80/agent99/agent99/384447.ts
-#EXTINF:-1,AL: Kino Premiere1 HD
-http://ky-iptv.com:80/agent99/agent99/384432.ts
-#EXTINF:-1,AL: KINO PREMIERE 2 HD
-http://ky-iptv.com:80/agent99/agent99/384430.ts
-#EXTINF:-1,AL: Kino Premiere 3 HD
-http://ky-iptv.com:80/agent99/agent99/384431.ts
-
+http://199.127.60.117:8081/live/filmaksion/playlist.m3u8
 
 
 #EXTINF:-1,Tring International FHD
