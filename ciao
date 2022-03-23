@@ -814,7 +814,7 @@ http://2wb9.short.gy/iptvshqip/topchannel.m3u8
 #EXTINF:-1,AL: TOP Channel HD
 http://185.226.88.5:2036/live/YNaq3rSoU9/G8QHdXi9k6/131.ts
 #EXTINF:-1,Top Channel HD
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/131.ts
+http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/131.ts
 #EXTINF:-1,Klan HD
 http://srv1.iptviliria.com/TVKlanHD/tracks-v1a1/index-1630911540-now.m3u8?token=undefined
 #EXTINF:-1,TV Klan U
@@ -826,28 +826,28 @@ http://79.106.48.2:3131/live/klanhdott/playlist.m3u8
 #EXTINF:-1,TV KLAN SD
 http://95.107.132.106/out/u/773_1.m3u8
 #EXTINF:-1,Klan HD
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/106.ts
+http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/106.ts
 #EXTINF:-1,TV KLAN Plus MOB
 http://79.106.48.2:3131/live/klanplusmob/playlist.m3u8
 #EXTINF:-1,Klan Plus U
 http://185.204.32.49:6735/KlanPlus/stream/playlist.m3u8
 #EXTINF:-1,Klan Plus
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/107.ts
+http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/107.ts
 #EXTINF:-1,VIZION PLUS SD
 http://95.107.132.106/out/u/810_1.m3u8
 #EXTINF:-1,AL: VISION PLUS U
 http://185.204.32.49:6735/VizionPlus/stream/playlist.m3u8
 #EXTINF:-1,Vizion Plus HD
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/111.ts
+http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/111.ts
 
 #EXTINF:-1,AL: RTSH 1 HD
 http://95.107.132.105/out/u/641_5.m3u8
 #EXTINF:-1,RTSH2 HD
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/119.ts
+http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/119.ts
 #EXTINF:-1,RTSH3 HD
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/120.ts
+http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/120.ts
 #EXTINF:-1,RTSH Plus
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/121.ts
+http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/121.ts
 #EXTINF:-1,AL: RTSH Sports HD
 http://ran.no-ips.net:8888/AL/209506/mpegts?token=test
 
@@ -880,27 +880,27 @@ http://185.204.32.49:6735/News24/stream/playlist.m3u8
 #EXTINF:-1,News 24 HD
 http://95.107.132.105/out/u/661_2.m3u8
 #EXTINF:-1,News 24
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/159.ts
+http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/159.ts
 #EXTINF:-1,Euronews Albania
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/175.ts
+http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/175.ts
 #EXTINF:-1,Euronews Albania HD
 http://95.107.132.106/out/u/818_1.m3u8
 #EXTINF:-1,Klan News
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/167.ts
+http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/167.ts
 #EXTINF:-1,Abc News
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/160.ts
+http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/160.ts
 #EXTINF:-1,Abc News HD
 http://95.107.132.105/out/u/650_1.m3u8
 #EXTINF:-1,Klan News HD
 http://95.107.132.106/out/u/826_2.m3u8
 #EXTINF:-1,A2 News
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/141.ts
+http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/141.ts
 #EXTINF:-1,NTV
 http://95.107.132.106/out/u/832_1.m3u8
 
 
 #EXTINF:-1,RTK 1 HD
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/135.ts
+http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/135.ts
 #EXTINF:-1,RTK 1 SD
 http://95.107.132.105/out/u/327_1.m3u8
 #EXTINF:-1,AL: RTK 3 HD
@@ -910,7 +910,7 @@ http://srv1.iptviliria.com/RTK4/index.m3u8
 #EXTINF:-1,KTV HD
 http://95.107.132.105/out/u/38_3.m3u8
 #EXTINF:-1,KTV 
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/136.ts
+http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/136.ts
 #EXTINF:-1,KTV FHD
 http://185.204.32.49:6735/KTV/stream/playlist.m3u8
 #EXTINF:-1,T7 Kosova HD
@@ -931,12 +931,12 @@ http://home.fastnews24.net/new.localhost/akamaicdn-83/atv.m3u8
 http://95.107.132.105/out/u/144_1.m3u8
 
 #EXTINF:-1,Klan Kosova
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/110.ts
+http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/110.ts
 #EXTINF:-1,Klan Kosova SD
 http://95.107.132.105/out/u/544_1.m3u8
 
 #EXTINF:-1,Klan Macedonia
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/109.ts
+http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/109.ts
 #EXTINF:-1,AL: Alsat M HD
 http://95.107.132.105/out/u/645_1.m3u8
 #EXTINF:-1,Dukagjini TV
@@ -945,20 +945,42 @@ https://ub1doy938d.gjirafa.net/live/V5VHPPcRRtIuWFdnDuwjefzSqTKyBrW3/ygqkzt720/i
 https://abdyli.gjirafa.com/live/rcBFeREIqcMkNthqI6YCr3Riss97l2MC/yky0y1.m3u8
 
 
-#EXTINF:-1,AL: T FHD
-https://bit.ly/3Ne6S9JThd
-#EXTINF:-1,AL: FILM AKSION FHD
-http://199.127.60.117:8081/live/filmaksion/playlist.m3u8
+#EXTINF:-1,T HD
+http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/188.ts
+#EXTINF:-1,Family HD
+http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/209.ts
+#EXTINF:-1,Max HD
+http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/208.ts
+#EXTINF:-1,Gold HD
+http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/207.ts
+#EXTINF:-1,Film Hits HD
+http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/192.ts
+#EXTINF:-1,Film Aksion HD
+http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/193.ts
+#EXTINF:-1,Film Thriller
+http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/200.ts
+#EXTINF:-1,Film Komedi
+http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/194.ts
+#EXTINF:-1,Film Drame
+http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/201.ts
+#EXTINF:-1,Film Autor
+http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/199.ts
+#EXTINF:-1,Film Stinet
+http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/190.ts
+#EXTINF:-1,Euro Film
+http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/198.ts
+#EXTINF:-1,FOX HD
+http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/213.ts
 
 
 #EXTINF:-1,Tring International FHD
 http://95.107.132.105/out/u/606_1.m3u8
 #EXTINF:-1,Tring Family HD
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/176.ts
+http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/176.ts
 #EXTINF:-1,AL: Tring Jolly HD
 http://stream.com-iptv.com:8080/JollyHD/index.m3u8?token=test
 #EXTINF:-1,Jolly HD
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/75.ts
+http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/75.ts
 #EXTINF:-1,Jolly FHD
 http://95.107.132.106/out/u/892_2.m3u8
 
@@ -1001,7 +1023,7 @@ http://95.107.132.106/out/u/858_5.m3u8
 #EXTINF:-1,Tring 3 Plus FHD
 http://95.107.132.105/out/u/31_3.m3u8
 #EXTINF:-1,Tring 3 Plus
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/76.ts
+http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/76.ts
 #EXTINF:-1,AL: Tring D Drama HD
 http://95.107.132.105/out/u/549_1.m3u8
 #EXTINF:-1,AL: Tring Euro Channel
@@ -1013,52 +1035,50 @@ http://95.107.132.106/out/u/356_1.m3u8
 #EXTINF:-1,Tring History HD
 http://95.107.132.105/out/u/600_3.m3u8
 #EXTINF:-1,Tring History
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/68.ts
+http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/68.ts
 #EXTINF:-1,Tring Planet FHD
 http://95.107.132.105/out/u/592_2.m3u8
 #EXTINF:-1,Tring Planet
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/67.ts
+http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/67.ts
 #EXTINF:-1,Tring World FHD
 http://95.107.132.105/out/u/591_3.m3u8
 #EXTINF:-1,Tring World
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/66.ts
+http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/66.ts
 
-#EXTINF:-1,AL: SOFIA HD
-http://ky-iptv.com:80/agent99/agent99/384611.ts
-#EXTINF:-1,AL: CUFO TV
-http://ky-iptv.com:80/starisborn/starisborn/384746.ts
-#EXTINF:-1,AL: BANG BANG
-http://ky-iptv.com:80/starisborn/starisborn/384280.ts
+#EXTINF:-1,Bang Bang
+http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/191.ts
+#EXTINF:-1,Cufo TV
+http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/196.ts
 #EXTINF:-1,AL: JUNIOR HD
 http://ky-iptv.com:80/starisborn/starisborn/384416.ts
 #EXTINF:-1,Tring Tring HD
 http://95.107.132.106/out/u/898_1.m3u8
 #EXTINF:-1,Tring Tring
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/78.ts
+http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/78.ts
 
 #EXTINF:-1,Tip TV FHD
 http://95.107.132.105/out/u/587_2.m3u8
 #EXTINF:-1,Tip TV
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/77.ts
+http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/77.ts
 #EXTINF:-1,Tring Kids
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/79.ts
+http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/79.ts
 #EXTINF:-1,Tring Kids SD
 http://95.107.132.106/out/u/339_1.m3u8
 #EXTINF:-1,RTV 21 Junior
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/55.ts
+http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/55.ts
 
 #EXTINF:-1,RTSH Femije
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/129.ts
+http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/129.ts
 #EXTINF:-1,TV Sole
-http://78.31.67.69:8080/Gezuar2022/MetiTV-kanale-shqiptare/168
+http://109.69.2.120:8337/tvsole/Stream1_720p/index.m3u8
 
 
-#EXTINF:-1,AL: Explore Histori
-http://ky-iptv.com:80/starisborn/starisborn/384354.ts
-#EXTINF:-1,AL: EXPLORER NATYRA
-http://ky-iptv.com:80/starisborn/starisborn/384358.ts
-#EXTINF:-1,AL: EXPLORER SHKENCE
-http://ky-iptv.com:80/starisborn/starisborn/384359.ts
+#EXTINF:-1,Explorer Shkence
+http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/189.ts
+#EXTINF:-1,Explorer Natyra
+http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/205.ts
+#EXTINF:-1,Explorer Histori
+http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/202.ts
 
 
 #EXTINF:-1,AL: Folk +
@@ -1102,15 +1122,15 @@ http://95.107.132.106/out/u/699_1.m3u8
 http://95.107.132.105/out/u/635_1.m3u8
 
 #EXTINF:-1,Tring Sport 4 HD
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/60.ts
+http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/60.ts
 #EXTINF:-1,RTSH Sport
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/124.ts
+http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/124.ts
 #EXTINF:-1,SS3 HD
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/180.ts
+http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/180.ts
 #EXTINF:-1,SS2 HD
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/179.ts
+http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/179.ts
 #EXTINF:-1,SS1 HD
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/178.ts
+http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/178.ts
 
 
 
