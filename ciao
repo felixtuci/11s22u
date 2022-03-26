@@ -818,6 +818,7 @@ http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/131.ts
 #EXTINF:-1,Klan HD
 http://srv1.iptviliria.com/TVKlanHD/tracks-v1a1/index-1630911540-now.m3u8?token=undefined
 #EXTINF:-1,TV Klan U
+http://51.195.88.12:8621/live/klanhd8pp41/playlist.m3u8
 http://185.204.32.49:6735/KlanHD/stream/playlist.m3u8
 #EXTINF:-1,TV KLAN MOB
 http://79.106.48.2:3131/live/klanhdott/playlist.m3u8
