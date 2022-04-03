@@ -806,40 +806,33 @@ http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eep
 
 #EXTINF:-1   group-title="-IPTV SHQIP 3-",
 #EXTINF:-1,Top Channel HD
-http://links.iptvlogin.com:80/play/kJ86_nt3Nzb3EZlORE-yFX1kz7pwUuojYpt5eNCpv3eKi-_mLGGobzjxuFy-iw6MBhpnT7A0eAXIxsYduE4AhA/ts
-http://93.157.62.180/TopChannel/index.m3u8
-
+http://95.107.132.106/out/u/gfhsghshsgfhsfgh.m3u8
 #EXTINF:-1,AL| TOP CHANNEL SD
 http://2wb9.short.gy/iptvshqip/topchannel.m3u8
 #EXTINF:-1,AL: TOP Channel HD
 http://185.226.88.5:2036/live/YNaq3rSoU9/G8QHdXi9k6/131.ts
 #EXTINF:-1,Top Channel HD
 http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/131.ts
-#EXTINF:-1,Klan HD
-http://srv1.iptviliria.com/TVKlanHD/tracks-v1a1/index-1630911540-now.m3u8?token=undefined
+#EXTINF:-1,TV KLAN MOB
+http://79.106.48.2:3131/live/klanhdott/playlist.m3u8
+#EXTINF:-1,TV KLAN SD
+http://95.107.132.106/out/u/773_1.m3u8
 #EXTINF:-1,TV Klan U
 http://51.195.88.12:8621/live/klanhd8pp41/playlist.m3u8
 http://185.204.32.49:6735/KlanHD/stream/playlist.m3u8
-#EXTINF:-1,TV KLAN MOB
-http://79.106.48.2:3131/live/klanhdott/playlist.m3u8
 
 
-#EXTINF:-1,TV KLAN SD
-http://95.107.132.106/out/u/773_1.m3u8
+
+
 #EXTINF:-1,Klan HD
 http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/106.ts
 #EXTINF:-1,TV KLAN Plus MOB
 http://79.106.48.2:3131/live/klanplusmob/playlist.m3u8
-#EXTINF:-1,Klan Plus U
-http://185.204.32.49:6735/KlanPlus/stream/playlist.m3u8
-#EXTINF:-1,Klan Plus
-http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/107.ts
+
+
 #EXTINF:-1,VIZION PLUS SD
 http://95.107.132.106/out/u/810_1.m3u8
-#EXTINF:-1,AL: VISION PLUS U
-http://185.204.32.49:6735/VizionPlus/stream/playlist.m3u8
-#EXTINF:-1,Vizion Plus HD
-http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/111.ts
+
 
 #EXTINF:-1,AL: RTSH 1 HD
 http://95.107.132.105/out/u/641_5.m3u8
@@ -880,22 +873,17 @@ https://live1.mediadesk.al/oranews.m3u8
 http://185.204.32.49:6735/News24/stream/playlist.m3u8
 #EXTINF:-1,News 24 HD
 http://95.107.132.105/out/u/661_2.m3u8
-#EXTINF:-1,News 24
-http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/159.ts
-#EXTINF:-1,Euronews Albania
-http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/175.ts
+
 #EXTINF:-1,Euronews Albania HD
 http://95.107.132.106/out/u/818_1.m3u8
 #EXTINF:-1,Klan News
 http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/167.ts
-#EXTINF:-1,Abc News
-http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/160.ts
 #EXTINF:-1,Abc News HD
 http://95.107.132.105/out/u/650_1.m3u8
 #EXTINF:-1,Klan News HD
 http://95.107.132.106/out/u/826_2.m3u8
-#EXTINF:-1,A2 News
-http://185.226.88.6:11026/live/30PBo7BKBmbd/UkPn4unfnR/141.ts
+#EXTINF:-1,A2CNN News
+https://ub1doy938d.gjirafa.net/live/motZvUmyIk9PCPXEf5gwAB1GmIlQTn6b/y11g0y1080/index.m3u8
 #EXTINF:-1,NTV
 http://95.107.132.106/out/u/832_1.m3u8
 
